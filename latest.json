@@ -1,7 +1,7 @@
 {
   "date": "2026-02-23",
-  "updated": "2026/02/23 15:37:06",
-  "updated_at": 1771832226165,
+  "updated": "2026/02/23 16:49:20",
+  "updated_at": 1771836560762,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "昨天一个小偷，来我家偷钱，我们一起找了一晚上。"
+    "text": "众里寻她千百度，蓦然回首，那人依旧对我不屑一顾。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 27036.04,
-        "change": 622.69,
-        "change_pct": 2.36,
+        "price": 27081.91,
+        "change": 668.56,
+        "change_pct": 2.53,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/23 15:37:00",
-    "updated_at": 1771832220709,
+    "updated": "2026/02/23 16:49:15",
+    "updated_at": 1771836555030,
     "trading_day": {
       "A": false,
       "HK": true,

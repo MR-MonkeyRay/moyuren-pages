@@ -1,7 +1,7 @@
 {
   "date": "2026-02-23",
-  "updated": "2026/02/23 10:34:15",
-  "updated_at": 1771814055390,
+  "updated": "2026/02/23 12:35:47",
+  "updated_at": 1771821347414,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "过年哪个亲戚问我成绩，我就问他年终奖金。"
+    "text": "穷只是暂时的，只要你努力，你会发现你慢慢就习惯了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 27098.58,
-        "change": 685.23,
-        "change_pct": 2.59,
+        "price": 27019.21,
+        "change": 605.86,
+        "change_pct": 2.29,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/02/23 10:34:11",
-    "updated_at": 1771814051659,
+    "updated": "2026/02/23 12:35:43",
+    "updated_at": 1771821343358,
     "trading_day": {
       "A": false,
       "HK": true,

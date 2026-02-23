@@ -1,7 +1,7 @@
 {
   "date": "2026-02-23",
-  "updated": "2026/02/23 17:53:54",
-  "updated_at": 1771840434020,
+  "updated": "2026/02/23 18:49:37",
+  "updated_at": 1771843777780,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "冬天就是好，穷的时候，还有西北风喝。"
+    "text": "听说你过的不好，我蹲在门口，笑了一整天。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/23 17:53:46",
-    "updated_at": 1771840426826,
+    "updated": "2026/02/23 18:49:34",
+    "updated_at": 1771843774355,
     "trading_day": {
       "A": false,
       "HK": true,

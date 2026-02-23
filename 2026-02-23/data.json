@@ -1,7 +1,7 @@
 {
   "date": "2026-02-23",
-  "updated": "2026/02/23 22:29:14",
-  "updated_at": 1771856954530,
+  "updated": "2026/02/23 23:29:06",
+  "updated_at": 1771860546973,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "春节你要小心了，毕竟过年，都是要杀猪的。"
+    "text": "2019年第一天，说出你的新年愿望，那就一定不会实现。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49625.97,
-        "change": 230.81,
-        "change_pct": 0.47,
-        "trend": "up",
+        "price": 48930.96,
+        "change": -695.01,
+        "change_pct": -1.4,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/23 22:29:10",
-    "updated_at": 1771856950785,
+    "updated": "2026/02/23 23:29:03",
+    "updated_at": 1771860543107,
     "trading_day": {
       "A": false,
       "HK": true,

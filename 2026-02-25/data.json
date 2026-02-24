@@ -1,7 +1,7 @@
 {
   "date": "2026-02-25",
-  "updated": "2026/02/25 02:31:41",
-  "updated_at": 1771957901582,
+  "updated": "2026/02/25 03:48:24",
+  "updated_at": 1771962504320,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "一个人最长的恋爱史，大概就是自恋了。"
+    "text": "谁说金钱买不到时间，网管再续两个小时。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49219.16,
-        "change": 415.1,
-        "change_pct": 0.85,
+        "price": 49191.03,
+        "change": 386.97,
+        "change_pct": 0.79,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/25 02:31:38",
-    "updated_at": 1771957898121,
+    "updated": "2026/02/25 03:48:21",
+    "updated_at": 1771962501102,
     "trading_day": {
       "A": true,
       "HK": true,

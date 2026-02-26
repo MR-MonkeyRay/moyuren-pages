@@ -1,7 +1,7 @@
 {
   "date": "2026-02-27",
-  "updated": "2026/02/27 03:43:36",
-  "updated_at": 1772135016761,
+  "updated": "2026/02/27 04:36:12",
+  "updated_at": 1772138172662,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
+    "text": "陈水扁什么时候会想要统一？买方便面的时候。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49511.31,
-        "change": 29.16,
-        "change_pct": 0.06,
+        "price": 49525.11,
+        "change": 42.96,
+        "change_pct": 0.09,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/27 03:43:31",
-    "updated_at": 1772135011132,
+    "updated": "2026/02/27 04:36:05",
+    "updated_at": 1772138165841,
     "trading_day": {
       "A": true,
       "HK": true,

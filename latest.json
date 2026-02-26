@@ -1,7 +1,7 @@
 {
   "date": "2026-02-26",
-  "updated": "2026/02/26 14:58:27",
-  "updated_at": 1772089107575,
+  "updated": "2026/02/26 15:54:20",
+  "updated_at": 1772092460630,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "认真上班的人不一定会升职加薪，但会认真摸鱼的人一定会快乐无边。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "全员核酸检测通知 明日（9 月 29 日，周四）本群进行全员核酸检测，检测时间、地点安排如下：\n 一、人员：所有人 \n1. 检测时间：17:00—18:30 \n2. 检测地点：肯德基大门口 \n二、 要求 \n1. 戴口罩，保持一米线，自觉排队，准备好微信扫一扫，v 我 50 后迅速离开。  \n2. 请认真核对人数，确保不漏一人",
+  "kfc_content": "一个国王叫肯，纳了一个歌姬，歌姬不老实搞小动作，背着肯大搞矿产开发，为了实现矿产垄断，歌姬把其他同行的矿井都给封了，问定什么罪？大家觉得定什么罪？死罪。肯的姬封矿刑期死",
   "date_info": {
     "year_month": "2026.02",
     "day": "26",
@@ -169,26 +169,26 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "全员核酸检测通知 明日（9 月 29 日，周四）本群进行全员核酸检测，检测时间、地点安排如下：\n 一、人员：所有人 \n1. 检测时间：17:00—18:30 \n2. 检测地点：肯德基大门口 \n二、 要求 \n1. 戴口罩，保持一米线，自觉排队，准备好微信扫一扫，v 我 50 后迅速离开。  \n2. 请认真核对人数，确保不漏一人"
+    "content": "一个国王叫肯，纳了一个歌姬，歌姬不老实搞小动作，背着肯大搞矿产开发，为了实现矿产垄断，歌姬把其他同行的矿井都给封了，问定什么罪？大家觉得定什么罪？死罪。肯的姬封矿刑期死"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4148.46,
-        "change": 1.23,
-        "change_pct": 0.03,
-        "trend": "up",
+        "price": 4146.63,
+        "change": -0.6,
+        "change_pct": -0.01,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14507.01,
-        "change": 31.14,
-        "change_pct": 0.22,
+        "price": 14503.79,
+        "change": 27.92,
+        "change_pct": 0.19,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -196,9 +196,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3346.21,
-        "change": -8.61,
-        "change_pct": -0.26,
+        "price": 3344.98,
+        "change": -9.84,
+        "change_pct": -0.29,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -206,9 +206,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26544.47,
-        "change": -221.25,
-        "change_pct": -0.83,
+        "price": 26388.0,
+        "change": -377.72,
+        "change_pct": -1.41,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/26 14:58:23",
-    "updated_at": 1772089103780,
+    "updated": "2026/02/26 15:54:14",
+    "updated_at": 1772092454883,
     "trading_day": {
       "A": true,
       "HK": true,

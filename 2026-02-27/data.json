@@ -1,7 +1,7 @@
 {
   "date": "2026-02-27",
-  "updated": "2026/02/27 07:28:06",
-  "updated_at": 1772148486063,
+  "updated": "2026/02/27 07:54:40",
+  "updated_at": 1772150080472,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道长沙发生了什么吗？生了短沙发。"
+    "text": "什么东西等到秋天会不见？蚯蚓。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/27 07:28:00",
-    "updated_at": 1772148480387,
+    "updated": "2026/02/27 07:54:35",
+    "updated_at": 1772150075347,
     "trading_day": {
       "A": true,
       "HK": true,

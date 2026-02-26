@@ -1,7 +1,7 @@
 {
   "date": "2026-02-26",
-  "updated": "2026/02/26 07:53:18",
-  "updated_at": 1772063598470,
+  "updated": "2026/02/26 09:56:21",
+  "updated_at": 1772070981888,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "今日摸鱼，明日也摸。日日摸鱼，心情大好！"
+    "text": "认真上班的人不一定会升职加薪，但会认真摸鱼的人一定会快乐无边。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "解：取 CD 中点 E，连接 AE ∵ ∠ BAC=0.2，E 为 CD 中点 ∴ AE＝BE＝CE ∴ ∠ EAC＝ ∠ C ∴ ∠ AEB＝ ∠ EAC+ ∠ C＝2 ∠ C ∵ AB＝DC/2 ∴ AB＝AE ∴ ∠ B＝ ∠ AEB ∴ ∠ B＝2 ∠ C ∴ ∠ BAE＝180- ∠ B- ∠ AEB＝180-4 ∠ C ∴ ∠ BAC＝ ∠ BAE+ ∠ EAC＝180-4 ∠ C+ ∠ C＝180-3 ∠ C ∵ ∠ C＝20 ∴ ∠ KFC＝V50",
+  "kfc_content": "大家好，我在 SHEIN 工作，公司马上要在伦敦上市了，在职同事都可以分到干股，我给大家一个内推邀请码，想要的同学可以试试：V50",
   "date_info": {
     "year_month": "2026.02",
     "day": "26",
@@ -169,47 +169,47 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "解：取 CD 中点 E，连接 AE ∵ ∠ BAC=0.2，E 为 CD 中点 ∴ AE＝BE＝CE ∴ ∠ EAC＝ ∠ C ∴ ∠ AEB＝ ∠ EAC+ ∠ C＝2 ∠ C ∵ AB＝DC/2 ∴ AB＝AE ∴ ∠ B＝ ∠ AEB ∴ ∠ B＝2 ∠ C ∴ ∠ BAE＝180- ∠ B- ∠ AEB＝180-4 ∠ C ∴ ∠ BAC＝ ∠ BAE+ ∠ EAC＝180-4 ∠ C+ ∠ C＝180-3 ∠ C ∵ ∠ C＝20 ∴ ∠ KFC＝V50"
+    "content": "大家好，我在 SHEIN 工作，公司马上要在伦敦上市了，在职同事都可以分到干股，我给大家一个内推邀请码，想要的同学可以试试：V50"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4147.23,
-        "change": 29.82,
-        "change_pct": 0.72,
-        "trend": "up",
+        "price": 4140.1,
+        "change": -7.13,
+        "change_pct": -0.17,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14475.87,
-        "change": 184.3,
-        "change_pct": 1.29,
-        "trend": "up",
+        "price": 14433.32,
+        "change": -42.55,
+        "change_pct": -0.29,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3354.82,
-        "change": 46.56,
-        "change_pct": 1.41,
-        "trend": "up",
+        "price": 3318.48,
+        "change": -36.34,
+        "change_pct": -1.08,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26765.72,
-        "change": 175.4,
-        "change_pct": 0.66,
-        "trend": "up",
+        "price": 26766.03,
+        "change": 0.31,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "HK",
         "is_trading_day": true
       },
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/26 07:53:14",
-    "updated_at": 1772063594422,
+    "updated": "2026/02/26 09:56:18",
+    "updated_at": 1772070978075,
     "trading_day": {
       "A": true,
       "HK": true,

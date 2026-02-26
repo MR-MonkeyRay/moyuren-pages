@@ -1,7 +1,7 @@
 {
   "date": "2026-02-27",
-  "updated": "2026/02/27 02:54:06",
-  "updated_at": 1772132046683,
+  "updated": "2026/02/27 03:43:36",
+  "updated_at": 1772135016761,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "哪个武林门派的教徒不会说谎？全真。"
+    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49463.22,
-        "change": -18.93,
-        "change_pct": -0.04,
-        "trend": "down",
+        "price": 49511.31,
+        "change": 29.16,
+        "change_pct": 0.06,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/27 02:54:00",
-    "updated_at": 1772132040701,
+    "updated": "2026/02/27 03:43:31",
+    "updated_at": 1772135011132,
     "trading_day": {
       "A": true,
       "HK": true,

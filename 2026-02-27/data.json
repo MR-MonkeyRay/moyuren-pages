@@ -1,7 +1,7 @@
 {
   "date": "2026-02-27",
-  "updated": "2026/02/27 04:36:12",
-  "updated_at": 1772138172662,
+  "updated": "2026/02/27 05:31:03",
+  "updated_at": 1772141463186,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "陈水扁什么时候会想要统一？买方便面的时候。"
+    "text": "茉莉花、太阳花、玫瑰花哪一朵花最没力？茉莉花，因为歌里唱“好一朵没力（美丽）的茉莉花”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49525.11,
-        "change": 42.96,
-        "change_pct": 0.09,
+        "price": 49499.2,
+        "change": 17.05,
+        "change_pct": 0.03,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/27 04:36:05",
-    "updated_at": 1772138165841,
+    "updated": "2026/02/27 05:30:57",
+    "updated_at": 1772141457665,
     "trading_day": {
       "A": true,
       "HK": true,

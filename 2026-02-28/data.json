@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 04:53:41",
-  "updated_at": 1772225621613,
+  "updated": "2026/02/28 05:27:51",
+  "updated_at": 1772227671897,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "总是在凌晨想通很多事情，又在天亮之后，忘得一干二净。"
+    "text": "你这么擅长安慰他人，一定度过了许多，自己安慰自己的日子吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48911.9,
-        "change": -587.3,
-        "change_pct": -1.19,
+        "price": 48977.92,
+        "change": -521.28,
+        "change_pct": -1.05,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/28 04:53:37",
-    "updated_at": 1772225617632,
+    "updated": "2026/02/28 05:27:45",
+    "updated_at": 1772227665939,
     "trading_day": {
       "A": false,
       "HK": false,

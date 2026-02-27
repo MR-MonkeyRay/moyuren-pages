@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 01:34:39",
-  "updated_at": 1772213679146,
+  "updated": "2026/02/28 02:40:38",
+  "updated_at": 1772217638831,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "往往那些不起眼的小餐馆，才能吃到真正的美味，而那些大酒店的我吃不起。"
+    "text": "正月初五迎财神，那都是有钱人的事，你就洗洗睡吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48798.41,
-        "change": -700.79,
-        "change_pct": -1.42,
+        "price": 48847.6,
+        "change": -651.6,
+        "change_pct": -1.32,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/28 01:34:32",
-    "updated_at": 1772213672062,
+    "updated": "2026/02/28 02:40:33",
+    "updated_at": 1772217633191,
     "trading_day": {
       "A": false,
       "HK": false,

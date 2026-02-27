@@ -1,7 +1,7 @@
 {
   "date": "2026-02-27",
-  "updated": "2026/02/27 22:51:07",
-  "updated_at": 1772203867905,
+  "updated": "2026/02/27 23:36:34",
+  "updated_at": 1772206594504,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "“小鬼，你修的什么法，为何我伤不了你？” “我修的未成年保护法。”"
+    "text": "有一天，苏轼成为了学园偶像，台下粉丝兴奋地大喊：看！这是苏坡爱豆（Super Idol）的笑容！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48706.63,
-        "change": -792.57,
-        "change_pct": -1.6,
+        "price": 48901.18,
+        "change": -598.02,
+        "change_pct": -1.21,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/27 22:50:57",
-    "updated_at": 1772203857257,
+    "updated": "2026/02/27 23:36:25",
+    "updated_at": 1772206585256,
     "trading_day": {
       "A": true,
       "HK": true,

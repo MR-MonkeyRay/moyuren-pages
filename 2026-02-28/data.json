@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 03:32:33",
-  "updated_at": 1772220753466,
+  "updated": "2026/02/28 04:26:13",
+  "updated_at": 1772223973179,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "人丑就要多读书，这样以后，才能有钱整容。"
+    "text": "我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48785.34,
-        "change": -713.86,
-        "change_pct": -1.44,
+        "price": 48935.74,
+        "change": -563.46,
+        "change_pct": -1.14,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/28 03:32:28",
-    "updated_at": 1772220748408,
+    "updated": "2026/02/28 04:26:08",
+    "updated_at": 1772223968995,
     "trading_day": {
       "A": false,
       "HK": false,

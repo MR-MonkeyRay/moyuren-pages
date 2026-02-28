@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 07:47:07",
-  "updated_at": 1772236027382,
+  "updated": "2026/02/28 09:46:22",
+  "updated_at": 1772243182490,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果生活欺骗了你，不要着急 — 拿出美颜相机，去欺骗生活。"
+    "text": "宁可美的千篇一律 ，也不要丑的各有千秋。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/28 07:47:01",
-    "updated_at": 1772236021554,
+    "updated": "2026/02/28 09:46:17",
+    "updated_at": 1772243177124,
     "trading_day": {
       "A": false,
       "HK": false,

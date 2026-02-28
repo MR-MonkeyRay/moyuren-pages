@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 19:41:39",
-  "updated_at": 1772278899653,
+  "updated": "2026/02/28 20:41:47",
+  "updated_at": 1772282507261,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "将薪比薪的想了想，算了，不想活了。"
+    "text": "身在福中不知福是什么？就是发福快发成猪了，还觉得自己身材蛮OK。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/02/28 19:41:35",
-    "updated_at": 1772278895705,
+    "updated": "2026/02/28 20:41:41",
+    "updated_at": 1772282501947,
     "trading_day": {
       "A": false,
       "HK": false,

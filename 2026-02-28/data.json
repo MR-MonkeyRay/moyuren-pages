@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 12:54:30",
-  "updated_at": 1772254470605,
+  "updated": "2026/02/28 13:32:17",
+  "updated_at": 1772256737634,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "还没有对象？要不要给你介绍，一款不错的狗粮。"
+    "text": "以前觉得靠关系的人，一定很无能，接触后发现人家样样比我强。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -1.05,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/02/28 12:54:24",
-    "updated_at": 1772254464239,
+    "updated": "2026/02/28 13:32:10",
+    "updated_at": 1772256730951,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

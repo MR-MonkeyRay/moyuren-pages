@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 21:35:33",
-  "updated_at": 1772285733758,
+  "updated": "2026/02/28 22:20:53",
+  "updated_at": 1772288453260,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "试着去了解那些你讨厌的人，你会发现，真是越看越讨厌。"
+    "text": "别人的钱财，乃我的身外之物。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/02/28 21:35:26",
-    "updated_at": 1772285726725,
+    "updated": "2026/02/28 22:20:47",
+    "updated_at": 1772288447240,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 15:25:16",
-  "updated_at": 1772263516186,
+  "updated": "2026/02/28 15:46:48",
+  "updated_at": 1772264808430,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果我有什么，让你不喜欢的地方，麻烦你自己克服一下。"
+    "text": "什么都在涨价，就是人越来越贱。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/02/28 15:25:11",
-    "updated_at": 1772263511703,
+    "updated": "2026/02/28 15:46:43",
+    "updated_at": 1772264803226,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 09:46:22",
-  "updated_at": 1772243182490,
+  "updated": "2026/02/28 11:53:34",
+  "updated_at": 1772250814554,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "宁可美的千篇一律 ，也不要丑的各有千秋。"
+    "text": "恭喜你又熬过一天，还中奖了，再来一天。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/28 09:46:17",
-    "updated_at": 1772243177124,
+    "updated": "2026/02/28 11:53:30",
+    "updated_at": 1772250810174,
     "trading_day": {
       "A": false,
       "HK": false,

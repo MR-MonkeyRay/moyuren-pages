@@ -1,7 +1,7 @@
 {
   "date": "2026-02-28",
-  "updated": "2026/02/28 11:53:34",
-  "updated_at": 1772250814554,
+  "updated": "2026/02/28 12:54:30",
+  "updated_at": 1772254470605,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "恭喜你又熬过一天，还中奖了，再来一天。"
+    "text": "还没有对象？要不要给你介绍，一款不错的狗粮。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/02/28 11:53:30",
-    "updated_at": 1772250810174,
+    "updated": "2026/02/28 12:54:24",
+    "updated_at": 1772254464239,
     "trading_day": {
       "A": false,
       "HK": false,

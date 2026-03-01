@@ -1,7 +1,7 @@
 {
   "date": "2026-03-02",
-  "updated": "2026/03/02 01:21:28",
-  "updated_at": 1772385688988,
+  "updated": "2026/03/02 01:47:09",
+  "updated_at": 1772387229791,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "夜撩了酒，酒撩了你 你撩了我，穷困潦倒了我们。"
+    "text": "所谓婚姻，就是两个家庭的，资产重组。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/02 01:21:23",
-    "updated_at": 1772385683572,
+    "updated": "2026/03/02 01:47:03",
+    "updated_at": 1772387223605,
     "trading_day": {
       "A": true,
       "HK": true,

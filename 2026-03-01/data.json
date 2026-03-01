@@ -1,7 +1,7 @@
 {
   "date": "2026-03-01",
-  "updated": "2026/03/01 10:07:55",
-  "updated_at": 1772330875360,
+  "updated": "2026/03/01 12:33:34",
+  "updated_at": 1772339614015,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "何人懂我心中寒？何人看穿我无言？"
+    "text": "话说回来，现充还真是麻烦啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/01 10:07:49",
-    "updated_at": 1772330869249,
+    "updated": "2026/03/01 12:33:30",
+    "updated_at": 1772339610175,
     "trading_day": {
       "A": false,
       "HK": false,

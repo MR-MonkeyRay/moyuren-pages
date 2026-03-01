@@ -1,7 +1,7 @@
 {
   "date": "2026-03-02",
-  "updated": "2026/03/02 07:22:23",
-  "updated_at": 1772407343702,
+  "updated": "2026/03/02 07:46:20",
+  "updated_at": 1772408780155,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "比尔盖茨休学创业，成为世界首富，可是人家休得是哈佛大学。"
+    "text": "暗恋的人没有，想暗杀的倒有一堆。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/02 07:22:17",
-    "updated_at": 1772407337948,
+    "updated": "2026/03/02 07:46:14",
+    "updated_at": 1772408774518,
     "trading_day": {
       "A": true,
       "HK": true,

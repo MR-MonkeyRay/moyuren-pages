@@ -1,7 +1,7 @@
 {
   "date": "2026-03-02",
-  "updated": "2026/03/02 13:34:56",
-  "updated_at": 1772429696956,
+  "updated": "2026/03/02 14:56:10",
+  "updated_at": 1772434570386,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "一天不玩手机，人是不会死的，命还在但是魂丢啦！"
+    "text": "世上99%的事情，都能用钱解决，剩下的1%则需要更多的钱。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4185.01,
-        "change": 22.13,
-        "change_pct": 0.53,
+        "price": 4183.03,
+        "change": 20.15,
+        "change_pct": 0.48,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14493.65,
-        "change": -1.44,
-        "change_pct": -0.01,
+        "price": 14464.42,
+        "change": -30.67,
+        "change_pct": -0.21,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,19 +194,19 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3312.71,
-        "change": 2.41,
-        "change_pct": 0.07,
-        "trend": "up",
+        "price": 3293.57,
+        "change": -16.73,
+        "change_pct": -0.51,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26244.48,
-        "change": -386.06,
-        "change_pct": -1.45,
+        "price": 26092.2,
+        "change": -538.34,
+        "change_pct": -2.02,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/02 13:34:51",
-    "updated_at": 1772429691178,
+    "updated": "2026/03/02 14:56:04",
+    "updated_at": 1772434564743,
     "trading_day": {
       "A": true,
       "HK": true,

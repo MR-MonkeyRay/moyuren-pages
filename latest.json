@@ -1,7 +1,7 @@
 {
   "date": "2026-03-02",
-  "updated": "2026/03/02 15:50:11",
-  "updated_at": 1772437811950,
+  "updated": "2026/03/02 16:42:03",
+  "updated_at": 1772440923354,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "那些人人羡慕的社会精英，其实过得不如你想象那样好。但肯定比你强得多的多。"
+    "text": "什么事情可以让你，放下尊严低声下气？抄作业。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26050.41,
-        "change": -580.13,
-        "change_pct": -2.18,
+        "price": 26059.85,
+        "change": -570.69,
+        "change_pct": -2.14,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/02 15:50:05",
-    "updated_at": 1772437805469,
+    "updated": "2026/03/02 16:41:58",
+    "updated_at": 1772440918292,
     "trading_day": {
       "A": true,
       "HK": true,

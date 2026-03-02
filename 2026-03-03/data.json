@@ -1,7 +1,7 @@
 {
   "date": "2026-03-03",
-  "updated": "2026/03/03 04:36:20",
-  "updated_at": 1772483780707,
+  "updated": "2026/03/03 05:31:47",
+  "updated_at": 1772487107196,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "茉莉花、太阳花、玫瑰花哪一朵花最没力？茉莉花，因为歌里唱“好一朵没力（美丽）的茉莉花”。"
+    "text": "一天一个橙子路上碰见一个香菇，然后橙子就死了，为什么？因为菌要橙死，橙不得不死。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48855.93,
-        "change": -121.99,
-        "change_pct": -0.25,
+        "price": 48904.78,
+        "change": -73.14,
+        "change_pct": -0.15,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/03 04:36:14",
-    "updated_at": 1772483774340,
+    "updated": "2026/03/03 05:31:40",
+    "updated_at": 1772487100094,
     "trading_day": {
       "A": true,
       "HK": true,

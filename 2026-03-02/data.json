@@ -1,7 +1,7 @@
 {
   "date": "2026-03-02",
-  "updated": "2026/03/02 22:00:15",
-  "updated_at": 1772460015290,
+  "updated": "2026/03/02 22:53:59",
+  "updated_at": 1772463239062,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "吃货的思路是，好吃你就多吃点，不好吃多少也要吃点。"
+    "text": "做好万全的准备，就是为了当机会来临时，你可以巧妙地避开它。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48977.92,
-        "change": -521.28,
-        "change_pct": -1.05,
+        "price": 48641.21,
+        "change": -336.71,
+        "change_pct": -0.69,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/02 22:00:08",
-    "updated_at": 1772460008185,
+    "updated": "2026/03/02 22:53:51",
+    "updated_at": 1772463231810,
     "trading_day": {
       "A": true,
       "HK": true,

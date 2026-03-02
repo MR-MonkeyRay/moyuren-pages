@@ -1,7 +1,7 @@
 {
   "date": "2026-03-03",
-  "updated": "2026/03/03 01:43:18",
-  "updated_at": 1772473398522,
+  "updated": "2026/03/03 02:44:08",
+  "updated_at": 1772477048487,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么男人负责洗碗的家庭都普遍比较富裕？因为公洗（恭喜）发财。"
+    "text": "A和C谁比较矮？是A，因为ABCD（A比C低）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48946.92,
-        "change": -31.0,
-        "change_pct": -0.06,
+        "price": 48889.88,
+        "change": -88.04,
+        "change_pct": -0.18,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/03 01:43:12",
-    "updated_at": 1772473392981,
+    "updated": "2026/03/03 02:44:04",
+    "updated_at": 1772477044592,
     "trading_day": {
       "A": true,
       "HK": true,

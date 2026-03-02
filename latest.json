@@ -1,7 +1,7 @@
 {
   "date": "2026-03-02",
-  "updated": "2026/03/02 17:46:52",
-  "updated_at": 1772444812279,
+  "updated": "2026/03/02 18:42:15",
+  "updated_at": 1772448135518,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "逃避是解决不了问题的，不逃你也解决不了啊。"
+    "text": "作为失败的典型，你实在是太成功了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/02 17:46:46",
-    "updated_at": 1772444806756,
+    "updated": "2026/03/02 18:42:06",
+    "updated_at": 1772448126813,
     "trading_day": {
       "A": true,
       "HK": true,

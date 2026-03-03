@@ -1,7 +1,7 @@
 {
   "date": "2026-03-03",
-  "updated": "2026/03/03 18:37:16",
-  "updated_at": 1772534236412,
+  "updated": "2026/03/03 19:31:20",
+  "updated_at": 1772537480132,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "比天上的星星小一点的是什么？是鸿星。因为星八克，鸿星二克。"
+    "text": "如何打破内卷？读书，因为读书破万卷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/03 18:37:12",
-    "updated_at": 1772534232034,
+    "updated": "2026/03/03 19:31:14",
+    "updated_at": 1772537474277,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-03",
-  "updated": "2026/03/03 21:59:26",
-  "updated_at": 1772546366670,
+  "updated": "2026/03/03 22:55:39",
+  "updated_at": 1772549739006,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小王不知道怎么过河，百度一下之后，居然摆渡过去了。"
+    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -171,8 +171,8 @@
   "kfc_content_full": null,
   "stock_indices": {
     "items": [],
-    "updated": "2026/03/03 21:59:16",
-    "updated_at": 1772546356819,
+    "updated": "2026/03/03 22:55:29",
+    "updated_at": 1772549729328,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-03",
-  "updated": "2026/03/03 12:25:54",
-  "updated_at": 1772511954906,
+  "updated": "2026/03/03 13:33:22",
+  "updated_at": 1772516002007,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "狗会汪汪汪，猫会喵喵喵，鸡会什么？机会是留给有准备的人。"
+    "text": "你知道什么油最能鼓励人吗？加油。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4179.46,
-        "change": -3.13,
-        "change_pct": -0.07,
+        "price": 4167.14,
+        "change": -15.45,
+        "change_pct": -0.37,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14314.13,
-        "change": -151.66,
-        "change_pct": -1.05,
+        "price": 14232.45,
+        "change": -233.34,
+        "change_pct": -1.61,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3279.71,
-        "change": -14.45,
-        "change_pct": -0.44,
+        "price": 3264.27,
+        "change": -29.89,
+        "change_pct": -0.91,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25985.12,
-        "change": -74.73,
-        "change_pct": -0.29,
+        "price": 26000.96,
+        "change": -58.89,
+        "change_pct": -0.23,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/03 12:25:50",
-    "updated_at": 1772511950327,
+    "updated": "2026/03/03 13:33:13",
+    "updated_at": 1772515993212,
     "trading_day": {
       "A": true,
       "HK": true,

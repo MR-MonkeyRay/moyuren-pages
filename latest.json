@@ -1,7 +1,7 @@
 {
   "date": "2026-03-03",
-  "updated": "2026/03/03 15:41:17",
-  "updated_at": 1772523677182,
+  "updated": "2026/03/03 16:38:52",
+  "updated_at": 1772527132754,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "三角形去烧烤摊点了五串大腰子，等半天也没上，于是，它变成什么了？等腰三角形。"
+    "text": "小红和小蓝打架，请问谁赢了？小蓝，因为小红输（书）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25735.32,
-        "change": -324.53,
-        "change_pct": -1.25,
+        "price": 25768.08,
+        "change": -291.77,
+        "change_pct": -1.12,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/03 15:41:11",
-    "updated_at": 1772523671662,
+    "updated": "2026/03/03 16:38:44",
+    "updated_at": 1772527124762,
     "trading_day": {
       "A": true,
       "HK": true,

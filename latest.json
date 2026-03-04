@@ -1,7 +1,7 @@
 {
   "date": "2026-03-04",
-  "updated": "2026/03/04 13:29:26",
-  "updated_at": 1772602166712,
+  "updated": "2026/03/04 14:06:46",
+  "updated_at": 1772604406500,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4070.99,
-        "change": -51.69,
-        "change_pct": -1.25,
+        "price": 4074.46,
+        "change": -48.22,
+        "change_pct": -1.17,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13909.08,
-        "change": -113.31,
-        "change_pct": -0.81,
+        "price": 13895.06,
+        "change": -127.33,
+        "change_pct": -0.91,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3163.11,
-        "change": -46.37,
-        "change_pct": -1.44,
+        "price": 3160.38,
+        "change": -49.1,
+        "change_pct": -1.53,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24973.31,
-        "change": -794.77,
-        "change_pct": -3.08,
+        "price": 25027.71,
+        "change": -740.37,
+        "change_pct": -2.87,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/04 13:29:19",
-    "updated_at": 1772602159513,
+    "updated": "2026/03/04 14:06:40",
+    "updated_at": 1772604400017,
     "trading_day": {
       "A": true,
       "HK": true,

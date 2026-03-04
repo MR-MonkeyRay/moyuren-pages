@@ -1,19 +1,19 @@
 {
   "date": "2026-03-05",
-  "updated": "2026/03/05 04:30:18",
-  "updated_at": 1772656218395,
+  "updated": "2026/03/05 04:59:55",
+  "updated_at": 1772657995946,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期四",
   "lunar_date": "正月十七",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼语录",
-    "text": "老板喊你认真干活的时候，请记住：他是在为他自己的梦想买单，而不是你的。"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "你坐过最挤的公交车是什么？只是路过，却被挤上了车。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "有没有要找工作的，北京这边招人，前六个月试用期 8000，转正 26000，一年后给你发一台车一套房，有意者私聊，先交 50 块押金，我吃完肯德基，给你办入职手续。",
+  "kfc_content": "原神退游玩鸣潮了，号送给大家，谁都可以登，我已经对原神心死了，很厌烦每天像机器人一样，对这个游戏早已经没有了初心，比起原神里机械式地上班，我更想去寻找鸣潮中真正的快乐。把这个号当作公共号送给大家了，想玩的就直接上号吧，官服的。\n账号：KFCcrazy_Thursday\n密码：v_me50",
   "date_info": {
     "year_month": "2026.03",
     "day": "5",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "有没有要找工作的，北京这边招人，前六个月试用期 8000，转正 26000，一年后给你发一台车一套房，有意者私聊，先交 50 块押金，我吃完肯德基，给你办入职手续。"
+    "content": "原神退游玩鸣潮了，号送给大家，谁都可以登，我已经对原神心死了，很厌烦每天像机器人一样，对这个游戏早已经没有了初心，比起原神里机械式地上班，我更想去寻找鸣潮中真正的快乐。把这个号当作公共号送给大家了，想玩的就直接上号吧，官服的。\n账号：KFCcrazy_Thursday\n密码：v_me50"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48805.04,
-        "change": 303.77,
-        "change_pct": 0.63,
+        "price": 48734.56,
+        "change": 233.29,
+        "change_pct": 0.48,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/05 04:30:13",
-    "updated_at": 1772656213244,
+    "updated": "2026/03/05 04:59:49",
+    "updated_at": 1772657989741,
     "trading_day": {
       "A": true,
       "HK": true,

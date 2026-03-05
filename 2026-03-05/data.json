@@ -1,7 +1,7 @@
 {
   "date": "2026-03-05",
-  "updated": "2026/03/05 12:15:18",
-  "updated_at": 1772684118236,
+  "updated": "2026/03/05 13:31:54",
+  "updated_at": 1772688714716,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "人生就像一个茶几，上面摆满了杯具。"
+    "text": "每个女人都在寻找一个爷们，最后发现，最爷们的原来是自己。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "蛮讽刺的，从凌晨开始等到现在，没有一个人和我说生日快乐，我的亲人没有说，朋友也没有说，我最在乎的人也没有说，直到现在我才明白原来今天不是我生日。但是今天是肯德基疯狂星期四！谁请我吃？",
+  "kfc_content": "最近电子养胃了，3000 个游戏的 Steam 账号玩不动了，不要了，想要的兄弟自己去登录拿走吧\n账号：crazyThursday\n密码：vme50KFC",
   "date_info": {
     "year_month": "2026.03",
     "day": "5",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "蛮讽刺的，从凌晨开始等到现在，没有一个人和我说生日快乐，我的亲人没有说，朋友也没有说，我最在乎的人也没有说，直到现在我才明白原来今天不是我生日。但是今天是肯德基疯狂星期四！谁请我吃？"
+    "content": "最近电子养胃了，3000 个游戏的 Steam 账号玩不动了，不要了，想要的兄弟自己去登录拿走吧\n账号：crazyThursday\n密码：vme50KFC"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4116.77,
-        "change": 34.3,
-        "change_pct": 0.84,
+        "price": 4124.75,
+        "change": 42.28,
+        "change_pct": 1.04,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -188,9 +188,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14150.45,
-        "change": 232.7,
-        "change_pct": 1.67,
+        "price": 14162.13,
+        "change": 244.38,
+        "change_pct": 1.76,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -198,9 +198,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3241.17,
-        "change": 76.8,
-        "change_pct": 2.43,
+        "price": 3239.18,
+        "change": 74.81,
+        "change_pct": 2.36,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25462.3,
-        "change": 212.82,
-        "change_pct": 0.84,
+        "price": 25489.72,
+        "change": 240.24,
+        "change_pct": 0.95,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/05 12:15:12",
-    "updated_at": 1772684112111,
+    "updated": "2026/03/05 13:31:47",
+    "updated_at": 1772688707911,
     "trading_day": {
       "A": true,
       "HK": true,

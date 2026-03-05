@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 03:43:13",
-  "updated_at": 1772739793172,
+  "updated": "2026/03/06 04:35:42",
+  "updated_at": 1772742942128,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一只老虎感冒了，要吃掉熊猫，为什么？因为感冒要吃白加黑。"
+    "text": "我是女的，这个饮料我不能喝，为什么？因为它难（男）喝。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47655.1,
-        "change": -1084.31,
-        "change_pct": -2.22,
+        "price": 47864.73,
+        "change": -874.68,
+        "change_pct": -1.79,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 03:43:07",
-    "updated_at": 1772739787713,
+    "updated": "2026/03/06 04:35:37",
+    "updated_at": 1772742937741,
     "trading_day": {
       "A": true,
       "HK": true,

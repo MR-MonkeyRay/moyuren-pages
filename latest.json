@@ -1,16 +1,16 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 05:33:38",
-  "updated_at": 1772746418911,
+  "updated": "2026/03/06 06:30:25",
+  "updated_at": 1772749825619,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期五",
   "lunar_date": "正月十八",
   "fun_content": {
-    "type": "dad_joke",
-    "title": "🤣 冷笑话",
-    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼语录",
+    "text": "工作再累，一天也是24小时；摸鱼再爽，一天也是24小时。既然都是24小时，为什么不选择爽呢？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 05:33:32",
-    "updated_at": 1772746412442,
+    "updated": "2026/03/06 06:30:17",
+    "updated_at": 1772749817247,
     "trading_day": {
       "A": true,
       "HK": true,

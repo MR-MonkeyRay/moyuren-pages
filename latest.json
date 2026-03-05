@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 00:08:57",
-  "updated_at": 1772726937271,
+  "updated": "2026/03/06 02:26:33",
+  "updated_at": 1772735193243,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "天太热了，一只绵羊就去剃了毛，之后就再也睡不着了，因为它失绵（眠）了。"
+    "text": "比天上的星星小一点的是什么？是鸿星。因为星八克，鸿星二克。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48001.0,
-        "change": -738.41,
-        "change_pct": -1.52,
+        "price": 47697.98,
+        "change": -1041.43,
+        "change_pct": -2.14,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 00:08:49",
-    "updated_at": 1772726929543,
+    "updated": "2026/03/06 02:26:27",
+    "updated_at": 1772735187386,
     "trading_day": {
       "A": true,
       "HK": true,

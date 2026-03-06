@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 04:29:50",
-  "updated_at": 1772828990541,
+  "updated": "2026/03/07 04:58:04",
+  "updated_at": 1772830684104,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "没有事是绝对的。但这句话不已经是绝对的了吗？"
+    "text": "对于凌驾命运之上的人来说，信心是命运的主宰。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47443.4,
-        "change": -511.34,
-        "change_pct": -1.07,
+        "price": 47503.65,
+        "change": -451.09,
+        "change_pct": -0.94,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/07 04:29:44",
-    "updated_at": 1772828984618,
+    "updated": "2026/03/07 04:57:58",
+    "updated_at": 1772830678514,
     "trading_day": {
       "A": false,
       "HK": false,

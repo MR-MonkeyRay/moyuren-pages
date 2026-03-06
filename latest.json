@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 22:37:10",
-  "updated_at": 1772807830050,
+  "updated": "2026/03/06 23:36:01",
+  "updated_at": 1772811361600,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "别人内卷怎么办？读书，因为读书破万卷。"
+    "text": "在good、super、great里，谁行动最缓慢？super，因为Superman。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47082.59,
-        "change": -872.15,
-        "change_pct": -1.82,
+        "price": 47421.89,
+        "change": -532.85,
+        "change_pct": -1.11,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 22:37:03",
-    "updated_at": 1772807823479,
+    "updated": "2026/03/06 23:35:53",
+    "updated_at": 1772811353810,
     "trading_day": {
       "A": true,
       "HK": true,

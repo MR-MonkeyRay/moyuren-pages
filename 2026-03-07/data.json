@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 01:34:04",
-  "updated_at": 1772818444309,
+  "updated": "2026/03/07 02:42:33",
+  "updated_at": 1772822553070,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "搓绳不能松劲，前进不能停顿"
+    "text": "活着本身就是一种价值，因为还有明天。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47353.46,
-        "change": -601.28,
-        "change_pct": -1.25,
+        "price": 47411.25,
+        "change": -543.49,
+        "change_pct": -1.13,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/07 01:33:55",
-    "updated_at": 1772818435100,
+    "updated": "2026/03/07 02:42:24",
+    "updated_at": 1772822544388,
     "trading_day": {
       "A": false,
       "HK": false,

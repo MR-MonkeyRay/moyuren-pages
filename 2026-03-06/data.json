@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 21:54:52",
-  "updated_at": 1772805292764,
+  "updated": "2026/03/06 22:37:10",
+  "updated_at": 1772807830050,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "两颗番茄去逛街，走着走着，一颗番茄对另一颗说：“我们不是番茄吗，我们会讲话吗？”"
+    "text": "别人内卷怎么办？读书，因为读书破万卷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47954.74,
-        "change": -784.67,
-        "change_pct": -1.61,
+        "price": 47082.59,
+        "change": -872.15,
+        "change_pct": -1.82,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 21:54:42",
-    "updated_at": 1772805282794,
+    "updated": "2026/03/06 22:37:03",
+    "updated_at": 1772807823479,
     "trading_day": {
       "A": true,
       "HK": true,

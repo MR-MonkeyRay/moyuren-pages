@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 03:33:06",
-  "updated_at": 1772825586646,
+  "updated": "2026/03/07 04:29:50",
+  "updated_at": 1772828990541,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不断奔跑才是人生。"
+    "text": "没有事是绝对的。但这句话不已经是绝对的了吗？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47482.45,
-        "change": -472.29,
-        "change_pct": -0.98,
+        "price": 47443.4,
+        "change": -511.34,
+        "change_pct": -1.07,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/07 03:33:02",
-    "updated_at": 1772825582812,
+    "updated": "2026/03/07 04:29:44",
+    "updated_at": 1772828984618,
     "trading_day": {
       "A": false,
       "HK": false,

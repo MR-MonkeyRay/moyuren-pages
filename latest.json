@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 19:52:30",
-  "updated_at": 1772797950859,
+  "updated": "2026/03/06 20:52:53",
+  "updated_at": 1772801573660,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一根火柴在路上走，觉得头痒就挠，挠着挠着火就着了，最后灭了。"
+    "text": "教练：要拐弯了，向左打死。学员：那郭碧婷怎么办？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 19:52:26",
-    "updated_at": 1772797946181,
+    "updated": "2026/03/06 20:52:43",
+    "updated_at": 1772801563953,
     "trading_day": {
       "A": true,
       "HK": true,

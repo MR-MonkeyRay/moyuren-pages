@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 19:27:44",
-  "updated_at": 1772796464842,
+  "updated": "2026/03/06 19:52:30",
+  "updated_at": 1772797950859,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小明理了个新发型，同学说像风筝，他委屈地哭了，哭着哭着就飞起来了。"
+    "text": "有一根火柴在路上走，觉得头痒就挠，挠着挠着火就着了，最后灭了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 19:27:37",
-    "updated_at": 1772796457964,
+    "updated": "2026/03/06 19:52:26",
+    "updated_at": 1772797946181,
     "trading_day": {
       "A": true,
       "HK": true,

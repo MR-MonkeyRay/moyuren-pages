@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 00:39:59",
-  "updated_at": 1772815199690,
+  "updated": "2026/03/07 01:34:04",
+  "updated_at": 1772818444309,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "没有比看不见人的恶意更恐怖的了。"
+    "text": "搓绳不能松劲，前进不能停顿"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47436.14,
-        "change": -518.6,
-        "change_pct": -1.08,
+        "price": 47353.46,
+        "change": -601.28,
+        "change_pct": -1.25,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/07 00:39:50",
-    "updated_at": 1772815190634,
+    "updated": "2026/03/07 01:33:55",
+    "updated_at": 1772818435100,
     "trading_day": {
       "A": false,
       "HK": false,

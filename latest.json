@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "updated": "2026/03/06 09:57:56",
-  "updated_at": 1772762276725,
+  "updated": "2026/03/06 12:12:33",
+  "updated_at": 1772770353076,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "e人做事比i人更有担当，请问为什么？因为e人做事e人当。"
+    "text": "better和good都要上厕所，他们谁先？better，因为better比较级（急）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,39 +174,39 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4101.35,
-        "change": -7.22,
-        "change_pct": -0.18,
-        "trend": "down",
+        "price": 4118.68,
+        "change": 10.11,
+        "change_pct": 0.25,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14044.33,
-        "change": -44.51,
-        "change_pct": -0.32,
-        "trend": "down",
+        "price": 14201.73,
+        "change": 112.89,
+        "change_pct": 0.8,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3197.9,
-        "change": -19.04,
-        "change_pct": -0.59,
-        "trend": "down",
+        "price": 3244.32,
+        "change": 27.38,
+        "change_pct": 0.85,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25499.05,
-        "change": 177.71,
-        "change_pct": 0.7,
+        "price": 25789.9,
+        "change": 468.56,
+        "change_pct": 1.85,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/06 09:57:50",
-    "updated_at": 1772762270533,
+    "updated": "2026/03/06 12:12:25",
+    "updated_at": 1772770345307,
     "trading_day": {
       "A": true,
       "HK": true,

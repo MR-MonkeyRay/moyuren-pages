@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 06:21:52",
-  "updated_at": 1772922112800,
+  "updated": "2026/03/08 06:48:27",
+  "updated_at": 1772923707989,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "村民：我们也不知那是何妖精，他们来无影去无踪的，每次都把村子洗劫一空。悟空：喔，原来是洗劫精（洗洁精）啊。"
+    "text": "打雷的时候为什么要装死？因为假死避雷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 06:21:47",
-    "updated_at": 1772922107246,
+    "updated": "2026/03/08 06:48:23",
+    "updated_at": 1772923703258,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 04:23:49",
-  "updated_at": 1772915029872,
+  "updated": "2026/03/08 04:48:09",
+  "updated_at": 1772916489250,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "那年夏天，我捉住了一只蝉，我以为我捉住了整个夏天，没想到，那蝉对我说：不爱，请别揪蝉（纠缠）。"
+    "text": "美杜莎石化了一位将军的妻子，将军怒道：敢石化贱内！美杜莎：恨…恨别鸟惊心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 04:23:45",
-    "updated_at": 1772915025096,
+    "updated": "2026/03/08 04:48:03",
+    "updated_at": 1772916483402,
     "trading_day": {
       "A": false,
       "HK": false,

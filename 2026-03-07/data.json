@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 15:49:50",
-  "updated_at": 1772869790901,
+  "updated": "2026/03/07 16:29:31",
+  "updated_at": 1772872171539,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "还有什么比活着更可怕？"
+    "text": "说谎的时候，重点不在于说谎的内容，而在于为何要说谎。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/07 15:49:42",
-    "updated_at": 1772869782732,
+    "updated": "2026/03/07 16:29:27",
+    "updated_at": 1772872167015,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 03:20:36",
-  "updated_at": 1772911236070,
+  "updated": "2026/03/08 03:43:28",
+  "updated_at": 1772912608390,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只黑猫把一只白猫从河里救起来了，白猫对黑猫说了声：“喵”。"
+    "text": "“我肚子好痛。” “是例假（士力架），横扫饥饿，做回自己。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 03:20:29",
-    "updated_at": 1772911229842,
+    "updated": "2026/03/08 03:43:23",
+    "updated_at": 1772912603706,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 07:51:23",
-  "updated_at": 1772841083161,
+  "updated": "2026/03/07 09:50:22",
+  "updated_at": 1772848222543,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "真正的坚强就是，不以为了别人作为借口，而去勇敢的朝着自己的目标奋斗。"
+    "text": "你，可以流血流汗，但是，你没有流泪的权利。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/07 07:51:17",
-    "updated_at": 1772841077357,
+    "updated": "2026/03/07 09:50:17",
+    "updated_at": 1772848217490,
     "trading_day": {
       "A": false,
       "HK": false,

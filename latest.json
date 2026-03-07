@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 11:59:37",
-  "updated_at": 1772855977594,
+  "updated": "2026/03/07 13:04:43",
+  "updated_at": 1772859883108,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "人经历风浪是会变得更强，可是船不同，日积月累的只有伤痛。"
+    "text": "真正的痛是连痛都不能说得痛。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -217,15 +217,15 @@
         "change_pct": -0.95,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/03/07 11:59:31",
-    "updated_at": 1772855971310,
+    "updated": "2026/03/07 13:04:37",
+    "updated_at": 1772859877262,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

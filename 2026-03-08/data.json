@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 01:45:40",
-  "updated_at": 1772905540863,
+  "updated": "2026/03/08 02:31:48",
+  "updated_at": 1772908308592,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "甲乙丙丁一起去坐车，为什么丁上不去？因为坐的是卡丁车。"
+    "text": "假如生活欺骗了你，我建议你吃披萨。为什么？因为披萨有6片8片，没有欺骗。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 01:45:33",
-    "updated_at": 1772905533788,
+    "updated": "2026/03/08 02:31:38",
+    "updated_at": 1772908298990,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 18:21:43",
-  "updated_at": 1772878903345,
+  "updated": "2026/03/07 18:48:41",
+  "updated_at": 1772880521377,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "只要微笑就可以了。"
+    "text": "情话的温度有多热，幻灭就可以有多剧烈"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/07 18:21:37",
-    "updated_at": 1772878897687,
+    "updated": "2026/03/07 18:48:33",
+    "updated_at": 1772880513282,
     "trading_day": {
       "A": false,
       "HK": false,

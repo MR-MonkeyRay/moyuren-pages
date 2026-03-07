@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 01:19:55",
-  "updated_at": 1772903995714,
+  "updated": "2026/03/08 01:45:40",
+  "updated_at": 1772905540863,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小白加小白等于什么？小白兔（TWO）。"
+    "text": "甲乙丙丁一起去坐车，为什么丁上不去？因为坐的是卡丁车。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 01:19:49",
-    "updated_at": 1772903989862,
+    "updated": "2026/03/08 01:45:33",
+    "updated_at": 1772905533788,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-07",
-  "updated": "2026/03/07 13:58:29",
-  "updated_at": 1772863109087,
+  "updated": "2026/03/07 14:51:56",
+  "updated_at": 1772866316405,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你们杀了多少人，放过多少人,都不关我的事 ,你们触到了我的逆鳞,仅此一条，就是你们消失的理由"
+    "text": "纵使喝醉酒满嘴胡话，也有一句好想你发自肺腑"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/07 13:58:23",
-    "updated_at": 1772863103525,
+    "updated": "2026/03/07 14:51:49",
+    "updated_at": 1772866309198,
     "trading_day": {
       "A": false,
       "HK": false,

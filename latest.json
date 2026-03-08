@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 23:22:16",
-  "updated_at": 1772983336588,
+  "updated": "2026/03/08 23:46:09",
+  "updated_at": 1772984769502,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "“煎蛋快点！”“别催！没听过吗？煎不可催。”"
+    "text": "小王剪了个中分，请问他变成了什么？全。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 23:22:06",
-    "updated_at": 1772983326977,
+    "updated": "2026/03/08 23:46:02",
+    "updated_at": 1772984762012,
     "trading_day": {
       "A": false,
       "HK": false,

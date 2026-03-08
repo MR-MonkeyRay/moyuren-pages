@@ -1,16 +1,16 @@
 {
   "date": "2026-03-09",
-  "updated": "2026/03/09 05:21:57",
-  "updated_at": 1773004917958,
+  "updated": "2026/03/09 05:46:01",
+  "updated_at": 1773006361020,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期一",
   "lunar_date": "正月廿一",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼语录",
-    "text": "打工人，打工魂，打工都是人上人。摸鱼人，摸鱼魂，摸鱼才是人上人！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "成年人的世界，除了长胖，其他什么都不容易。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/09 05:21:52",
-    "updated_at": 1773004912666,
+    "updated": "2026/03/09 05:45:52",
+    "updated_at": 1773006352257,
     "trading_day": {
       "A": true,
       "HK": true,

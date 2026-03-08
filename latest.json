@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 16:57:20",
-  "updated_at": 1772960240969,
+  "updated": "2026/03/08 17:33:15",
+  "updated_at": 1772962395597,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "知了掉进泉水淹死，也算泉下有知了。"
+    "text": "为什么不要跟i人求助？因为i莫能助（爱莫能助）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 16:57:13",
-    "updated_at": 1772960233417,
+    "updated": "2026/03/08 17:33:09",
+    "updated_at": 1772962389374,
     "trading_day": {
       "A": false,
       "HK": false,

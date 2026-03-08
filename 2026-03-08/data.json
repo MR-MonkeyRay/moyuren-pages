@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 16:29:29",
-  "updated_at": 1772958569733,
+  "updated": "2026/03/08 16:57:20",
+  "updated_at": 1772960240969,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "上课老师抽查背课文，小猪、小狗、小猫都举手了，老师会叫谁？小狗，因为旺旺仙贝（先背）。"
+    "text": "知了掉进泉水淹死，也算泉下有知了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 16:29:21",
-    "updated_at": 1772958561731,
+    "updated": "2026/03/08 16:57:13",
+    "updated_at": 1772960233417,
     "trading_day": {
       "A": false,
       "HK": false,

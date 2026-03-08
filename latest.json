@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 17:33:15",
-  "updated_at": 1772962395597,
+  "updated": "2026/03/08 18:23:45",
+  "updated_at": 1772965425563,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么不要跟i人求助？因为i莫能助（爱莫能助）。"
+    "text": "假如唐僧娶了白骨精，那他们的小孩叫什么？糖醋排骨。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 17:33:09",
-    "updated_at": 1772962389374,
+    "updated": "2026/03/08 18:23:41",
+    "updated_at": 1772965421132,
     "trading_day": {
       "A": false,
       "HK": false,

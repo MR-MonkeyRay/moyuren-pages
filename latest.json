@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
-  "updated": "2026/03/08 07:44:57",
-  "updated_at": 1772927097895,
+  "updated": "2026/03/08 09:59:15",
+  "updated_at": 1772935155467,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小王剪了个中分，请问他变成了什么？全。"
+    "text": "你知道海为什么是蓝色的吗？因为海里的鱼在吐泡泡“Blue blue blue”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/08 07:44:52",
-    "updated_at": 1772927092760,
+    "updated": "2026/03/08 09:59:09",
+    "updated_at": 1772935149098,
     "trading_day": {
       "A": false,
       "HK": false,

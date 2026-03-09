@@ -1,7 +1,7 @@
 {
   "date": "2026-03-10",
-  "updated": "2026/03/10 06:27:03",
-  "updated_at": 1773095223872,
+  "updated": "2026/03/10 06:55:13",
+  "updated_at": 1773096913550,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你打起精神，3分钟就能做完的事情，打起精神就要花上3小时。"
+    "text": "你的臭脚被毒蛇咬了，抢救了6个小时，毒蛇终于救了过来。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/10 06:26:55",
-    "updated_at": 1773095215757,
+    "updated": "2026/03/10 06:55:08",
+    "updated_at": 1773096908194,
     "trading_day": {
       "A": true,
       "HK": true,

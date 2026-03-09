@@ -1,7 +1,7 @@
 {
   "date": "2026-03-10",
-  "updated": "2026/03/10 03:39:34",
-  "updated_at": 1773085174257,
+  "updated": "2026/03/10 04:32:50",
+  "updated_at": 1773088370416,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "宁可美的千篇一律 ，也不要丑的各有千秋。"
+    "text": "能从上到下摸遍你全身的，也就只有，车站安检员了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47838.54,
-        "change": 336.99,
-        "change_pct": 0.71,
+        "price": 47740.8,
+        "change": 239.25,
+        "change_pct": 0.5,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/10 03:39:29",
-    "updated_at": 1773085169926,
+    "updated": "2026/03/10 04:32:44",
+    "updated_at": 1773088364456,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-10",
-  "updated": "2026/03/10 00:55:43",
-  "updated_at": 1773075343668,
+  "updated": "2026/03/10 01:45:48",
+  "updated_at": 1773078348442,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不想养狗不想养猫，只想养你，毕竟养猪能致富。"
+    "text": "如果不能美得惊人，那就丑得销魂吧！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47224.19,
-        "change": -277.36,
-        "change_pct": -0.58,
+        "price": 47020.51,
+        "change": -481.04,
+        "change_pct": -1.01,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/10 00:55:38",
-    "updated_at": 1773075338214,
+    "updated": "2026/03/10 01:45:44",
+    "updated_at": 1773078344348,
     "trading_day": {
       "A": true,
       "HK": true,

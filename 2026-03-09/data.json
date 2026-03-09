@@ -1,7 +1,7 @@
 {
   "date": "2026-03-09",
-  "updated": "2026/03/09 07:46:36",
-  "updated_at": 1773013596436,
+  "updated": "2026/03/09 10:00:20",
+  "updated_at": 1773021620472,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "打工人，打工魂，打工都是人上人。摸鱼人，摸鱼魂，摸鱼才是人上人！"
+    "text": "你在认真工作的时候，有人在摸鱼。你在加班的时候，有人在钓鱼。人生苦短，及时摸鱼。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,40 +174,40 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4124.19,
-        "change": 15.62,
-        "change_pct": 0.38,
-        "trend": "up",
+        "price": 4054.8,
+        "change": -69.39,
+        "change_pct": -1.68,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14172.63,
-        "change": 83.79,
-        "change_pct": 0.59,
-        "trend": "up",
+        "price": 13706.81,
+        "change": -465.82,
+        "change_pct": -3.29,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3229.3,
-        "change": 12.36,
-        "change_pct": 0.38,
-        "trend": "up",
+        "price": 3112.45,
+        "change": -116.85,
+        "change_pct": -3.62,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25757.29,
-        "change": 435.95,
-        "change_pct": 1.72,
-        "trend": "up",
+        "price": 24935.54,
+        "change": -821.75,
+        "change_pct": -3.19,
+        "trend": "down",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/09 07:46:31",
-    "updated_at": 1773013591167,
+    "updated": "2026/03/09 10:00:14",
+    "updated_at": 1773021614936,
     "trading_day": {
       "A": true,
       "HK": true,

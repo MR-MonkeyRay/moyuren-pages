@@ -1,7 +1,7 @@
 {
   "date": "2026-03-11",
-  "updated": "2026/03/11 03:37:25",
-  "updated_at": 1773171445439,
+  "updated": "2026/03/11 04:32:00",
+  "updated_at": 1773174720849,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不管输赢，打完不许记仇啊。"
+    "text": "Follow your heart，翻译成中文就一个字:怂。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -211,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47730.58,
-        "change": -10.22,
-        "change_pct": -0.02,
+        "price": 47706.51,
+        "change": -34.29,
+        "change_pct": -0.07,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/11 03:37:20",
-    "updated_at": 1773171440097,
+    "updated": "2026/03/11 04:31:54",
+    "updated_at": 1773174714979,
     "trading_day": {
       "A": true,
       "HK": true,

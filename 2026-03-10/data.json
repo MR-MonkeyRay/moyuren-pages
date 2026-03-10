@@ -1,7 +1,7 @@
 {
   "date": "2026-03-10",
-  "updated": "2026/03/10 20:57:30",
-  "updated_at": 1773147450765,
+  "updated": "2026/03/10 22:04:01",
+  "updated_at": 1773151441848,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果过年你看到我脸色不好，别想太多，就是你忘给红包了。"
+    "text": "你不懂得安排自己的人生，会有很多人帮你安排，他们需要你做的事。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47740.8,
-        "change": 239.25,
-        "change_pct": 0.5,
-        "trend": "up",
+        "price": 47501.25,
+        "change": -239.55,
+        "change_pct": -0.5,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/10 20:57:24",
-    "updated_at": 1773147444472,
+    "updated": "2026/03/10 22:03:58",
+    "updated_at": 1773151438373,
     "trading_day": {
       "A": true,
       "HK": true,

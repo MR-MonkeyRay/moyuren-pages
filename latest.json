@@ -1,7 +1,7 @@
 {
   "date": "2026-03-10",
-  "updated": "2026/03/10 19:32:16",
-  "updated_at": 1773142336820,
+  "updated": "2026/03/10 20:57:30",
+  "updated_at": 1773147450765,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我的钱虽然不是大风刮来的，但像被大风刮走的。"
+    "text": "如果过年你看到我脸色不好，别想太多，就是你忘给红包了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/10 19:32:09",
-    "updated_at": 1773142329785,
+    "updated": "2026/03/10 20:57:24",
+    "updated_at": 1773147444472,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-11",
-  "updated": "2026/03/11 05:52:26",
-  "updated_at": 1773179546191,
+  "updated": "2026/03/11 06:27:25",
+  "updated_at": 1773181645405,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "困难是人的教科书"
+    "text": "终点不知道什么时候到……在到终点前会持续下去……"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/11 05:52:20",
-    "updated_at": 1773179540287,
+    "updated": "2026/03/11 06:27:20",
+    "updated_at": 1773181640437,
     "trading_day": {
       "A": true,
       "HK": true,

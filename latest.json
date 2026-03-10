@@ -1,7 +1,7 @@
 {
   "date": "2026-03-10",
-  "updated": "2026/03/10 17:41:54",
-  "updated_at": 1773135714589,
+  "updated": "2026/03/10 18:37:43",
+  "updated_at": 1773139063900,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "过马路不要带耳机，万一要是被车撞上，耳机不就坏了么？"
+    "text": "生平最讨厌溜须拍马的人，和他们在一起，显得老子很不会做人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/10 17:41:47",
-    "updated_at": 1773135707856,
+    "updated": "2026/03/10 18:37:33",
+    "updated_at": 1773139053133,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-11",
-  "updated": "2026/03/11 15:42:15",
-  "updated_at": 1773214935586,
+  "updated": "2026/03/11 16:39:16",
+  "updated_at": 1773218356823,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "思想，语言是会束缚人的东西，不但自己的会束缚自己，别人的也会束缚自己。"
+    "text": "胜者为王 就这么简单"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -201,9 +201,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25841.78,
-        "change": -118.12,
-        "change_pct": -0.46,
+        "price": 25898.76,
+        "change": -61.14,
+        "change_pct": -0.24,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/11 15:42:11",
-    "updated_at": 1773214931764,
+    "updated": "2026/03/11 16:39:11",
+    "updated_at": 1773218351674,
     "trading_day": {
       "A": true,
       "HK": true,

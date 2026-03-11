@@ -1,7 +1,7 @@
 {
   "date": "2026-03-11",
-  "updated": "2026/03/11 14:51:55",
-  "updated_at": 1773211915343,
+  "updated": "2026/03/11 15:42:15",
+  "updated_at": 1773214935586,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果能不长大就好了啊 可是时光在身后挡住退路"
+    "text": "思想，语言是会束缚人的东西，不但自己的会束缚自己，别人的也会束缚自己。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -171,9 +171,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4132.68,
-        "change": 9.54,
-        "change_pct": 0.23,
+        "price": 4133.43,
+        "change": 10.29,
+        "change_pct": 0.25,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -181,9 +181,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14462.23,
-        "change": 108.16,
-        "change_pct": 0.75,
+        "price": 14465.41,
+        "change": 111.34,
+        "change_pct": 0.78,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -191,9 +191,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3348.78,
-        "change": 42.64,
-        "change_pct": 1.29,
+        "price": 3349.53,
+        "change": 43.39,
+        "change_pct": 1.31,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -201,9 +201,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25956.18,
-        "change": -3.72,
-        "change_pct": -0.01,
+        "price": 25841.78,
+        "change": -118.12,
+        "change_pct": -0.46,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/11 14:51:44",
-    "updated_at": 1773211904555,
+    "updated": "2026/03/11 15:42:11",
+    "updated_at": 1773214931764,
     "trading_day": {
       "A": true,
       "HK": true,

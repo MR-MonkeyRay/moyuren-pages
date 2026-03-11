@@ -1,7 +1,7 @@
 {
   "date": "2026-03-12",
-  "updated": "2026/03/12 01:26:22",
-  "updated_at": 1773249982096,
+  "updated": "2026/03/12 02:09:56",
+  "updated_at": 1773252596219,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "别人上班赚工资，我上班只为摸鱼。我们不一样，不一样～"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "原神退游玩鸣潮了，号送给大家，谁都可以登，我已经对原神心死了，很厌烦每天像机器人一样，对这个游戏早已经没有了初心，比起原神里机械式地上班，我更想去寻找鸣潮中真正的快乐。把这个号当作公共号送给大家了，想玩的就直接上号吧，官服的。\n账号：KFCcrazy_Thursday\n密码：v_me50",
+  "kfc_content": "我有朋友去 OpenAI 上班了。\n他告诉我，其实 GPT-5 已经内测了。\n真的非常强大。\n用了以后 98% 的人类工作将被替代。\n他还帮我申请到了 api 接口。\n我把 apikey 分享给你们：\nKFC-CRAZY-THURSDAY-VME50",
   "date_info": {
     "year_month": "2026.03",
     "day": "12",
@@ -168,7 +168,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "原神退游玩鸣潮了，号送给大家，谁都可以登，我已经对原神心死了，很厌烦每天像机器人一样，对这个游戏早已经没有了初心，比起原神里机械式地上班，我更想去寻找鸣潮中真正的快乐。把这个号当作公共号送给大家了，想玩的就直接上号吧，官服的。\n账号：KFCcrazy_Thursday\n密码：v_me50"
+    "content": "我有朋友去 OpenAI 上班了。\n他告诉我，其实 GPT-5 已经内测了。\n真的非常强大。\n用了以后 98% 的人类工作将被替代。\n他还帮我申请到了 api 接口。\n我把 apikey 分享给你们：\nKFC-CRAZY-THURSDAY-VME50"
   },
   "stock_indices": {
     "items": [
@@ -215,16 +215,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47423.43,
-        "change": -283.08,
-        "change_pct": -0.59,
+        "price": 47303.5,
+        "change": -403.01,
+        "change_pct": -0.84,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/12 01:26:17",
-    "updated_at": 1773249977115,
+    "updated": "2026/03/12 02:09:52",
+    "updated_at": 1773252592374,
     "trading_day": {
       "A": true,
       "HK": true,

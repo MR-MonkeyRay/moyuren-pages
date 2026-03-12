@@ -1,7 +1,7 @@
 {
   "date": "2026-03-13",
-  "updated": "2026/03/13 03:41:41",
-  "updated_at": 1773344501292,
+  "updated": "2026/03/13 04:33:09",
+  "updated_at": 1773347589610,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么蚕宝宝很有钱？因为它超会节俭（结茧）。"
+    "text": "猫会喵喵喵，狗会汪汪汪，鸭会嘎嘎嘎，鸡会什么？鸡会留给有准备的人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46813.3,
-        "change": -603.97,
-        "change_pct": -1.27,
+        "price": 46677.85,
+        "change": -739.42,
+        "change_pct": -1.56,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/13 03:41:35",
-    "updated_at": 1773344495829,
+    "updated": "2026/03/13 04:33:03",
+    "updated_at": 1773347583868,
     "trading_day": {
       "A": true,
       "HK": true,

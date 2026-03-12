@@ -1,7 +1,7 @@
 {
   "date": "2026-03-13",
-  "updated": "2026/03/13 06:24:36",
-  "updated_at": 1773354276503,
+  "updated": "2026/03/13 06:52:54",
+  "updated_at": 1773355974919,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "什么东西等到秋天会不见？蚯蚓。"
+    "text": "顾客：米线6元，过桥米线12，为什么贵6块钱？老板：过桥费6块。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/13 06:24:29",
-    "updated_at": 1773354269220,
+    "updated": "2026/03/13 06:52:49",
+    "updated_at": 1773355969661,
     "trading_day": {
       "A": true,
       "HK": true,

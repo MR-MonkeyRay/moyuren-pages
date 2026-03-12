@@ -1,7 +1,7 @@
 {
   "date": "2026-03-13",
-  "updated": "2026/03/13 06:52:54",
-  "updated_at": 1773355974919,
+  "updated": "2026/03/13 07:26:24",
+  "updated_at": 1773357984167,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "顾客：米线6元，过桥米线12，为什么贵6块钱？老板：过桥费6块。"
+    "text": "为什么冷笑话要中午看？因为早晚会被冷死。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/13 06:52:49",
-    "updated_at": 1773355969661,
+    "updated": "2026/03/13 07:26:19",
+    "updated_at": 1773357979951,
     "trading_day": {
       "A": true,
       "HK": true,

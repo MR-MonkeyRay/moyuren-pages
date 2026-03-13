@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 06:26:41",
-  "updated_at": 1773440801699,
+  "updated": "2026/03/14 06:53:05",
+  "updated_at": 1773442385770,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "蒜兄弟家有三个儿子：大蒜、中蒜、小蒜，你猜谁最先谈恋爱？中蒜，因为“后来，我中蒜学会了如何去爱”。"
+    "text": "小王剪了个中分，请问他变成了什么？全。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/14 06:26:36",
-    "updated_at": 1773440796086,
+    "updated": "2026/03/14 06:53:01",
+    "updated_at": 1773442381605,
     "trading_day": {
       "A": false,
       "HK": false,

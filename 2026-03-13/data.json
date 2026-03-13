@@ -1,7 +1,7 @@
 {
   "date": "2026-03-13",
-  "updated": "2026/03/13 20:59:24",
-  "updated_at": 1773406764738,
+  "updated": "2026/03/13 22:03:52",
+  "updated_at": 1773410632333,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "孙悟空问土地公：“我的金箍棒在哪里？”土地公说：“你的金箍…棒就…棒在很配你的头型。”"
+    "text": "美杜莎石化了一位将军的妻子，将军怒道：敢石化贱内！美杜莎：恨…恨别鸟惊心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46677.85,
-        "change": -739.42,
-        "change_pct": -1.56,
-        "trend": "down",
+        "price": 46905.12,
+        "change": 227.27,
+        "change_pct": 0.49,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/13 20:59:19",
-    "updated_at": 1773406759214,
+    "updated": "2026/03/13 22:03:46",
+    "updated_at": 1773410626725,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 07:26:40",
-  "updated_at": 1773444400685,
+  "updated": "2026/03/14 07:52:11",
+  "updated_at": 1773445931444,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个面包走在路上，走着走着突然扭伤了脚，原来它是牛角包。"
+    "text": "村民：我们也不知那是何妖精，他们来无影去无踪的，每次都把村子洗劫一空。悟空：喔，原来是洗劫精（洗洁精）啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/14 07:26:35",
-    "updated_at": 1773444395178,
+    "updated": "2026/03/14 07:52:06",
+    "updated_at": 1773445926979,
     "trading_day": {
       "A": false,
       "HK": false,

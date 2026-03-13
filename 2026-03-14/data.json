@@ -1,16 +1,16 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 02:56:09",
-  "updated_at": 1773428169279,
+  "updated": "2026/03/14 03:31:23",
+  "updated_at": 1773430283199,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期六",
   "lunar_date": "正月廿六",
   "fun_content": {
-    "type": "dad_joke",
-    "title": "🤣 冷笑话",
-    "text": "什么路最窄？“冤家”（怨家）路窄。"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "春节假期，从跳过早午餐开始。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46685.3,
-        "change": 7.45,
-        "change_pct": 0.02,
-        "trend": "up",
+        "price": 46614.87,
+        "change": -62.98,
+        "change_pct": -0.13,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/14 02:56:03",
-    "updated_at": 1773428163773,
+    "updated": "2026/03/14 03:31:09",
+    "updated_at": 1773430269252,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 06:53:05",
-  "updated_at": 1773442385770,
+  "updated": "2026/03/14 07:26:40",
+  "updated_at": 1773444400685,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小王剪了个中分，请问他变成了什么？全。"
+    "text": "有一个面包走在路上，走着走着突然扭伤了脚，原来它是牛角包。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/14 06:53:01",
-    "updated_at": 1773442381605,
+    "updated": "2026/03/14 07:26:35",
+    "updated_at": 1773444395178,
     "trading_day": {
       "A": false,
       "HK": false,

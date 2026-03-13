@@ -1,7 +1,7 @@
 {
   "date": "2026-03-13",
-  "updated": "2026/03/13 09:56:41",
-  "updated_at": 1773367001564,
+  "updated": "2026/03/13 12:13:56",
+  "updated_at": 1773375236089,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "藕的生长周期是200天，而鸡只需要50多天就能从小鸡变成鸡腿、鸡排、鸡胸肉，短时间内鸡变藕不变。"
+    "text": "风的孩子叫什么？水起（风生水起）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4121.71,
-        "change": -7.39,
-        "change_pct": -0.18,
+        "price": 4120.14,
+        "change": -8.96,
+        "change_pct": -0.22,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,29 +184,29 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14411.3,
-        "change": 36.43,
-        "change_pct": 0.25,
-        "trend": "up",
+        "price": 14350.01,
+        "change": -24.86,
+        "change_pct": -0.17,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3334.3,
-        "change": 16.78,
-        "change_pct": 0.51,
-        "trend": "up",
+        "price": 3316.55,
+        "change": -0.97,
+        "change_pct": -0.03,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25489.02,
-        "change": -227.74,
-        "change_pct": -0.89,
+        "price": 25593.25,
+        "change": -123.51,
+        "change_pct": -0.48,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/13 09:56:35",
-    "updated_at": 1773366995725,
+    "updated": "2026/03/13 12:13:49",
+    "updated_at": 1773375229435,
     "trading_day": {
       "A": true,
       "HK": true,

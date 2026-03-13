@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 05:31:14",
-  "updated_at": 1773437474397,
+  "updated": "2026/03/14 06:26:41",
+  "updated_at": 1773440801699,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吃着吃着停电了，我连忙扒拉两口饭，突然灯亮了，我惊呼：难道这就是巴拉拉能亮（能量）？"
+    "text": "蒜兄弟家有三个儿子：大蒜、中蒜、小蒜，你猜谁最先谈恋爱？中蒜，因为“后来，我中蒜学会了如何去爱”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/14 05:31:08",
-    "updated_at": 1773437468395,
+    "updated": "2026/03/14 06:26:36",
+    "updated_at": 1773440796086,
     "trading_day": {
       "A": false,
       "HK": false,

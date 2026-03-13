@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 00:02:02",
-  "updated_at": 1773417722501,
+  "updated": "2026/03/14 01:05:23",
+  "updated_at": 1773421523051,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "医生给我开了药丸，我掉到了地上一直响，仔细一看，原来是好响出去丸（好想出去玩）。"
+    "text": "三角形去烧烤摊点了五串大腰子，等半天也没上，于是，它变成什么了？等腰三角形。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46699.73,
-        "change": 21.88,
-        "change_pct": 0.05,
-        "trend": "up",
+        "price": 46634.15,
+        "change": -43.7,
+        "change_pct": -0.09,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/14 00:01:49",
-    "updated_at": 1773417709698,
+    "updated": "2026/03/14 01:05:15",
+    "updated_at": 1773421515949,
     "trading_day": {
       "A": false,
       "HK": false,

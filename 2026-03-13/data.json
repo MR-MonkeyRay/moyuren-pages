@@ -1,7 +1,7 @@
 {
   "date": "2026-03-13",
-  "updated": "2026/03/13 07:51:00",
-  "updated_at": 1773359460308,
+  "updated": "2026/03/13 09:56:41",
+  "updated_at": 1773367001564,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
+    "text": "藕的生长周期是200天，而鸡只需要50多天就能从小鸡变成鸡腿、鸡排、鸡胸肉，短时间内鸡变藕不变。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4129.1,
-        "change": -4.33,
-        "change_pct": -0.1,
+        "price": 4121.71,
+        "change": -7.39,
+        "change_pct": -0.18,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,29 +184,29 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14374.87,
-        "change": -90.54,
-        "change_pct": -0.63,
-        "trend": "down",
+        "price": 14411.3,
+        "change": 36.43,
+        "change_pct": 0.25,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3317.52,
-        "change": -32.01,
-        "change_pct": -0.96,
-        "trend": "down",
+        "price": 3334.3,
+        "change": 16.78,
+        "change_pct": 0.51,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25716.76,
-        "change": -182.0,
-        "change_pct": -0.7,
+        "price": 25489.02,
+        "change": -227.74,
+        "change_pct": -0.89,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/13 07:50:54",
-    "updated_at": 1773359454429,
+    "updated": "2026/03/13 09:56:35",
+    "updated_at": 1773366995725,
     "trading_day": {
       "A": true,
       "HK": true,

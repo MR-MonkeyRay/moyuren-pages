@@ -1,7 +1,7 @@
 {
   "date": "2026-03-13",
-  "updated": "2026/03/13 13:32:24",
-  "updated_at": 1773379944857,
+  "updated": "2026/03/13 14:51:39",
+  "updated_at": 1773384699500,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "行人：我包丢了。警察：包在我身上。行人：给我。"
+    "text": "许仙给老婆买了一顶帽子，白娘子戴上后感觉头很重，因为那是顶鸭舌（压蛇）帽。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,14 +170,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/03/13 13:32:16",
-    "updated_at": 1773379936210,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4093.16,
+        "change": -35.94,
+        "change_pct": -0.87,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 14276.49,
+        "change": -98.38,
+        "change_pct": -0.68,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3309.06,
+        "change": -8.46,
+        "change_pct": -0.26,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25480.57,
+        "change": -236.19,
+        "change_pct": -0.92,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 46677.85,
+        "change": -739.42,
+        "change_pct": -1.56,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/03/13 14:51:33",
+    "updated_at": 1773384693768,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

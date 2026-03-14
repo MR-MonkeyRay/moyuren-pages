@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 13:30:34",
-  "updated_at": 1773466234935,
+  "updated": "2026/03/14 14:43:24",
+  "updated_at": 1773470604146,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "“你的字真好看。” “像不像正楷（郑恺）？” “还像Angelababy呢。”"
+    "text": "“我有一份令人为之惊叹的工作。” “啥工作？” “挖藕（Wow）。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/14 13:30:27",
-    "updated_at": 1773466227819,
+    "updated": "2026/03/14 14:43:18",
+    "updated_at": 1773470598874,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 14:43:24",
-  "updated_at": 1773470604146,
+  "updated": "2026/03/14 15:34:05",
+  "updated_at": 1773473645426,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "“我有一份令人为之惊叹的工作。” “啥工作？” “挖藕（Wow）。”"
+    "text": "A和C谁比较矮？是A，因为ABCD（A比C低）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4095.45,
-        "change": -33.65,
-        "change_pct": -0.81,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 14280.78,
-        "change": -94.09,
-        "change_pct": -0.65,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3310.28,
-        "change": -7.24,
-        "change_pct": -0.22,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": false
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25465.6,
-        "change": -251.16,
-        "change_pct": -0.98,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": false
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 46558.47,
-        "change": -119.38,
-        "change_pct": -0.26,
-        "trend": "down",
-        "market": "US",
-        "is_trading_day": false
-      }
-    ],
-    "updated": "2026/03/14 14:43:18",
-    "updated_at": 1773470598874,
+    "items": [],
+    "updated": "2026/03/14 15:33:56",
+    "updated_at": 1773473636127,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

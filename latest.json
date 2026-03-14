@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 19:23:12",
-  "updated_at": 1773487392709,
+  "updated": "2026/03/14 19:47:08",
+  "updated_at": 1773488828710,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
+    "text": "吃着吃着停电了，我连忙扒了两口饭，突然灯亮了，我惊呼: 莫非这就是传说中的扒拉拉能亮（巴啦啦能量）?"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/14 19:23:04",
-    "updated_at": 1773487384886,
+    "updated": "2026/03/14 19:47:04",
+    "updated_at": 1773488824582,
     "trading_day": {
       "A": false,
       "HK": false,

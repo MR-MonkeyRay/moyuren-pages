@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 21:44:00",
-  "updated_at": 1773495840256,
+  "updated": "2026/03/14 22:27:38",
+  "updated_at": 1773498458785,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "君要臣死，臣facebook。"
+    "text": "天太热了，一只绵羊就去剃了毛，之后就再也睡不着了，因为它失绵（眠）了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/14 21:43:54",
-    "updated_at": 1773495834095,
+    "updated": "2026/03/14 22:27:34",
+    "updated_at": 1773498454007,
     "trading_day": {
       "A": false,
       "HK": false,

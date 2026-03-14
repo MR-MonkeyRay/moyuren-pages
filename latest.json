@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 16:33:49",
-  "updated_at": 1773477229285,
+  "updated": "2026/03/14 17:31:15",
+  "updated_at": 1773480675183,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一天，苏轼成为了学园偶像，台下粉丝兴奋地大喊：看！这是苏坡爱豆（Super Idol）的笑容！"
+    "text": "你知道什么动物最没有方向感吗？麋鹿（迷路）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/14 16:33:42",
-    "updated_at": 1773477222837,
+    "updated": "2026/03/14 17:31:09",
+    "updated_at": 1773480669200,
     "trading_day": {
       "A": false,
       "HK": false,

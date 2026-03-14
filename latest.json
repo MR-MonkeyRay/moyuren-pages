@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 17:31:15",
-  "updated_at": 1773480675183,
+  "updated": "2026/03/14 18:26:23",
+  "updated_at": 1773483983175,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道什么动物最没有方向感吗？麋鹿（迷路）。"
+    "text": "在good、super、great里，谁行动最缓慢？super，因为Superman。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/14 17:31:09",
-    "updated_at": 1773480669200,
+    "updated": "2026/03/14 18:26:16",
+    "updated_at": 1773483976325,
     "trading_day": {
       "A": false,
       "HK": false,

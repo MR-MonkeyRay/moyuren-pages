@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 23:26:38",
-  "updated_at": 1773501998873,
+  "updated": "2026/03/14 23:51:54",
+  "updated_at": 1773503514095,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么舅舅不好当？因为舅舅八十一难（九九八十一难）。"
+    "text": "哪个武林门派的教徒不会说谎？全真。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/14 23:26:31",
-    "updated_at": 1773501991604,
+    "updated": "2026/03/14 23:51:45",
+    "updated_at": 1773503505634,
     "trading_day": {
       "A": false,
       "HK": false,

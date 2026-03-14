@@ -1,7 +1,7 @@
 {
   "date": "2026-03-14",
-  "updated": "2026/03/14 18:54:45",
-  "updated_at": 1773485685995,
+  "updated": "2026/03/14 19:23:12",
+  "updated_at": 1773487392709,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一个男生问女生：“你喜欢什么样的男生呀？” 女生说：“投缘的。” 男生说：“那头扁的行不行！”"
+    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/14 18:54:40",
-    "updated_at": 1773485680369,
+    "updated": "2026/03/14 19:23:04",
+    "updated_at": 1773487384886,
     "trading_day": {
       "A": false,
       "HK": false,

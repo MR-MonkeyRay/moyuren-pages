@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "updated": "2026/03/16 06:26:10",
-  "updated_at": 1773613570541,
+  "updated": "2026/03/16 06:55:29",
+  "updated_at": 1773615329228,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "下雨的时候，为什么鸭子不去避雨？因为duck不避（大可不必）。"
+    "text": "better和good都要上厕所，他们谁先？better，因为better比较级（急）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/16 06:26:05",
-    "updated_at": 1773613565003,
+    "updated": "2026/03/16 06:55:23",
+    "updated_at": 1773615323324,
     "trading_day": {
       "A": true,
       "HK": true,

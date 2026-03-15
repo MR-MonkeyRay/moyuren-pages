@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "updated": "2026/03/16 01:26:05",
-  "updated_at": 1773595565760,
+  "updated": "2026/03/16 01:54:05",
+  "updated_at": 1773597245929,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小孩想弹贝斯，但是贝斯太重了，怎么办？过年的时候弹，因为每逢佳节倍思亲（贝斯轻）。"
+    "text": "为什么保尔·柯察金过不了安检门？因为他有钢铁般的意志。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/16 01:25:57",
-    "updated_at": 1773595557505,
+    "updated": "2026/03/16 01:54:00",
+    "updated_at": 1773597240846,
     "trading_day": {
       "A": true,
       "HK": true,

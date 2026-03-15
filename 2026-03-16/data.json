@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "updated": "2026/03/16 06:55:29",
-  "updated_at": 1773615329228,
+  "updated": "2026/03/16 07:28:02",
+  "updated_at": 1773617282124,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "better和good都要上厕所，他们谁先？better，因为better比较级（急）。"
+    "text": "许仙给老婆买了一顶帽子，白娘子戴上后感觉头很重，因为那是顶鸭舌（压蛇）帽。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/16 06:55:23",
-    "updated_at": 1773615323324,
+    "updated": "2026/03/16 07:27:56",
+    "updated_at": 1773617276368,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-15",
-  "updated": "2026/03/15 07:51:30",
-  "updated_at": 1773532290385,
+  "updated": "2026/03/15 10:10:40",
+  "updated_at": 1773540640715,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "钱是老板的，命是自己的。工作做不完还有明天，命没了就真的没了。"
+    "text": "今日摸鱼，明日也摸。日日摸鱼，心情大好！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/15 07:51:24",
-    "updated_at": 1773532284795,
+    "updated": "2026/03/15 10:10:35",
+    "updated_at": 1773540635603,
     "trading_day": {
       "A": false,
       "HK": false,

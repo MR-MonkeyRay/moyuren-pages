@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "updated": "2026/03/16 04:55:22",
-  "updated_at": 1773608122309,
+  "updated": "2026/03/16 05:27:11",
+  "updated_at": 1773610031662,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "星星是实心的还是空心的？空心的，因为star（四大）皆空。"
+    "text": "17岁那年我揪住一只蝉，我以为我抓住了整个夏天，谁知道蝉说：“说不上爱别揪蝉（纠缠），就一点喜欢”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/16 04:55:16",
-    "updated_at": 1773608116491,
+    "updated": "2026/03/16 05:27:07",
+    "updated_at": 1773610027247,
     "trading_day": {
       "A": true,
       "HK": true,

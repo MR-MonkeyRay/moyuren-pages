@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "updated": "2026/03/16 16:06:55",
-  "updated_at": 1773648415598,
+  "updated": "2026/03/16 17:39:20",
+  "updated_at": 1773653960677,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "刚刚被邻居举报扰民了，因为我穷的叮当响。"
+    "text": "一个男生问女生：“你喜欢什么样的男生呀？” 女生说：“投缘的。” 男生说：“那头扁的行不行！”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25833.22,
-        "change": 367.62,
-        "change_pct": 1.44,
+        "price": 25834.02,
+        "change": 368.42,
+        "change_pct": 1.45,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/16 16:06:47",
-    "updated_at": 1773648407003,
+    "updated": "2026/03/16 17:39:16",
+    "updated_at": 1773653956614,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "updated": "2026/03/16 21:08:16",
-  "updated_at": 1773666496924,
+  "updated": "2026/03/16 22:44:12",
+  "updated_at": 1773672252374,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为啥说看武打片能减肥？因为里面经常说“你瘦死吧”。"
+    "text": "美杜莎石化了一位将军的妻子，将军怒道：敢石化贱内！美杜莎：恨…恨别鸟惊心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46558.47,
-        "change": -119.38,
-        "change_pct": -0.26,
-        "trend": "down",
+        "price": 46899.73,
+        "change": 341.26,
+        "change_pct": 0.73,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/16 21:08:10",
-    "updated_at": 1773666490798,
+    "updated": "2026/03/16 22:44:02",
+    "updated_at": 1773672242711,
     "trading_day": {
       "A": true,
       "HK": true,

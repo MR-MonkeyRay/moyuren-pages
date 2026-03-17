@@ -1,7 +1,7 @@
 {
   "date": "2026-03-18",
-  "updated": "2026/03/18 03:56:26",
-  "updated_at": 1773777386557,
+  "updated": "2026/03/18 04:40:13",
+  "updated_at": 1773780013321,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "真希望有一天我的钱包，可以和我的脸皮一样厚。"
+    "text": "看时间不是为了起床，而是看还能睡多久。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46994.67,
-        "change": 48.26,
+        "price": 46993.26,
+        "change": 46.85,
         "change_pct": 0.1,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/18 03:56:21",
-    "updated_at": 1773777381246,
+    "updated": "2026/03/18 04:40:09",
+    "updated_at": 1773780009246,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-18",
-  "updated": "2026/03/18 00:07:06",
-  "updated_at": 1773763626346,
+  "updated": "2026/03/18 01:34:53",
+  "updated_at": 1773768893479,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "别说自己是单身狗，狗还可以三妻四妾。"
+    "text": "人生最大的耻辱是什么，考试作弊了还不及格。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47026.87,
-        "change": 80.46,
-        "change_pct": 0.17,
+        "price": 47086.32,
+        "change": 139.91,
+        "change_pct": 0.3,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/18 00:06:58",
-    "updated_at": 1773763618076,
+    "updated": "2026/03/18 01:34:47",
+    "updated_at": 1773768887569,
     "trading_day": {
       "A": true,
       "HK": true,

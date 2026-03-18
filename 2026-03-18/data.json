@@ -1,16 +1,16 @@
 {
   "date": "2026-03-18",
-  "updated": "2026/03/18 15:35:37",
-  "updated_at": 1773819337883,
+  "updated": "2026/03/18 16:47:26",
+  "updated_at": 1773823646391,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期三",
   "lunar_date": "正月三十",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "天生我才必有用，前提是，你得是“天”生的。"
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "30万和十年脑血栓你选哪个？我选十年脑血栓，这样我就有三十年脑血栓了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26009.53,
-        "change": 140.99,
-        "change_pct": 0.55,
+        "price": 26025.42,
+        "change": 156.88,
+        "change_pct": 0.61,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/18 15:35:31",
-    "updated_at": 1773819331397,
+    "updated": "2026/03/18 16:47:17",
+    "updated_at": 1773823637159,
     "trading_day": {
       "A": true,
       "HK": true,

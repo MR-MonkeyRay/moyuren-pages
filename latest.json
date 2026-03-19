@@ -1,7 +1,7 @@
 {
   "date": "2026-03-20",
-  "updated": "2026/03/20 03:46:50",
-  "updated_at": 1773949610141,
+  "updated": "2026/03/20 04:35:38",
+  "updated_at": 1773952538691,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道什么动物爱贴在墙上嘛？是海豹（报）。"
+    "text": "哪个武林门派的教徒不会说谎？全真。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46076.22,
-        "change": -148.93,
-        "change_pct": -0.32,
+        "price": 46021.43,
+        "change": -203.72,
+        "change_pct": -0.44,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/20 03:46:44",
-    "updated_at": 1773949604908,
+    "updated": "2026/03/20 04:35:33",
+    "updated_at": 1773952533512,
     "trading_day": {
       "A": true,
       "HK": true,

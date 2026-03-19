@@ -1,7 +1,7 @@
 {
   "date": "2026-03-20",
-  "updated": "2026/03/20 06:56:57",
-  "updated_at": 1773961017210,
+  "updated": "2026/03/20 07:32:09",
+  "updated_at": 1773963129598,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "美杜莎石化了一位将军的妻子，将军怒道：敢石化贱内！美杜莎：恨…恨别鸟惊心。"
+    "text": "男人相亲要带什么？蚊香，因为蚊香识女人（闻香识女人）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/20 06:56:51",
-    "updated_at": 1773961011243,
+    "updated": "2026/03/20 07:32:03",
+    "updated_at": 1773963123866,
     "trading_day": {
       "A": true,
       "HK": true,

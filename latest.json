@@ -1,7 +1,7 @@
 {
   "date": "2026-03-19",
-  "updated": "2026/03/19 15:02:32",
-  "updated_at": 1773903752327,
+  "updated": "2026/03/19 16:02:06",
+  "updated_at": 1773907326144,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
+    "text": "李白不太会拒绝人，不说No，净yes。——静夜思？"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "你跟你男朋友奔现进房间以后，裤子一脱你花容失色的质问你男朋友：你不是说你有 18cm 吗？怎么这么小？你男朋友说：因为今天是肯德基疯狂星期四活动 满 18 减 15",
+  "kfc_content": "陆地，太过干燥，无鳞，离群的同胞，我呼唤你，带你归巢。今日，疯狂星期四，V 我 50，摄取营养，首要事项。养分充足，迎接你，捕食，进化，回归大群。",
   "date_info": {
     "year_month": "2026.03",
     "day": "19",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "你跟你男朋友奔现进房间以后，裤子一脱你花容失色的质问你男朋友：你不是说你有 18cm 吗？怎么这么小？你男朋友说：因为今天是肯德基疯狂星期四活动 满 18 减 15"
+    "content": "陆地，太过干燥，无鳞，离群的同胞，我呼唤你，带你归巢。今日，疯狂星期四，V 我 50，摄取营养，首要事项。养分充足，迎接你，捕食，进化，回归大群。"
   },
   "stock_indices": {
     "items": [
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25506.98,
-        "change": -518.44,
-        "change_pct": -1.99,
+        "price": 25491.84,
+        "change": -533.58,
+        "change_pct": -2.05,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/19 15:02:26",
-    "updated_at": 1773903746454,
+    "updated": "2026/03/19 16:01:58",
+    "updated_at": 1773907318888,
     "trading_day": {
       "A": true,
       "HK": true,

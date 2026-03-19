@@ -1,7 +1,7 @@
 {
   "date": "2026-03-20",
-  "updated": "2026/03/20 00:29:20",
-  "updated_at": 1773937760909,
+  "updated": "2026/03/20 01:34:02",
+  "updated_at": 1773941642520,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小红和小蓝打架，请问谁赢了？小蓝，因为小红输（书）。"
+    "text": "你知道海底什么生物最搞笑吗？海鳗，因为海鳗（还蛮）搞笑的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 45896.68,
-        "change": -328.47,
-        "change_pct": -0.71,
+        "price": 45822.59,
+        "change": -402.56,
+        "change_pct": -0.87,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/20 00:29:14",
-    "updated_at": 1773937754773,
+    "updated": "2026/03/20 01:33:56",
+    "updated_at": 1773941636780,
     "trading_day": {
       "A": true,
       "HK": true,

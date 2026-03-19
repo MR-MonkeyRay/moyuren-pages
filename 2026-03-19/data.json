@@ -1,7 +1,7 @@
 {
   "date": "2026-03-19",
-  "updated": "2026/03/19 16:02:06",
-  "updated_at": 1773907326144,
+  "updated": "2026/03/19 17:09:19",
+  "updated_at": 1773911359537,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "李白不太会拒绝人，不说No，净yes。——静夜思？"
+    "text": "你知道什么动物爱贴在墙上嘛？是海豹（报）。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "陆地，太过干燥，无鳞，离群的同胞，我呼唤你，带你归巢。今日，疯狂星期四，V 我 50，摄取营养，首要事项。养分充足，迎接你，捕食，进化，回归大群。",
+  "kfc_content": "今天学了一个新成语叫做闻鸡起舞，意思是闻到肯德基的味道，起码找别人要五十",
   "date_info": {
     "year_month": "2026.03",
     "day": "19",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "陆地，太过干燥，无鳞，离群的同胞，我呼唤你，带你归巢。今日，疯狂星期四，V 我 50，摄取营养，首要事项。养分充足，迎接你，捕食，进化，回归大群。"
+    "content": "今天学了一个新成语叫做闻鸡起舞，意思是闻到肯德基的味道，起码找别人要五十"
   },
   "stock_indices": {
     "items": [
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25491.84,
-        "change": -533.58,
-        "change_pct": -2.05,
+        "price": 25500.58,
+        "change": -524.84,
+        "change_pct": -2.02,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/19 16:01:58",
-    "updated_at": 1773907318888,
+    "updated": "2026/03/19 17:09:10",
+    "updated_at": 1773911350797,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 04:59:52",
-  "updated_at": 1774040392439,
+  "updated": "2026/03/21 05:39:16",
+  "updated_at": 1774042756708,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吃着吃着停电了，我连忙扒了两口饭，突然灯亮了，我惊呼: 莫非这就是传说中的扒拉拉能亮（巴啦啦能量）?"
+    "text": "一个胖子从十二楼摔了下来，结果就变成了死胖子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/21 04:59:46",
-    "updated_at": 1774040386417,
+    "updated": "2026/03/21 05:39:11",
+    "updated_at": 1774042751123,
     "trading_day": {
       "A": false,
       "HK": false,

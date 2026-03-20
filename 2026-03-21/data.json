@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 01:08:51",
-  "updated_at": 1774026531048,
+  "updated": "2026/03/21 02:00:15",
+  "updated_at": 1774029615553,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "许仙给白娘子买了顶帽子，但是白娘子不敢戴，为什么？因为买的是压蛇（鸭舌）帽。"
+    "text": "哪个数字最懒哪个最勤快？一最懒，二最勤快，因为一不做二不休。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 45863.69,
-        "change": -157.74,
-        "change_pct": -0.34,
+        "price": 45780.05,
+        "change": -241.38,
+        "change_pct": -0.52,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/21 01:08:41",
-    "updated_at": 1774026521680,
+    "updated": "2026/03/21 02:00:03",
+    "updated_at": 1774029603836,
     "trading_day": {
       "A": false,
       "HK": false,

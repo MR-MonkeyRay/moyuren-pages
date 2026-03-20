@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 05:39:16",
-  "updated_at": 1774042756708,
+  "updated": "2026/03/21 06:27:21",
+  "updated_at": 1774045641394,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一个胖子从十二楼摔了下来，结果就变成了死胖子。"
+    "text": "为什么蚕宝宝很有钱？因为它超会节俭（结茧）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/21 05:39:11",
-    "updated_at": 1774042751123,
+    "updated": "2026/03/21 06:27:17",
+    "updated_at": 1774045637109,
     "trading_day": {
       "A": false,
       "HK": false,

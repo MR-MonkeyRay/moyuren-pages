@@ -1,7 +1,7 @@
 {
   "date": "2026-03-20",
-  "updated": "2026/03/20 15:44:56",
-  "updated_at": 1773992696644,
+  "updated": "2026/03/20 16:38:40",
+  "updated_at": 1773995920730,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "知了掉进泉水淹死，也算泉下有知了。"
+    "text": "下雨的时候，为什么鸭子不去避雨？因为duck不避（大可不必）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25249.98,
-        "change": -250.6,
-        "change_pct": -0.98,
+        "price": 25277.32,
+        "change": -223.26,
+        "change_pct": -0.88,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/20 15:44:51",
-    "updated_at": 1773992691005,
+    "updated": "2026/03/20 16:38:35",
+    "updated_at": 1773995915051,
     "trading_day": {
       "A": true,
       "HK": true,

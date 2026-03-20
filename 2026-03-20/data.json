@@ -1,7 +1,7 @@
 {
   "date": "2026-03-20",
-  "updated": "2026/03/20 13:34:23",
-  "updated_at": 1773984863823,
+  "updated": "2026/03/20 14:53:36",
+  "updated_at": 1773989616397,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "下雨的时候，为什么鸭子不去避雨？因为duck不避（大可不必）。"
+    "text": "小孩想弹贝斯，但是贝斯太重了，怎么办？过年的时候弹，因为每逢佳节倍思亲（贝斯轻）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3994.07,
-        "change": -12.48,
-        "change_pct": -0.31,
+        "price": 3958.65,
+        "change": -47.9,
+        "change_pct": -1.2,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,19 +184,19 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14033.51,
-        "change": 131.94,
-        "change_pct": 0.95,
-        "trend": "up",
+        "price": 13877.12,
+        "change": -24.45,
+        "change_pct": -0.18,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3390.68,
-        "change": 81.58,
-        "change_pct": 2.47,
+        "price": 3356.16,
+        "change": 47.06,
+        "change_pct": 1.42,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25311.96,
-        "change": -188.62,
-        "change_pct": -0.74,
+        "price": 25211.98,
+        "change": -288.6,
+        "change_pct": -1.13,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/20 13:34:16",
-    "updated_at": 1773984856598,
+    "updated": "2026/03/20 14:53:30",
+    "updated_at": 1773989610202,
     "trading_day": {
       "A": true,
       "HK": true,

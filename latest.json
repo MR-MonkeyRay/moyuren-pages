@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 06:56:46",
-  "updated_at": 1774047406151,
+  "updated": "2026/03/21 07:31:05",
+  "updated_at": 1774049465947,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "研究发现整天戴AirPods会影响爱情，因为AirPods没有音源（姻缘）。"
+    "text": "这个世界上谁最懂猪？蜘蛛（知猪）人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/21 06:56:41",
-    "updated_at": 1774047401041,
+    "updated": "2026/03/21 07:31:00",
+    "updated_at": 1774049460073,
     "trading_day": {
       "A": false,
       "HK": false,

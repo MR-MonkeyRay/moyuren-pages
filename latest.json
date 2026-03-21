@@ -1,7 +1,7 @@
 {
   "date": "2026-03-22",
-  "updated": "2026/03/22 04:24:59",
-  "updated_at": 1774124699968,
+  "updated": "2026/03/22 04:50:51",
+  "updated_at": 1774126251830,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "每次看穷游日志的感受都是，那么穷就别TM出去浪了。"
+    "text": "朋友说借二十块钱回头给你，借完钱之后我才知道，有些人一转身就是一辈子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/22 04:24:55",
-    "updated_at": 1774124695860,
+    "updated": "2026/03/22 04:50:47",
+    "updated_at": 1774126247299,
     "trading_day": {
       "A": false,
       "HK": false,

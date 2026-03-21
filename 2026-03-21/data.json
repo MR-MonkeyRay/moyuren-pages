@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 09:52:30",
-  "updated_at": 1774057950722,
+  "updated": "2026/03/21 12:05:10",
+  "updated_at": 1774065910503,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小明走着走着突然脚酸了，为什么？因为他踩到柠檬了。"
+    "text": "一只北极熊闲着无聊拔自己的毛，拔光后，它说：“我好冷啊！”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -0.96,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/03/21 09:52:25",
-    "updated_at": 1774057945103,
+    "updated": "2026/03/21 12:05:04",
+    "updated_at": 1774065904652,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

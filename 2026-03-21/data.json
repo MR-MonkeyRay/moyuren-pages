@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 16:31:18",
-  "updated_at": 1774081878236,
+  "updated": "2026/03/21 17:30:15",
+  "updated_at": 1774085415513,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你为什么放屁这么大声？因为我穿了喇叭裤。"
+    "text": "为什么i人身体都比较好？因为免e力强。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/21 16:31:13",
-    "updated_at": 1774081873292,
+    "updated": "2026/03/21 17:30:09",
+    "updated_at": 1774085409581,
     "trading_day": {
       "A": false,
       "HK": false,

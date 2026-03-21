@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 17:56:22",
-  "updated_at": 1774086982360,
+  "updated": "2026/03/21 18:27:53",
+  "updated_at": 1774088873456,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "儿子：爸爸，我以后想娶越南人。爸爸：我把你养这么大，你竟然想取悦男人？"
+    "text": "我最近发现了一个岛，你猜是什么岛？为你神魂颠倒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/21 17:56:16",
-    "updated_at": 1774086976987,
+    "updated": "2026/03/21 18:27:45",
+    "updated_at": 1774088865446,
     "trading_day": {
       "A": false,
       "HK": false,

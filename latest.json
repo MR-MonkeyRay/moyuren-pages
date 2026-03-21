@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 22:25:23",
-  "updated_at": 1774103123358,
+  "updated": "2026/03/21 22:52:50",
+  "updated_at": 1774104770854,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个面包走在路上，走着走着突然扭伤了脚，原来它是牛角包。"
+    "text": "1和2哪个数字最勤劳，哪个最懒惰？1懒惰，2勤劳，因为一不做二不休。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/21 22:25:17",
-    "updated_at": 1774103117887,
+    "updated": "2026/03/21 22:52:42",
+    "updated_at": 1774104762854,
     "trading_day": {
       "A": false,
       "HK": false,

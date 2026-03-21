@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 19:45:23",
-  "updated_at": 1774093523276,
+  "updated": "2026/03/21 20:44:12",
+  "updated_at": 1774097052575,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么90度的水不能喝？因为90度是直角，会卡嗓子。"
+    "text": "皮卡丘站起来会变成什么？皮卡兵。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/21 19:45:14",
-    "updated_at": 1774093514762,
+    "updated": "2026/03/21 20:44:05",
+    "updated_at": 1774097045152,
     "trading_day": {
       "A": false,
       "HK": false,

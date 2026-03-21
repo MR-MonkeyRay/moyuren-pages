@@ -1,7 +1,7 @@
 {
   "date": "2026-03-22",
-  "updated": "2026/03/22 05:47:36",
-  "updated_at": 1774129656573,
+  "updated": "2026/03/22 06:22:45",
+  "updated_at": 1774131765314,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "白雪公主诠释了，七个小屌丝对她再好，也不及高富帅的一个吻。"
+    "text": "投对了简历找到一份好工作，投对了胎，可以不用找工作。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/22 05:47:27",
-    "updated_at": 1774129647191,
+    "updated": "2026/03/22 06:22:39",
+    "updated_at": 1774131759664,
     "trading_day": {
       "A": false,
       "HK": false,

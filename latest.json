@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "updated": "2026/03/21 12:05:10",
-  "updated_at": 1774065910503,
+  "updated": "2026/03/21 13:26:43",
+  "updated_at": 1774070803711,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只北极熊闲着无聊拔自己的毛，拔光后，它说：“我好冷啊！”"
+    "text": "煎蛋爱上了荷包蛋，它拿着吉他，走到荷包蛋家楼下唱：“这是一首煎蛋（简单）的小情歌”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/21 12:05:04",
-    "updated_at": 1774065904652,
+    "updated": "2026/03/21 13:26:35",
+    "updated_at": 1774070795770,
     "trading_day": {
       "A": false,
       "HK": false,

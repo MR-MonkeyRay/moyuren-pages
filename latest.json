@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "updated": "2026/03/23 05:49:22",
-  "updated_at": 1774216162227,
+  "updated": "2026/03/23 06:23:47",
+  "updated_at": 1774218227160,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "大多数时候，消耗能量的都不是工作，而是工作中遇到的人。"
+    "text": "喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/23 05:49:16",
-    "updated_at": 1774216156795,
+    "updated": "2026/03/23 06:23:41",
+    "updated_at": 1774218221770,
     "trading_day": {
       "A": true,
       "HK": true,

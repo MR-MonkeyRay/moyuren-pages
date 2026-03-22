@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "updated": "2026/03/23 06:52:07",
-  "updated_at": 1774219927803,
+  "updated": "2026/03/23 07:25:58",
+  "updated_at": 1774221958867,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "别说自己是单身狗，狗还可以三妻四妾。"
+    "text": "别人关心你飞得高不高，飞得累不累，而我只关心你翅膀好吃吗？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/23 06:52:02",
-    "updated_at": 1774219922112,
+    "updated": "2026/03/23 07:25:53",
+    "updated_at": 1774221953071,
     "trading_day": {
       "A": true,
       "HK": true,

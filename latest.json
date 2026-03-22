@@ -1,7 +1,7 @@
 {
   "date": "2026-03-22",
-  "updated": "2026/03/22 07:48:16",
-  "updated_at": 1774136896414,
+  "updated": "2026/03/22 10:04:39",
+  "updated_at": 1774145079307,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "活了这么多年发现，唯一坚持下去的，就是每天给手机充电。"
+    "text": "你知道投资和投机的区别吗？一个是普通话，一个是广东话。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/22 07:48:12",
-    "updated_at": 1774136892356,
+    "updated": "2026/03/22 10:04:30",
+    "updated_at": 1774145070543,
     "trading_day": {
       "A": false,
       "HK": false,

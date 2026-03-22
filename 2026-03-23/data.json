@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "updated": "2026/03/23 00:28:48",
-  "updated_at": 1774196928040,
+  "updated": "2026/03/23 00:56:47",
+  "updated_at": 1774198607810,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "友谊是什么？你智障多年，我不离不弃。"
+    "text": "我不是那种落井下石的人，我是直接把井封了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/23 00:28:43",
-    "updated_at": 1774196923927,
+    "updated": "2026/03/23 00:56:40",
+    "updated_at": 1774198600442,
     "trading_day": {
       "A": true,
       "HK": true,

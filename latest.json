@@ -1,7 +1,7 @@
 {
   "date": "2026-03-24",
-  "updated": "2026/03/24 04:02:28",
-  "updated_at": 1774296148384,
+  "updated": "2026/03/24 05:02:09",
+  "updated_at": 1774299729377,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "愈是飞扬跋扈地高喊自己没错的人，心中愈是怀著恐惧，不想让人发现。"
+    "text": "温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46208.53,
-        "change": 631.06,
+        "price": 46208.47,
+        "change": 631.0,
         "change_pct": 1.38,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/24 04:02:22",
-    "updated_at": 1774296142801,
+    "updated": "2026/03/24 05:02:03",
+    "updated_at": 1774299723936,
     "trading_day": {
       "A": true,
       "HK": true,

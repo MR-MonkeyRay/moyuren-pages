@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "updated": "2026/03/23 16:53:42",
-  "updated_at": 1774256022246,
+  "updated": "2026/03/23 18:01:39",
+  "updated_at": 1774260099262,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "想要逼死一个强迫症，那实在是太简了。"
+    "text": "从今天开始，接受来自三大姑八大姨，灵魂的拷问。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/23 16:53:37",
-    "updated_at": 1774256017947,
+    "updated": "2026/03/23 18:01:31",
+    "updated_at": 1774260091457,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "updated": "2026/03/23 22:53:27",
-  "updated_at": 1774277607681,
+  "updated": "2026/03/23 23:58:56",
+  "updated_at": 1774281536817,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世界上最宽广的是海洋，比海洋更宽广的是天空，比天空更宽广的是考试范围。"
+    "text": "以前过年就图个热闹，现在就想图个清静。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46590.68,
-        "change": 1013.21,
-        "change_pct": 2.22,
+        "price": 46298.11,
+        "change": 720.64,
+        "change_pct": 1.58,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/23 22:53:21",
-    "updated_at": 1774277601782,
+    "updated": "2026/03/23 23:58:50",
+    "updated_at": 1774281530987,
     "trading_day": {
       "A": true,
       "HK": true,

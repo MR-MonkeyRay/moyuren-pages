@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "updated": "2026/03/23 15:44:13",
-  "updated_at": 1774251853032,
+  "updated": "2026/03/23 16:53:42",
+  "updated_at": 1774256022246,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "人如果没有梦想，那跟无忧无虑有什么分别？"
+    "text": "想要逼死一个强迫症，那实在是太简了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24386.2,
-        "change": -891.12,
-        "change_pct": -3.53,
+        "price": 24382.47,
+        "change": -894.85,
+        "change_pct": -3.54,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/23 15:44:06",
-    "updated_at": 1774251846080,
+    "updated": "2026/03/23 16:53:37",
+    "updated_at": 1774256017947,
     "trading_day": {
       "A": true,
       "HK": true,

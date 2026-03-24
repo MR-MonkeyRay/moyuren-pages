@@ -1,7 +1,7 @@
 {
   "date": "2026-03-24",
-  "updated": "2026/03/24 21:55:30",
-  "updated_at": 1774360530109,
+  "updated": "2026/03/24 22:56:47",
+  "updated_at": 1774364207008,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "后悔是一种耗费精神的情绪，后悔是比损失更大的损失，比错误更大的错误，所以不要后悔。"
+    "text": "学历代表过去，学习力掌握将来"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 45820.95,
-        "change": -387.52,
-        "change_pct": -0.84,
-        "trend": "down",
+        "price": 46284.64,
+        "change": 76.17,
+        "change_pct": 0.16,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/24 21:55:22",
-    "updated_at": 1774360522346,
+    "updated": "2026/03/24 22:56:40",
+    "updated_at": 1774364200232,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-24",
-  "updated": "2026/03/24 13:42:31",
-  "updated_at": 1774330951698,
+  "updated": "2026/03/24 15:02:28",
+  "updated_at": 1774335748687,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "出生是死亡的开始,死是现实的延续,生是梦的结束,喜欢我么?微笑是虚伪的,真实是痛苦的"
+    "text": "这是最好的时代，也是最坏的时代。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -172,9 +172,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3839.92,
-        "change": 26.64,
-        "change_pct": 0.7,
+        "price": 3881.28,
+        "change": 68.0,
+        "change_pct": 1.78,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -182,29 +182,29 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13327.85,
-        "change": -17.66,
-        "change_pct": -0.13,
-        "trend": "down",
+        "price": 13536.56,
+        "change": 191.05,
+        "change_pct": 1.43,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3198.3,
-        "change": -36.92,
-        "change_pct": -1.14,
-        "trend": "down",
+        "price": 3251.55,
+        "change": 16.33,
+        "change_pct": 0.5,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24765.66,
-        "change": 383.19,
-        "change_pct": 1.57,
+        "price": 24993.17,
+        "change": 610.7,
+        "change_pct": 2.5,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/24 13:42:25",
-    "updated_at": 1774330945908,
+    "updated": "2026/03/24 15:02:22",
+    "updated_at": 1774335742810,
     "trading_day": {
       "A": true,
       "HK": true,

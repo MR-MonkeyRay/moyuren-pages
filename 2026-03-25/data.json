@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 07:01:12",
-  "updated_at": 1774393272144,
+  "updated": "2026/03/25 07:54:35",
+  "updated_at": 1774396475669,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "冬天床以外的地方都是远方，手够不到的地方都是他乡，上个厕所都是出差。"
+    "text": "人们常说，不要让青春留白，所以我把它抹黑了！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 07:01:06",
-    "updated_at": 1774393266548,
+    "updated": "2026/03/25 07:54:29",
+    "updated_at": 1774396469835,
     "trading_day": {
       "A": true,
       "HK": true,

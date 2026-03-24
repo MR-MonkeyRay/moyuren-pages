@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 04:39:52",
-  "updated_at": 1774384792999,
+  "updated": "2026/03/25 05:36:39",
+  "updated_at": 1774388199828,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "有人存你号码是为了打给你，我不一样，我是为了不接。"
+    "text": "朋友说借二十块钱回头给你，借完钱之后我才知道，有些人一转身就是一辈子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 04:39:47",
-    "updated_at": 1774384787359,
+    "updated": "2026/03/25 05:36:34",
+    "updated_at": 1774388194189,
     "trading_day": {
       "A": true,
       "HK": true,

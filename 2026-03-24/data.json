@@ -1,7 +1,7 @@
 {
   "date": "2026-03-24",
-  "updated": "2026/03/24 12:22:45",
-  "updated_at": 1774326165234,
+  "updated": "2026/03/24 13:42:31",
+  "updated_at": 1774330951698,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "无论是现实还是虚拟，都没有多大的区别，只要知道自己活在那里。你是活着的。"
+    "text": "出生是死亡的开始,死是现实的延续,生是梦的结束,喜欢我么?微笑是虚伪的,真实是痛苦的"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -172,9 +172,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3849.34,
-        "change": 36.06,
-        "change_pct": 0.95,
+        "price": 3839.92,
+        "change": 26.64,
+        "change_pct": 0.7,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -182,19 +182,19 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13380.05,
-        "change": 34.54,
-        "change_pct": 0.26,
-        "trend": "up",
+        "price": 13327.85,
+        "change": -17.66,
+        "change_pct": -0.13,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3209.76,
-        "change": -25.46,
-        "change_pct": -0.79,
+        "price": 3198.3,
+        "change": -36.92,
+        "change_pct": -1.14,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -202,9 +202,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24829.92,
-        "change": 447.45,
-        "change_pct": 1.84,
+        "price": 24765.66,
+        "change": 383.19,
+        "change_pct": 1.57,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/24 12:22:39",
-    "updated_at": 1774326159575,
+    "updated": "2026/03/24 13:42:25",
+    "updated_at": 1774330945908,
     "trading_day": {
       "A": true,
       "HK": true,

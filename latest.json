@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 00:08:01",
-  "updated_at": 1774368481319,
+  "updated": "2026/03/25 01:30:19",
+  "updated_at": 1774373419938,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "毁灭友情的方式有许多，最彻底的一种是，借钱不还。"
+    "text": "有些事情还是要坚持的，比如睡觉，特别是闹钟响起的那一刻。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46244.75,
-        "change": 36.28,
-        "change_pct": 0.08,
-        "trend": "up",
+        "price": 46171.84,
+        "change": -36.63,
+        "change_pct": -0.08,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 00:07:44",
-    "updated_at": 1774368464326,
+    "updated": "2026/03/25 01:30:14",
+    "updated_at": 1774373414105,
     "trading_day": {
       "A": true,
       "HK": true,

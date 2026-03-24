@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 02:33:17",
-  "updated_at": 1774377197893,
+  "updated": "2026/03/25 03:52:41",
+  "updated_at": 1774381961862,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "没钱了来找我，让我告诉你没钱的日子，怎么过。"
+    "text": "我真的挺羡慕你的皮肤，你说你是怎么能，把它保养的那么厚呢？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46304.73,
-        "change": 96.26,
-        "change_pct": 0.21,
-        "trend": "up",
+        "price": 46132.65,
+        "change": -75.82,
+        "change_pct": -0.16,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 02:33:12",
-    "updated_at": 1774377192227,
+    "updated": "2026/03/25 03:52:36",
+    "updated_at": 1774381956507,
     "trading_day": {
       "A": true,
       "HK": true,

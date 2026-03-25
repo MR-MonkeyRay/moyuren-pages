@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 10:03:36",
-  "updated_at": 1774404216928,
+  "updated": "2026/03/25 12:32:08",
+  "updated_at": 1774413128868,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "用扯淡的态度，面对操蛋的人生。"
+    "text": "我真的挺羡慕你的皮肤，你说你是怎么能，把它保养的那么厚呢？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -173,9 +173,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3917.4,
-        "change": 36.12,
-        "change_pct": 0.93,
+        "price": 3915.49,
+        "change": 34.21,
+        "change_pct": 0.88,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -183,9 +183,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13795.9,
-        "change": 259.34,
-        "change_pct": 1.92,
+        "price": 13721.49,
+        "change": 184.93,
+        "change_pct": 1.37,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -193,9 +193,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3308.07,
-        "change": 56.52,
-        "change_pct": 1.74,
+        "price": 3292.55,
+        "change": 41.0,
+        "change_pct": 1.26,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25318.28,
-        "change": 254.57,
-        "change_pct": 1.02,
+        "price": 25073.05,
+        "change": 9.34,
+        "change_pct": 0.04,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 10:03:31",
-    "updated_at": 1774404211377,
+    "updated": "2026/03/25 12:32:03",
+    "updated_at": 1774413123495,
     "trading_day": {
       "A": true,
       "HK": true,

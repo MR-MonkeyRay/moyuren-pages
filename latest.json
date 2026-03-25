@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 15:14:44",
-  "updated_at": 1774422884268,
+  "updated": "2026/03/25 16:05:56",
+  "updated_at": 1774425956181,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "正月初五迎财神，那都是有钱人的事，你就洗洗睡吧。"
+    "text": "你曾是我的太阳，是我的整个世界，现在想想也就是个球。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25211.12,
-        "change": 147.41,
-        "change_pct": 0.59,
+        "price": 25283.6,
+        "change": 219.89,
+        "change_pct": 0.88,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 15:14:38",
-    "updated_at": 1774422878718,
+    "updated": "2026/03/25 16:05:46",
+    "updated_at": 1774425946237,
     "trading_day": {
       "A": true,
       "HK": true,

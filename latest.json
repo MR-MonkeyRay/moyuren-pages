@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 18:26:15",
-  "updated_at": 1774434375557,
+  "updated": "2026/03/25 19:13:06",
+  "updated_at": 1774437186033,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "所谓婚姻，就是两个家庭的，资产重组。"
+    "text": "什么都在涨价，就是人越来越贱。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 18:26:06",
-    "updated_at": 1774434366030,
+    "updated": "2026/03/25 19:12:56",
+    "updated_at": 1774437176567,
     "trading_day": {
       "A": true,
       "HK": true,

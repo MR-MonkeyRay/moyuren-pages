@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "updated": "2026/03/25 17:27:07",
-  "updated_at": 1774430827898,
+  "updated": "2026/03/25 18:26:15",
+  "updated_at": 1774434375557,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "2019年第一天，说出你的新年愿望，那就一定不会实现。"
+    "text": "所谓婚姻，就是两个家庭的，资产重组。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/25 17:27:02",
-    "updated_at": 1774430822272,
+    "updated": "2026/03/25 18:26:06",
+    "updated_at": 1774434366030,
     "trading_day": {
       "A": true,
       "HK": true,

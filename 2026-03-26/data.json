@@ -1,7 +1,7 @@
 {
   "date": "2026-03-26",
-  "updated": "2026/03/26 03:45:56",
-  "updated_at": 1774467956503,
+  "updated": "2026/03/26 04:36:55",
+  "updated_at": 1774471015319,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "别人都用名牌包包，而你，只能用用表情包。"
+    "text": "有时你会觉得自己就是个SB，别灰心，至少感觉是对的。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "家人们听说了吗，最近 KFC 和 vivo 合作推出了一款手机，叫肯德基疯狂星期四 vivo50",
+  "kfc_content": "群里某位妹妹，从进群的那天起，我就关注你了，经常翻你资料卡，不善言辞的我，不敢和你聊天，怕打扰你，但是我很确信这是喜欢，我想和你一起过，你要同意你就偷偷在这一天晚上付我 1884 元，其中 1314 是我对你的心意，520 是我对你的感情。至于还有 50 我今天自有安排",
   "date_info": {
     "year_month": "2026.03",
     "day": "26",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "家人们听说了吗，最近 KFC 和 vivo 合作推出了一款手机，叫肯德基疯狂星期四 vivo50"
+    "content": "群里某位妹妹，从进群的那天起，我就关注你了，经常翻你资料卡，不善言辞的我，不敢和你聊天，怕打扰你，但是我很确信这是喜欢，我想和你一起过，你要同意你就偷偷在这一天晚上付我 1884 元，其中 1314 是我对你的心意，520 是我对你的感情。至于还有 50 我今天自有安排"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46396.86,
-        "change": 272.8,
-        "change_pct": 0.59,
+        "price": 46429.49,
+        "change": 305.43,
+        "change_pct": 0.66,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/26 03:45:48",
-    "updated_at": 1774467948305,
+    "updated": "2026/03/26 04:36:49",
+    "updated_at": 1774471009868,
     "trading_day": {
       "A": true,
       "HK": true,

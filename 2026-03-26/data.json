@@ -1,7 +1,7 @@
 {
   "date": "2026-03-26",
-  "updated": "2026/03/26 06:34:19",
-  "updated_at": 1774478059881,
+  "updated": "2026/03/26 07:33:29",
+  "updated_at": 1774481609434,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "想要逼死一个强迫症，那实在是太简了。"
+    "text": "能从上到下摸遍你全身的，也就只有，车站安检员了。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋",
+  "kfc_content": "疯狂星期四文学不就是网络乞丐吗？最讨厌网络乞丐了，想吃肯德基的不会自己买吗？什么都伸手要，觉得我说得对的给我点一份",
   "date_info": {
     "year_month": "2026.03",
     "day": "26",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋"
+    "content": "疯狂星期四文学不就是网络乞丐吗？最讨厌网络乞丐了，想吃肯德基的不会自己买吗？什么都伸手要，觉得我说得对的给我点一份"
   },
   "stock_indices": {
     "items": [
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/26 06:34:12",
-    "updated_at": 1774478052618,
+    "updated": "2026/03/26 07:33:23",
+    "updated_at": 1774481603437,
     "trading_day": {
       "A": true,
       "HK": true,

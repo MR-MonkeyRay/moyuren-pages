@@ -1,7 +1,7 @@
 {
   "date": "2026-03-26",
-  "updated": "2026/03/26 22:04:38",
-  "updated_at": 1774533878259,
+  "updated": "2026/03/26 23:50:52",
+  "updated_at": 1774540252032,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "用扯淡的态度，面对操蛋的人生。"
+    "text": "作为失败的典型，你实在是太成功了。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的",
+  "kfc_content": "穿过挪威的森林，让我走进你的梦里，夕阳落在我的铠甲，王子不一定骑白马，现在是下午三点四十六分，你不必故作冷淡，我也不想做最后的纠缠。最后问一句，疯狂星期四，请我吃个肯德基？",
   "date_info": {
     "year_month": "2026.03",
     "day": "26",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的"
+    "content": "穿过挪威的森林，让我走进你的梦里，夕阳落在我的铠甲，王子不一定骑白马，现在是下午三点四十六分，你不必故作冷淡，我也不想做最后的纠缠。最后问一句，疯狂星期四，请我吃个肯德基？"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/03/26 22:04:28",
-    "updated_at": 1774533868436,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3889.08,
+        "change": -42.76,
+        "change_pct": -1.09,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 13606.44,
+        "change": -194.56,
+        "change_pct": -1.41,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3272.49,
+        "change": -44.48,
+        "change_pct": -1.34,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24856.43,
+        "change": -479.52,
+        "change_pct": -1.89,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 46230.43,
+        "change": -199.06,
+        "change_pct": -0.43,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/03/26 23:50:45",
+    "updated_at": 1774540245564,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-27",
-  "updated": "2026/03/27 00:59:22",
-  "updated_at": 1774544362940,
+  "updated": "2026/03/27 02:04:30",
+  "updated_at": 1774548270512,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "涩泪一滴，洗去铅华，不再倔强。叹息一声，掩去痛伤，留下坚强。苦笑一抹，隐去伤痛，从此图强！"
+    "text": "直到界限——超越界限，赌上自己。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46101.3,
-        "change": -328.19,
-        "change_pct": -0.71,
+        "price": 46000.59,
+        "change": -428.9,
+        "change_pct": -0.92,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/27 00:59:16",
-    "updated_at": 1774544356688,
+    "updated": "2026/03/27 02:04:23",
+    "updated_at": 1774548263818,
     "trading_day": {
       "A": true,
       "HK": true,

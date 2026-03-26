@@ -1,7 +1,7 @@
 {
   "date": "2026-03-26",
-  "updated": "2026/03/26 15:42:11",
-  "updated_at": 1774510931640,
+  "updated": "2026/03/26 16:54:10",
+  "updated_at": 1774515250791,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你不懂得安排自己的人生，会有很多人帮你安排，他们需要你做的事。"
+    "text": "如果吃鱼可以补脑，你这智商，至少要吃一条鲸鱼。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "守法朝朝忧闷，强梁夜夜欢歌。\n损人利己骑马骡，正直公平挨饿。\n修桥补路瞎眼，杀人放火儿多。\n我到西天问我佛，佛说：v 我 50 香火。",
+  "kfc_content": "我本是上市公司的老总，却被诡计多端的奸人所害！下属弃我！股东逐我！甚至清空我的股份！重来一生，我只想夺回我的公司！今天肯德基疯狂星期四，谁请我吃？",
   "date_info": {
     "year_month": "2026.03",
     "day": "26",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "守法朝朝忧闷，强梁夜夜欢歌。\n损人利己骑马骡，正直公平挨饿。\n修桥补路瞎眼，杀人放火儿多。\n我到西天问我佛，佛说：v 我 50 香火。"
+    "content": "我本是上市公司的老总，却被诡计多端的奸人所害！下属弃我！股东逐我！甚至清空我的股份！重来一生，我只想夺回我的公司！今天肯德基疯狂星期四，谁请我吃？"
   },
   "stock_indices": {
     "items": [
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24808.76,
-        "change": -527.19,
-        "change_pct": -2.08,
+        "price": 24856.43,
+        "change": -479.52,
+        "change_pct": -1.89,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/26 15:42:03",
-    "updated_at": 1774510923767,
+    "updated": "2026/03/26 16:54:05",
+    "updated_at": 1774515245484,
     "trading_day": {
       "A": true,
       "HK": true,

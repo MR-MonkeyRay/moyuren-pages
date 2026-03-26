@@ -1,7 +1,7 @@
 {
   "date": "2026-03-26",
-  "updated": "2026/03/26 10:08:59",
-  "updated_at": 1774490939692,
+  "updated": "2026/03/26 12:44:08",
+  "updated_at": 1774500248977,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你可以像只猪一样懒，却无法像只猪一样，懒得心安理得。"
+    "text": "据说到2020年，要消灭贫困人口，我还不想死。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "[游戏科学] 恭喜你被选中参与黑神话：悟空线下试玩会活动，请于 8 月 15 日之前在 heishenhuavme50.com 网站中提交你的确认信息，并于 8 月 20 日上午五点前到达缅甸北部低族特区思瓦酒店一楼展厅，希望您能妥善安排好行程",
+  "kfc_content": "有人明天一起去寺庙求姻缘签吗，有一家挺灵验的，只需要五十就能算命占卜祈福，好像叫什么疯狂星期寺",
   "date_info": {
     "year_month": "2026.03",
     "day": "26",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "[游戏科学] 恭喜你被选中参与黑神话：悟空线下试玩会活动，请于 8 月 15 日之前在 heishenhuavme50.com 网站中提交你的确认信息，并于 8 月 20 日上午五点前到达缅甸北部低族特区思瓦酒店一楼展厅，希望您能妥善安排好行程"
+    "content": "有人明天一起去寺庙求姻缘签吗，有一家挺灵验的，只需要五十就能算命占卜祈福，好像叫什么疯狂星期寺"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3923.08,
-        "change": -8.76,
-        "change_pct": -0.22,
+        "price": 3909.16,
+        "change": -22.68,
+        "change_pct": -0.58,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -188,29 +188,29 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13838.16,
-        "change": 37.16,
-        "change_pct": 0.27,
-        "trend": "up",
+        "price": 13748.3,
+        "change": -52.7,
+        "change_pct": -0.38,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3337.5,
-        "change": 20.53,
-        "change_pct": 0.62,
-        "trend": "up",
+        "price": 3314.64,
+        "change": -2.33,
+        "change_pct": -0.07,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25055.03,
-        "change": -280.92,
-        "change_pct": -1.11,
+        "price": 24988.04,
+        "change": -347.91,
+        "change_pct": -1.37,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/26 10:08:53",
-    "updated_at": 1774490933987,
+    "updated": "2026/03/26 12:44:04",
+    "updated_at": 1774500244342,
     "trading_day": {
       "A": true,
       "HK": true,

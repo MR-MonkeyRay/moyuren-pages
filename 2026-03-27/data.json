@@ -1,7 +1,7 @@
 {
   "date": "2026-03-27",
-  "updated": "2026/03/27 15:41:02",
-  "updated_at": 1774597262504,
+  "updated": "2026/03/27 16:51:39",
+  "updated_at": 1774601499580,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "即使无法掌握未来，也请不要忘了明天。"
+    "text": "就算记忆被消除了，还是请你和我做朋友吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24956.96,
-        "change": 100.53,
-        "change_pct": 0.4,
+        "price": 24951.88,
+        "change": 95.45,
+        "change_pct": 0.38,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/27 15:40:55",
-    "updated_at": 1774597255272,
+    "updated": "2026/03/27 16:51:34",
+    "updated_at": 1774601494845,
     "trading_day": {
       "A": true,
       "HK": true,

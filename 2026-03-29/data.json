@@ -1,7 +1,7 @@
 {
   "date": "2026-03-29",
-  "updated": "2026/03/29 00:32:08",
-  "updated_at": 1774715528418,
+  "updated": "2026/03/29 01:27:39",
+  "updated_at": 1774718859802,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "两个i人谈恋爱就会有一个e人暴富，为什么？因为i²=-1。"
+    "text": "我在路上买了个馍，回去吃后泪流不止，原来这是好寂馍（寞）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/29 00:32:01",
-    "updated_at": 1774715521853,
+    "updated": "2026/03/29 01:27:34",
+    "updated_at": 1774718854394,
     "trading_day": {
       "A": false,
       "HK": false,

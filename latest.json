@@ -1,7 +1,7 @@
 {
   "date": "2026-03-29",
-  "updated": "2026/03/29 02:39:16",
-  "updated_at": 1774723156094,
+  "updated": "2026/03/29 03:28:38",
+  "updated_at": 1774726118872,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "我是女的，这个饮料我不能喝，为什么？因为它难（男）喝。"
+    "text": "路易十六是不能用来开玩笑的，为什么？因为开玩笑总要有个头。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/29 02:39:09",
-    "updated_at": 1774723149325,
+    "updated": "2026/03/29 03:28:33",
+    "updated_at": 1774726113022,
     "trading_day": {
       "A": false,
       "HK": false,

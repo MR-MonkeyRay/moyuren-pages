@@ -1,7 +1,7 @@
 {
   "date": "2026-03-29",
-  "updated": "2026/03/29 15:33:34",
-  "updated_at": 1774769614628,
+  "updated": "2026/03/29 16:38:10",
+  "updated_at": 1774773490250,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一山不容二虎，二山会怎样？二三得六。"
+    "text": "你知道长沙发生了什么吗？生了短沙发。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,14 +170,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/03/29 15:33:24",
-    "updated_at": 1774769604929,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3913.72,
+        "change": 24.64,
+        "change_pct": 0.63,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 13760.37,
+        "change": 153.93,
+        "change_pct": 1.13,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3295.88,
+        "change": 23.39,
+        "change_pct": 0.71,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24951.88,
+        "change": 95.45,
+        "change_pct": 0.38,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 45166.64,
+        "change": -793.47,
+        "change_pct": -1.73,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": false
+      }
+    ],
+    "updated": "2026/03/29 16:38:04",
+    "updated_at": 1774773484713,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

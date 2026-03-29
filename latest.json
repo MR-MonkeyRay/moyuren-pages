@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "updated": "2026/03/30 00:39:38",
-  "updated_at": 1774802378473,
+  "updated": "2026/03/30 01:29:02",
+  "updated_at": 1774805342243,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "别人都是为怎么挣钱而发愁，我却是为怎么花钱而发愁，二十块怎么能花到下月十号？"
+    "text": "买房的钱还没攒完，就要开始攒买坟的钱了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/30 00:39:33",
-    "updated_at": 1774802373359,
+    "updated": "2026/03/30 01:28:56",
+    "updated_at": 1774805336646,
     "trading_day": {
       "A": true,
       "HK": true,

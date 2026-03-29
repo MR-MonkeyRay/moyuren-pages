@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "updated": "2026/03/30 02:55:22",
-  "updated_at": 1774810522837,
+  "updated": "2026/03/30 03:31:27",
+  "updated_at": 1774812687669,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "宁可美的千篇一律 ，也不要丑的各有千秋。"
+    "text": "在出租车内疯狂放臭屁，可以极大的降低，司机带你绕路的概率。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/30 02:55:17",
-    "updated_at": 1774810517385,
+    "updated": "2026/03/30 03:31:23",
+    "updated_at": 1774812683263,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "updated": "2026/03/30 05:41:23",
-  "updated_at": 1774820483150,
+  "updated": "2026/03/30 06:29:26",
+  "updated_at": 1774823366589,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "问君能有几多愁，恰似一群太监上青楼。"
+    "text": "愿你的烦恼，像你的头发一样，越来越少。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/30 05:41:18",
-    "updated_at": 1774820478388,
+    "updated": "2026/03/30 06:29:22",
+    "updated_at": 1774823362682,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-29",
-  "updated": "2026/03/29 22:32:48",
-  "updated_at": 1774794768257,
+  "updated": "2026/03/29 23:29:54",
+  "updated_at": 1774798194351,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
+    "text": "A和C谁比较矮？是A，因为ABCD（A比C低）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/03/29 22:32:41",
-    "updated_at": 1774794761507,
+    "updated": "2026/03/29 23:29:45",
+    "updated_at": 1774798185844,
     "trading_day": {
       "A": false,
       "HK": false,

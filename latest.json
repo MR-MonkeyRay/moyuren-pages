@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 03:54:54",
-  "updated_at": 1774900494359,
+  "updated": "2026/03/31 04:43:22",
+  "updated_at": 1774903402632,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你不会死的，因为我会保护你."
+    "text": "人是一种只要想做就一定成功的生物，人只有在说放弃的时候才无论怎么做都不行。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 45230.81,
-        "change": 64.17,
-        "change_pct": 0.14,
+        "price": 45216.14,
+        "change": 49.5,
+        "change_pct": 0.11,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 03:54:48",
-    "updated_at": 1774900488708,
+    "updated": "2026/03/31 04:43:16",
+    "updated_at": 1774903396761,
     "trading_day": {
       "A": true,
       "HK": true,

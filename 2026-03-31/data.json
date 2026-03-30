@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 04:43:22",
-  "updated_at": 1774903402632,
+  "updated": "2026/03/31 05:40:38",
+  "updated_at": 1774906838055,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "人是一种只要想做就一定成功的生物，人只有在说放弃的时候才无论怎么做都不行。"
+    "text": "正人行邪法，邪法亦正，邪人行正法，正法亦邪，一切唯心造"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 04:43:16",
-    "updated_at": 1774903396761,
+    "updated": "2026/03/31 05:40:31",
+    "updated_at": 1774906831118,
     "trading_day": {
       "A": true,
       "HK": true,

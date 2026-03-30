@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 00:04:50",
-  "updated_at": 1774886690031,
+  "updated": "2026/03/31 01:28:25",
+  "updated_at": 1774891705055,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "注意到失去的东西，为什么……总是……在失去之后才能注意到呢？"
+    "text": "时间再拉长一点，让我有时间收拾一下心情。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 45466.62,
-        "change": 299.98,
-        "change_pct": 0.66,
+        "price": 45304.53,
+        "change": 137.89,
+        "change_pct": 0.31,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 00:04:43",
-    "updated_at": 1774886683873,
+    "updated": "2026/03/31 01:28:21",
+    "updated_at": 1774891701010,
     "trading_day": {
       "A": true,
       "HK": true,

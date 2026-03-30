@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "updated": "2026/03/30 18:15:52",
-  "updated_at": 1774865752909,
+  "updated": "2026/03/30 19:32:43",
+  "updated_at": 1774870363639,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "挣钱是一种能力，花钱是一种技术，我能力有限技术却很高。"
+    "text": "说好我们一起到白头，你却偷偷焗了油。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/30 18:15:43",
-    "updated_at": 1774865743873,
+    "updated": "2026/03/30 19:32:38",
+    "updated_at": 1774870358072,
     "trading_day": {
       "A": true,
       "HK": true,

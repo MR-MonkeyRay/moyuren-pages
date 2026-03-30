@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "updated": "2026/03/30 15:06:17",
-  "updated_at": 1774854377763,
+  "updated": "2026/03/30 16:54:38",
+  "updated_at": 1774860878161,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "2018年，88喽。"
+    "text": "生平最讨厌溜须拍马的人，和他们在一起，显得老子很不会做人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24726.38,
-        "change": -225.5,
-        "change_pct": -0.9,
+        "price": 24750.79,
+        "change": -201.09,
+        "change_pct": -0.81,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/30 15:06:10",
-    "updated_at": 1774854370634,
+    "updated": "2026/03/30 16:54:33",
+    "updated_at": 1774860873804,
     "trading_day": {
       "A": true,
       "HK": true,

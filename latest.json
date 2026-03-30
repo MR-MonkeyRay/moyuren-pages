@@ -1,7 +1,7 @@
 {
   "date": "2026-03-30",
-  "updated": "2026/03/30 19:32:43",
-  "updated_at": 1774870363639,
+  "updated": "2026/03/30 21:15:46",
+  "updated_at": 1774876546134,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "说好我们一起到白头，你却偷偷焗了油。"
+    "text": "没有看不到的消息，只有不想回的人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/30 19:32:38",
-    "updated_at": 1774870358072,
+    "updated": "2026/03/30 21:15:38",
+    "updated_at": 1774876538992,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 01:28:25",
-  "updated_at": 1774891705055,
+  "updated": "2026/03/31 02:32:12",
+  "updated_at": 1774895532296,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "时间再拉长一点，让我有时间收拾一下心情。"
+    "text": "一切出发点和落脚点都该是：胸怀坦荡和问心无愧。阳光底下留不住秘密"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 45304.53,
-        "change": 137.89,
-        "change_pct": 0.31,
+        "price": 45279.78,
+        "change": 113.14,
+        "change_pct": 0.25,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 01:28:21",
-    "updated_at": 1774891701010,
+    "updated": "2026/03/31 02:32:07",
+    "updated_at": 1774895527196,
     "trading_day": {
       "A": true,
       "HK": true,

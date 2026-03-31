@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 14:18:09",
-  "updated_at": 1774937889513,
+  "updated": "2026/03/31 15:51:00",
+  "updated_at": 1774943460825,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "人生就像是在布满地雷的房间里过着家里蹲的生活。"
+    "text": "星星为什么看起来如此渺小，是因为它把自己放得太高"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3904.86,
-        "change": -18.43,
-        "change_pct": -0.47,
+        "price": 3891.86,
+        "change": -31.43,
+        "change_pct": -0.8,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13531.77,
-        "change": -194.42,
-        "change_pct": -1.42,
+        "price": 13478.06,
+        "change": -248.13,
+        "change_pct": -1.81,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3201.84,
-        "change": -71.52,
-        "change_pct": -2.18,
+        "price": 3184.95,
+        "change": -88.41,
+        "change_pct": -2.7,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24632.12,
-        "change": -118.67,
-        "change_pct": -0.48,
+        "price": 24731.9,
+        "change": -18.89,
+        "change_pct": -0.08,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 14:18:03",
-    "updated_at": 1774937883448,
+    "updated": "2026/03/31 15:50:55",
+    "updated_at": 1774943455259,
     "trading_day": {
       "A": true,
       "HK": true,

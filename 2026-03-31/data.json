@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 18:08:05",
-  "updated_at": 1774951685920,
+  "updated": "2026/03/31 19:26:58",
+  "updated_at": 1774956418017,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "现实中，有人幸福，就必定有人被抛弃，有人光鲜，就必须有人满身泥泞。"
+    "text": "不要以为爸爸说的都是正确的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 18:08:00",
-    "updated_at": 1774951680762,
+    "updated": "2026/03/31 19:26:47",
+    "updated_at": 1774956407906,
     "trading_day": {
       "A": true,
       "HK": true,

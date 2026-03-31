@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 07:33:24",
-  "updated_at": 1774913604329,
+  "updated": "2026/03/31 10:10:39",
+  "updated_at": 1774923039464,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "任何人都可以变得狠毒，只要你经历过嫉妒。"
+    "text": "我经常怀念童年，它经久耐用，质量良好。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3923.29,
-        "change": 9.57,
-        "change_pct": 0.24,
+        "price": 3942.09,
+        "change": 18.8,
+        "change_pct": 0.48,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,30 +184,30 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13726.19,
-        "change": -34.18,
-        "change_pct": -0.25,
-        "trend": "down",
+        "price": 13766.32,
+        "change": 40.13,
+        "change_pct": 0.29,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3273.36,
-        "change": -22.52,
-        "change_pct": -0.68,
-        "trend": "down",
+        "price": 3274.09,
+        "change": 0.73,
+        "change_pct": 0.02,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24750.79,
-        "change": -201.09,
-        "change_pct": -0.81,
-        "trend": "down",
+        "price": 24847.26,
+        "change": 96.47,
+        "change_pct": 0.39,
+        "trend": "up",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 07:33:18",
-    "updated_at": 1774913598707,
+    "updated": "2026/03/31 10:10:33",
+    "updated_at": 1774923033510,
     "trading_day": {
       "A": true,
       "HK": true,

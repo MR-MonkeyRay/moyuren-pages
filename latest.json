@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 16:57:38",
-  "updated_at": 1774947458467,
+  "updated": "2026/03/31 18:08:05",
+  "updated_at": 1774951685920,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "暗弱，面对未知却不怀有敬畏之心却用好奇心来对待。"
+    "text": "现实中，有人幸福，就必定有人被抛弃，有人光鲜，就必须有人满身泥泞。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 16:57:33",
-    "updated_at": 1774947453016,
+    "updated": "2026/03/31 18:08:00",
+    "updated_at": 1774951680762,
     "trading_day": {
       "A": true,
       "HK": true,

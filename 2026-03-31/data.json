@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "updated": "2026/03/31 20:07:11",
-  "updated_at": 1774958831964,
+  "updated": "2026/03/31 22:08:25",
+  "updated_at": 1774966105413,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "三次元的都是渣，我有自己深信的世界。"
+    "text": "无论世界多么让我们失望，都不能放弃梦想。如果这个世界变得不太好了，那就让我变的更强，让这个世界变的更好，哪怕只有一点点"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 45216.14,
-        "change": 49.5,
-        "change_pct": 0.11,
+        "price": 45802.01,
+        "change": 585.87,
+        "change_pct": 1.3,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/03/31 20:07:05",
-    "updated_at": 1774958825706,
+    "updated": "2026/03/31 22:08:15",
+    "updated_at": 1774966095070,
     "trading_day": {
       "A": true,
       "HK": true,

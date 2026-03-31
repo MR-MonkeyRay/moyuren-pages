@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "updated": "2026/04/01 00:55:35",
-  "updated_at": 1774976135630,
+  "updated": "2026/04/01 01:55:33",
+  "updated_at": 1774979733127,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "所谓成长，就是在听到波涛汹涌四个字，再也联想不到大海了。"
+    "text": "把秋衣塞进秋裤，把秋裤塞进棉袜里，是对冬天最起码的尊重。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46027.5,
-        "change": 811.36,
-        "change_pct": 1.79,
+        "price": 46174.51,
+        "change": 958.37,
+        "change_pct": 2.12,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/01 00:55:29",
-    "updated_at": 1774976129444,
+    "updated": "2026/04/01 01:55:27",
+    "updated_at": 1774979727697,
     "trading_day": {
       "A": true,
       "HK": true,

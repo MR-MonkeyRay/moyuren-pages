@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "updated": "2026/04/01 21:18:36",
-  "updated_at": 1775049516028,
+  "updated": "2026/04/01 22:49:13",
+  "updated_at": 1775054953454,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "车到山前必有雾，船到桥头自然沉。"
+    "text": "手机的寿命是人类的1/20，请放下身边的杂事，好好陪陪它！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46341.51,
-        "change": 1125.37,
-        "change_pct": 2.49,
+        "price": 46693.44,
+        "change": 351.93,
+        "change_pct": 0.76,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/01 21:18:26",
-    "updated_at": 1775049506638,
+    "updated": "2026/04/01 22:49:04",
+    "updated_at": 1775054944649,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "updated": "2026/04/01 10:27:40",
-  "updated_at": 1775010460828,
+  "updated": "2026/04/01 13:12:32",
+  "updated_at": 1775020352291,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世间很多事随着时间流逝，终究会变好的，比如你的胖终会变成好胖。"
+    "text": "今年是过去十年最差的一年，好消息是，今年是之后十年最好的一年。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -173,9 +173,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3941.48,
-        "change": 49.62,
-        "change_pct": 1.27,
+        "price": 3947.32,
+        "change": 55.46,
+        "change_pct": 1.43,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -183,9 +183,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13648.69,
-        "change": 170.63,
-        "change_pct": 1.27,
+        "price": 13671.0,
+        "change": 192.94,
+        "change_pct": 1.43,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -193,9 +193,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3228.0,
-        "change": 43.05,
-        "change_pct": 1.35,
+        "price": 3232.81,
+        "change": 47.86,
+        "change_pct": 1.5,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25259.34,
-        "change": 471.2,
-        "change_pct": 1.9,
+        "price": 25282.06,
+        "change": 493.92,
+        "change_pct": 1.99,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/01 10:27:30",
-    "updated_at": 1775010450579,
+    "updated": "2026/04/01 13:12:26",
+    "updated_at": 1775020346516,
     "trading_day": {
       "A": true,
       "HK": true,

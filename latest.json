@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "updated": "2026/04/01 19:52:31",
-  "updated_at": 1775044351775,
+  "updated": "2026/04/01 21:18:36",
+  "updated_at": 1775049516028,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "总结一下你的2018，留下你的不开心，让大家开心开心。"
+    "text": "车到山前必有雾，船到桥头自然沉。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/01 19:52:27",
-    "updated_at": 1775044347277,
+    "updated": "2026/04/01 21:18:26",
+    "updated_at": 1775049506638,
     "trading_day": {
       "A": true,
       "HK": true,

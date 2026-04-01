@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "updated": "2026/04/01 17:44:52",
-  "updated_at": 1775036692603,
+  "updated": "2026/04/01 18:54:04",
+  "updated_at": 1775040844017,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "以前上学是拿钱混日子，现在工作了，是在拿日子混钱。"
+    "text": "现在的年轻人，除了睡觉时间不想睡，其它时间都想睡觉。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/01 17:44:47",
-    "updated_at": 1775036687114,
+    "updated": "2026/04/01 18:53:58",
+    "updated_at": 1775040838483,
     "trading_day": {
       "A": true,
       "HK": true,

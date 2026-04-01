@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "updated": "2026/04/01 18:54:04",
-  "updated_at": 1775040844017,
+  "updated": "2026/04/01 19:52:31",
+  "updated_at": 1775044351775,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "现在的年轻人，除了睡觉时间不想睡，其它时间都想睡觉。"
+    "text": "总结一下你的2018，留下你的不开心，让大家开心开心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/01 18:53:58",
-    "updated_at": 1775040838483,
+    "updated": "2026/04/01 19:52:27",
+    "updated_at": 1775044347277,
     "trading_day": {
       "A": true,
       "HK": true,

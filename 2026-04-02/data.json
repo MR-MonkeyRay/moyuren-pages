@@ -1,7 +1,7 @@
 {
   "date": "2026-04-02",
-  "updated": "2026/04/02 22:02:37",
-  "updated_at": 1775138557262,
+  "updated": "2026/04/02 23:34:53",
+  "updated_at": 1775144093062,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "接金铲铲代打 188💰上大师 如果没上退 138 块 留 50 辛苦费 有需要的直接给 50 块就可以了 号也不用给我 反正我又打不上去 省得退钱了 麻烦要打的快点 要吃肯德基了",
+  "kfc_content": "退游了，出极品国服瓦号，号上 20 个女大学生，5 个还是初恋，7 个暧昧对象都是校花级别。还有一个网恋下个月奔现，19 岁喜欢舞蹈和瑜伽，还是业余 coser。聊天记录全在，上号即可接盘，信得过先付 50 定金",
   "date_info": {
     "year_month": "2026.04",
     "day": "2",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "接金铲铲代打 188💰上大师 如果没上退 138 块 留 50 辛苦费 有需要的直接给 50 块就可以了 号也不用给我 反正我又打不上去 省得退钱了 麻烦要打的快点 要吃肯德基了"
+    "content": "退游了，出极品国服瓦号，号上 20 个女大学生，5 个还是初恋，7 个暧昧对象都是校花级别。还有一个网恋下个月奔现，19 岁喜欢舞蹈和瑜伽，还是业余 coser。聊天记录全在，上号即可接盘，信得过先付 50 定金"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/02 22:02:26",
-    "updated_at": 1775138546759,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3919.29,
+        "change": -29.26,
+        "change_pct": -0.74,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 13486.94,
+        "change": -219.58,
+        "change_pct": -1.6,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3172.65,
+        "change": -74.87,
+        "change_pct": -2.31,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25116.53,
+        "change": -177.5,
+        "change_pct": -0.7,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 46462.78,
+        "change": -102.96,
+        "change_pct": -0.22,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/04/02 23:34:40",
+    "updated_at": 1775144080932,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

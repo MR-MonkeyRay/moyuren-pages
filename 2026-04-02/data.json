@@ -1,7 +1,7 @@
 {
   "date": "2026-04-02",
-  "updated": "2026/04/02 16:55:04",
-  "updated_at": 1775120104956,
+  "updated": "2026/04/02 18:01:05",
+  "updated_at": 1775124065811,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "肯德基（震声）\n一旦接受了自己的饥饿🎶那我就是 超值的🎵\n疯狂疯狂星期四🔉九块九块九块九🔉\n疯狂疯狂星期四🔉九块九块九块九🔉\n疯狂疯狂星期四🔉九块九块九块九🔉\n变身！！🎶\n疯狂疯狂星期四🔉九块九块九块九🔉\n释放自我（字正腔圆）🔊\n哼啊啊啊啊啊啊啊啊🎶\n🎤🎶吮→指→原↗味↑↑🎶\n🎶黄↓金↑脆↑皮↓～～～🎵\n🎶只→要→九→块↗九↘↗～～～～～～🎶",
+  "kfc_content": "오늘은 내 인생에서 가장 어두운 순간이지만 얄미운 친구도 없고 혼자 밤을 새웠다. 나는 내 일만 하는구나. 그래서 그들이 물질적인 보상을 받을 수 있기를 바랍니다. 오늘은 마침 켄터키의 미친 목요일이다. 누군가의 바보가 나에게 50 위안을 줄 수 있습니까?",
   "date_info": {
     "year_month": "2026.04",
     "day": "2",
@@ -171,68 +171,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "肯德基（震声）\n一旦接受了自己的饥饿🎶那我就是 超值的🎵\n疯狂疯狂星期四🔉九块九块九块九🔉\n疯狂疯狂星期四🔉九块九块九块九🔉\n疯狂疯狂星期四🔉九块九块九块九🔉\n变身！！🎶\n疯狂疯狂星期四🔉九块九块九块九🔉\n释放自我（字正腔圆）🔊\n哼啊啊啊啊啊啊啊啊🎶\n🎤🎶吮→指→原↗味↑↑🎶\n🎶黄↓金↑脆↑皮↓～～～🎵\n🎶只→要→九→块↗九↘↗～～～～～～🎶"
+    "content": "오늘은 내 인생에서 가장 어두운 순간이지만 얄미운 친구도 없고 혼자 밤을 새웠다. 나는 내 일만 하는구나. 그래서 그들이 물질적인 보상을 받을 수 있기를 바랍니다. 오늘은 마침 켄터키의 미친 목요일이다. 누군가의 바보가 나에게 50 위안을 줄 수 있습니까?"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3919.29,
-        "change": -29.26,
-        "change_pct": -0.74,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 13486.94,
-        "change": -219.58,
-        "change_pct": -1.6,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3172.65,
-        "change": -74.87,
-        "change_pct": -2.31,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25116.53,
-        "change": -177.5,
-        "change_pct": -0.7,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 46565.74,
-        "change": 224.23,
-        "change_pct": 0.48,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/04/02 16:54:59",
-    "updated_at": 1775120099100,
+    "items": [],
+    "updated": "2026/04/02 18:00:56",
+    "updated_at": 1775124056330,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

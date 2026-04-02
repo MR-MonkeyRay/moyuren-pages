@@ -1,7 +1,7 @@
 {
   "date": "2026-04-02",
-  "updated": "2026/04/02 10:07:17",
-  "updated_at": 1775095637029,
+  "updated": "2026/04/02 12:40:33",
+  "updated_at": 1775104833663,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "全员核酸检测通知 明日（9 月 29 日，周四）本群进行全员核酸检测，检测时间、地点安排如下：\n 一、人员：所有人 \n1. 检测时间：17:00—18:30 \n2. 检测地点：肯德基大门口 \n二、 要求 \n1. 戴口罩，保持一米线，自觉排队，准备好微信扫一扫，v 我 50 后迅速离开。  \n2. 请认真核对人数，确保不漏一人",
+  "kfc_content": "我叫夯大力，立冬给我准备了糖炒栗子了没有，没准备的自动绝交，再 v 我 50 吃疯狂星期四，然后再给我点杯奶茶，再给我两万块钱，懂吗你们",
   "date_info": {
     "year_month": "2026.04",
     "day": "2",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "全员核酸检测通知 明日（9 月 29 日，周四）本群进行全员核酸检测，检测时间、地点安排如下：\n 一、人员：所有人 \n1. 检测时间：17:00—18:30 \n2. 检测地点：肯德基大门口 \n二、 要求 \n1. 戴口罩，保持一米线，自觉排队，准备好微信扫一扫，v 我 50 后迅速离开。  \n2. 请认真核对人数，确保不漏一人"
+    "content": "我叫夯大力，立冬给我准备了糖炒栗子了没有，没准备的自动绝交，再 v 我 50 吃疯狂星期四，然后再给我点杯奶茶，再给我两万块钱，懂吗你们"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/02 10:07:08",
-    "updated_at": 1775095628476,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3927.6,
+        "change": -20.95,
+        "change_pct": -0.53,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 13548.46,
+        "change": -158.06,
+        "change_pct": -1.15,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3189.72,
+        "change": -57.8,
+        "change_pct": -1.78,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25017.23,
+        "change": -276.8,
+        "change_pct": -1.09,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 46565.74,
+        "change": 224.23,
+        "change_pct": 0.48,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/04/02 12:40:27",
+    "updated_at": 1775104827533,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 03:37:21",
-  "updated_at": 1775245041465,
+  "updated": "2026/04/04 04:34:35",
+  "updated_at": 1775248475159,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "行动被评价和人格被评价完全是两码事。"
+    "text": "一个人对自己动机的诚实程度，决定着一个人是虚伪还是真诚。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 03:37:16",
-    "updated_at": 1775245036072,
+    "updated": "2026/04/04 04:34:29",
+    "updated_at": 1775248469804,
     "trading_day": {
       "A": false,
       "HK": false,

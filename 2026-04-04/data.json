@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 00:53:32",
-  "updated_at": 1775235212171,
+  "updated": "2026/04/04 01:33:47",
+  "updated_at": 1775237627361,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果你是魔女，我只要化身魔王就可以了。"
+    "text": "我相信，因为是你啊！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 00:53:27",
-    "updated_at": 1775235207581,
+    "updated": "2026/04/04 01:33:41",
+    "updated_at": 1775237621846,
     "trading_day": {
       "A": false,
       "HK": false,

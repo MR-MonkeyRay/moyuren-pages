@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 06:31:33",
-  "updated_at": 1775255493057,
+  "updated": "2026/04/04 07:32:32",
+  "updated_at": 1775259152075,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果你一个人把什么都做完了，那我做什么？"
+    "text": "如果不了解自己是一个会许下什么愿望的人，想要得到什么，想要成为什么样子，了解自己是什么样的人。那么很有可能会迷失在人生的路上。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 06:31:27",
-    "updated_at": 1775255487343,
+    "updated": "2026/04/04 07:32:26",
+    "updated_at": 1775259146852,
     "trading_day": {
       "A": false,
       "HK": false,

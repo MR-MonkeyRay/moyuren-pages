@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 17:36:30",
-  "updated_at": 1775295390677,
+  "updated": "2026/04/04 18:31:27",
+  "updated_at": 1775298687127,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "没有什么过不去，只是再也回不去。"
+    "text": "认为自己没听说过的事情就不存在于世，这可是无可救药的傲慢啊"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 17:36:26",
-    "updated_at": 1775295386018,
+    "updated": "2026/04/04 18:31:22",
+    "updated_at": 1775298682005,
     "trading_day": {
       "A": false,
       "HK": false,

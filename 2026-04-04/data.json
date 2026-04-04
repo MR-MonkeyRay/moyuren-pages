@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 19:53:10",
-  "updated_at": 1775303590954,
+  "updated": "2026/04/04 20:52:18",
+  "updated_at": 1775307138755,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "无论在哪里遇到你，我都会喜欢上你。"
+    "text": "伟大的人不是生下来就伟大的，而是在成长过程中显示其伟大的"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 19:53:05",
-    "updated_at": 1775303585259,
+    "updated": "2026/04/04 20:52:10",
+    "updated_at": 1775307130758,
     "trading_day": {
       "A": false,
       "HK": false,

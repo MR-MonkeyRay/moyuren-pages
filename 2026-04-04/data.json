@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 19:27:43",
-  "updated_at": 1775302063892,
+  "updated": "2026/04/04 19:53:10",
+  "updated_at": 1775303590954,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "竟敢愚弄本王，你以为这是新年福袋吗？！"
+    "text": "无论在哪里遇到你，我都会喜欢上你。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 19:27:37",
-    "updated_at": 1775302057144,
+    "updated": "2026/04/04 19:53:05",
+    "updated_at": 1775303585259,
     "trading_day": {
       "A": false,
       "HK": false,

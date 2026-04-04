@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 23:29:53",
-  "updated_at": 1775316593589,
+  "updated": "2026/04/04 23:57:16",
+  "updated_at": 1775318236868,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "受尽苦难而不厌，此乃阿修罗之道。"
+    "text": "你愿用一生，等待，然后呵护这短暂的光亮吗？即使，明知它会消失。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 23:29:46",
-    "updated_at": 1775316586242,
+    "updated": "2026/04/04 23:57:10",
+    "updated_at": 1775318230502,
     "trading_day": {
       "A": false,
       "HK": false,

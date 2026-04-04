@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 10:01:21",
-  "updated_at": 1775268081233,
+  "updated": "2026/04/04 12:28:59",
+  "updated_at": 1775276939393,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "这所谓的人世间，为什么总是天不从人愿呢？"
+    "text": "人还是应该活得明朗、正直才对。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 10:01:16",
-    "updated_at": 1775268076231,
+    "updated": "2026/04/04 12:28:54",
+    "updated_at": 1775276934141,
     "trading_day": {
       "A": false,
       "HK": false,

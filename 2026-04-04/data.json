@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 22:32:21",
-  "updated_at": 1775313141655,
+  "updated": "2026/04/04 23:29:53",
+  "updated_at": 1775316593589,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "考试的话，努力学习就能通过；金钱的话，努力赚，就会有。"
+    "text": "受尽苦难而不厌，此乃阿修罗之道。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 22:32:17",
-    "updated_at": 1775313137143,
+    "updated": "2026/04/04 23:29:46",
+    "updated_at": 1775316586242,
     "trading_day": {
       "A": false,
       "HK": false,

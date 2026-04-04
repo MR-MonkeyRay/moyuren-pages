@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 16:38:48",
-  "updated_at": 1775291928879,
+  "updated": "2026/04/04 17:36:30",
+  "updated_at": 1775295390677,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我们从没有忘记真相，只是我们越来越会说谎"
+    "text": "没有什么过不去，只是再也回不去。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 16:38:42",
-    "updated_at": 1775291922941,
+    "updated": "2026/04/04 17:36:26",
+    "updated_at": 1775295386018,
     "trading_day": {
       "A": false,
       "HK": false,

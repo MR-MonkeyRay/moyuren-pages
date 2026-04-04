@@ -1,7 +1,7 @@
 {
   "date": "2026-04-04",
-  "updated": "2026/04/04 18:31:27",
-  "updated_at": 1775298687127,
+  "updated": "2026/04/04 19:27:43",
+  "updated_at": 1775302063892,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "认为自己没听说过的事情就不存在于世，这可是无可救药的傲慢啊"
+    "text": "竟敢愚弄本王，你以为这是新年福袋吗？！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/04 18:31:22",
-    "updated_at": 1775298682005,
+    "updated": "2026/04/04 19:27:37",
+    "updated_at": 1775302057144,
     "trading_day": {
       "A": false,
       "HK": false,

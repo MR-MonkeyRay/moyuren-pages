@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "updated": "2026/04/06 02:57:19",
-  "updated_at": 1775415439355,
+  "updated": "2026/04/06 03:35:49",
+  "updated_at": 1775417749200,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "柯南一直惯着小兰，他可真是个惯兰（灌篮）高手。"
+    "text": "“小鬼，你修的什么法，为何我伤不了你？” “我修的未成年保护法。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/06 02:57:12",
-    "updated_at": 1775415432000,
+    "updated": "2026/04/06 03:35:44",
+    "updated_at": 1775417744086,
     "trading_day": {
       "A": false,
       "HK": false,

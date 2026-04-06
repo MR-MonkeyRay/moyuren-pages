@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "updated": "2026/04/06 16:52:29",
-  "updated_at": 1775465549023,
+  "updated": "2026/04/06 18:07:57",
+  "updated_at": 1775470077653,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小红和小蓝打架，请问谁赢了？小蓝，因为小红输（书）。"
+    "text": "美女的房间一般都是乱的，毕竟是乱室佳人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/06 16:52:22",
-    "updated_at": 1775465542161,
+    "updated": "2026/04/06 18:07:51",
+    "updated_at": 1775470071757,
     "trading_day": {
       "A": false,
       "HK": false,

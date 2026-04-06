@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "updated": "2026/04/06 22:44:48",
-  "updated_at": 1775486688860,
+  "updated": "2026/04/06 23:44:08",
+  "updated_at": 1775490248421,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你为什么放屁这么大声？因为我穿了喇叭裤。"
+    "text": "一个糖在北极走着走着，觉得好冷，于是就变成了冰糖。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -211,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46605.21,
-        "change": 100.54,
-        "change_pct": 0.22,
+        "price": 46564.11,
+        "change": 59.44,
+        "change_pct": 0.13,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/06 22:44:42",
-    "updated_at": 1775486682954,
+    "updated": "2026/04/06 23:44:01",
+    "updated_at": 1775490241586,
     "trading_day": {
       "A": false,
       "HK": false,

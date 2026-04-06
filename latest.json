@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "updated": "2026/04/07 00:44:16",
-  "updated_at": 1775493856228,
+  "updated": "2026/04/07 01:42:59",
+  "updated_at": 1775497379603,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "时光终有一天会将我们分开，但是，即使如此，在那日降临之前，让我们一直在一起吧。"
+    "text": "点赞真是一种非常高冷的表现方式，不给对方任何回复的机会，就只是默默的告诉别人，朕已阅。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -210,16 +210,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46627.41,
-        "change": 122.74,
-        "change_pct": 0.26,
+        "price": 46533.91,
+        "change": 29.24,
+        "change_pct": 0.06,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/07 00:44:11",
-    "updated_at": 1775493851939,
+    "updated": "2026/04/07 01:42:53",
+    "updated_at": 1775497373526,
     "trading_day": {
       "A": true,
       "HK": false,

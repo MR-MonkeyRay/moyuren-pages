@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "updated": "2026/04/07 04:36:21",
-  "updated_at": 1775507781012,
+  "updated": "2026/04/07 05:36:37",
+  "updated_at": 1775511397588,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "只要是抓住了的东西，任何一样都放不开"
+    "text": "最后的最后，竟然超越了自己的神话。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/07 04:36:15",
-    "updated_at": 1775507775923,
+    "updated": "2026/04/07 05:36:32",
+    "updated_at": 1775511392008,
     "trading_day": {
       "A": true,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "updated": "2026/04/06 13:10:00",
-  "updated_at": 1775452200621,
+  "updated": "2026/04/06 15:08:33",
+  "updated_at": 1775459313458,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "猫会喵喵喵，狗会汪汪汪，鸭会嘎嘎嘎，鸡会什么？鸡会留给有准备的人。"
+    "text": "教练：要拐弯了，向左打死。学员：那郭碧婷怎么办？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/06 13:09:54",
-    "updated_at": 1775452194816,
+    "updated": "2026/04/06 15:08:28",
+    "updated_at": 1775459308022,
     "trading_day": {
       "A": false,
       "HK": false,

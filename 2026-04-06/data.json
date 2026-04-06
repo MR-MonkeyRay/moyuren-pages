@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "updated": "2026/04/06 20:04:51",
-  "updated_at": 1775477091960,
+  "updated": "2026/04/06 21:51:20",
+  "updated_at": 1775483480367,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "村民：我们也不知那是何妖精，他们来无影去无踪的，每次都把村子洗劫一空。悟空：喔，原来是洗劫精（洗洁精）啊。"
+    "text": "什么水果容易走丢？榴莲，因为榴莲忘返（流连忘返）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -211,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46504.67,
-        "change": -61.07,
-        "change_pct": -0.13,
+        "price": 46471.93,
+        "change": -32.74,
+        "change_pct": -0.07,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/06 20:04:46",
-    "updated_at": 1775477086631,
+    "updated": "2026/04/06 21:51:13",
+    "updated_at": 1775483473259,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "updated": "2026/04/07 07:34:27",
-  "updated_at": 1775518467411,
+  "updated": "2026/04/07 10:11:22",
+  "updated_at": 1775527882456,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "没有谁比谁更不幸福，只有谁比谁更不知道幸福。"
+    "text": "“你没车没房没卡,拿什么和我谈恋爱？”“......我有高达......”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,30 +170,30 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3880.1,
-        "change": -39.19,
-        "change_pct": -1.0,
-        "trend": "down",
+        "price": 3901.27,
+        "change": 21.17,
+        "change_pct": 0.55,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13352.9,
-        "change": -134.04,
-        "change_pct": -0.99,
-        "trend": "down",
+        "price": 13454.26,
+        "change": 101.36,
+        "change_pct": 0.76,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3149.6,
-        "change": -23.05,
-        "change_pct": -0.73,
-        "trend": "down",
+        "price": 3172.24,
+        "change": 22.64,
+        "change_pct": 0.72,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/07 07:34:23",
-    "updated_at": 1775518463298,
+    "updated": "2026/04/07 10:11:13",
+    "updated_at": 1775527873213,
     "trading_day": {
       "A": true,
       "HK": false,

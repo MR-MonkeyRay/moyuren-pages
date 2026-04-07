@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "updated": "2026/04/07 21:15:55",
-  "updated_at": 1775567755368,
+  "updated": "2026/04/07 22:52:12",
+  "updated_at": 1775573532583,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "路还长呢，怎么能在这里就停下。"
+    "text": "一旦分隔两地就不配叫朋友，只能算是旧识。和自己的人生不再有瓜葛的通过点，记忆中的陈旧标签。明明都知道，却假装没这回事。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -210,16 +210,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 46669.88,
-        "change": 165.21,
-        "change_pct": 0.36,
-        "trend": "up",
+        "price": 46407.68,
+        "change": -262.2,
+        "change_pct": -0.56,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/07 21:15:49",
-    "updated_at": 1775567749507,
+    "updated": "2026/04/07 22:52:06",
+    "updated_at": 1775573526674,
     "trading_day": {
       "A": true,
       "HK": false,

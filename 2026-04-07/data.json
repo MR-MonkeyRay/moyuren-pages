@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "updated": "2026/04/07 14:20:32",
-  "updated_at": 1775542832866,
+  "updated": "2026/04/07 15:55:45",
+  "updated_at": 1775548545897,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "大概 大家只能办到力所能及的事 就算你勉强自己做办不到的事 也只会让自己痛苦罢了"
+    "text": "我从没有后悔过。无论发生什么事，就只有「后悔」我绝对不会。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,9 +170,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3885.9,
-        "change": 5.8,
-        "change_pct": 0.15,
+        "price": 3890.16,
+        "change": 10.06,
+        "change_pct": 0.26,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -180,9 +180,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13399.28,
-        "change": 46.38,
-        "change_pct": 0.35,
+        "price": 13400.41,
+        "change": 47.51,
+        "change_pct": 0.36,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -190,9 +190,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3165.79,
-        "change": 16.19,
-        "change_pct": 0.51,
+        "price": 3160.82,
+        "change": 11.22,
+        "change_pct": 0.36,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/07 14:20:28",
-    "updated_at": 1775542828462,
+    "updated": "2026/04/07 15:55:38",
+    "updated_at": 1775548538352,
     "trading_day": {
       "A": true,
       "HK": false,

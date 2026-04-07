@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "updated": "2026/04/07 15:55:45",
-  "updated_at": 1775548545897,
+  "updated": "2026/04/07 17:02:53",
+  "updated_at": 1775552573313,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我从没有后悔过。无论发生什么事，就只有「后悔」我绝对不会。"
+    "text": "黎明之神披着嫣红的衣裳，已踏上了东边的山麓"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/07 15:55:38",
-    "updated_at": 1775548538352,
+    "updated": "2026/04/07 17:02:49",
+    "updated_at": 1775552569094,
     "trading_day": {
       "A": true,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "updated": "2026/04/07 17:02:53",
-  "updated_at": 1775552573313,
+  "updated": "2026/04/07 18:33:46",
+  "updated_at": 1775558026828,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "黎明之神披着嫣红的衣裳，已踏上了东边的山麓"
+    "text": "无论你期望或者不期望，清晨依旧来临。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/07 17:02:49",
-    "updated_at": 1775552569094,
+    "updated": "2026/04/07 18:33:41",
+    "updated_at": 1775558021370,
     "trading_day": {
       "A": true,
       "HK": false,

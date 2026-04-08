@@ -1,7 +1,7 @@
 {
   "date": "2026-04-08",
-  "updated": "2026/04/08 07:06:05",
-  "updated_at": 1775603165491,
+  "updated": "2026/04/08 08:02:13",
+  "updated_at": 1775606533365,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "工作做得再好，老板也只会说：这是你应该做的。但摸鱼带来的快乐，是实实在在的！"
+    "text": "我的座右铭：能坐着绝不站着，能躺着绝不坐着，能摸鱼绝不工作。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/08 07:05:59",
-    "updated_at": 1775603159675,
+    "updated": "2026/04/08 08:02:07",
+    "updated_at": 1775606527765,
     "trading_day": {
       "A": true,
       "HK": true,

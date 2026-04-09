@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 01:57:55",
-  "updated_at": 1775757475512,
+  "updated": "2026/04/10 03:14:37",
+  "updated_at": 1775762077271,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "一顿操作猛如虎，一看工资二千五。"
+    "text": "目前最靠谱的发财方法，就是，你家拆迁了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48289.67,
-        "change": 379.75,
-        "change_pct": 0.79,
+        "price": 48230.51,
+        "change": 320.59,
+        "change_pct": 0.67,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 01:57:51",
-    "updated_at": 1775757471103,
+    "updated": "2026/04/10 03:14:31",
+    "updated_at": 1775762071830,
     "trading_day": {
       "A": true,
       "HK": true,

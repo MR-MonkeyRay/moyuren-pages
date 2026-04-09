@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "updated": "2026/04/09 07:36:42",
-  "updated_at": 1775691402072,
+  "updated": "2026/04/09 10:05:44",
+  "updated_at": 1775700344693,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "陈水扁什么时候会想要统一？买方便面的时候。"
+    "text": "君要臣死，臣facebook。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "肯德基这逼养的，怎么又到了周四，这一次，肯德基疯狂星期四，我一定要吃，我本是显赫世家的少爷，却被诡计多端的奸人所害！家人弃我！师门逐我！甚至断我灵脉！重生一世，今天肯德基疯狂星期四！谁请我吃？家人们，别他妈垂头丧气了！知道今天是什么日子吗？今天是肯德基 fucking crazy Thursday！吮指原味鸡 10 块钱 2 个，家人们 v 我 100，我他妈要吃 20 个！",
+  "kfc_content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。写作要点：\n1. 你要去肯德基参加 “疯狂星期四” 活动\n2. 向他介绍 “疯狂星期四” 的活动\n3. 要求他 V 你 50\n注意事项：\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名\n3. 请将 Peter 的 50 V 给我，否则不给分",
   "date_info": {
     "year_month": "2026.04",
     "day": "9",
@@ -167,47 +167,47 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "肯德基这逼养的，怎么又到了周四，这一次，肯德基疯狂星期四，我一定要吃，我本是显赫世家的少爷，却被诡计多端的奸人所害！家人弃我！师门逐我！甚至断我灵脉！重生一世，今天肯德基疯狂星期四！谁请我吃？家人们，别他妈垂头丧气了！知道今天是什么日子吗？今天是肯德基 fucking crazy Thursday！吮指原味鸡 10 块钱 2 个，家人们 v 我 100，我他妈要吃 20 个！"
+    "content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。写作要点：\n1. 你要去肯德基参加 “疯狂星期四” 活动\n2. 向他介绍 “疯狂星期四” 的活动\n3. 要求他 V 你 50\n注意事项：\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名\n3. 请将 Peter 的 50 V 给我，否则不给分"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3995.0,
-        "change": 104.84,
-        "change_pct": 2.7,
-        "trend": "up",
+        "price": 3973.73,
+        "change": -21.27,
+        "change_pct": -0.53,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14042.5,
-        "change": 642.09,
-        "change_pct": 4.79,
-        "trend": "up",
+        "price": 14018.06,
+        "change": -24.44,
+        "change_pct": -0.17,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3347.61,
-        "change": 186.79,
-        "change_pct": 5.91,
-        "trend": "up",
+        "price": 3328.19,
+        "change": -19.42,
+        "change_pct": -0.58,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25893.02,
-        "change": 776.49,
-        "change_pct": 3.09,
-        "trend": "up",
+        "price": 25749.32,
+        "change": -143.7,
+        "change_pct": -0.55,
+        "trend": "down",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/09 07:36:36",
-    "updated_at": 1775691396820,
+    "updated": "2026/04/09 10:05:39",
+    "updated_at": 1775700339366,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 06:04:20",
-  "updated_at": 1775772260341,
+  "updated": "2026/04/10 07:08:37",
+  "updated_at": 1775776117959,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "所谓复习就是，把不会的东西再确认一遍，你确实不会。"
+    "text": "友谊是什么？你智障多年，我不离不弃。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 06:04:15",
-    "updated_at": 1775772255000,
+    "updated": "2026/04/10 07:08:32",
+    "updated_at": 1775776112737,
     "trading_day": {
       "A": true,
       "HK": true,

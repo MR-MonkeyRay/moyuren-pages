@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 04:11:58",
-  "updated_at": 1775765518558,
+  "updated": "2026/04/10 05:08:29",
+  "updated_at": 1775768909090,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "赚钱就像便秘 — 老难了，花钱就像拉稀 — 憋不住。"
+    "text": "用扯淡的态度，面对操蛋的人生。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 04:11:53",
-    "updated_at": 1775765513209,
+    "updated": "2026/04/10 05:08:25",
+    "updated_at": 1775768905181,
     "trading_day": {
       "A": true,
       "HK": true,

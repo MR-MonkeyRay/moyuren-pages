@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 00:47:25",
-  "updated_at": 1775753245528,
+  "updated": "2026/04/10 01:57:55",
+  "updated_at": 1775757475512,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世人笑我太疯癫，我笑世人这么快就看出来了。"
+    "text": "一顿操作猛如虎，一看工资二千五。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48171.28,
-        "change": 261.36,
-        "change_pct": 0.55,
+        "price": 48289.67,
+        "change": 379.75,
+        "change_pct": 0.79,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 00:47:19",
-    "updated_at": 1775753239363,
+    "updated": "2026/04/10 01:57:51",
+    "updated_at": 1775757471103,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 15:43:47",
-  "updated_at": 1775807027358,
+  "updated": "2026/04/10 17:07:29",
+  "updated_at": 1775812049101,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。"
+    "text": "人丑就要多读书，这样以后，才能有钱整容。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25863.3,
-        "change": 110.9,
-        "change_pct": 0.43,
+        "price": 25893.54,
+        "change": 141.14,
+        "change_pct": 0.55,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 15:43:43",
-    "updated_at": 1775807023067,
+    "updated": "2026/04/10 17:07:23",
+    "updated_at": 1775812043277,
     "trading_day": {
       "A": true,
       "HK": true,

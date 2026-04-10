@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 19:46:56",
-  "updated_at": 1775821616956,
+  "updated": "2026/04/10 21:06:18",
+  "updated_at": 1775826378505,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "大家喜欢和你一起，是为了，显示他们的好看。"
+    "text": "男人单身叫单身狗，女的单身叫狗不理。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3986.22,
-        "change": 20.05,
-        "change_pct": 0.51,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 14309.47,
-        "change": 313.2,
-        "change_pct": 2.24,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3448.79,
-        "change": 125.49,
-        "change_pct": 3.78,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25893.54,
-        "change": 141.14,
-        "change_pct": 0.55,
-        "trend": "up",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 48185.8,
-        "change": 275.88,
-        "change_pct": 0.58,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/04/10 19:46:51",
-    "updated_at": 1775821611635,
+    "items": [],
+    "updated": "2026/04/10 21:06:07",
+    "updated_at": 1775826367572,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

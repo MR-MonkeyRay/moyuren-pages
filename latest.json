@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "updated": "2026/04/10 22:33:42",
-  "updated_at": 1775831622090,
+  "updated": "2026/04/10 23:51:49",
+  "updated_at": 1775836309977,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "别说自己是单身狗，狗还可以三妻四妾。"
+    "text": "我的钱虽然不是大风刮来的，但像被大风刮走的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48089.84,
-        "change": -95.96,
-        "change_pct": -0.2,
+        "price": 47981.08,
+        "change": -204.72,
+        "change_pct": -0.42,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/10 22:33:36",
-    "updated_at": 1775831616662,
+    "updated": "2026/04/10 23:51:44",
+    "updated_at": 1775836304825,
     "trading_day": {
       "A": true,
       "HK": true,

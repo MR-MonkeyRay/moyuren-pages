@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 06:30:49",
-  "updated_at": 1775946649690,
+  "updated": "2026/04/12 07:32:08",
+  "updated_at": 1775950328740,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "朋友说借二十块钱回头给你，借完钱之后我才知道，有些人一转身就是一辈子。"
+    "text": "听说自从你得了神经病，整个人都精神多了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 06:30:44",
-    "updated_at": 1775946644300,
+    "updated": "2026/04/12 07:32:03",
+    "updated_at": 1775950323011,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 04:31:15",
-  "updated_at": 1775939475358,
+  "updated": "2026/04/12 05:31:11",
+  "updated_at": 1775943071846,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "用扯淡的态度，面对操蛋的人生。"
+    "text": "两个人吵架，打他是解决不了问题的，但是解气啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 04:31:10",
-    "updated_at": 1775939470783,
+    "updated": "2026/04/12 05:31:05",
+    "updated_at": 1775943065724,
     "trading_day": {
       "A": false,
       "HK": false,

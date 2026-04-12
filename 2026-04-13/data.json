@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "updated": "2026/04/13 06:32:54",
-  "updated_at": 1776033174637,
+  "updated": "2026/04/13 07:33:14",
+  "updated_at": 1776036794701,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "许仙给老婆买了一顶帽子，白娘子戴上后感觉头很重，因为那是顶鸭舌（压蛇）帽。"
+    "text": "一朵花为什么好笑？因为它有梗。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/13 06:32:48",
-    "updated_at": 1776033168964,
+    "updated": "2026/04/13 07:33:08",
+    "updated_at": 1776036788483,
     "trading_day": {
       "A": true,
       "HK": true,

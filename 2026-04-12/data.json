@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 19:56:18",
-  "updated_at": 1775994978980,
+  "updated": "2026/04/12 21:02:28",
+  "updated_at": 1775998948557,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世界上没有无缘无故的爱，也没有无缘无故的恨，却TM偏偏有无缘无故的胖！"
+    "text": "众里寻她千百度，蓦然回首，那人依旧对我不屑一顾。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 19:56:13",
-    "updated_at": 1775994973154,
+    "updated": "2026/04/12 21:02:21",
+    "updated_at": 1775998941891,
     "trading_day": {
       "A": false,
       "HK": false,

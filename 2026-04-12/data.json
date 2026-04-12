@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 23:04:14",
-  "updated_at": 1776006254813,
+  "updated": "2026/04/12 23:59:01",
+  "updated_at": 1776009541241,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你不是走在牛B的道路上，而是仍在，装逼的道路上溜达。"
+    "text": "夜撩了酒，酒撩了你 你撩了我，穷困潦倒了我们。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 23:04:08",
-    "updated_at": 1776006248163,
+    "updated": "2026/04/12 23:58:56",
+    "updated_at": 1776009536281,
     "trading_day": {
       "A": false,
       "HK": false,

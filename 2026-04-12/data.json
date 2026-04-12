@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 22:08:46",
-  "updated_at": 1776002926097,
+  "updated": "2026/04/12 23:04:14",
+  "updated_at": 1776006254813,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果不能美得惊人，那就丑得销魂吧！"
+    "text": "你不是走在牛B的道路上，而是仍在，装逼的道路上溜达。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 22:08:39",
-    "updated_at": 1776002919069,
+    "updated": "2026/04/12 23:04:08",
+    "updated_at": 1776006248163,
     "trading_day": {
       "A": false,
       "HK": false,

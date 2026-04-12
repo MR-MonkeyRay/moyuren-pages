@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "updated": "2026/04/13 01:33:26",
-  "updated_at": 1776015206074,
+  "updated": "2026/04/13 02:45:32",
+  "updated_at": 1776019532568,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
+    "text": "医生给我开了药丸，我掉到了地上一直响，仔细一看，原来是好响出去丸（好想出去玩）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/13 01:33:21",
-    "updated_at": 1776015201251,
+    "updated": "2026/04/13 02:45:26",
+    "updated_at": 1776019526961,
     "trading_day": {
       "A": true,
       "HK": true,

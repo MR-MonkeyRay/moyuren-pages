@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "updated": "2026/04/12 14:53:06",
-  "updated_at": 1775976786915,
+  "updated": "2026/04/12 16:02:01",
+  "updated_at": 1775980921821,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "这两天雨水多，下雨记得打伞，否则脑袋容易进水。"
+    "text": "你可以像只猪一样懒，却无法像只猪一样，懒得心安理得。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/12 14:52:57",
-    "updated_at": 1775976777327,
+    "updated": "2026/04/12 16:01:54",
+    "updated_at": 1775980914564,
     "trading_day": {
       "A": false,
       "HK": false,

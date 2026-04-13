@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 03:22:37",
-  "updated_at": 1776108157444,
+  "updated": "2026/04/14 04:31:02",
+  "updated_at": 1776112262163,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "长得帅的踢键子都帅，长得丑的，打高尔夫都像在铲屎。"
+    "text": "咸鱼翻身是为了晒得透彻，你翻身是因为手被压麻了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48058.1,
-        "change": 141.53,
-        "change_pct": 0.3,
+        "price": 48218.25,
+        "change": 301.68,
+        "change_pct": 0.63,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 03:22:32",
-    "updated_at": 1776108152119,
+    "updated": "2026/04/14 04:30:56",
+    "updated_at": 1776112256101,
     "trading_day": {
       "A": true,
       "HK": true,

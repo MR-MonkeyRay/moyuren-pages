@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "updated": "2026/04/13 10:32:10",
-  "updated_at": 1776047530693,
+  "updated": "2026/04/13 13:39:45",
+  "updated_at": 1776058785285,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "三角形去烧烤摊点了五串大腰子，等半天也没上，于是，它变成什么了？等腰三角形。"
+    "text": "你知道哆啦A梦为什么没有脖子吗？因为蓝脖积泥（兰博基尼）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,19 +174,19 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3984.4,
-        "change": -1.82,
-        "change_pct": -0.05,
-        "trend": "down",
+        "price": 3990.48,
+        "change": 4.26,
+        "change_pct": 0.11,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14395.76,
-        "change": 86.29,
-        "change_pct": 0.6,
+        "price": 14430.31,
+        "change": 120.84,
+        "change_pct": 0.84,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3481.84,
-        "change": 33.05,
-        "change_pct": 0.96,
+        "price": 3487.54,
+        "change": 38.75,
+        "change_pct": 1.12,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25609.05,
-        "change": -284.49,
-        "change_pct": -1.1,
+        "price": 25613.76,
+        "change": -279.78,
+        "change_pct": -1.08,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -219,15 +219,15 @@
         "change_pct": -0.56,
         "trend": "down",
         "market": "US",
-        "is_trading_day": false
+        "is_trading_day": true
       }
     ],
-    "updated": "2026/04/13 10:32:06",
-    "updated_at": 1776047526850,
+    "updated": "2026/04/13 13:39:38",
+    "updated_at": 1776058778328,
     "trading_day": {
       "A": true,
       "HK": true,
-      "US": false
+      "US": true
     },
     "is_stale": false
   }

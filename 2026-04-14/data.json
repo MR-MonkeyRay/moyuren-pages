@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 00:42:07",
-  "updated_at": 1776098527738,
+  "updated": "2026/04/14 01:59:01",
+  "updated_at": 1776103141883,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "还没来得及去沾花惹草，就被人拔光了。"
+    "text": "失眠睡不着，可能是因为，你手机还有电。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 47853.25,
-        "change": -63.32,
-        "change_pct": -0.13,
-        "trend": "down",
+        "price": 47925.44,
+        "change": 8.87,
+        "change_pct": 0.02,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 00:42:02",
-    "updated_at": 1776098522960,
+    "updated": "2026/04/14 01:58:55",
+    "updated_at": 1776103135895,
     "trading_day": {
       "A": true,
       "HK": true,

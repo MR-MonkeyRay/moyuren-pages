@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 15:06:42",
-  "updated_at": 1776150402174,
+  "updated": "2026/04/14 17:01:02",
+  "updated_at": 1776157262215,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "从今天开始，接受来自三大姑八大姨，灵魂的拷问。"
+    "text": "世人笑我太疯癫，我笑世人这么快就看出来了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25932.45,
-        "change": 271.6,
-        "change_pct": 1.06,
+        "price": 25872.32,
+        "change": 211.47,
+        "change_pct": 0.82,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 15:06:33",
-    "updated_at": 1776150393791,
+    "updated": "2026/04/14 17:00:57",
+    "updated_at": 1776157257142,
     "trading_day": {
       "A": true,
       "HK": true,

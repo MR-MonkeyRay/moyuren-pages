@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 19:56:20",
-  "updated_at": 1776167780857,
+  "updated": "2026/04/14 21:27:15",
+  "updated_at": 1776173235598,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "投对了简历找到一份好工作，投对了胎，可以不用找工作。"
+    "text": "以前过年就图个热闹，现在就想图个清静。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 19:56:16",
-    "updated_at": 1776167776699,
+    "updated": "2026/04/14 21:27:10",
+    "updated_at": 1776173230710,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 17:01:02",
-  "updated_at": 1776157262215,
+  "updated": "2026/04/14 18:44:37",
+  "updated_at": 1776163477053,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世人笑我太疯癫，我笑世人这么快就看出来了。"
+    "text": "我已经不是那个花五十块钱，也要考虑很久的小孩了，现在五块钱都要深思熟虑。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 17:00:57",
-    "updated_at": 1776157257142,
+    "updated": "2026/04/14 18:44:30",
+    "updated_at": 1776163470440,
     "trading_day": {
       "A": true,
       "HK": true,

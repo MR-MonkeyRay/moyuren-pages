@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "updated": "2026/04/14 21:27:15",
-  "updated_at": 1776173235598,
+  "updated": "2026/04/14 23:01:41",
+  "updated_at": 1776178901305,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "以前过年就图个热闹，现在就想图个清静。"
+    "text": "用钱当然买不到快乐，只是有钱，别人会想办法让你快乐。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48218.25,
-        "change": 301.68,
-        "change_pct": 0.63,
+        "price": 48502.59,
+        "change": 284.34,
+        "change_pct": 0.59,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/14 21:27:10",
-    "updated_at": 1776173230710,
+    "updated": "2026/04/14 23:01:33",
+    "updated_at": 1776178893602,
     "trading_day": {
       "A": true,
       "HK": true,

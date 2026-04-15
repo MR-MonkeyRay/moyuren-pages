@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "updated": "2026/04/16 01:39:04",
-  "updated_at": 1776274744590,
+  "updated": "2026/04/16 03:15:09",
+  "updated_at": 1776280509496,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小明在自助餐厅倒果汁时遭人暗杀，只因他汁倒（自导）得太多了。"
+    "text": "上课老师抽查背课文，小猪、小狗、小猫都举手了，老师会叫谁？小狗，因为旺旺仙贝（先背）。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "近期求姻缘去哪个寺比较灵啊？\nA、浙江省杭州灵隐寺\nB、广东省深圳弘法寺\nC、江苏省江市甘露寺\nD、肯德基疯狂星期寺",
+  "kfc_content": "肯德基到底给了多少钱，让你们每个星期都编新段子，我就不信肯德基有这么大的魔力，转我 50，我今天亲自去肯德基看看到底是怎么个事",
   "date_info": {
     "year_month": "2026.04",
     "day": "16",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "近期求姻缘去哪个寺比较灵啊？\nA、浙江省杭州灵隐寺\nB、广东省深圳弘法寺\nC、江苏省江市甘露寺\nD、肯德基疯狂星期寺"
+    "content": "肯德基到底给了多少钱，让你们每个星期都编新段子，我就不信肯德基有这么大的魔力，转我 50，我今天亲自去肯德基看看到底是怎么个事"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/16 01:38:55",
-    "updated_at": 1776274735340,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4027.21,
+        "change": 0.58,
+        "change_pct": 0.01,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 14498.45,
+        "change": -141.5,
+        "change_pct": -0.97,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3514.96,
+        "change": -43.57,
+        "change_pct": -1.22,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25947.32,
+        "change": 75.0,
+        "change_pct": 0.29,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 48469.61,
+        "change": -66.38,
+        "change_pct": -0.14,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/04/16 03:15:02",
+    "updated_at": 1776280502947,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

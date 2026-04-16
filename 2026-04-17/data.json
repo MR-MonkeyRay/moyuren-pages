@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 04:09:34",
-  "updated_at": 1776370174508,
+  "updated": "2026/04/17 05:09:46",
+  "updated_at": 1776373786474,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "眼睛千万不要对着手机太久，专家说了，那样手机会没电。"
+    "text": "如果婚姻是爱情的坟墓，一年一次的结婚周年庆祝，便是在“扫墓” 了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 04:09:30",
-    "updated_at": 1776370170119,
+    "updated": "2026/04/17 05:09:40",
+    "updated_at": 1776373780855,
     "trading_day": {
       "A": true,
       "HK": true,

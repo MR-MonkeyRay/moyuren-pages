@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "updated": "2026/04/16 17:55:34",
-  "updated_at": 1776333334984,
+  "updated": "2026/04/16 19:01:29",
+  "updated_at": 1776337289755,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "吃饺子时饺子馅冷了应该怎么办？播打热线（馅）电话。"
+    "text": "什么路最窄？“冤家”（怨家）路窄。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的",
+  "kfc_content": "天塌了兄弟们，CS2 饰品暴跌，几百万的库存瞬间夭折，真的伤到了，退游了，我真的累了... 账号密码在这里，需要的直接上号账号: kfcCrazyThursday 密码: Vme50RMB",
   "date_info": {
     "year_month": "2026.04",
     "day": "16",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的"
+    "content": "天塌了兄弟们，CS2 饰品暴跌，几百万的库存瞬间夭折，真的伤到了，退游了，我真的累了... 账号密码在这里，需要的直接上号账号: kfcCrazyThursday 密码: Vme50RMB"
   },
   "stock_indices": {
     "items": [
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/16 17:55:29",
-    "updated_at": 1776333329463,
+    "updated": "2026/04/16 19:01:22",
+    "updated_at": 1776337282030,
     "trading_day": {
       "A": true,
       "HK": true,

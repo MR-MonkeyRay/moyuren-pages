@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "updated": "2026/04/16 08:06:06",
-  "updated_at": 1776297966868,
+  "updated": "2026/04/16 11:53:29",
+  "updated_at": 1776311609029,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "两根香蕉一前一后逛街，前面的香蕉觉得热就把衣服脱了，结果后面的香蕉就跌倒了。"
+    "text": "有一只绵羊，剪了毛之后就睡不着了，为什么？因为他失绵（眠）了。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "守法朝朝忧闷，强梁夜夜欢歌。\n损人利己骑马骡，正直公平挨饿。\n修桥补路瞎眼，杀人放火儿多。\n我到西天问我佛，佛说：v 我 50 香火。",
+  "kfc_content": "狗的叫声是汪汪汪 猫的叫声是喵喵喵 牛的叫声是 all I want for Christmas is you  星期四的叫声是抽一位幸运儿请我肯德基疯狂星期四",
   "date_info": {
     "year_month": "2026.04",
     "day": "16",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "守法朝朝忧闷，强梁夜夜欢歌。\n损人利己骑马骡，正直公平挨饿。\n修桥补路瞎眼，杀人放火儿多。\n我到西天问我佛，佛说：v 我 50 香火。"
+    "content": "狗的叫声是汪汪汪 猫的叫声是喵喵喵 牛的叫声是 all I want for Christmas is you  星期四的叫声是抽一位幸运儿请我肯德基疯狂星期四"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4027.21,
-        "change": 0.58,
-        "change_pct": 0.01,
+        "price": 4048.64,
+        "change": 21.43,
+        "change_pct": 0.53,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -188,29 +188,29 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14498.45,
-        "change": -141.5,
-        "change_pct": -0.97,
-        "trend": "down",
+        "price": 14743.22,
+        "change": 244.77,
+        "change_pct": 1.69,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3514.96,
-        "change": -43.57,
-        "change_pct": -1.22,
-        "trend": "down",
+        "price": 3608.52,
+        "change": 93.56,
+        "change_pct": 2.66,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25947.32,
-        "change": 75.0,
-        "change_pct": 0.29,
+        "price": 26309.33,
+        "change": 362.01,
+        "change_pct": 1.4,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/16 08:06:00",
-    "updated_at": 1776297960478,
+    "updated": "2026/04/16 11:53:23",
+    "updated_at": 1776311603788,
     "trading_day": {
       "A": true,
       "HK": true,

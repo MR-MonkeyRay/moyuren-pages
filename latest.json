@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 06:05:53",
-  "updated_at": 1776377153363,
+  "updated": "2026/04/17 07:08:43",
+  "updated_at": 1776380923487,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不是吃燕窝的人皮肤好，是吃得起燕窝的人皮肤好。"
+    "text": "欢迎来到2019，恭喜你进入了新的，扎心的一年。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 06:05:47",
-    "updated_at": 1776377147697,
+    "updated": "2026/04/17 07:08:37",
+    "updated_at": 1776380917394,
     "trading_day": {
       "A": true,
       "HK": true,

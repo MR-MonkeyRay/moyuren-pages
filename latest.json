@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 01:51:05",
-  "updated_at": 1776361865319,
+  "updated": "2026/04/17 03:10:23",
+  "updated_at": 1776366623768,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "以后要对女朋友好一点，毕竟她已经瞎了，不能再受伤害了。"
+    "text": "我这人不太懂音乐，所以时而不靠谱，时而不着调。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 48527.4,
-        "change": 63.68,
-        "change_pct": 0.13,
+        "price": 48559.78,
+        "change": 96.06,
+        "change_pct": 0.2,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 01:51:00",
-    "updated_at": 1776361860409,
+    "updated": "2026/04/17 03:10:19",
+    "updated_at": 1776366619221,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 17:53:37",
-  "updated_at": 1776419617008,
+  "updated": "2026/04/17 18:54:02",
+  "updated_at": 1776423242282,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你的戏，可以像你的钱一样，少一点吗？"
+    "text": "这世上没谁离不开谁，就算是一条鱼离开水，也能烤着吃。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 17:53:32",
-    "updated_at": 1776419612809,
+    "updated": "2026/04/17 18:53:54",
+    "updated_at": 1776423234870,
     "trading_day": {
       "A": true,
       "HK": true,

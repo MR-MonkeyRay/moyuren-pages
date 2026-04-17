@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 22:40:21",
-  "updated_at": 1776436821813,
+  "updated": "2026/04/17 23:59:29",
+  "updated_at": 1776441569668,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "请不要叫我宅女，请叫我居里夫人。"
+    "text": "大多数时候，消耗能量的都不是工作，而是工作中遇到的人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49562.08,
-        "change": 983.36,
-        "change_pct": 2.02,
+        "price": 49650.76,
+        "change": 1072.04,
+        "change_pct": 2.21,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 22:40:15",
-    "updated_at": 1776436815424,
+    "updated": "2026/04/17 23:59:20",
+    "updated_at": 1776441560910,
     "trading_day": {
       "A": true,
       "HK": true,

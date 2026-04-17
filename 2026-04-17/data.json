@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 18:54:02",
-  "updated_at": 1776423242282,
+  "updated": "2026/04/17 19:51:18",
+  "updated_at": 1776426678441,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "这世上没谁离不开谁，就算是一条鱼离开水，也能烤着吃。"
+    "text": "赚钱就像便秘 — 老难了，花钱就像拉稀 — 憋不住。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 18:53:54",
-    "updated_at": 1776423234870,
+    "updated": "2026/04/17 19:51:11",
+    "updated_at": 1776426671970,
     "trading_day": {
       "A": true,
       "HK": true,

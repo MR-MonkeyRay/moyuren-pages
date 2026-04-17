@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "updated": "2026/04/17 07:08:43",
-  "updated_at": 1776380923487,
+  "updated": "2026/04/17 08:04:16",
+  "updated_at": 1776384256310,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "欢迎来到2019，恭喜你进入了新的，扎心的一年。"
+    "text": "用钱当然买不到快乐，只是有钱，别人会想办法让你快乐。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/17 07:08:37",
-    "updated_at": 1776380917394,
+    "updated": "2026/04/17 08:04:11",
+    "updated_at": 1776384251459,
     "trading_day": {
       "A": true,
       "HK": true,

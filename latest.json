@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 01:02:28",
-  "updated_at": 1776445348188,
+  "updated": "2026/04/18 02:11:01",
+  "updated_at": 1776449461431,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "拥有梦想也没有用,如果无法实现,还不如普普通通活着。"
+    "text": "如果你自己已经决定，那就已经决定了，如果你自己还没决定，那就还没决定！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49686.77,
-        "change": 1108.05,
-        "change_pct": 2.28,
+        "price": 49496.06,
+        "change": 917.34,
+        "change_pct": 1.89,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/18 01:02:24",
-    "updated_at": 1776445344724,
+    "updated": "2026/04/18 02:10:53",
+    "updated_at": 1776449453027,
     "trading_day": {
       "A": false,
       "HK": false,

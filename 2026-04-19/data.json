@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 00:01:01",
-  "updated_at": 1776528061570,
+  "updated": "2026/04/19 01:04:39",
+  "updated_at": 1776531879459,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "村民：我们也不知那是何妖精，他们来无影去无踪的，每次都把村子洗劫一空。悟空：喔，原来是洗劫精（洗洁精）啊。"
+    "text": "一只迷路的蚂蚁问另一只蚂蚁：“你都如何回蚁窝（回忆我）？”被问的蚂蚁：“带着笑或是很沉默？”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 00:00:55",
-    "updated_at": 1776528055762,
+    "updated": "2026/04/19 01:04:33",
+    "updated_at": 1776531873869,
     "trading_day": {
       "A": false,
       "HK": false,

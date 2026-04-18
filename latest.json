@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 10:10:16",
-  "updated_at": 1776478216434,
+  "updated": "2026/04/18 12:54:54",
+  "updated_at": 1776488094935,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "明明只是活着，哀伤却无处不在⋯⋯"
+    "text": "一个人起码要在感情上失恋一次，在事业上失败一次，在选择上失误一次，才能真正地长大。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -217,15 +217,15 @@
         "change_pct": 1.79,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 10:10:09",
-    "updated_at": 1776478209639,
+    "updated": "2026/04/18 12:54:49",
+    "updated_at": 1776488089725,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

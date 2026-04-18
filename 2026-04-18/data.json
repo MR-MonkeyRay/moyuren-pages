@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 15:41:00",
-  "updated_at": 1776498060757,
+  "updated": "2026/04/18 16:47:48",
+  "updated_at": 1776502068190,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "红茶的温度和女人心在任何时代都是难以琢磨呢。"
+    "text": "这个世界本身就没有所谓的清白而言，你能坦言，你从来就没说过慌，这是自欺欺人"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 15:40:55",
-    "updated_at": 1776498055792,
+    "updated": "2026/04/18 16:47:42",
+    "updated_at": 1776502062130,
     "trading_day": {
       "A": false,
       "HK": false,

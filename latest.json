@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 14:12:06",
-  "updated_at": 1776492726974,
+  "updated": "2026/04/18 15:41:00",
+  "updated_at": 1776498060757,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "等来年，秋风起。"
+    "text": "红茶的温度和女人心在任何时代都是难以琢磨呢。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 14:12:01",
-    "updated_at": 1776492721840,
+    "updated": "2026/04/18 15:40:55",
+    "updated_at": 1776498055792,
     "trading_day": {
       "A": false,
       "HK": false,

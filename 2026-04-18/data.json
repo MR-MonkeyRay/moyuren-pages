@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 19:33:10",
-  "updated_at": 1776511990712,
+  "updated": "2026/04/18 20:59:08",
+  "updated_at": 1776517148554,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我们从没有忘记真相，只是我们越来越会说谎"
+    "text": "就像木炭本是木头变来的，虽然变了样子，不过一想起以前是木头是就会燃烧起来哦。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 19:33:05",
-    "updated_at": 1776511985989,
+    "updated": "2026/04/18 20:58:59",
+    "updated_at": 1776517139487,
     "trading_day": {
       "A": false,
       "HK": false,

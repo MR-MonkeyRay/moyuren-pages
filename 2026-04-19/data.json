@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 03:58:49",
-  "updated_at": 1776542329004,
+  "updated": "2026/04/19 04:45:50",
+  "updated_at": 1776545150349,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "柯南一直惯着小兰，他可真是个惯兰（灌篮）高手。"
+    "text": "你知道什么动物最没有方向感吗？麋鹿（迷路）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 03:58:43",
-    "updated_at": 1776542323888,
+    "updated": "2026/04/19 04:45:45",
+    "updated_at": 1776545145761,
     "trading_day": {
       "A": false,
       "HK": false,

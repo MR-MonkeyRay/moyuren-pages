@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 07:37:32",
-  "updated_at": 1776469052102,
+  "updated": "2026/04/18 10:10:16",
+  "updated_at": 1776478216434,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "正人行邪法，邪法亦正，邪人行正法，正法亦邪，一切唯心造"
+    "text": "明明只是活着，哀伤却无处不在⋯⋯"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/18 07:37:23",
-    "updated_at": 1776469043315,
+    "updated": "2026/04/18 10:10:09",
+    "updated_at": 1776478209639,
     "trading_day": {
       "A": false,
       "HK": false,

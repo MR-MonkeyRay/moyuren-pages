@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 12:54:54",
-  "updated_at": 1776488094935,
+  "updated": "2026/04/18 14:12:06",
+  "updated_at": 1776492726974,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "一个人起码要在感情上失恋一次，在事业上失败一次，在选择上失误一次，才能真正地长大。"
+    "text": "等来年，秋风起。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 12:54:49",
-    "updated_at": 1776488089725,
+    "updated": "2026/04/18 14:12:01",
+    "updated_at": 1776492721840,
     "trading_day": {
       "A": false,
       "HK": false,

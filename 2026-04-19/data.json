@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 04:45:50",
-  "updated_at": 1776545150349,
+  "updated": "2026/04/19 05:33:30",
+  "updated_at": 1776548010943,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道什么动物最没有方向感吗？麋鹿（迷路）。"
+    "text": "为什么诗人的死因都出奇的一致？因为诗写（失血）过多。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 04:45:45",
-    "updated_at": 1776545145761,
+    "updated": "2026/04/19 05:33:26",
+    "updated_at": 1776548006327,
     "trading_day": {
       "A": false,
       "HK": false,

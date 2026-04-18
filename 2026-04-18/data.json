@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "updated": "2026/04/18 20:59:08",
-  "updated_at": 1776517148554,
+  "updated": "2026/04/18 22:03:34",
+  "updated_at": 1776521014783,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "就像木炭本是木头变来的，虽然变了样子，不过一想起以前是木头是就会燃烧起来哦。"
+    "text": "赌上我的生命为你所拥有。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/18 20:58:59",
-    "updated_at": 1776517139487,
+    "updated": "2026/04/18 22:03:30",
+    "updated_at": 1776521010476,
     "trading_day": {
       "A": false,
       "HK": false,

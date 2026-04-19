@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "updated": "2026/04/19 16:06:37",
-  "updated_at": 1776585997624,
+  "updated": "2026/04/19 17:12:56",
+  "updated_at": 1776589976482,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "蝴蝶吃胖了会变成什么？发福蝶。"
+    "text": "茉莉花、太阳花、玫瑰花哪一朵花最没力？茉莉花，因为歌里唱“好一朵没力（美丽）的茉莉花”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/19 16:06:31",
-    "updated_at": 1776585991910,
+    "updated": "2026/04/19 17:12:49",
+    "updated_at": 1776589969919,
     "trading_day": {
       "A": false,
       "HK": false,

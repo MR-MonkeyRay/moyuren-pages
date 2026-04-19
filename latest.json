@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 00:00:46",
-  "updated_at": 1776614446015,
+  "updated": "2026/04/20 01:04:37",
+  "updated_at": 1776618277808,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "进门要填写个人信息，我瞎填的，于是我的身份就成了秘密：“瞎填瞎填（夏天夏天）悄悄过去，留下小秘密”。"
+    "text": "猫会喵喵喵，狗会汪汪汪，鸭会嘎嘎嘎，鸡会什么？鸡会留给有准备的人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/20 00:00:35",
-    "updated_at": 1776614435518,
+    "updated": "2026/04/20 01:04:31",
+    "updated_at": 1776618271685,
     "trading_day": {
       "A": true,
       "HK": true,

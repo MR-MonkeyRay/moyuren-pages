@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 05:34:26",
-  "updated_at": 1776634466608,
+  "updated": "2026/04/20 06:34:05",
+  "updated_at": 1776638045042,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道李白吗？知道，一个星期就是一个礼拜。"
+    "text": "小明在自助餐厅倒果汁时遭人暗杀，只因他汁倒（自导）得太多了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/20 05:34:20",
-    "updated_at": 1776634460752,
+    "updated": "2026/04/20 06:33:59",
+    "updated_at": 1776638039807,
     "trading_day": {
       "A": true,
       "HK": true,

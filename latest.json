@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 21:26:05",
-  "updated_at": 1776691565871,
+  "updated": "2026/04/20 23:03:15",
+  "updated_at": 1776697395256,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "虾和蚌同时考了一百分，老师问虾你抄的谁的，虾说:“我抄蚌的”，老师说:“你棒什么棒”。"
+    "text": "猩猩最讨厌什么线？平行线，因为平行线没有相交（香蕉）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49447.43,
-        "change": 868.71,
-        "change_pct": 1.79,
-        "trend": "up",
+        "price": 49334.95,
+        "change": -112.48,
+        "change_pct": -0.23,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/20 21:25:58",
-    "updated_at": 1776691558208,
+    "updated": "2026/04/20 23:03:11",
+    "updated_at": 1776697391526,
     "trading_day": {
       "A": true,
       "HK": true,

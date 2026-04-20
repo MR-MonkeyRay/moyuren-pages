@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "updated": "2026/04/20 19:50:51",
-  "updated_at": 1776685851285,
+  "updated": "2026/04/20 21:26:05",
+  "updated_at": 1776691565871,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "从前有个文盲在走路，他走着走着突然识字了，原来他走到了十字路口。"
+    "text": "虾和蚌同时考了一百分，老师问虾你抄的谁的，虾说:“我抄蚌的”，老师说:“你棒什么棒”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/20 19:50:45",
-    "updated_at": 1776685845557,
+    "updated": "2026/04/20 21:25:58",
+    "updated_at": 1776691558208,
     "trading_day": {
       "A": true,
       "HK": true,

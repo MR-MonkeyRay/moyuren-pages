@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
-  "updated": "2026/04/21 00:39:46",
-  "updated_at": 1776703186378,
+  "updated": "2026/04/21 01:55:55",
+  "updated_at": 1776707755566,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "适度的恐怖会是人生的香辛料，像是吊桥会成为回忆一样，人心奇妙而不可思议"
+    "text": "像平常的你一样引发奇迹吧-"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49358.37,
-        "change": -89.06,
-        "change_pct": -0.18,
+        "price": 49355.32,
+        "change": -92.11,
+        "change_pct": -0.19,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/21 00:39:38",
-    "updated_at": 1776703178811,
+    "updated": "2026/04/21 01:55:49",
+    "updated_at": 1776707749716,
     "trading_day": {
       "A": true,
       "HK": true,

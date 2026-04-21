@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
-  "updated": "2026/04/21 07:08:14",
-  "updated_at": 1776726494624,
+  "updated": "2026/04/21 08:05:26",
+  "updated_at": 1776729926685,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "把什么都算成自己的错是很傲慢的。"
+    "text": "最后的最后，竟然超越了自己的神话。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/21 07:08:10",
-    "updated_at": 1776726490152,
+    "updated": "2026/04/21 08:05:22",
+    "updated_at": 1776729922216,
     "trading_day": {
       "A": true,
       "HK": true,

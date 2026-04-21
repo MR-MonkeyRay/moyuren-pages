@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
-  "updated": "2026/04/21 16:16:14",
-  "updated_at": 1776759374711,
+  "updated": "2026/04/21 17:59:14",
+  "updated_at": 1776765554530,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "没问题的，别担心，一切都会好的。"
+    "text": "不要浪费你的生命在你一定会后悔的地方上"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/21 16:16:10",
-    "updated_at": 1776759370730,
+    "updated": "2026/04/21 17:59:10",
+    "updated_at": 1776765550557,
     "trading_day": {
       "A": true,
       "HK": true,

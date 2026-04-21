@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "updated": "2026/04/22 05:43:29",
-  "updated_at": 1776807809670,
+  "updated": "2026/04/22 06:36:28",
+  "updated_at": 1776810988356,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "因为没有胜算就放弃抵抗服从于别人，这种事谁也做不到吧，重要是为了什么而战。"
+    "text": "神话之战，由此重现。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/22 05:43:24",
-    "updated_at": 1776807804158,
+    "updated": "2026/04/22 06:36:22",
+    "updated_at": 1776810982543,
     "trading_day": {
       "A": true,
       "HK": true,

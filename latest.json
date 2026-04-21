@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
-  "updated": "2026/04/21 20:13:12",
-  "updated_at": 1776773592081,
+  "updated": "2026/04/21 22:14:38",
+  "updated_at": 1776780878779,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "曾经拥有的东西被夺走，并不代表就会回到原来没有那种东西的时候。"
+    "text": "远的不是距离，而是次元啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49442.56,
-        "change": -4.87,
-        "change_pct": -0.01,
-        "trend": "down",
+        "price": 49789.23,
+        "change": 346.67,
+        "change_pct": 0.7,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/21 20:13:01",
-    "updated_at": 1776773581804,
+    "updated": "2026/04/21 22:14:32",
+    "updated_at": 1776780872161,
     "trading_day": {
       "A": true,
       "HK": true,

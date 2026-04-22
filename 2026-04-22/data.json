@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "updated": "2026/04/22 15:11:19",
-  "updated_at": 1776841879367,
+  "updated": "2026/04/22 17:05:25",
+  "updated_at": 1776848725972,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我深知，这之后我们无法一直守在一起，挡在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，令我们无能为力。"
+    "text": "只要知道你还活在这个世上，我就可以了无牵挂。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26169.16,
-        "change": -318.32,
-        "change_pct": -1.2,
+        "price": 26163.24,
+        "change": -324.24,
+        "change_pct": -1.22,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/22 15:11:13",
-    "updated_at": 1776841873616,
+    "updated": "2026/04/22 17:05:20",
+    "updated_at": 1776848720133,
     "trading_day": {
       "A": true,
       "HK": true,

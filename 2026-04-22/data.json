@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "updated": "2026/04/22 17:05:25",
-  "updated_at": 1776848725972,
+  "updated": "2026/04/22 18:47:06",
+  "updated_at": 1776854826340,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "只要知道你还活在这个世上，我就可以了无牵挂。"
+    "text": "虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/22 17:05:20",
-    "updated_at": 1776848720133,
+    "updated": "2026/04/22 18:47:01",
+    "updated_at": 1776854821320,
     "trading_day": {
       "A": true,
       "HK": true,

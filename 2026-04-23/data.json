@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 04:30:04",
-  "updated_at": 1776889804915,
+  "updated": "2026/04/23 05:29:24",
+  "updated_at": 1776893364451,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "女人因秘密而美丽。"
+    "text": "从进入厨房的瞬间开始，你们就肩负着烹饪美食的责任。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "Python 大佬，我写了一段代码突然报错了，找不到原因\nTraceback (most recent call last):\nFile \"C:\\\\python\\KFC.py\", line 8, in <module>\nKFCError: KFC Crazy Thursday WhoEver Transfer Me 50 CNY Via WeChat, I Will Thank Him.",
+  "kfc_content": "Hi, my friend. My roommate and I have been in a Cold War for half a year. Recently, I don't know how to cry. From the world's daily fireworks, to red eyes to say goodbye, disappear in each other's world, very painful, but also very difficult. Today is KFC Crazy Thursday, give me ¥50 to comfort my broken heart.",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "Python 大佬，我写了一段代码突然报错了，找不到原因\nTraceback (most recent call last):\nFile \"C:\\\\python\\KFC.py\", line 8, in <module>\nKFCError: KFC Crazy Thursday WhoEver Transfer Me 50 CNY Via WeChat, I Will Thank Him."
+    "content": "Hi, my friend. My roommate and I have been in a Cold War for half a year. Recently, I don't know how to cry. From the world's daily fireworks, to red eyes to say goodbye, disappear in each other's world, very painful, but also very difficult. Today is KFC Crazy Thursday, give me ¥50 to comfort my broken heart."
   },
   "stock_indices": {
     "items": [
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/23 04:29:59",
-    "updated_at": 1776889799139,
+    "updated": "2026/04/23 05:29:17",
+    "updated_at": 1776893357879,
     "trading_day": {
       "A": true,
       "HK": true,

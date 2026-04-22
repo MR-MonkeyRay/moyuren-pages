@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "updated": "2026/04/22 21:59:09",
-  "updated_at": 1776866349337,
+  "updated": "2026/04/22 23:20:09",
+  "updated_at": 1776871209020,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "成功率不到%，那剩下的用勇气来补足吧！"
+    "text": "尽管在今后，我有时会变得懦弱、没用、原地踏步不前、因心爱的女孩的一句话而兴奋得忘乎所以，但我们的生活会充满诗意。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49588.23,
-        "change": 438.85,
-        "change_pct": 0.89,
+        "price": 49525.91,
+        "change": 376.53,
+        "change_pct": 0.77,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/22 21:59:02",
-    "updated_at": 1776866342966,
+    "updated": "2026/04/22 23:20:01",
+    "updated_at": 1776871201745,
     "trading_day": {
       "A": true,
       "HK": true,

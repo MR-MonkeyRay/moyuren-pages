@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 00:59:56",
-  "updated_at": 1776963596215,
+  "updated": "2026/04/24 02:11:06",
+  "updated_at": 1776967866392,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "即使无法实现愿望，在某个地方也会有其他小小的幸福，等待著我们吧。"
+    "text": "绝对，不再哭泣了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49410.07,
-        "change": -79.96,
-        "change_pct": -0.16,
+        "price": 49223.48,
+        "change": -266.55,
+        "change_pct": -0.54,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 00:59:50",
-    "updated_at": 1776963590607,
+    "updated": "2026/04/24 02:11:00",
+    "updated_at": 1776967860452,
     "trading_day": {
       "A": true,
       "HK": true,

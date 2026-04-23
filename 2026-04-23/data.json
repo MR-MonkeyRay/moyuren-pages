@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "updated": "2026/04/23 14:04:52",
-  "updated_at": 1776924292499,
+  "updated": "2026/04/23 16:18:33",
+  "updated_at": 1776932313485,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "什么都不知道，不是好事。我就是因为什么都不知道，才会伤害了人。"
+    "text": "母亲……活着的死人和死去的活人，哪个更可笑？"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "你们都不出来聊天什么意思？有这么忙么？疯狂星期四的劲爆鸡米花难道是你们在炸？",
+  "kfc_content": "【水鸡筹】很抱歉打扰了，本人于今天早上查出两眼昏花饥饿症，情况紧急，所幸遇到个开封的老头是西医，让我照着这个药方抓药：蛋挞 * 2、烤翅 * 3 对、鸡块 * 2、薯条 * 2、汉堡包 * 2、可乐 * 500ml 原味鸡 * 2。急需 50 医药费，谢谢大家帮助，感激不尽。",
   "date_info": {
     "year_month": "2026.04",
     "day": "23",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "你们都不出来聊天什么意思？有这么忙么？疯狂星期四的劲爆鸡米花难道是你们在炸？"
+    "content": "【水鸡筹】很抱歉打扰了，本人于今天早上查出两眼昏花饥饿症，情况紧急，所幸遇到个开封的老头是西医，让我照着这个药方抓药：蛋挞 * 2、烤翅 * 3 对、鸡块 * 2、薯条 * 2、汉堡包 * 2、可乐 * 500ml 原味鸡 * 2。急需 50 医药费，谢谢大家帮助，感激不尽。"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4095.31,
-        "change": -10.95,
-        "change_pct": -0.27,
+        "price": 4093.25,
+        "change": -13.01,
+        "change_pct": -0.32,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -188,9 +188,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15095.81,
-        "change": -81.48,
-        "change_pct": -0.54,
+        "price": 15043.45,
+        "change": -133.84,
+        "change_pct": -0.88,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -198,9 +198,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3737.75,
-        "change": -15.01,
-        "change_pct": -0.4,
+        "price": 3720.25,
+        "change": -32.51,
+        "change_pct": -0.87,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25951.22,
-        "change": -212.02,
-        "change_pct": -0.81,
+        "price": 25915.2,
+        "change": -248.04,
+        "change_pct": -0.95,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/23 14:04:48",
-    "updated_at": 1776924288242,
+    "updated": "2026/04/23 16:18:28",
+    "updated_at": 1776932308212,
     "trading_day": {
       "A": true,
       "HK": true,

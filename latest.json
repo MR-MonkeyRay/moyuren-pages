@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 06:41:54",
-  "updated_at": 1776984114592,
+  "updated": "2026/04/24 07:42:47",
+  "updated_at": 1776987767902,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "Nothing is true, everything is permitted."
+    "text": "我们会跑，无论往哪里都靠自己的腿去跑！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 06:41:49",
-    "updated_at": 1776984109047,
+    "updated": "2026/04/24 07:42:41",
+    "updated_at": 1776987761774,
     "trading_day": {
       "A": true,
       "HK": true,

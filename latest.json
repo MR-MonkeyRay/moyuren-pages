@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 05:43:27",
-  "updated_at": 1776980607804,
+  "updated": "2026/04/24 06:41:54",
+  "updated_at": 1776984114592,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "要想成为强者，就不要回避心里的恐惧，恐惧并不是弱点。强者，是要让你的敌人比你更恐惧。"
+    "text": "Nothing is true, everything is permitted."
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 05:43:23",
-    "updated_at": 1776980603415,
+    "updated": "2026/04/24 06:41:49",
+    "updated_at": 1776984109047,
     "trading_day": {
       "A": true,
       "HK": true,

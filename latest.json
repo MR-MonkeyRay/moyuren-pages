@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 18:50:34",
-  "updated_at": 1777027834785,
+  "updated": "2026/04/24 19:55:37",
+  "updated_at": 1777031737306,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "一点也好，我希望能让你再多知道一点，我期盼着和你在一起的心意。但现在我并不因为和你在一起时间的短暂而感到后悔，因为即使在这寒冬时代，和你一起度过的时光却一点也不虚假。"
+    "text": "人的记忆是不可靠的，自顾自的上色美化，给予高出事物本身的存在意义。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -169,14 +169,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/04/24 18:50:25",
-    "updated_at": 1777027825081,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4079.9,
+        "change": -13.35,
+        "change_pct": -0.33,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 14940.3,
+        "change": -103.15,
+        "change_pct": -0.69,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3667.79,
+        "change": -52.46,
+        "change_pct": -1.41,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25978.07,
+        "change": 62.87,
+        "change_pct": 0.24,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 49310.32,
+        "change": -179.71,
+        "change_pct": -0.36,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/04/24 19:55:28",
+    "updated_at": 1777031728316,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

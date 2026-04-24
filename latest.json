@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 21:20:47",
-  "updated_at": 1777036847063,
+  "updated": "2026/04/24 22:52:55",
+  "updated_at": 1777042375824,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "只是活着，悲伤就会逐渐堆积。"
+    "text": "当一个生命与另一个生命相遇的时候，会孕育出什么呢。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49310.32,
-        "change": -179.71,
-        "change_pct": -0.36,
+        "price": 49163.08,
+        "change": -147.24,
+        "change_pct": -0.3,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 21:20:41",
-    "updated_at": 1777036841302,
+    "updated": "2026/04/24 22:52:48",
+    "updated_at": 1777042368255,
     "trading_day": {
       "A": true,
       "HK": true,

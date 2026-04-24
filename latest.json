@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 19:55:37",
-  "updated_at": 1777031737306,
+  "updated": "2026/04/24 21:20:47",
+  "updated_at": 1777036847063,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "人的记忆是不可靠的，自顾自的上色美化，给予高出事物本身的存在意义。"
+    "text": "只是活着，悲伤就会逐渐堆积。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 19:55:28",
-    "updated_at": 1777031728316,
+    "updated": "2026/04/24 21:20:41",
+    "updated_at": 1777036841302,
     "trading_day": {
       "A": true,
       "HK": true,

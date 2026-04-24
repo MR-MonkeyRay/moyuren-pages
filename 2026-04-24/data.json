@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "updated": "2026/04/24 15:17:40",
-  "updated_at": 1777015060518,
+  "updated": "2026/04/24 17:16:45",
+  "updated_at": 1777022205567,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "被留到最后的，可不一定是希望啊。"
+    "text": "人生，就像肥皂泡一样。风一吹就呼呼的飞上了天，注意到的时候，却啪地一下消失了。就在即将破裂的瞬间，想要自己飞得更高。但回过神来的时候，却总是来不及。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25961.91,
-        "change": 46.71,
-        "change_pct": 0.18,
+        "price": 25978.07,
+        "change": 62.87,
+        "change_pct": 0.24,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/24 15:17:32",
-    "updated_at": 1777015052902,
+    "updated": "2026/04/24 17:16:40",
+    "updated_at": 1777022200254,
     "trading_day": {
       "A": true,
       "HK": true,

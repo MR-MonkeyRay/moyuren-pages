@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 02:03:53",
-  "updated_at": 1777140233756,
+  "updated": "2026/04/26 03:25:22",
+  "updated_at": 1777145122006,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "既不是情侣又不是朋友，免费帮你有违常理吧？"
+    "text": "有时候解释是不必要的，敌人不信你的解释，朋友无需你的解释"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 02:03:49",
-    "updated_at": 1777140229519,
+    "updated": "2026/04/26 03:25:16",
+    "updated_at": 1777145116619,
     "trading_day": {
       "A": false,
       "HK": false,

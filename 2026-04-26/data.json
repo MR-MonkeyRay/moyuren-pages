@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 05:03:50",
-  "updated_at": 1777151030534,
+  "updated": "2026/04/26 06:00:43",
+  "updated_at": 1777154443502,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "一个不能为自己挺身而出的孩子，长大之后只能是个懦夫"
+    "text": "如果无法深入了解，只要试着去深入了解就行了。如果交情太浅，不知道未来会怎样，只要让感情深厚到永远都能当朋友就行了。连尝试都不肯的人，没有资格说自己办不到。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 05:03:46",
-    "updated_at": 1777151026917,
+    "updated": "2026/04/26 06:00:39",
+    "updated_at": 1777154439419,
     "trading_day": {
       "A": false,
       "HK": false,

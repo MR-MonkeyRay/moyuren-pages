@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 20:02:42",
-  "updated_at": 1777204962207,
+  "updated": "2026/04/26 21:45:35",
+  "updated_at": 1777211135283,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "拿起武器，无论顺从还是逃跑，都无法得到自由，既然如此，我们只能战斗，为了自由，站起来吧。"
+    "text": "没什么意义啊，无论做什么，都没有任何意义啊。可以一次次重头来过的你可能无法理解。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 20:02:37",
-    "updated_at": 1777204957940,
+    "updated": "2026/04/26 21:45:28",
+    "updated_at": 1777211128304,
     "trading_day": {
       "A": false,
       "HK": false,

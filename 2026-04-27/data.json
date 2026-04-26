@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 02:52:18",
-  "updated_at": 1777229538856,
+  "updated": "2026/04/27 03:44:38",
+  "updated_at": 1777232678313,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我不是那种落井下石的人，我是直接把井封了。"
+    "text": "学校教学楼放镜子，是为了让你知道，人丑就要多读书。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/27 02:52:15",
-    "updated_at": 1777229535079,
+    "updated": "2026/04/27 03:44:31",
+    "updated_at": 1777232671764,
     "trading_day": {
       "A": true,
       "HK": true,

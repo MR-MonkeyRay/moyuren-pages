@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 22:41:18",
-  "updated_at": 1777214478399,
+  "updated": "2026/04/26 23:40:14",
+  "updated_at": 1777218014302,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我觉得，我这辈子最灿烂的笑容，大概都奉献给我电脑屏幕了。"
+    "text": "纯氧对生物有害，毫无保留的真相，只会把人的精神击溃。一比五的氧与氮，才是可供呼吸的空气。同样，呼吸著以戏言稀释的少量真实，人才能维持健全的心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 22:41:11",
-    "updated_at": 1777214471976,
+    "updated": "2026/04/26 23:40:08",
+    "updated_at": 1777218008954,
     "trading_day": {
       "A": false,
       "HK": false,

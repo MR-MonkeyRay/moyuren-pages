@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 04:36:26",
-  "updated_at": 1777235786419,
+  "updated": "2026/04/27 05:36:19",
+  "updated_at": 1777239379117,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你不懂得安排自己的人生，会有很多人帮你安排，他们需要你做的事。"
+    "text": "虽然你搬砖的样子很累，但是，你充钱的样子真的很帅。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/27 04:36:20",
-    "updated_at": 1777235780440,
+    "updated": "2026/04/27 05:36:14",
+    "updated_at": 1777239374072,
     "trading_day": {
       "A": true,
       "HK": true,

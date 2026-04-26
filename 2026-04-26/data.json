@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 18:12:27",
-  "updated_at": 1777198347533,
+  "updated": "2026/04/26 19:10:41",
+  "updated_at": 1777201841178,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "总有一天你会明白的，你要用你自己的双眼来判定来选择自己要走的路"
+    "text": "梦存高远，志在争霸，这股热情确实值得赞许，但所谓梦，终有一天是要醒来的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 18:12:22",
-    "updated_at": 1777198342478,
+    "updated": "2026/04/26 19:10:35",
+    "updated_at": 1777201835648,
     "trading_day": {
       "A": false,
       "HK": false,

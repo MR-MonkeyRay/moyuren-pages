@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 16:00:39",
-  "updated_at": 1777190439111,
+  "updated": "2026/04/26 17:10:48",
+  "updated_at": 1777194648190,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "三次元的都是渣，我有自己深信的世界。"
+    "text": "固执也未尝不可，不过你在坚守这种信念的过程中，既影响自己的学问研究，又给每天的工作带来困难，最后还不是弄得精疲力竭，吃亏的是你自己。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 16:00:29",
-    "updated_at": 1777190429337,
+    "updated": "2026/04/26 17:10:42",
+    "updated_at": 1777194642692,
     "trading_day": {
       "A": false,
       "HK": false,

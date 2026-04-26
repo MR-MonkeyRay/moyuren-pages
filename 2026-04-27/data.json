@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 00:40:36",
-  "updated_at": 1777221636517,
+  "updated": "2026/04/27 01:37:14",
+  "updated_at": 1777225034571,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "生平最讨厌溜须拍马的人，和他们在一起，显得老子很不会做人。"
+    "text": "买房的钱还没攒完，就要开始攒买坟的钱了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/27 00:40:29",
-    "updated_at": 1777221629006,
+    "updated": "2026/04/27 01:37:10",
+    "updated_at": 1777225030935,
     "trading_day": {
       "A": true,
       "HK": true,

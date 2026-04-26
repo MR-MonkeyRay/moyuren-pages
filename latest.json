@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 19:10:41",
-  "updated_at": 1777201841178,
+  "updated": "2026/04/26 20:02:42",
+  "updated_at": 1777204962207,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "梦存高远，志在争霸，这股热情确实值得赞许，但所谓梦，终有一天是要醒来的。"
+    "text": "拿起武器，无论顺从还是逃跑，都无法得到自由，既然如此，我们只能战斗，为了自由，站起来吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 19:10:35",
-    "updated_at": 1777201835648,
+    "updated": "2026/04/26 20:02:37",
+    "updated_at": 1777204957940,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 14:22:44",
-  "updated_at": 1777184564370,
+  "updated": "2026/04/26 16:00:39",
+  "updated_at": 1777190439111,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "有形的事物总有一天会消亡不代表有形的事物毫无价值。"
+    "text": "三次元的都是渣，我有自己深信的世界。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 14:22:37",
-    "updated_at": 1777184557559,
+    "updated": "2026/04/26 16:00:29",
+    "updated_at": 1777190429337,
     "trading_day": {
       "A": false,
       "HK": false,

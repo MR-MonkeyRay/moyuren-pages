@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "updated": "2026/04/26 12:01:38",
-  "updated_at": 1777176098585,
+  "updated": "2026/04/26 14:22:44",
+  "updated_at": 1777184564370,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果你死了，那什么也改变不了，可如果你还活着，那就能改变一些事情。"
+    "text": "有形的事物总有一天会消亡不代表有形的事物毫无价值。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/04/26 12:01:33",
-    "updated_at": 1777176093822,
+    "updated": "2026/04/26 14:22:37",
+    "updated_at": 1777184557559,
     "trading_day": {
       "A": false,
       "HK": false,

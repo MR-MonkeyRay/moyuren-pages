@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "updated": "2026/04/28 01:48:16",
-  "updated_at": 1777312096450,
+  "updated": "2026/04/28 03:18:12",
+  "updated_at": 1777317492530,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "悲伤教会了我喜悦。"
+    "text": "因为没有胜算就放弃抵抗服从于别人，这种事谁也做不到吧，重要是为了什么而战。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49132.32,
-        "change": -98.39,
-        "change_pct": -0.2,
+        "price": 49205.79,
+        "change": -24.92,
+        "change_pct": -0.05,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/28 01:48:12",
-    "updated_at": 1777312092242,
+    "updated": "2026/04/28 03:18:07",
+    "updated_at": 1777317487326,
     "trading_day": {
       "A": true,
       "HK": true,

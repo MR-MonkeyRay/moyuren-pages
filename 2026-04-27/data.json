@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "updated": "2026/04/27 20:09:48",
-  "updated_at": 1777291788785,
+  "updated": "2026/04/27 22:33:41",
+  "updated_at": 1777300421028,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "每个女人都在寻找一个爷们，最后发现，最爷们的原来是自己。"
+    "text": "所谓复习就是，把不会的东西再确认一遍，你确实不会。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49230.71,
-        "change": -79.61,
-        "change_pct": -0.16,
+        "price": 49212.59,
+        "change": -18.12,
+        "change_pct": -0.04,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/04/27 20:09:43",
-    "updated_at": 1777291783747,
+    "updated": "2026/04/27 22:33:35",
+    "updated_at": 1777300415518,
     "trading_day": {
       "A": true,
       "HK": true,

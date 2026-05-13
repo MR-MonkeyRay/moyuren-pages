@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updated": "2026/05/14 04:19:07",
-  "updated_at": 1778703547594,
+  "updated": "2026/05/14 05:54:30",
+  "updated_at": 1778709270617,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "像你这样的人，哪怕把土豪两个字贴在脸上，别人也会反过来读。"
+    "text": "别总是骂别人猪狗，你过的还不如它们。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "种 1 棵星期四才开花的树\n          🌿🍃🌱🌿🍃🌱\n     🌱🌿KFC🌿🌿KFC🌱🌿🍃\n 🌱🍃🌿🍃🌱KFC🍃KFC🍃🌿🌱\n 🌿🌱🍃KFC🍃🌱🌿🍃KFC🌿🍃\n 🌱🍃KFC🌿KFC🍃🌱🌿🍃🌱🌱\n         🌿🍃🌱🌿🍃KFC🍃\n          |   V    |\n          |   我   |          \n          |   50   |",
+  "kfc_content": "葬礼上，他被人推到了棺材前。眼前的主角受遗容安静，嘴角还带着笑。他却知道他已经化成了厉鬼，在身边虎视眈眈。\n越危险的时候他越冷静，在求生欲冲到了临界点时，他噗通一声跪在地上，逼红眼睛。\n情感真挚道:“今天肯德基疯狂星期四 v 我 29.9…”",
   "date_info": {
     "year_month": "2026.05",
     "day": "14",
@@ -169,7 +169,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "种 1 棵星期四才开花的树\n          🌿🍃🌱🌿🍃🌱\n     🌱🌿KFC🌿🌿KFC🌱🌿🍃\n 🌱🍃🌿🍃🌱KFC🍃KFC🍃🌿🌱\n 🌿🌱🍃KFC🍃🌱🌿🍃KFC🌿🍃\n 🌱🍃KFC🌿KFC🍃🌱🌿🍃🌱🌱\n         🌿🍃🌱🌿🍃KFC🍃\n          |   V    |\n          |   我   |          \n          |   50   |"
+    "content": "葬礼上，他被人推到了棺材前。眼前的主角受遗容安静，嘴角还带着笑。他却知道他已经化成了厉鬼，在身边虎视眈眈。\n越危险的时候他越冷静，在求生欲冲到了临界点时，他噗通一声跪在地上，逼红眼睛。\n情感真挚道:“今天肯德基疯狂星期四 v 我 29.9…”"
   },
   "stock_indices": {
     "items": [
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/14 04:19:01",
-    "updated_at": 1778703541655,
+    "updated": "2026/05/14 05:54:24",
+    "updated_at": 1778709264904,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updated": "2026/05/14 02:25:11",
-  "updated_at": 1778696711097,
+  "updated": "2026/05/14 04:19:07",
+  "updated_at": 1778703547594,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "时间就像胸，挤挤就有了，躺下就没了。"
+    "text": "像你这样的人，哪怕把土豪两个字贴在脸上，别人也会反过来读。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "你好，我是高中生侦探工藤新一，我刚在游乐场被打晕，被黑衣组织强迫灌下了 APTX-4869，现在身体竟然变成了小孩子，目前我吃了灰原哀开发的解药试作品都起不到作用，现在听说肯德基疯狂星期四 9.9 元的小酥肉有特殊作用，希望大家能够帮我一忙。",
+  "kfc_content": "种 1 棵星期四才开花的树\n          🌿🍃🌱🌿🍃🌱\n     🌱🌿KFC🌿🌿KFC🌱🌿🍃\n 🌱🍃🌿🍃🌱KFC🍃KFC🍃🌿🌱\n 🌿🌱🍃KFC🍃🌱🌿🍃KFC🌿🍃\n 🌱🍃KFC🌿KFC🍃🌱🌿🍃🌱🌱\n         🌿🍃🌱🌿🍃KFC🍃\n          |   V    |\n          |   我   |          \n          |   50   |",
   "date_info": {
     "year_month": "2026.05",
     "day": "14",
@@ -169,7 +169,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "你好，我是高中生侦探工藤新一，我刚在游乐场被打晕，被黑衣组织强迫灌下了 APTX-4869，现在身体竟然变成了小孩子，目前我吃了灰原哀开发的解药试作品都起不到作用，现在听说肯德基疯狂星期四 9.9 元的小酥肉有特殊作用，希望大家能够帮我一忙。"
+    "content": "种 1 棵星期四才开花的树\n          🌿🍃🌱🌿🍃🌱\n     🌱🌿KFC🌿🌿KFC🌱🌿🍃\n 🌱🍃🌿🍃🌱KFC🍃KFC🍃🌿🌱\n 🌿🌱🍃KFC🍃🌱🌿🍃KFC🌿🍃\n 🌱🍃KFC🌿KFC🍃🌱🌿🍃🌱🌱\n         🌿🍃🌱🌿🍃KFC🍃\n          |   V    |\n          |   我   |          \n          |   50   |"
   },
   "stock_indices": {
     "items": [
@@ -216,16 +216,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49700.73,
-        "change": -59.83,
-        "change_pct": -0.12,
+        "price": 49693.2,
+        "change": -67.36,
+        "change_pct": -0.14,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/14 02:25:06",
-    "updated_at": 1778696706696,
+    "updated": "2026/05/14 04:19:01",
+    "updated_at": 1778703541655,
     "trading_day": {
       "A": true,
       "HK": true,

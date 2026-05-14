@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updated": "2026/05/14 13:28:28",
-  "updated_at": 1778736508255,
+  "updated": "2026/05/14 16:12:05",
+  "updated_at": 1778746325376,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你敬人一寸，他将得寸进尺。"
+    "text": "请不要叫我宅女，请叫我居里夫人。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "男朋友跟我分手了，我心碎了，决定见他一面把事情说清楚，如果他非要分手我也无话可说。我买了去上海的机票，坐了两个小时的飞机，到了之后却因为疫情被封小区了他出不来。我心如死灰在大街上游荡，打开手机看到了我们的恩爱时光泪流满面，忽然注意到手机上显示的时间：今天肯德基疯狂星期四，谁请我吃？",
+  "kfc_content": "好消息好消息，加税不加价！今天的 v 我 50 活动不受关税影响，仍保持以往水准，v 我 50 即可",
   "date_info": {
     "year_month": "2026.05",
     "day": "14",
@@ -169,16 +169,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "男朋友跟我分手了，我心碎了，决定见他一面把事情说清楚，如果他非要分手我也无话可说。我买了去上海的机票，坐了两个小时的飞机，到了之后却因为疫情被封小区了他出不来。我心如死灰在大街上游荡，打开手机看到了我们的恩爱时光泪流满面，忽然注意到手机上显示的时间：今天肯德基疯狂星期四，谁请我吃？"
+    "content": "好消息好消息，加税不加价！今天的 v 我 50 活动不受关税影响，仍保持以往水准，v 我 50 即可"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4214.24,
-        "change": -28.33,
-        "change_pct": -0.67,
+        "price": 4177.92,
+        "change": -64.65,
+        "change_pct": -1.52,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -186,9 +186,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15921.97,
-        "change": -167.78,
-        "change_pct": -1.04,
+        "price": 15745.74,
+        "change": -344.01,
+        "change_pct": -2.14,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -196,9 +196,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3995.87,
-        "change": -42.46,
-        "change_pct": -1.05,
+        "price": 3951.14,
+        "change": -87.19,
+        "change_pct": -2.16,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -206,10 +206,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26485.54,
-        "change": 97.1,
-        "change_pct": 0.37,
-        "trend": "up",
+        "price": 26389.04,
+        "change": 0.6,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "HK",
         "is_trading_day": true
       },
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/14 13:28:24",
-    "updated_at": 1778736504111,
+    "updated": "2026/05/14 16:11:59",
+    "updated_at": 1778746319585,
     "trading_day": {
       "A": true,
       "HK": true,

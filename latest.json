@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "updated": "2026/05/15 20:57:33",
-  "updated_at": 1778849853256,
+  "updated": "2026/05/15 23:23:35",
+  "updated_at": 1778858615183,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "橡皮、老虎皮、狮子皮哪一个最不好？橡皮，因为橡皮差（擦）。"
+    "text": "“煎蛋快点！”“别催！没听过吗？煎不可催。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50063.46,
-        "change": 370.26,
-        "change_pct": 0.75,
-        "trend": "up",
+        "price": 49647.95,
+        "change": -415.51,
+        "change_pct": -0.83,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/15 20:57:27",
-    "updated_at": 1778849847133,
+    "updated": "2026/05/15 23:23:31",
+    "updated_at": 1778858611018,
     "trading_day": {
       "A": true,
       "HK": true,

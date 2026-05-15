@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 04:41:40",
-  "updated_at": 1778877700649,
+  "updated": "2026/05/16 06:03:23",
+  "updated_at": 1778882603343,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "那年夏天，我捉住了一只蝉，我以为我捉住了整个夏天，没想到，那蝉对我说：不爱，请别揪蝉（纠缠）。"
+    "text": "如何打破内卷？读书，因为读书破万卷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/16 04:41:35",
-    "updated_at": 1778877695712,
+    "updated": "2026/05/16 06:03:18",
+    "updated_at": 1778882598150,
     "trading_day": {
       "A": false,
       "HK": false,

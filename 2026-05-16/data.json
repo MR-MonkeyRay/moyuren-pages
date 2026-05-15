@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 03:06:36",
-  "updated_at": 1778871996513,
+  "updated": "2026/05/16 04:41:40",
+  "updated_at": 1778877700649,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "两颗番茄去逛街，走着走着，一颗番茄对另一颗说：“我们不是番茄吗，我们会讲话吗？”"
+    "text": "那年夏天，我捉住了一只蝉，我以为我捉住了整个夏天，没想到，那蝉对我说：不爱，请别揪蝉（纠缠）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49574.12,
-        "change": -489.34,
-        "change_pct": -0.98,
+        "price": 49526.17,
+        "change": -537.29,
+        "change_pct": -1.07,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/16 03:06:30",
-    "updated_at": 1778871990997,
+    "updated": "2026/05/16 04:41:35",
+    "updated_at": 1778877695712,
     "trading_day": {
       "A": false,
       "HK": false,

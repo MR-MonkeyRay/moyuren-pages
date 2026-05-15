@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "updated": "2026/05/15 18:33:54",
-  "updated_at": 1778841234236,
+  "updated": "2026/05/15 20:57:33",
+  "updated_at": 1778849853256,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "动物园里最安静的动物是什么？大猩猩，因为大猩猩悄咪咪。"
+    "text": "橡皮、老虎皮、狮子皮哪一个最不好？橡皮，因为橡皮差（擦）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/15 18:33:49",
-    "updated_at": 1778841229163,
+    "updated": "2026/05/15 20:57:27",
+    "updated_at": 1778849847133,
     "trading_day": {
       "A": true,
       "HK": true,

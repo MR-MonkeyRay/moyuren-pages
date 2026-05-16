@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 07:29:46",
-  "updated_at": 1778887786933,
+  "updated": "2026/05/16 09:19:46",
+  "updated_at": 1778894386014,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小动物们聚餐，为什么大象生气了？因为他们聚餐的地方是气象局。"
+    "text": "别人说我太温柔了，所以我要把裤子剪坏，从此做一个残裤（残酷）的人!"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/16 07:29:40",
-    "updated_at": 1778887780973,
+    "updated": "2026/05/16 09:19:40",
+    "updated_at": 1778894380202,
     "trading_day": {
       "A": false,
       "HK": false,

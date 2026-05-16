@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 09:19:46",
-  "updated_at": 1778894386014,
+  "updated": "2026/05/16 12:56:25",
+  "updated_at": 1778907385277,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "别人说我太温柔了，所以我要把裤子剪坏，从此做一个残裤（残酷）的人!"
+    "text": "为什么广东只有两种天气，夏天和冬天？因为春秋在战国。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -1.07,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/05/16 09:19:40",
-    "updated_at": 1778894380202,
+    "updated": "2026/05/16 12:56:20",
+    "updated_at": 1778907380029,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

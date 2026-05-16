@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 00:29:57",
-  "updated_at": 1778948997642,
+  "updated": "2026/05/17 01:33:19",
+  "updated_at": 1778952799458,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "混到现在，拿得起放得下的，只有筷子。"
+    "text": "岁月让我知道，除了快递，我谁都不必等。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 00:29:53",
-    "updated_at": 1778948993853,
+    "updated": "2026/05/17 01:33:15",
+    "updated_at": 1778952795659,
     "trading_day": {
       "A": false,
       "HK": false,

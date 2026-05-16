@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 18:46:37",
-  "updated_at": 1778928397583,
+  "updated": "2026/05/16 19:55:43",
+  "updated_at": 1778932543031,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "什么花一边开一边掉？烟花。"
+    "text": "为什么e人只要内卷就会变矮？因为e人做事e人down。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/16 18:46:32",
-    "updated_at": 1778928392508,
+    "updated": "2026/05/16 19:55:39",
+    "updated_at": 1778932539226,
     "trading_day": {
       "A": false,
       "HK": false,

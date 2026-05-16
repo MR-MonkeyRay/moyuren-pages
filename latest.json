@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 04:12:12",
-  "updated_at": 1778962332813,
+  "updated": "2026/05/17 05:25:20",
+  "updated_at": 1778966720895,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "都说谈恋爱会影响学习，难道学习，就不影响谈恋爱吗？"
+    "text": "别人都用名牌包包，而你，只能用用表情包。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 04:12:07",
-    "updated_at": 1778962327768,
+    "updated": "2026/05/17 05:25:17",
+    "updated_at": 1778966717067,
     "trading_day": {
       "A": false,
       "HK": false,

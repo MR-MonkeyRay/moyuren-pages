@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updated": "2026/05/16 21:43:36",
-  "updated_at": 1778939016330,
+  "updated": "2026/05/16 23:01:08",
+  "updated_at": 1778943668758,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "哪个数字最懒哪个最勤快？一最懒，二最勤快，因为一不做二不休。"
+    "text": "别人说我太温柔了，所以我要把裤子剪坏，从此做一个残裤（残酷）的人!"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/16 21:43:30",
-    "updated_at": 1778939010815,
+    "updated": "2026/05/16 23:00:59",
+    "updated_at": 1778943659937,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 19:40:05",
-  "updated_at": 1779018005594,
+  "updated": "2026/05/17 21:41:15",
+  "updated_at": 1779025275322,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "因为穷我连关心你都不敢，就怕你说嘘寒问暖，不如打笔巨款。"
+    "text": "没钱才上班还是上班才没钱，我不明白哪个环节出了问题，难道有中间商赚差价？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 19:40:01",
-    "updated_at": 1779018001490,
+    "updated": "2026/05/17 21:41:11",
+    "updated_at": 1779025271285,
     "trading_day": {
       "A": false,
       "HK": false,

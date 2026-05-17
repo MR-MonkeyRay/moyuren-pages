@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 06:02:26",
-  "updated_at": 1779055346392,
+  "updated": "2026/05/18 07:31:30",
+  "updated_at": 1779060690621,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。"
+    "text": "你再怎么称赞我，我也不会高兴的，你这个混蛋~"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/18 06:02:20",
-    "updated_at": 1779055340994,
+    "updated": "2026/05/18 07:31:25",
+    "updated_at": 1779060685442,
     "trading_day": {
       "A": true,
       "HK": true,

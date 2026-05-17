@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 04:59:22",
-  "updated_at": 1779051562505,
+  "updated": "2026/05/18 06:02:26",
+  "updated_at": 1779055346392,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "时间再拉长一点，让我有时间收拾一下心情。"
+    "text": "我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/18 04:59:17",
-    "updated_at": 1779051557230,
+    "updated": "2026/05/18 06:02:20",
+    "updated_at": 1779055340994,
     "trading_day": {
       "A": true,
       "HK": true,

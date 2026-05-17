@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 21:41:15",
-  "updated_at": 1779025275322,
+  "updated": "2026/05/17 23:01:23",
+  "updated_at": 1779030083086,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "没钱才上班还是上班才没钱，我不明白哪个环节出了问题，难道有中间商赚差价？"
+    "text": "所谓成长，就是在听到波涛汹涌四个字，再也联想不到大海了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 21:41:11",
-    "updated_at": 1779025271285,
+    "updated": "2026/05/17 23:01:18",
+    "updated_at": 1779030078778,
     "trading_day": {
       "A": false,
       "HK": false,

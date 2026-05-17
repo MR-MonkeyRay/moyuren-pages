@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updated": "2026/05/17 13:31:16",
-  "updated_at": 1778995876688,
+  "updated": "2026/05/17 16:27:11",
+  "updated_at": 1779006431772,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "看时间不是为了起床，而是看还能睡多久。"
+    "text": "用钱当然买不到快乐，只是有钱，别人会想办法让你快乐。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/17 13:31:09",
-    "updated_at": 1778995869411,
+    "updated": "2026/05/17 16:27:06",
+    "updated_at": 1779006426376,
     "trading_day": {
       "A": false,
       "HK": false,

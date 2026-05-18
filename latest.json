@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 00:29:31",
-  "updated_at": 1779121771728,
+  "updated": "2026/05/19 02:20:41",
+  "updated_at": 1779128441536,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "“你的字真好看。” “像不像正楷（郑恺）？” “还像Angelababy呢。”"
+    "text": "你知道破除内卷的最好办法是什么嘛？是读书，因为读书破万卷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49484.61,
-        "change": -41.56,
-        "change_pct": -0.08,
+        "price": 49433.92,
+        "change": -92.25,
+        "change_pct": -0.19,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 00:29:25",
-    "updated_at": 1779121765586,
+    "updated": "2026/05/19 02:20:37",
+    "updated_at": 1779128437412,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "updated": "2026/05/18 16:32:20",
-  "updated_at": 1779093140850,
+  "updated": "2026/05/18 20:38:00",
+  "updated_at": 1779107880800,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "一旦失去的东西 就再也拿不回来了"
+    "text": "不自由，毋宁死"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/18 16:32:15",
-    "updated_at": 1779093135159,
+    "updated": "2026/05/18 20:37:55",
+    "updated_at": 1779107875179,
     "trading_day": {
       "A": true,
       "HK": true,

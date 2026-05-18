@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 05:47:49",
-  "updated_at": 1779140869907,
+  "updated": "2026/05/19 07:07:24",
+  "updated_at": 1779145644985,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "橡皮、老虎皮、狮子皮哪一个最不好？橡皮，因为橡皮差（擦）。"
+    "text": "逛商场的时候看到真正的新华书店，我感慨: “真新华（真心话）”，朋友感慨：“这大碗宽面也很贵。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 05:47:45",
-    "updated_at": 1779140865193,
+    "updated": "2026/05/19 07:07:18",
+    "updated_at": 1779145638450,
     "trading_day": {
       "A": true,
       "HK": true,

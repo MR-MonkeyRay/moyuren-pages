@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 04:15:26",
-  "updated_at": 1779135326720,
+  "updated": "2026/05/19 05:47:49",
+  "updated_at": 1779140869907,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小红和小蓝打架，请问谁赢了？小蓝，因为小红输（书）。"
+    "text": "橡皮、老虎皮、狮子皮哪一个最不好？橡皮，因为橡皮差（擦）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 04:15:22",
-    "updated_at": 1779135322901,
+    "updated": "2026/05/19 05:47:45",
+    "updated_at": 1779140865193,
     "trading_day": {
       "A": true,
       "HK": true,

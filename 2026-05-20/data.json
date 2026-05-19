@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "updated": "2026/05/20 00:51:49",
-  "updated_at": 1779209509786,
+  "updated": "2026/05/20 03:04:57",
+  "updated_at": 1779217497489,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不管你们的梦想有多么可笑，带上它，给我高高地飞起来。"
+    "text": "有形的事物总有一天会消亡不代表有形的事物毫无价值。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49550.69,
-        "change": -135.43,
-        "change_pct": -0.27,
+        "price": 49436.22,
+        "change": -249.9,
+        "change_pct": -0.5,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/20 00:51:44",
-    "updated_at": 1779209504521,
+    "updated": "2026/05/20 03:04:51",
+    "updated_at": 1779217491612,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updated": "2026/05/19 18:24:34",
-  "updated_at": 1779186274627,
+  "updated": "2026/05/19 21:42:10",
+  "updated_at": 1779198130461,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "晏子使楚，被人羞辱后离开，有大臣急忙去追：“晏子！晏子！你带我一起走吧！没有你我怎么活呀！”"
+    "text": "为什么e人只要内卷就会变矮？因为e人做事e人down。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 49686.12,
-        "change": 159.95,
-        "change_pct": 0.32,
-        "trend": "up",
+        "price": 49333.84,
+        "change": -352.28,
+        "change_pct": -0.71,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/19 18:24:28",
-    "updated_at": 1779186268260,
+    "updated": "2026/05/19 21:42:04",
+    "updated_at": 1779198124627,
     "trading_day": {
       "A": true,
       "HK": true,

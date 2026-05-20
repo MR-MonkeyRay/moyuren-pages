@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "updated": "2026/05/20 06:45:46",
-  "updated_at": 1779230746605,
+  "updated": "2026/05/20 08:11:46",
+  "updated_at": 1779235906827,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "虽然不想承认，都是因为年轻犯下的错啊。"
+    "text": "三军可夺帅也，匹夫不可夺志也"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/20 06:45:41",
-    "updated_at": 1779230741259,
+    "updated": "2026/05/20 08:11:42",
+    "updated_at": 1779235902363,
     "trading_day": {
       "A": true,
       "HK": true,

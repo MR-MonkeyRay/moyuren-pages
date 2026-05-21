@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
-  "updated": "2026/05/21 12:09:59",
-  "updated_at": 1779336599178,
+  "updated": "2026/05/21 16:09:09",
+  "updated_at": 1779350949606,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "别人上班赚工资，我上班只为摸鱼。我们不一样，不一样～"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "原来她叫薇，多么好听的名字，你一边关掉校园网一边想着她。因为她没来考试，结果挂了科，你也故意考差了，离 60 分还有距离。那天在樱花树下，你碰巧遇到了她。你终于鼓起勇气笑着对她说：薇，我 50。",
+  "kfc_content": "你有女朋友早说呗 我请你喝那个蜜雪冰城 8 块钱的奶茶能退我一下吗？还有你那五个舍友我也都请了 对不起是我太冲动了 因为你把我删了，我就只能在群里面找你了，你应该能看到吧，你那杯 8 块哈 舍友的也都是 8 块 一共 48 你还要再给我 2 块跑腿费 QQ 转我 50 哈谢谢",
   "date_info": {
     "year_month": "2026.05",
     "day": "21",
@@ -171,46 +171,46 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "原来她叫薇，多么好听的名字，你一边关掉校园网一边想着她。因为她没来考试，结果挂了科，你也故意考差了，离 60 分还有距离。那天在樱花树下，你碰巧遇到了她。你终于鼓起勇气笑着对她说：薇，我 50。"
+    "content": "你有女朋友早说呗 我请你喝那个蜜雪冰城 8 块钱的奶茶能退我一下吗？还有你那五个舍友我也都请了 对不起是我太冲动了 因为你把我删了，我就只能在群里面找你了，你应该能看到吧，你那杯 8 块哈 舍友的也都是 8 块 一共 48 你还要再给我 2 块跑腿费 QQ 转我 50 哈谢谢"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4162.37,
-        "change": 0.19,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 4077.28,
+        "change": -84.9,
+        "change_pct": -2.04,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15662.21,
-        "change": 92.23,
-        "change_pct": 0.59,
-        "trend": "up",
+        "price": 15247.27,
+        "change": -322.71,
+        "change_pct": -2.07,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3942.36,
-        "change": 20.57,
-        "change_pct": 0.52,
-        "trend": "up",
+        "price": 3829.78,
+        "change": -92.01,
+        "change_pct": -2.35,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25648.28,
-        "change": -2.84,
-        "change_pct": -0.01,
+        "price": 25386.52,
+        "change": -264.6,
+        "change_pct": -1.03,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/21 12:09:54",
-    "updated_at": 1779336594291,
+    "updated": "2026/05/21 16:09:05",
+    "updated_at": 1779350945514,
     "trading_day": {
       "A": true,
       "HK": true,

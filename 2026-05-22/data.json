@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "updated": "2026/05/22 04:21:19",
-  "updated_at": 1779394879512,
+  "updated": "2026/05/22 05:59:56",
+  "updated_at": 1779400796451,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "比尔盖茨休学创业，成为世界首富，可是人家休得是哈佛大学。"
+    "text": "你只要不抬杠，钱真的是万能的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/22 04:21:15",
-    "updated_at": 1779394875468,
+    "updated": "2026/05/22 05:59:51",
+    "updated_at": 1779400791229,
     "trading_day": {
       "A": true,
       "HK": true,

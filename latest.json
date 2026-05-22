@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "updated": "2026/05/22 17:57:55",
-  "updated_at": 1779443875130,
+  "updated": "2026/05/22 20:29:34",
+  "updated_at": 1779452974825,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "像你这样的人，哪怕把土豪两个字贴在脸上，别人也会反过来读。"
+    "text": "你最想从母校带走的是什么？最想从母校带走的，是我的学费。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/22 17:57:49",
-    "updated_at": 1779443869411,
+    "updated": "2026/05/22 20:29:28",
+    "updated_at": 1779452968497,
     "trading_day": {
       "A": true,
       "HK": true,

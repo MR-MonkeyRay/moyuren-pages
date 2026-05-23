@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 06:29:20",
-  "updated_at": 1779575360835,
+  "updated": "2026/05/24 07:35:11",
+  "updated_at": 1779579311700,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "研究发现整天戴AirPods会影响爱情，因为AirPods没有音源（姻缘）。"
+    "text": "怎样使麻雀安静下来？压它一下，因为鸦雀无声（压雀无声）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 06:29:15",
-    "updated_at": 1779575355763,
+    "updated": "2026/05/24 07:35:06",
+    "updated_at": 1779579306415,
     "trading_day": {
       "A": false,
       "HK": false,

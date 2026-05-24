@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 20:42:35",
-  "updated_at": 1779626555463,
+  "updated": "2026/05/24 22:26:47",
+  "updated_at": 1779632807723,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有个不识字的盲人，为什么他走着走着就识字了？因为他走到了十字路口。"
+    "text": "一只黑猫把一只白猫从河里救起来了，白猫对黑猫说了声：“喵”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 20:42:31",
-    "updated_at": 1779626551020,
+    "updated": "2026/05/24 22:26:39",
+    "updated_at": 1779632799963,
     "trading_day": {
       "A": false,
       "HK": false,

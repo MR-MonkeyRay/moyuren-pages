@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 04:10:04",
-  "updated_at": 1779653404466,
+  "updated": "2026/05/25 05:31:12",
+  "updated_at": 1779658272881,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "眼睛千万不要对着手机太久，专家说了，那样手机会没电。"
+    "text": "当你觉得自己不行的时候，就走马路上走走，这样你就是一个行人了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 04:09:59",
-    "updated_at": 1779653399108,
+    "updated": "2026/05/25 05:31:07",
+    "updated_at": 1779658267520,
     "trading_day": {
       "A": true,
       "HK": false,

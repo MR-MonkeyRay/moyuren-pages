@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 17:59:59",
-  "updated_at": 1779616799111,
+  "updated": "2026/05/24 19:25:41",
+  "updated_at": 1779621941104,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一个人姓铁，他从小到大都不长头发，因为他得了“老铁没毛病”。"
+    "text": "你看偶像练习生吗？不像。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 17:59:52",
-    "updated_at": 1779616792556,
+    "updated": "2026/05/24 19:25:37",
+    "updated_at": 1779621937020,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updated": "2026/05/24 12:03:42",
-  "updated_at": 1779595422827,
+  "updated": "2026/05/24 15:37:33",
+  "updated_at": 1779608253666,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么i人身体都比较好？因为免e力强。"
+    "text": "美杜莎石化了一位将军的妻子，将军怒道：敢石化贱内！美杜莎：恨…恨别鸟惊心。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/24 12:03:37",
-    "updated_at": 1779595417272,
+    "updated": "2026/05/24 15:37:27",
+    "updated_at": 1779608247680,
     "trading_day": {
       "A": false,
       "HK": false,

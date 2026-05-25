@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "updated": "2026/05/26 05:46:16",
-  "updated_at": 1779745576134,
+  "updated": "2026/05/26 07:10:31",
+  "updated_at": 1779750631865,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "在good、super、great里，谁行动最缓慢？super，因为Superman。"
+    "text": "一山不容二虎，二山会怎样？二三得六。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/26 05:46:10",
-    "updated_at": 1779745570827,
+    "updated": "2026/05/26 07:10:25",
+    "updated_at": 1779750625053,
     "trading_day": {
       "A": true,
       "HK": true,

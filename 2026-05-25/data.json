@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updated": "2026/05/25 07:01:22",
-  "updated_at": 1779663682268,
+  "updated": "2026/05/25 09:32:46",
+  "updated_at": 1779672766710,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "卸妆对你来说，又叫洗钱。"
+    "text": "念念不忘，可有回响？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -172,9 +172,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4112.9,
-        "change": 35.62,
-        "change_pct": 0.87,
+        "price": 4123.45,
+        "change": 10.55,
+        "change_pct": 0.26,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -182,9 +182,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15597.3,
-        "change": 350.03,
-        "change_pct": 2.3,
+        "price": 15681.54,
+        "change": 84.24,
+        "change_pct": 0.54,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -192,9 +192,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3938.5,
-        "change": 108.72,
-        "change_pct": 2.84,
+        "price": 3956.56,
+        "change": 18.06,
+        "change_pct": 0.46,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/25 07:01:17",
-    "updated_at": 1779663677264,
+    "updated": "2026/05/25 09:32:42",
+    "updated_at": 1779672762629,
     "trading_day": {
       "A": true,
       "HK": false,

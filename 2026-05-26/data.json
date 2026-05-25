@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "updated": "2026/05/26 02:27:07",
-  "updated_at": 1779733627012,
+  "updated": "2026/05/26 04:12:33",
+  "updated_at": 1779739953466,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "大禹治水三过家门而不入，他的妻子就在家唱歌以表思念，请问唱的什么歌？那些年错过的大禹。"
+    "text": "小明走着走着突然脚酸了，为什么？因为他踩到柠檬了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/26 02:27:01",
-    "updated_at": 1779733621409,
+    "updated": "2026/05/26 04:12:28",
+    "updated_at": 1779739948691,
     "trading_day": {
       "A": true,
       "HK": true,

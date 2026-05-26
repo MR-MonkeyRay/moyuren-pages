@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "updated": "2026/05/27 05:12:16",
-  "updated_at": 1779829936551,
+  "updated": "2026/05/27 06:50:33",
+  "updated_at": 1779835833585,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "自顾自地期待自顾自地误会，我已经不想再来了。"
+    "text": "人类才是这个世界上最神秘有不可思议的生物。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4145.37,
-        "change": -7.2,
-        "change_pct": -0.17,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 15876.16,
-        "change": 19.55,
-        "change_pct": 0.12,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 4043.07,
-        "change": 21.91,
-        "change_pct": 0.54,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25599.45,
-        "change": -6.58,
-        "change_pct": -0.03,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 50461.68,
-        "change": -118.02,
-        "change_pct": -0.23,
-        "trend": "down",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/05/27 05:12:11",
-    "updated_at": 1779829931186,
+    "items": [],
+    "updated": "2026/05/27 06:50:22",
+    "updated_at": 1779835822853,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

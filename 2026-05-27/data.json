@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "updated": "2026/05/27 16:44:35",
-  "updated_at": 1779871475445,
+  "updated": "2026/05/27 20:24:27",
+  "updated_at": 1779884667968,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "要拒绝空气，就首先要拥有空气；要拒绝世界，就首先要拥有世界"
+    "text": "心，一旦离开了，就再不会回来。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/27 16:44:28",
-    "updated_at": 1779871468806,
+    "updated": "2026/05/27 20:24:23",
+    "updated_at": 1779884663036,
     "trading_day": {
       "A": true,
       "HK": true,

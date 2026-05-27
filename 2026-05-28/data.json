@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "updated": "2026/05/28 02:39:25",
-  "updated_at": 1779907165577,
+  "updated": "2026/05/28 05:03:32",
+  "updated_at": 1779915812890,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我不怕变成自己厌恶的人，我怕过得还不如他们。"
+    "text": "有很多时候，面子不是别人给的，是自己凑上来丢的。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "Hello, I'm Donald Trump. Glad to share with you guys that I won the 2024 Election, I'll give 100 dollars to everyone who supported me, just V me 50, to prove you're a supporter of mine and I'll transfer 100 dollars to your credit card immediately.",
+  "kfc_content": "我独自一人远离家乡来到成都上学，同学欺我，老师骂我，舍友打我，我流浪在晨风街头，衣衫褴褛，身无分文，活得不如一条流浪狗。天地浩大，却没有我的容身之处。我想问一问苍天，今天肯德基疯狂星期四，谁请我吃？",
   "date_info": {
     "year_month": "2026.05",
     "day": "28",
@@ -170,7 +170,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "Hello, I'm Donald Trump. Glad to share with you guys that I won the 2024 Election, I'll give 100 dollars to everyone who supported me, just V me 50, to prove you're a supporter of mine and I'll transfer 100 dollars to your credit card immediately."
+    "content": "我独自一人远离家乡来到成都上学，同学欺我，老师骂我，舍友打我，我流浪在晨风街头，衣衫褴褛，身无分文，活得不如一条流浪狗。天地浩大，却没有我的容身之处。我想问一问苍天，今天肯德基疯狂星期四，谁请我吃？"
   },
   "stock_indices": {
     "items": [
@@ -217,16 +217,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50670.76,
-        "change": 209.08,
-        "change_pct": 0.41,
+        "price": 50644.28,
+        "change": 182.6,
+        "change_pct": 0.36,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/28 02:39:19",
-    "updated_at": 1779907159941,
+    "updated": "2026/05/28 05:03:27",
+    "updated_at": 1779915807459,
     "trading_day": {
       "A": true,
       "HK": true,

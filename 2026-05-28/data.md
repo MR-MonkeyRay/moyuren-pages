@@ -37,10 +37,10 @@
 
 > **😂 搞笑段子**
 >
-> 我不怕变成自己厌恶的人，我怕过得还不如他们。
+> 有很多时候，面子不是别人给的，是自己凑上来丢的。
 
 > **疯狂星期四**
 >
-> Hello, I'm Donald Trump. Glad to share with you guys that I won the 2024 Election, I'll give 100 dollars to everyone who supported me, just V me 50, to prove you're a supporter of mine and I'll transfer 100 dollars to your credit card immediately.
+> 我独自一人远离家乡来到成都上学，同学欺我，老师骂我，舍友打我，我流浪在晨风街头，衣衫褴褛，身无分文，活得不如一条流浪狗。天地浩大，却没有我的容身之处。我想问一问苍天，今天肯德基疯狂星期四，谁请我吃？
 
-*更新时间: 2026/05/28 02:39:25*
+*更新时间: 2026/05/28 05:03:32*

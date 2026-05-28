@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
-  "updated": "2026/05/29 03:40:44",
-  "updated_at": 1779997244961,
+  "updated": "2026/05/29 05:58:45",
+  "updated_at": 1780005525026,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你过得好我替你高兴，你过得不好，我替全世界高兴。"
+    "text": "用扯淡的态度，面对操蛋的人生。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50669.08,
-        "change": 24.8,
+        "price": 50668.97,
+        "change": 24.69,
         "change_pct": 0.05,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/29 03:40:39",
-    "updated_at": 1779997239181,
+    "updated": "2026/05/29 05:58:39",
+    "updated_at": 1780005519410,
     "trading_day": {
       "A": true,
       "HK": true,

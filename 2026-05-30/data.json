@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updated": "2026/05/30 04:32:21",
-  "updated_at": 1780086741683,
+  "updated": "2026/05/30 06:42:42",
+  "updated_at": 1780094562110,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "26个字母哪个最容易做错事？M，因为M（I'm）sorry。"
+    "text": "猩猩最讨厌什么线？平行线，因为平行线没有相交（香蕉）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/30 04:32:16",
-    "updated_at": 1780086736902,
+    "updated": "2026/05/30 06:42:36",
+    "updated_at": 1780094556752,
     "trading_day": {
       "A": false,
       "HK": false,

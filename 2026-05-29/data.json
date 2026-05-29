@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
-  "updated": "2026/05/29 18:31:21",
-  "updated_at": 1780050681437,
+  "updated": "2026/05/29 22:11:23",
+  "updated_at": 1780063883495,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "见到长辈时，不是我们不想叫他，而是压根就不知道叫他什么。"
+    "text": "小时候最怕梦到自己找厕所，最最可怕的是，人没醒来厕所却找到了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50668.97,
-        "change": 24.69,
-        "change_pct": 0.05,
+        "price": 50869.56,
+        "change": 200.59,
+        "change_pct": 0.4,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/05/29 18:31:16",
-    "updated_at": 1780050676265,
+    "updated": "2026/05/29 22:11:17",
+    "updated_at": 1780063877965,
     "trading_day": {
       "A": true,
       "HK": true,

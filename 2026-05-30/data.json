@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updated": "2026/05/30 15:43:11",
-  "updated_at": 1780126991321,
+  "updated": "2026/05/30 18:04:51",
+  "updated_at": 1780135491577,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有个人长得像洋葱，走着走着就哭了。"
+    "text": "许仙给老婆买了一顶帽子，白娘子戴上后感觉头很重，因为那是顶鸭舌（压蛇）帽。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/05/30 15:43:06",
-    "updated_at": 1780126986964,
+    "updated": "2026/05/30 18:04:47",
+    "updated_at": 1780135487896,
     "trading_day": {
       "A": false,
       "HK": false,

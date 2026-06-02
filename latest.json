@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
-  "updated": "2026/06/03 01:27:41",
-  "updated_at": 1780421261097,
+  "updated": "2026/06/03 04:28:22",
+  "updated_at": 1780432102277,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "请不要叫我宅女，请叫我居里夫人。"
+    "text": "人家不是无趣，而是，懒得对你有趣。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51193.47,
-        "change": 114.59,
-        "change_pct": 0.22,
+        "price": 51307.79,
+        "change": 228.91,
+        "change_pct": 0.45,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/03 01:27:35",
-    "updated_at": 1780421255787,
+    "updated": "2026/06/03 04:28:16",
+    "updated_at": 1780432096774,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-02",
-  "updated": "2026/06/02 16:53:52",
-  "updated_at": 1780390432659,
+  "updated": "2026/06/02 20:46:58",
+  "updated_at": 1780404418664,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小王剪了个中分，请问他变成了什么？全。"
+    "text": "有一个人叫小明。小明没听见。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/02 16:53:47",
-    "updated_at": 1780390427618,
+    "updated": "2026/06/02 20:46:52",
+    "updated_at": 1780404412562,
     "trading_day": {
       "A": true,
       "HK": true,

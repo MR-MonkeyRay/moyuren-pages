@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
-  "updated": "2026/06/04 04:39:49",
-  "updated_at": 1780519189872,
+  "updated": "2026/06/04 07:07:28",
+  "updated_at": 1780528048666,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "所谓长大成人，就是不断聚了散，散了聚。"
+    "text": "安得广厦千万间，大庇天下寒士俱欢颜，风雨不动安如山"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "我被确诊为周期性蛋白脂肪缺失症，这是一种罕见的慢性病，目前没有有效的治疗手段，只能使用 KentuckyFriedChicken （简称 KFC ）公司开发的生物制剂 FriedAnimalProtein （油炸动物蛋白）进行治疗以缓解症状，今天是该公司降价卖药的日子，不知有没有好心人资助我 50 元，帮我治病",
+  "kfc_content": "花 2000w 可以让 lex 账号解封\n花 200w 可以让 hololive 回归\n花 20w 可以给东雪莲上 10 个月总督\n花 2w 可以让女生不用在厕所生孩子\n花 2000 可以去华东理工大学买一副耳机\n花 200 可以买一副 VR 眼睛在厕所求导\n那花 50 呢？能让我愉快的渡过一个疯狂星期四吗？\n可以，KFC 疯狂星期四鸡排桶仅需 49.9！\nV 我 50，助我渡过一个快乐的疯狂星期四！",
   "date_info": {
     "year_month": "2026.06",
     "day": "4",
@@ -170,7 +170,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "我被确诊为周期性蛋白脂肪缺失症，这是一种罕见的慢性病，目前没有有效的治疗手段，只能使用 KentuckyFriedChicken （简称 KFC ）公司开发的生物制剂 FriedAnimalProtein （油炸动物蛋白）进行治疗以缓解症状，今天是该公司降价卖药的日子，不知有没有好心人资助我 50 元，帮我治病"
+    "content": "花 2000w 可以让 lex 账号解封\n花 200w 可以让 hololive 回归\n花 20w 可以给东雪莲上 10 个月总督\n花 2w 可以让女生不用在厕所生孩子\n花 2000 可以去华东理工大学买一副耳机\n花 200 可以买一副 VR 眼睛在厕所求导\n那花 50 呢？能让我愉快的渡过一个疯狂星期四吗？\n可以，KFC 疯狂星期四鸡排桶仅需 49.9！\nV 我 50，助我渡过一个快乐的疯狂星期四！"
   },
   "stock_indices": {
     "items": [
@@ -225,8 +225,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/04 04:39:44",
-    "updated_at": 1780519184557,
+    "updated": "2026/06/04 07:07:23",
+    "updated_at": 1780528043704,
     "trading_day": {
       "A": true,
       "HK": true,

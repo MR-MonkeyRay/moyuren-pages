@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
-  "updated": "2026/06/04 07:07:28",
-  "updated_at": 1780528048666,
+  "updated": "2026/06/04 10:07:08",
+  "updated_at": 1780538828232,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "安得广厦千万间，大庇天下寒士俱欢颜，风雨不动安如山"
+    "text": "我承认躲避时的难受比面对时的更多。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "花 2000w 可以让 lex 账号解封\n花 200w 可以让 hololive 回归\n花 20w 可以给东雪莲上 10 个月总督\n花 2w 可以让女生不用在厕所生孩子\n花 2000 可以去华东理工大学买一副耳机\n花 200 可以买一副 VR 眼睛在厕所求导\n那花 50 呢？能让我愉快的渡过一个疯狂星期四吗？\n可以，KFC 疯狂星期四鸡排桶仅需 49.9！\nV 我 50，助我渡过一个快乐的疯狂星期四！",
+  "kfc_content": "[微信红包] 宝贝，拿去买 KFC，我不像别的男的只会嘴上说说，我还会复制",
   "date_info": {
     "year_month": "2026.06",
     "day": "4",
@@ -170,26 +170,26 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "花 2000w 可以让 lex 账号解封\n花 200w 可以让 hololive 回归\n花 20w 可以给东雪莲上 10 个月总督\n花 2w 可以让女生不用在厕所生孩子\n花 2000 可以去华东理工大学买一副耳机\n花 200 可以买一副 VR 眼睛在厕所求导\n那花 50 呢？能让我愉快的渡过一个疯狂星期四吗？\n可以，KFC 疯狂星期四鸡排桶仅需 49.9！\nV 我 50，助我渡过一个快乐的疯狂星期四！"
+    "content": "[微信红包] 宝贝，拿去买 KFC，我不像别的男的只会嘴上说说，我还会复制"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4083.97,
-        "change": 8.87,
-        "change_pct": 0.22,
-        "trend": "up",
+        "price": 4079.58,
+        "change": -4.39,
+        "change_pct": -0.11,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15704.71,
-        "change": 113.58,
-        "change_pct": 0.73,
+        "price": 15735.24,
+        "change": 30.53,
+        "change_pct": 0.19,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -197,19 +197,19 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 4122.99,
-        "change": 67.12,
-        "change_pct": 1.65,
-        "trend": "up",
+        "price": 4111.2,
+        "change": -11.79,
+        "change_pct": -0.29,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25633.21,
-        "change": -405.11,
-        "change_pct": -1.56,
+        "price": 25364.21,
+        "change": -269.0,
+        "change_pct": -1.05,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -225,8 +225,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/04 07:07:23",
-    "updated_at": 1780528043704,
+    "updated": "2026/06/04 10:07:04",
+    "updated_at": 1780538824139,
     "trading_day": {
       "A": true,
       "HK": true,

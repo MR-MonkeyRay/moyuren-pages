@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
-  "updated": "2026/06/04 10:07:08",
-  "updated_at": 1780538828232,
+  "updated": "2026/06/04 15:07:01",
+  "updated_at": 1780556821406,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我承认躲避时的难受比面对时的更多。"
+    "text": "不认输，不逃避，世上没有不停的雨"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "[微信红包] 宝贝，拿去买 KFC，我不像别的男的只会嘴上说说，我还会复制",
+  "kfc_content": "和你分手 7 年了，你还是那个能影响我情绪的人，我还留着我们的合影，还记得你的生日，我有过无数次想去找你的冲动，可还是忍住了，这条消息我不屏蔽你，因为我是你永远的黑名单，可是我爱你，从过去到现在，整整爱了你八年，但是，现在我一点也不难过，因为我压根不知道这是谁写的，也不知道这女孩是谁，我只是想顺便告诉你：今天疯狂星期四，我想吃肯德基",
   "date_info": {
     "year_month": "2026.06",
     "day": "4",
@@ -170,16 +170,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "[微信红包] 宝贝，拿去买 KFC，我不像别的男的只会嘴上说说，我还会复制"
+    "content": "和你分手 7 年了，你还是那个能影响我情绪的人，我还留着我们的合影，还记得你的生日，我有过无数次想去找你的冲动，可还是忍住了，这条消息我不屏蔽你，因为我是你永远的黑名单，可是我爱你，从过去到现在，整整爱了你八年，但是，现在我一点也不难过，因为我压根不知道这是谁写的，也不知道这女孩是谁，我只是想顺便告诉你：今天疯狂星期四，我想吃肯德基"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4079.58,
-        "change": -4.39,
-        "change_pct": -0.11,
+        "price": 4057.78,
+        "change": -26.19,
+        "change_pct": -0.64,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -187,19 +187,19 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15735.24,
-        "change": 30.53,
-        "change_pct": 0.19,
-        "trend": "up",
+        "price": 15661.57,
+        "change": -43.14,
+        "change_pct": -0.27,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 4111.2,
-        "change": -11.79,
-        "change_pct": -0.29,
+        "price": 4088.88,
+        "change": -34.11,
+        "change_pct": -0.83,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -207,9 +207,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25364.21,
-        "change": -269.0,
-        "change_pct": -1.05,
+        "price": 25257.34,
+        "change": -375.87,
+        "change_pct": -1.47,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -225,8 +225,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/04 10:07:04",
-    "updated_at": 1780538824139,
+    "updated": "2026/06/04 15:06:54",
+    "updated_at": 1780556814577,
     "trading_day": {
       "A": true,
       "HK": true,

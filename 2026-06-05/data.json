@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "updated": "2026/06/05 20:11:36",
-  "updated_at": 1780661496128,
+  "updated": "2026/06/05 23:35:49",
+  "updated_at": 1780673749994,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "其实你讨厌的并不是广场舞，而是广场舞大妈。"
+    "text": "你还不算惨，惨的人，都没手机用。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51561.93,
-        "change": 874.86,
-        "change_pct": 1.73,
-        "trend": "up",
+        "price": 51367.32,
+        "change": -194.61,
+        "change_pct": -0.38,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/05 20:11:31",
-    "updated_at": 1780661491165,
+    "updated": "2026/06/05 23:35:44",
+    "updated_at": 1780673744006,
     "trading_day": {
       "A": true,
       "HK": true,

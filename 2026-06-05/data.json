@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "updated": "2026/06/05 16:30:51",
-  "updated_at": 1780648251866,
+  "updated": "2026/06/05 20:11:36",
+  "updated_at": 1780661496128,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你这两天早点回家，最近偷猪的多，我怕你出事。"
+    "text": "其实你讨厌的并不是广场舞，而是广场舞大妈。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/05 16:30:47",
-    "updated_at": 1780648247997,
+    "updated": "2026/06/05 20:11:31",
+    "updated_at": 1780661491165,
     "trading_day": {
       "A": true,
       "HK": true,

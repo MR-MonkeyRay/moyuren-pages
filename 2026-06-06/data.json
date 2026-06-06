@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "updated": "2026/06/06 09:29:48",
-  "updated_at": 1780709388705,
+  "updated": "2026/06/06 13:36:18",
+  "updated_at": 1780724178095,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "听说自从你得了神经病，整个人都精神多了。"
+    "text": "用钱当然买不到快乐，只是有钱，别人会想办法让你快乐。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -1.35,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/06/06 09:29:42",
-    "updated_at": 1780709382133,
+    "updated": "2026/06/06 13:36:14",
+    "updated_at": 1780724174123,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

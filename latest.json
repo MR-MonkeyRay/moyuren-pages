@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "updated": "2026/06/06 20:10:08",
-  "updated_at": 1780747808610,
+  "updated": "2026/06/06 22:17:34",
+  "updated_at": 1780755454510,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我擅长做空A股，只要我一买，立刻跌。"
+    "text": "物以类聚人以穷分，有钱人终成眷属。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/06 20:10:04",
-    "updated_at": 1780747804882,
+    "updated": "2026/06/06 22:17:28",
+    "updated_at": 1780755448205,
     "trading_day": {
       "A": false,
       "HK": false,

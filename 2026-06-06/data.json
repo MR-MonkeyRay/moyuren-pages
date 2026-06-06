@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "updated": "2026/06/06 07:19:48",
-  "updated_at": 1780701588207,
+  "updated": "2026/06/06 09:29:48",
+  "updated_at": 1780709388705,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果你觉得，围着你的都是苍蝇，那可能你自己是坨屎。"
+    "text": "听说自从你得了神经病，整个人都精神多了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/06 07:19:42",
-    "updated_at": 1780701582582,
+    "updated": "2026/06/06 09:29:42",
+    "updated_at": 1780709382133,
     "trading_day": {
       "A": false,
       "HK": false,

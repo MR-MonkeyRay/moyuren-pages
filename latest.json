@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "updated": "2026/06/07 18:07:34",
-  "updated_at": 1780826854881,
+  "updated": "2026/06/07 20:08:27",
+  "updated_at": 1780834107067,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "过分的神圣，往往比恶魔更加恶质。"
+    "text": "我们人这一辈子不是别人的楷模，就是别人的借鉴。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/07 18:07:28",
-    "updated_at": 1780826848346,
+    "updated": "2026/06/07 20:08:21",
+    "updated_at": 1780834101683,
     "trading_day": {
       "A": false,
       "HK": false,

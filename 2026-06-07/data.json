@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "updated": "2026/06/07 14:34:54",
-  "updated_at": 1780814094253,
+  "updated": "2026/06/07 18:07:34",
+  "updated_at": 1780826854881,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我不知道离别的滋味是这样凄凉，我不知道说声再见要这么坚强。"
+    "text": "过分的神圣，往往比恶魔更加恶质。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/07 14:34:47",
-    "updated_at": 1780814087191,
+    "updated": "2026/06/07 18:07:28",
+    "updated_at": 1780826848346,
     "trading_day": {
       "A": false,
       "HK": false,

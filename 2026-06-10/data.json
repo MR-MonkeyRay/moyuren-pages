@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
-  "updated": "2026/06/10 07:52:42",
-  "updated_at": 1781049162598,
+  "updated": "2026/06/10 12:09:01",
+  "updated_at": 1781064541164,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "你在认真工作的时候，有人在摸鱼。你在加班的时候，有人在钓鱼。人生苦短，及时摸鱼。"
+    "text": "世界上有两种人：一种是在认真工作，一种是在摸鱼。前者为老板打工，后者为自己打工。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -166,14 +166,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/06/10 07:52:34",
-    "updated_at": 1781049154031,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3986.66,
+        "change": -23.37,
+        "change_pct": -0.58,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 14972.75,
+        "change": -295.96,
+        "change_pct": -1.94,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3870.83,
+        "change": -90.92,
+        "change_pct": -2.29,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24292.95,
+        "change": -272.95,
+        "change_pct": -1.11,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 50872.11,
+        "change": 86.1,
+        "change_pct": 0.17,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/06/10 12:08:55",
+    "updated_at": 1781064535447,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

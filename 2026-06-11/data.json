@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
-  "updated": "2026/06/11 03:13:11",
-  "updated_at": 1781118791684,
+  "updated": "2026/06/11 05:36:02",
+  "updated_at": 1781127362009,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "世界上有两种人：一种是在认真工作，一种是在摸鱼。前者为老板打工，后者为自己打工。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "狂気の木曜日、好兄弟ｖ我５０救い我の腹、KFC 飽喰、感じ温暖、我、感謝",
+  "kfc_content": "这个群，现在由我管理。目的是把你们训练成一个个社会高薪人士，从本周起，已经开始执行军事化管理。现在我命令你们，现在立即给我 v50 以测试忠诚度，我升你为士兵长，不关今天是肯德基疯狂星期四的事",
   "date_info": {
     "year_month": "2026.06",
     "day": "11",
@@ -167,7 +167,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "狂気の木曜日、好兄弟ｖ我５０救い我の腹、KFC 飽喰、感じ温暖、我、感謝"
+    "content": "这个群，现在由我管理。目的是把你们训练成一个个社会高薪人士，从本周起，已经开始执行军事化管理。现在我命令你们，现在立即给我 v50 以测试忠诚度，我升你为士兵长，不关今天是肯德基疯狂星期四的事"
   },
   "stock_indices": {
     "items": [
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50073.05,
-        "change": -799.06,
-        "change_pct": -1.57,
+        "price": 49918.78,
+        "change": -953.33,
+        "change_pct": -1.87,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/11 03:13:08",
-    "updated_at": 1781118788637,
+    "updated": "2026/06/11 05:35:53",
+    "updated_at": 1781127353513,
     "trading_day": {
       "A": true,
       "HK": true,

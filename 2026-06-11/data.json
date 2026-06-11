@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
-  "updated": "2026/06/11 07:39:00",
-  "updated_at": 1781134740098,
+  "updated": "2026/06/11 12:22:27",
+  "updated_at": 1781151747577,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "世界上有两种人：一种是在认真工作，一种是在摸鱼。前者为老板打工，后者为自己打工。"
+    "text": "别人上班赚工资，我上班只为摸鱼。我们不一样，不一样～"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "分享欲：想把收款码发给所有人\n占有欲：感觉你们的钱都是我的\n忠诚感：我会永远最爱钱最爱钱\n胜负欲：比我有钱的都得揍一顿\n仪式感：又周四了 V 我 50 KFC",
+  "kfc_content": "你跟你女朋友开房，裤子一脱你女朋友花容失色的质问你：你不是说你有 18cm 吗？怎么这么小？你说：因为今天是肯德基疯狂星期四活动满 18 减 15",
   "date_info": {
     "year_month": "2026.06",
     "day": "11",
@@ -167,16 +167,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "分享欲：想把收款码发给所有人\n占有欲：感觉你们的钱都是我的\n忠诚感：我会永远最爱钱最爱钱\n胜负欲：比我有钱的都得揍一顿\n仪式感：又周四了 V 我 50 KFC"
+    "content": "你跟你女朋友开房，裤子一脱你女朋友花容失色的质问你：你不是说你有 18cm 吗？怎么这么小？你说：因为今天是肯德基疯狂星期四活动满 18 减 15"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3993.23,
-        "change": -16.8,
-        "change_pct": -0.42,
+        "price": 3964.24,
+        "change": -28.99,
+        "change_pct": -0.73,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14954.1,
-        "change": -314.61,
-        "change_pct": -2.06,
+        "price": 14756.97,
+        "change": -197.13,
+        "change_pct": -1.32,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3854.79,
-        "change": -106.96,
-        "change_pct": -2.7,
+        "price": 3785.63,
+        "change": -69.16,
+        "change_pct": -1.79,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24407.96,
-        "change": -157.94,
-        "change_pct": -0.64,
+        "price": 24136.17,
+        "change": -271.79,
+        "change_pct": -1.11,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/11 07:38:57",
-    "updated_at": 1781134737116,
+    "updated": "2026/06/11 12:22:20",
+    "updated_at": 1781151740133,
     "trading_day": {
       "A": true,
       "HK": true,

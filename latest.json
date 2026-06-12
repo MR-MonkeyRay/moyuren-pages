@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "updated": "2026/06/13 02:25:10",
-  "updated_at": 1781288710368,
+  "updated": "2026/06/13 04:36:48",
+  "updated_at": 1781296608209,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "人生的每一步，都可能成为另一个错误；可却不能因为错误，而不迈出下一步"
+    "text": "物质和金钱归根结底是必须和必要的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51207.96,
-        "change": 359.21,
-        "change_pct": 0.71,
+        "price": 51202.26,
+        "change": 353.51,
+        "change_pct": 0.7,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/13 02:25:03",
-    "updated_at": 1781288703147,
+    "updated": "2026/06/13 04:36:40",
+    "updated_at": 1781296600760,
     "trading_day": {
       "A": false,
       "HK": false,

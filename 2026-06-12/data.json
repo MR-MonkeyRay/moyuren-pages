@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
-  "updated": "2026/06/12 06:08:41",
-  "updated_at": 1781215721756,
+  "updated": "2026/06/12 08:04:39",
+  "updated_at": 1781222679425,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "别人上班赚工资，我上班只为摸鱼。我们不一样，不一样～"
+    "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/12 06:08:34",
-    "updated_at": 1781215714839,
+    "updated": "2026/06/12 08:04:32",
+    "updated_at": 1781222672238,
     "trading_day": {
       "A": true,
       "HK": true,

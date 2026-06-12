@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "updated": "2026/06/13 04:36:48",
-  "updated_at": 1781296608209,
+  "updated": "2026/06/13 06:27:53",
+  "updated_at": 1781303273880,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "物质和金钱归根结底是必须和必要的。"
+    "text": "不要因为结束而哭泣，微笑吧，为你的曾经拥有。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/13 04:36:40",
-    "updated_at": 1781296600760,
+    "updated": "2026/06/13 06:27:46",
+    "updated_at": 1781303266681,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "updated": "2026/06/13 19:19:09",
-  "updated_at": 1781349549861,
+  "updated": "2026/06/13 21:06:54",
+  "updated_at": 1781356014150,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "一旦分隔两地就不配叫朋友，只能算是旧识。和自己的人生不再有瓜葛的通过点，记忆中的陈旧标签。明明都知道，却假装没这回事。"
+    "text": "不管雪怎么覆盖 恋爱的花朵开放的春天都是会来的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/13 19:19:04",
-    "updated_at": 1781349544338,
+    "updated": "2026/06/13 21:06:47",
+    "updated_at": 1781356007279,
     "trading_day": {
       "A": false,
       "HK": false,

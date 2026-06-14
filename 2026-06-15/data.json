@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
-  "updated": "2026/06/15 00:26:46",
-  "updated_at": 1781454406707,
+  "updated": "2026/06/15 01:59:33",
+  "updated_at": 1781459973693,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只迷路的蚂蚁问另一只蚂蚁：“你都如何回蚁窝（回忆我）？”被问的蚂蚁：“带着笑或是很沉默？”"
+    "text": "水一百度会开，人一百度会怎样？会死，人一百度，起码癌症起步。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/15 00:26:38",
-    "updated_at": 1781454398312,
+    "updated": "2026/06/15 01:59:26",
+    "updated_at": 1781459966276,
     "trading_day": {
       "A": true,
       "HK": true,

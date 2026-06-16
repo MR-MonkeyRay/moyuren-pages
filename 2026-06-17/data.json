@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
-  "updated": "2026/06/17 02:18:03",
-  "updated_at": 1781633883442,
+  "updated": "2026/06/17 05:28:09",
+  "updated_at": 1781645289721,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "晴朗的早晨 我会按部就班 换乘地铁来这里   但总觉得自己根本不属于这里"
+    "text": "因为无理当道，所以正理去死吧！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52083.28,
-        "change": 412.25,
-        "change_pct": 0.8,
+        "price": 51999.67,
+        "change": 328.64,
+        "change_pct": 0.64,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/17 02:17:55",
-    "updated_at": 1781633875641,
+    "updated": "2026/06/17 05:28:03",
+    "updated_at": 1781645283592,
     "trading_day": {
       "A": true,
       "HK": true,

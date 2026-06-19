@@ -1,7 +1,7 @@
 {
   "date": "2026-06-20",
-  "updated": "2026/06/20 02:02:39",
-  "updated_at": 1781892159675,
+  "updated": "2026/06/20 04:16:43",
+  "updated_at": 1781900203421,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你们的对象叫你们什么？我的对象叫我滚💔。"
+    "text": "将薪比薪的想了想，算了，不想活了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/20 02:02:33",
-    "updated_at": 1781892153214,
+    "updated": "2026/06/20 04:16:37",
+    "updated_at": 1781900197652,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "updated": "2026/06/19 07:19:47",
-  "updated_at": 1781824787564,
+  "updated": "2026/06/19 10:19:25",
+  "updated_at": 1781835565096,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "我的座右铭：能坐着绝不站着，能躺着绝不坐着，能摸鱼绝不工作。"
+    "text": "老板喊你认真干活的时候，请记住：他是在为他自己的梦想买单，而不是你的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/19 07:19:39",
-    "updated_at": 1781824779284,
+    "updated": "2026/06/19 10:19:19",
+    "updated_at": 1781835559329,
     "trading_day": {
       "A": false,
       "HK": false,

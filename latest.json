@@ -1,7 +1,7 @@
 {
   "date": "2026-06-20",
-  "updated": "2026/06/20 20:00:27",
-  "updated_at": 1781956827423,
+  "updated": "2026/06/20 22:26:30",
+  "updated_at": 1781965590902,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "好看的锁骨千篇一律，有趣的肚腩弹来弹去。"
+    "text": "不就是钱嘛，说得谁不缺似的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -220,8 +220,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/20 20:00:20",
-    "updated_at": 1781956820400,
+    "updated": "2026/06/20 22:26:23",
+    "updated_at": 1781965583985,
     "trading_day": {
       "A": false,
       "HK": false,

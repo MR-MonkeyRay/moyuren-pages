@@ -1,7 +1,7 @@
 {
   "date": "2026-06-21",
-  "updated": "2026/06/21 05:21:55",
-  "updated_at": 1781990515275,
+  "updated": "2026/06/21 06:44:24",
+  "updated_at": 1781995464649,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "“你的字真好看。” “像不像正楷（郑恺）？” “还像Angelababy呢。”"
+    "text": "逛商场的时候看到真正的新华书店，我感慨: “真新华（真心话）”，朋友感慨：“这大碗宽面也很贵。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/21 05:21:49",
-    "updated_at": 1781990509466,
+    "updated": "2026/06/21 06:44:18",
+    "updated_at": 1781995458883,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-21",
-  "updated": "2026/06/21 08:13:01",
-  "updated_at": 1782000781549,
+  "updated": "2026/06/21 13:26:23",
+  "updated_at": 1782019583299,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "孙悟空被压在五指山下什么时候最想家？晚上，因为夜深人静的石猴（时候），是想家的石猴（时候）。"
+    "text": "世界上什么海最大？苦海，因为苦海无涯。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/21 08:12:54",
-    "updated_at": 1782000774987,
+    "updated": "2026/06/21 13:26:15",
+    "updated_at": 1782019575463,
     "trading_day": {
       "A": false,
       "HK": false,

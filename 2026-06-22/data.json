@@ -1,7 +1,7 @@
 {
   "date": "2026-06-22",
-  "updated": "2026/06/22 00:16:36",
-  "updated_at": 1782058596806,
+  "updated": "2026/06/22 02:06:59",
+  "updated_at": 1782065219167,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "仅只一次，万般怜爱。"
+    "text": "生我何用？不能欢笑。灭我何用？不减狂骄。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/22 00:16:28",
-    "updated_at": 1782058588880,
+    "updated": "2026/06/22 02:06:51",
+    "updated_at": 1782065211577,
     "trading_day": {
       "A": true,
       "HK": true,

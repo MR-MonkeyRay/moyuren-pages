@@ -1,7 +1,7 @@
 {
   "date": "2026-06-22",
-  "updated": "2026/06/22 10:03:50",
-  "updated_at": 1782093830844,
+  "updated": "2026/06/22 16:41:51",
+  "updated_at": 1782117711320,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "欺骗世界，欺骗最初的你。"
+    "text": "葬礼是为活着的人准备的，他们需要一个宣泄伤感的场所。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -173,19 +173,19 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4090.43,
-        "change": -0.05,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 4163.1,
+        "change": 72.62,
+        "change_pct": 1.78,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 16151.63,
-        "change": 120.93,
-        "change_pct": 0.75,
+        "price": 16372.5,
+        "change": 341.8,
+        "change_pct": 2.13,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -193,9 +193,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 4312.26,
-        "change": 59.87,
-        "change_pct": 1.41,
+        "price": 4359.39,
+        "change": 107.0,
+        "change_pct": 2.52,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23469.71,
-        "change": -455.1,
-        "change_pct": -1.9,
+        "price": 23768.52,
+        "change": -156.29,
+        "change_pct": -0.65,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -218,15 +218,15 @@
         "change_pct": 0.14,
         "trend": "up",
         "market": "US",
-        "is_trading_day": false
+        "is_trading_day": true
       }
     ],
-    "updated": "2026/06/22 10:03:43",
-    "updated_at": 1782093823332,
+    "updated": "2026/06/22 16:41:47",
+    "updated_at": 1782117707163,
     "trading_day": {
       "A": true,
       "HK": true,
-      "US": false
+      "US": true
     },
     "is_stale": false
   }

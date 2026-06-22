@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "updated": "2026/06/23 05:33:06",
-  "updated_at": 1782163986330,
+  "updated": "2026/06/23 07:24:15",
+  "updated_at": 1782170655539,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "只有在必需时才去做，不必须就不会去做。"
+    "text": "青春如果太切合实际，就不配叫做青春了"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/23 05:33:00",
-    "updated_at": 1782163980352,
+    "updated": "2026/06/23 07:24:08",
+    "updated_at": 1782170648985,
     "trading_day": {
       "A": true,
       "HK": true,

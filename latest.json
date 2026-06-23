@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "updated": "2026/06/23 18:11:34",
-  "updated_at": 1782209494761,
+  "updated": "2026/06/23 21:23:01",
+  "updated_at": 1782220981493,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我裤子都脱了你就给我看这个！！！"
+    "text": "一天吐槽太多次的话，梗也是会用完的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/23 18:11:27",
-    "updated_at": 1782209487046,
+    "updated": "2026/06/23 21:22:54",
+    "updated_at": 1782220974779,
     "trading_day": {
       "A": true,
       "HK": true,

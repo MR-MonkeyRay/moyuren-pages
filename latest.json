@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
-  "updated": "2026/06/24 04:34:45",
-  "updated_at": 1782246885715,
+  "updated": "2026/06/24 06:17:59",
+  "updated_at": 1782253079961,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我不是那种落井下石的人，我是直接把井封了。"
+    "text": "再苦不能苦孩子，再穷也得穷得瑟。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/24 04:34:39",
-    "updated_at": 1782246879111,
+    "updated": "2026/06/24 06:17:54",
+    "updated_at": 1782253074095,
     "trading_day": {
       "A": true,
       "HK": true,

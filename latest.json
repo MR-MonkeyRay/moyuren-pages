@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
-  "updated": "2026/06/24 00:10:33",
-  "updated_at": 1782231033190,
+  "updated": "2026/06/24 02:22:02",
+  "updated_at": 1782238922683,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "年轻时我以为钱就是一切，现在老了才知道，确实如此。"
+    "text": "人如果没有梦想，那跟无忧无虑有什么分别？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51822.94,
-        "change": 110.23,
-        "change_pct": 0.21,
+        "price": 51736.56,
+        "change": 23.85,
+        "change_pct": 0.05,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/24 00:10:26",
-    "updated_at": 1782231026791,
+    "updated": "2026/06/24 02:21:56",
+    "updated_at": 1782238916090,
     "trading_day": {
       "A": true,
       "HK": true,

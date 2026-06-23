@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "updated": "2026/06/23 07:24:15",
-  "updated_at": 1782170655539,
+  "updated": "2026/06/23 09:32:07",
+  "updated_at": 1782178327925,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "青春如果太切合实际，就不配叫做青春了"
+    "text": "男人变态有什么错！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -173,39 +173,39 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4163.1,
-        "change": 72.62,
-        "change_pct": 1.78,
-        "trend": "up",
+        "price": 4158.97,
+        "change": -4.13,
+        "change_pct": -0.1,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 16372.5,
-        "change": 341.8,
-        "change_pct": 2.13,
-        "trend": "up",
+        "price": 16296.84,
+        "change": -75.66,
+        "change_pct": -0.46,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 4359.39,
-        "change": 107.0,
-        "change_pct": 2.52,
-        "trend": "up",
+        "price": 4333.88,
+        "change": -25.51,
+        "change_pct": -0.59,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23768.52,
-        "change": -156.29,
-        "change_pct": -0.65,
+        "price": 23760.56,
+        "change": -7.96,
+        "change_pct": -0.03,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/23 07:24:08",
-    "updated_at": 1782170648985,
+    "updated": "2026/06/23 09:32:02",
+    "updated_at": 1782178322465,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
-  "updated": "2026/06/24 21:25:25",
-  "updated_at": 1782307525770,
+  "updated": "2026/06/24 23:51:58",
+  "updated_at": 1782316318738,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果我有什么，让你不喜欢的地方，麻烦你自己克服一下。"
+    "text": "英雄一怒为红颜，红颜一怒，得花钱。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51666.84,
-        "change": -45.87,
-        "change_pct": -0.09,
-        "trend": "down",
+        "price": 52194.13,
+        "change": 527.29,
+        "change_pct": 1.02,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/24 21:25:18",
-    "updated_at": 1782307518798,
+    "updated": "2026/06/24 23:51:52",
+    "updated_at": 1782316312060,
     "trading_day": {
       "A": true,
       "HK": true,

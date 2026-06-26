@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "updated": "2026/06/26 16:08:23",
-  "updated_at": 1782461303363,
+  "updated": "2026/06/26 19:25:08",
+  "updated_at": 1782473108100,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "要超越不可能。"
+    "text": "过度的无知有时候也是种幸福呐。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -203,9 +203,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 22684.09,
-        "change": -392.82,
-        "change_pct": -1.7,
+        "price": 22671.86,
+        "change": -405.05,
+        "change_pct": -1.76,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -221,8 +221,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/26 16:08:15",
-    "updated_at": 1782461295992,
+    "updated": "2026/06/26 19:25:01",
+    "updated_at": 1782473101465,
     "trading_day": {
       "A": true,
       "HK": true,

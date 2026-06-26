@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
-  "updated": "2026/06/27 04:18:43",
-  "updated_at": 1782505123941,
+  "updated": "2026/06/27 05:48:48",
+  "updated_at": 1782510528677,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不断累积就能创造属于自己的必杀技。"
+    "text": "你要明白，你爱的不是那段时光，不是那个念念不忘的人，不是那段经历，你爱的只是当年那个羽翼未丰但依然执迷不悔的自己。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/27 04:18:39",
-    "updated_at": 1782505119906,
+    "updated": "2026/06/27 05:48:42",
+    "updated_at": 1782510522409,
     "trading_day": {
       "A": false,
       "HK": false,

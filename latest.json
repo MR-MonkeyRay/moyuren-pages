@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "updated": "2026/06/26 19:25:08",
-  "updated_at": 1782473108100,
+  "updated": "2026/06/26 21:30:56",
+  "updated_at": 1782480656226,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "过度的无知有时候也是种幸福呐。"
+    "text": "这个世上每个人的背上都黏了各种形状各种口味的梅干。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51920.62,
-        "change": 71.72,
-        "change_pct": 0.14,
-        "trend": "up",
+        "price": 51696.73,
+        "change": -223.89,
+        "change_pct": -0.43,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/26 19:25:01",
-    "updated_at": 1782473101465,
+    "updated": "2026/06/26 21:30:48",
+    "updated_at": 1782480648157,
     "trading_day": {
       "A": true,
       "HK": true,

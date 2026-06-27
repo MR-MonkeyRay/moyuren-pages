@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "updated": "2026/06/28 04:11:26",
-  "updated_at": 1782591086194,
+  "updated": "2026/06/28 05:38:46",
+  "updated_at": 1782596326737,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "单身脱发又没钱，跑步进入中老年。"
+    "text": "静若瘫痪，动若癫痫。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/28 04:11:19",
-    "updated_at": 1782591079541,
+    "updated": "2026/06/28 05:38:41",
+    "updated_at": 1782596321501,
     "trading_day": {
       "A": false,
       "HK": false,

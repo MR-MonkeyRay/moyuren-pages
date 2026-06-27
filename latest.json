@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
-  "updated": "2026/06/27 09:28:58",
-  "updated_at": 1782523738954,
+  "updated": "2026/06/27 13:33:11",
+  "updated_at": 1782538391625,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我要成立美少女后宫！"
+    "text": "成为我作品中的女主角吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -0.09,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/06/27 09:28:52",
-    "updated_at": 1782523732706,
+    "updated": "2026/06/27 13:33:04",
+    "updated_at": 1782538384578,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

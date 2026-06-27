@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
-  "updated": "2026/06/27 20:14:46",
-  "updated_at": 1782562486750,
+  "updated": "2026/06/27 22:14:21",
+  "updated_at": 1782569661481,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "就算你将遗忘其一切，我也会永远记得"
+    "text": "但是，我也不再是孩子了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/27 20:14:40",
-    "updated_at": 1782562480680,
+    "updated": "2026/06/27 22:14:15",
+    "updated_at": 1782569655248,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
-  "updated": "2026/06/29 00:44:10",
-  "updated_at": 1782665050246,
+  "updated": "2026/06/29 02:07:55",
+  "updated_at": 1782670075344,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "第一，审判者无法放弃审判，因为他们就我为此而存在的。"
+    "text": "悲观着，叹息着，这么做有什么用，停滞不前，即使是死人也办得到。可是，我活着，用自己的力量站着，终有一天会死的话，还是不要留下遗憾比较好吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/29 00:44:03",
-    "updated_at": 1782665043127,
+    "updated": "2026/06/29 02:07:48",
+    "updated_at": 1782670068662,
     "trading_day": {
       "A": true,
       "HK": true,

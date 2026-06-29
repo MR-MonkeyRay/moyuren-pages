@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
-  "updated": "2026/06/29 06:35:44",
-  "updated_at": 1782686144637,
+  "updated": "2026/06/29 08:12:43",
+  "updated_at": 1782691963260,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "有时失败的一瞬，也许是最真实的一刻。"
+    "text": "那天，我听到了种子破土的声音，又细微又坚定。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/06/29 06:35:40",
-    "updated_at": 1782686140733,
+    "updated": "2026/06/29 08:12:36",
+    "updated_at": 1782691956026,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
-  "updated": "2026/06/29 18:09:28",
-  "updated_at": 1782727768697,
+  "updated": "2026/06/29 22:35:01",
+  "updated_at": 1782743701902,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "活着的时候要尽欢，死的时候才没有遗憾。"
+    "text": "从不放弃信念，一直以自己的力量披荆斩棘，所以，我一直信任着他。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51876.11,
-        "change": -44.51,
-        "change_pct": -0.09,
-        "trend": "down",
+        "price": 52246.41,
+        "change": 370.3,
+        "change_pct": 0.71,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/29 18:09:23",
-    "updated_at": 1782727763278,
+    "updated": "2026/06/29 22:34:50",
+    "updated_at": 1782743690965,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
-  "updated": "2026/06/30 05:53:11",
-  "updated_at": 1782769991828,
+  "updated": "2026/06/30 07:02:37",
+  "updated_at": 1782774157422,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么e人只要内卷就会变矮？因为e人做事e人down。"
+    "text": "太平洋的中间是什么？平。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/30 05:53:05",
-    "updated_at": 1782769985469,
+    "updated": "2026/06/30 07:02:31",
+    "updated_at": 1782774151236,
     "trading_day": {
       "A": true,
       "HK": true,

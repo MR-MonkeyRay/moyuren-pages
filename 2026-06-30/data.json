@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
-  "updated": "2026/06/30 20:29:52",
-  "updated_at": 1782822592433,
+  "updated": "2026/06/30 23:15:37",
+  "updated_at": 1782832537499,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小王剪了个中分，请问他变成了什么？全。"
+    "text": "有一个人叫小明。小明没听见。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52182.74,
-        "change": 306.63,
-        "change_pct": 0.59,
+        "price": 52309.07,
+        "change": 126.33,
+        "change_pct": 0.24,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/30 20:29:47",
-    "updated_at": 1782822587985,
+    "updated": "2026/06/30 23:15:32",
+    "updated_at": 1782832532867,
     "trading_day": {
       "A": true,
       "HK": true,

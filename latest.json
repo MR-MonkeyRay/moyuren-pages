@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
-  "updated": "2026/06/30 07:02:37",
-  "updated_at": 1782774157422,
+  "updated": "2026/06/30 09:31:40",
+  "updated_at": 1782783100415,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "太平洋的中间是什么？平。"
+    "text": "为啥说看武打片能减肥？因为里面经常说“你瘦死吧”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,19 +174,19 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4073.9,
-        "change": 46.64,
-        "change_pct": 1.16,
-        "trend": "up",
+        "price": 4057.79,
+        "change": -16.11,
+        "change_pct": -0.4,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15812.87,
-        "change": 30.65,
-        "change_pct": 0.19,
+        "price": 15866.78,
+        "change": 53.91,
+        "change_pct": 0.34,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 4216.7,
-        "change": 22.49,
-        "change_pct": 0.54,
+        "price": 4230.91,
+        "change": 14.21,
+        "change_pct": 0.34,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23026.68,
-        "change": 354.82,
-        "change_pct": 1.57,
+        "price": 23072.53,
+        "change": 45.85,
+        "change_pct": 0.2,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/06/30 07:02:31",
-    "updated_at": 1782774151236,
+    "updated": "2026/06/30 09:31:36",
+    "updated_at": 1782783096556,
     "trading_day": {
       "A": true,
       "HK": true,

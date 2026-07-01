@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "updated": "2026/07/01 20:20:16",
-  "updated_at": 1782908416284,
+  "updated": "2026/07/01 23:20:12",
+  "updated_at": 1782919212811,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "一个人只有一个命运"
+    "text": "失去的东西往往是最重要的东西，重要的东西往往会在无意间失去。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52319.2,
-        "change": 136.46,
-        "change_pct": 0.26,
+        "price": 52461.31,
+        "change": 142.11,
+        "change_pct": 0.27,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/01 20:20:09",
-    "updated_at": 1782908409221,
+    "updated": "2026/07/01 23:20:07",
+    "updated_at": 1782919207506,
     "trading_day": {
       "A": true,
       "HK": false,

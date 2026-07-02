@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
-  "updated": "2026/07/02 06:48:33",
-  "updated_at": 1782946113735,
+  "updated": "2026/07/02 08:13:03",
+  "updated_at": 1782951183795,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "别人上班赚工资，我上班只为摸鱼。我们不一样，不一样～"
+    "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "离婚了，前夫联合小三一起报复我，我已经做好了殊死一搏的准备。先请我吃个肯德基疯狂星期四，我继续说复仇计划",
+  "kfc_content": "[微信红包] 星期四了，姐妹们拿着买 KFC 吃。领不到就对了，这是微信，不能全信",
   "date_info": {
     "year_month": "2026.07",
     "day": "2",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "离婚了，前夫联合小三一起报复我，我已经做好了殊死一搏的准备。先请我吃个肯德基疯狂星期四，我继续说复仇计划"
+    "content": "[微信红包] 星期四了，姐妹们拿着买 KFC 吃。领不到就对了，这是微信，不能全信"
   },
   "stock_indices": {
     "items": [
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/02 06:48:26",
-    "updated_at": 1782946106995,
+    "updated": "2026/07/02 08:12:55",
+    "updated_at": 1782951175501,
     "trading_day": {
       "A": true,
       "HK": true,

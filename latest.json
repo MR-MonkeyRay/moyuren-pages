@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "updated": "2026/07/04 05:18:03",
-  "updated_at": 1783113483886,
+  "updated": "2026/07/04 06:34:57",
+  "updated_at": 1783118097240,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "好人和坏人一起坐车，请问谁先下车？坏人，因为好人坐到底。"
+    "text": "什么水果容易走丢？榴莲，因为榴莲忘返（流连忘返）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/04 05:17:57",
-    "updated_at": 1783113477897,
+    "updated": "2026/07/04 06:34:50",
+    "updated_at": 1783118090639,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "updated": "2026/07/04 03:58:52",
-  "updated_at": 1783108732228,
+  "updated": "2026/07/04 05:18:03",
+  "updated_at": 1783113483886,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为啥说看武打片能减肥？因为里面经常说“你瘦死吧”。"
+    "text": "好人和坏人一起坐车，请问谁先下车？坏人，因为好人坐到底。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/04 03:58:44",
-    "updated_at": 1783108724231,
+    "updated": "2026/07/04 05:17:57",
+    "updated_at": 1783113477897,
     "trading_day": {
       "A": false,
       "HK": false,

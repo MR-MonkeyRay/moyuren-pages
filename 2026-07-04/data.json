@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "updated": "2026/07/04 17:37:39",
-  "updated_at": 1783157859078,
+  "updated": "2026/07/04 19:36:31",
+  "updated_at": 1783164991293,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "松下为什么没索尼强？因为panasonic（怕了索尼哥）。"
+    "text": "为什么90度的水不能喝？因为90度是直角，会卡嗓子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/04 17:37:34",
-    "updated_at": 1783157854306,
+    "updated": "2026/07/04 19:36:24",
+    "updated_at": 1783164984295,
     "trading_day": {
       "A": false,
       "HK": false,

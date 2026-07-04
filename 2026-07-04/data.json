@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "updated": "2026/07/04 21:43:18",
-  "updated_at": 1783172598785,
+  "updated": "2026/07/04 23:09:33",
+  "updated_at": 1783177773902,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "星星是实心的还是空心的？空心的，因为star（四大）皆空。"
+    "text": "你知道海为什么是蓝色的吗？因为海里的鱼在吐泡泡“Blue blue blue”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/04 21:43:14",
-    "updated_at": 1783172594692,
+    "updated": "2026/07/04 23:09:28",
+    "updated_at": 1783177768012,
     "trading_day": {
       "A": false,
       "HK": false,

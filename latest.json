@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "updated": "2026/07/04 19:36:31",
-  "updated_at": 1783164991293,
+  "updated": "2026/07/04 21:43:18",
+  "updated_at": 1783172598785,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么90度的水不能喝？因为90度是直角，会卡嗓子。"
+    "text": "星星是实心的还是空心的？空心的，因为star（四大）皆空。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/04 19:36:24",
-    "updated_at": 1783164984295,
+    "updated": "2026/07/04 21:43:14",
+    "updated_at": 1783172594692,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "updated": "2026/07/04 06:34:57",
-  "updated_at": 1783118097240,
+  "updated": "2026/07/04 08:09:15",
+  "updated_at": 1783123755729,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "什么水果容易走丢？榴莲，因为榴莲忘返（流连忘返）。"
+    "text": "一个糖在北极走着走着，觉得好冷，于是就变成了冰糖。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -221,8 +221,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/04 06:34:50",
-    "updated_at": 1783118090639,
+    "updated": "2026/07/04 08:09:10",
+    "updated_at": 1783123750365,
     "trading_day": {
       "A": false,
       "HK": false,

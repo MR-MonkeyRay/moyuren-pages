@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "updated": "2026/07/05 00:33:27",
-  "updated_at": 1783182807343,
+  "updated": "2026/07/05 02:05:30",
+  "updated_at": 1783188330454,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "什么花一边开一边掉？烟花。"
+    "text": "为什么自古红颜多薄命？因为丑的没人在乎。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/05 00:33:19",
-    "updated_at": 1783182799291,
+    "updated": "2026/07/05 02:05:24",
+    "updated_at": 1783188324070,
     "trading_day": {
       "A": false,
       "HK": false,

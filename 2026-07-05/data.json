@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "updated": "2026/07/05 21:52:10",
-  "updated_at": 1783259530547,
+  "updated": "2026/07/05 23:16:37",
+  "updated_at": 1783264597695,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小白加小白等于什么？小白兔（TWO）。"
+    "text": "橡皮、老虎皮、狮子皮哪一个最不好？橡皮，因为橡皮差（擦）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/05 21:52:04",
-    "updated_at": 1783259524588,
+    "updated": "2026/07/05 23:16:30",
+    "updated_at": 1783264590425,
     "trading_day": {
       "A": false,
       "HK": false,

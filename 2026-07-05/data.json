@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "updated": "2026/07/05 11:52:22",
-  "updated_at": 1783223542598,
+  "updated": "2026/07/05 15:31:53",
+  "updated_at": 1783236713010,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一天一个橙子路上碰见一个香菇，然后橙子就死了，为什么？因为菌要橙死，橙不得不死。"
+    "text": "别人说我太温柔了，所以我要把裤子剪坏，从此做一个残裤（残酷）的人!"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,14 +170,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/07/05 11:52:11",
-    "updated_at": 1783223531597,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4043.64,
+        "change": 14.74,
+        "change_pct": 0.37,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 15597.51,
+        "change": 98.7,
+        "change_pct": 0.64,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 4019.93,
+        "change": 2.66,
+        "change_pct": 0.07,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 23350.03,
+        "change": 295.0,
+        "change_pct": 1.28,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 52900.07,
+        "change": 594.83,
+        "change_pct": 1.14,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": false
+      }
+    ],
+    "updated": "2026/07/05 15:31:47",
+    "updated_at": 1783236707998,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

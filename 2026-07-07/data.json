@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "updated": "2026/07/07 00:39:06",
-  "updated_at": 1783355946434,
+  "updated": "2026/07/07 02:58:59",
+  "updated_at": 1783364339825,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "每次看你穿丝袜的时候，我都有一种无法言喻的感觉，那就是萝卜还包保鲜膜咧。"
+    "text": "好看的皮囊三千一晚，有趣的灵魂要车要房。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52871.4,
-        "change": -28.67,
-        "change_pct": -0.05,
-        "trend": "down",
+        "price": 53009.44,
+        "change": 109.37,
+        "change_pct": 0.21,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/07 00:39:01",
-    "updated_at": 1783355941489,
+    "updated": "2026/07/07 02:58:54",
+    "updated_at": 1783364334743,
     "trading_day": {
       "A": true,
       "HK": true,

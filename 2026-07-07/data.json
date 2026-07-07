@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "updated": "2026/07/07 15:44:07",
-  "updated_at": 1783410247457,
+  "updated": "2026/07/07 19:12:43",
+  "updated_at": 1783422763756,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "其实你不丑，只是，你美得不明显。"
+    "text": "男女之间一定有纯友谊，每一个我认识的女生，都说最多只能跟我当朋友。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -202,9 +202,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23469.06,
-        "change": -147.26,
-        "change_pct": -0.62,
+        "price": 23496.89,
+        "change": -119.43,
+        "change_pct": -0.51,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -220,8 +220,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/07 15:43:54",
-    "updated_at": 1783410234996,
+    "updated": "2026/07/07 19:12:37",
+    "updated_at": 1783422757223,
     "trading_day": {
       "A": true,
       "HK": true,

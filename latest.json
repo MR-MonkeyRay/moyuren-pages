@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "updated": "2026/07/08 03:05:26",
-  "updated_at": 1783451126243,
+  "updated": "2026/07/08 05:07:35",
+  "updated_at": 1783458455195,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "当你劝告别人时，若不顾及别人的自尊心，那么再好的言语都没有用的"
+    "text": "对别人抱有期待，只能让自己受伤。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52862.34,
-        "change": -193.57,
-        "change_pct": -0.36,
+        "price": 52925.15,
+        "change": -130.76,
+        "change_pct": -0.25,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/08 03:05:21",
-    "updated_at": 1783451121751,
+    "updated": "2026/07/08 05:07:30",
+    "updated_at": 1783458450229,
     "trading_day": {
       "A": true,
       "HK": true,

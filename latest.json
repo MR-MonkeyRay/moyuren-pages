@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "updated": "2026/07/08 17:28:20",
-  "updated_at": 1783502900108,
+  "updated": "2026/07/08 19:25:15",
+  "updated_at": 1783509915158,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "人不能一个人活下去，不需要任何人的孤独和需要人但得不到的孤独是不一样的。"
+    "text": "您才是我的王，我发誓为您所用，为您而终。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/08 17:28:15",
-    "updated_at": 1783502895233,
+    "updated": "2026/07/08 19:25:09",
+    "updated_at": 1783509909448,
     "trading_day": {
       "A": true,
       "HK": true,

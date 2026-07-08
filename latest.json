@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
-  "updated": "2026/07/09 03:39:34",
-  "updated_at": 1783539574965,
+  "updated": "2026/07/09 05:12:33",
+  "updated_at": 1783545153471,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么喝醉以后觉得别人都变矮了？因为喝高了。"
+    "text": "孙悟空被压在五指山下什么时候最想家？晚上，因为夜深人静的石猴（时候），是想家的石猴（时候）。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "群里有做放贷的吗？给我放 50 出来，我女神等会醒了估计要发肯德基文案了，我不想有人比我舔的快",
+  "kfc_content": "今年是得阿尔兹海默症的第十年。我感到许多东西正在离我而去。最后，我只能用一些破碎的词汇来表达自己了。记忆也在离我而去，我现在唯一记得的就是，今天是疯狂星期四，谁请我吃？",
   "date_info": {
     "year_month": "2026.07",
     "day": "9",
@@ -169,7 +169,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "群里有做放贷的吗？给我放 50 出来，我女神等会醒了估计要发肯德基文案了，我不想有人比我舔的快"
+    "content": "今年是得阿尔兹海默症的第十年。我感到许多东西正在离我而去。最后，我只能用一些破碎的词汇来表达自己了。记忆也在离我而去，我现在唯一记得的就是，今天是疯狂星期四，谁请我吃？"
   },
   "stock_indices": {
     "items": [
@@ -216,16 +216,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52327.89,
-        "change": -597.26,
-        "change_pct": -1.13,
+        "price": 52348.39,
+        "change": -576.76,
+        "change_pct": -1.09,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/09 03:39:28",
-    "updated_at": 1783539568615,
+    "updated": "2026/07/09 05:12:25",
+    "updated_at": 1783545145043,
     "trading_day": {
       "A": true,
       "HK": true,

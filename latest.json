@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updated": "2026/07/10 05:38:47",
-  "updated_at": 1783633127702,
+  "updated": "2026/07/10 07:16:31",
+  "updated_at": 1783638991950,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "藕的生长周期是200天，而鸡只需要50多天就能从小鸡变成鸡腿、鸡排、鸡胸肉，短时间内鸡变藕不变。"
+    "text": "为什么保尔·柯察金过不了安检门？因为他有钢铁般的意志。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,14 +170,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/07/10 05:38:37",
-    "updated_at": 1783633117320,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 4036.59,
+        "change": 65.71,
+        "change_pct": 1.65,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 15398.73,
+        "change": 459.0,
+        "change_pct": 3.07,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 4018.17,
+        "change": 172.82,
+        "change_pct": 4.49,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24030.18,
+        "change": -169.28,
+        "change_pct": -0.7,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 52487.41,
+        "change": 139.02,
+        "change_pct": 0.27,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/07/10 07:16:24",
+    "updated_at": 1783638984811,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

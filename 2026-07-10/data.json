@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updated": "2026/07/10 04:00:00",
-  "updated_at": 1783627200758,
+  "updated": "2026/07/10 05:38:47",
+  "updated_at": 1783633127702,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "知道狐狸为啥站不起来嘛？因为他狡猾（脚滑）。"
+    "text": "藕的生长周期是200天，而鸡只需要50多天就能从小鸡变成鸡腿、鸡排、鸡胸肉，短时间内鸡变藕不变。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 4036.59,
-        "change": 65.71,
-        "change_pct": 1.65,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 15398.73,
-        "change": 459.0,
-        "change_pct": 3.07,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 4018.17,
-        "change": 172.82,
-        "change_pct": 4.49,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 24030.18,
-        "change": -169.28,
-        "change_pct": -0.7,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 52478.17,
-        "change": 129.78,
-        "change_pct": 0.25,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/07/10 03:59:54",
-    "updated_at": 1783627194545,
+    "items": [],
+    "updated": "2026/07/10 05:38:37",
+    "updated_at": 1783633117320,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

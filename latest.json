@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updated": "2026/07/10 17:42:41",
-  "updated_at": 1783676561251,
+  "updated": "2026/07/10 20:28:29",
+  "updated_at": 1783686509843,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一根火柴在路上走，觉得头痒就挠，挠着挠着火就着了，最后灭了。"
+    "text": "一山不容二虎，二山会怎样？二三得六。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/10 17:42:34",
-    "updated_at": 1783676554448,
+    "updated": "2026/07/10 20:28:18",
+    "updated_at": 1783686498904,
     "trading_day": {
       "A": true,
       "HK": true,

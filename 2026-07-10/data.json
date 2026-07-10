@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updated": "2026/07/10 13:39:51",
-  "updated_at": 1783661991218,
+  "updated": "2026/07/10 17:42:41",
+  "updated_at": 1783676561251,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "研究发现整天戴AirPods会影响爱情，因为AirPods没有音源（姻缘）。"
+    "text": "有一根火柴在路上走，觉得头痒就挠，挠着挠着火就着了，最后灭了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,19 +174,19 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 4044.45,
-        "change": 7.86,
-        "change_pct": 0.19,
-        "trend": "up",
+        "price": 3996.16,
+        "change": -40.43,
+        "change_pct": -1.0,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 15362.55,
-        "change": -36.18,
-        "change_pct": -0.23,
+        "price": 15046.67,
+        "change": -352.06,
+        "change_pct": -2.29,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3954.27,
-        "change": -63.9,
-        "change_pct": -1.59,
+        "price": 3842.73,
+        "change": -175.44,
+        "change_pct": -4.37,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24336.69,
-        "change": 306.51,
-        "change_pct": 1.28,
+        "price": 24175.12,
+        "change": 144.94,
+        "change_pct": 0.6,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/10 13:39:47",
-    "updated_at": 1783661987833,
+    "updated": "2026/07/10 17:42:34",
+    "updated_at": 1783676554448,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "updated": "2026/07/11 06:10:08",
-  "updated_at": 1783721408390,
+  "updated": "2026/07/11 07:31:37",
+  "updated_at": 1783726297484,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "只有在放弃的时候，可能性才会变为零，无论别人觉得多么没有意义，我不想让自己认为可能性为零，所以···我绝对不要放弃！"
+    "text": "总有一天都会面目全非，时光没有教会我任何东西，却教会了我不要轻易去相信神话。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/11 06:10:00",
-    "updated_at": 1783721400574,
+    "updated": "2026/07/11 07:31:30",
+    "updated_at": 1783726290992,
     "trading_day": {
       "A": false,
       "HK": false,

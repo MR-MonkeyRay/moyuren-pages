@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updated": "2026/07/10 20:28:29",
-  "updated_at": 1783686509843,
+  "updated": "2026/07/10 23:15:47",
+  "updated_at": 1783696547580,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一山不容二虎，二山会怎样？二三得六。"
+    "text": "有一天，巧克力和番茄酱打架，巧克力赢了，为什么？因为巧克力棒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52487.41,
-        "change": 139.02,
-        "change_pct": 0.27,
+        "price": 52603.85,
+        "change": 116.44,
+        "change_pct": 0.22,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/10 20:28:18",
-    "updated_at": 1783686498904,
+    "updated": "2026/07/10 23:15:43",
+    "updated_at": 1783696543314,
     "trading_day": {
       "A": true,
       "HK": true,

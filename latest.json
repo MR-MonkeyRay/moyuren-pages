@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updated": "2026/07/12 02:28:01",
-  "updated_at": 1783794481670,
+  "updated": "2026/07/12 03:45:23",
+  "updated_at": 1783799123692,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "鹿只有公的没有母的，为什么？因为只有公路，没有母路。"
+    "text": "为什么喝醉以后觉得别人都变矮了？因为喝高了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/12 02:27:55",
-    "updated_at": 1783794475034,
+    "updated": "2026/07/12 03:45:20",
+    "updated_at": 1783799120385,
     "trading_day": {
       "A": false,
       "HK": false,

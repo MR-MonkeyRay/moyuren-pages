@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "updated": "2026/07/11 13:46:55",
-  "updated_at": 1783748815724,
+  "updated": "2026/07/11 16:02:37",
+  "updated_at": 1783756957620,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我们只是活着，然后堕落而已"
+    "text": "打死不上弹窗广告"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/11 13:46:50",
-    "updated_at": 1783748810111,
+    "updated": "2026/07/11 16:02:30",
+    "updated_at": 1783756950688,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "updated": "2026/07/11 10:57:51",
-  "updated_at": 1783738671181,
+  "updated": "2026/07/11 13:46:55",
+  "updated_at": 1783748815724,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果只有一种表情的话，那就笑吧。"
+    "text": "我们只是活着，然后堕落而已"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -215,15 +215,15 @@
         "change_pct": 0.29,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/07/11 10:57:43",
-    "updated_at": 1783738663899,
+    "updated": "2026/07/11 13:46:50",
+    "updated_at": 1783748810111,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

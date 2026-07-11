@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "updated": "2026/07/11 19:15:36",
-  "updated_at": 1783768536938,
+  "updated": "2026/07/11 20:30:30",
+  "updated_at": 1783773030980,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "学到很多东西的诀窍，就是一下子不要学很多。"
+    "text": "每个人都有自己的个性，只要能把那部分发挥出来就好了...."
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/11 19:15:30",
-    "updated_at": 1783768530549,
+    "updated": "2026/07/11 20:30:23",
+    "updated_at": 1783773023574,
     "trading_day": {
       "A": false,
       "HK": false,

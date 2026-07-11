@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updated": "2026/07/12 03:45:23",
-  "updated_at": 1783799123692,
+  "updated": "2026/07/12 04:55:35",
+  "updated_at": 1783803335593,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么喝醉以后觉得别人都变矮了？因为喝高了。"
+    "text": "你知道星星有多重吗？八克，因为星巴克。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/12 03:45:20",
-    "updated_at": 1783799120385,
+    "updated": "2026/07/12 04:55:30",
+    "updated_at": 1783803330034,
     "trading_day": {
       "A": false,
       "HK": false,

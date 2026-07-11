@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "updated": "2026/07/11 16:02:37",
-  "updated_at": 1783756957620,
+  "updated": "2026/07/11 18:00:13",
+  "updated_at": 1783764013186,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "打死不上弹窗广告"
+    "text": "这种熟悉的，心痛的感觉……喜欢上一个遥不可及的人，却不喜欢那个卑微的自己……"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/11 16:02:30",
-    "updated_at": 1783756950688,
+    "updated": "2026/07/11 18:00:06",
+    "updated_at": 1783764006570,
     "trading_day": {
       "A": false,
       "HK": false,

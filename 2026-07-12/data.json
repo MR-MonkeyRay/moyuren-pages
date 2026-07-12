@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updated": "2026/07/12 18:55:18",
-  "updated_at": 1783853718885,
+  "updated": "2026/07/12 20:02:44",
+  "updated_at": 1783857764595,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "天太热了，一只绵羊就去剃了毛，之后就再也睡不着了，因为它失绵（眠）了。"
+    "text": "小白加小白等于什么？小白兔（TWO）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/12 18:55:13",
-    "updated_at": 1783853713242,
+    "updated": "2026/07/12 20:02:40",
+    "updated_at": 1783857760497,
     "trading_day": {
       "A": false,
       "HK": false,

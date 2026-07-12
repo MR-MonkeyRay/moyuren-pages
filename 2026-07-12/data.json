@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updated": "2026/07/12 22:06:10",
-  "updated_at": 1783865170250,
+  "updated": "2026/07/12 23:35:07",
+  "updated_at": 1783870507269,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "什么路最窄？“冤家”（怨家）路窄。"
+    "text": "A和C谁比较矮？是A，因为ABCD（A比C低）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/12 22:06:05",
-    "updated_at": 1783865165341,
+    "updated": "2026/07/12 23:34:59",
+    "updated_at": 1783870499443,
     "trading_day": {
       "A": false,
       "HK": false,

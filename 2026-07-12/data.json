@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updated": "2026/07/12 08:00:17",
-  "updated_at": 1783814417502,
+  "updated": "2026/07/12 11:48:47",
+  "updated_at": 1783828127119,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "26个字母哪个最容易做错事？M，因为M（I'm）sorry。"
+    "text": "大禹治水三过家门而不入，他的妻子就在家唱歌以表思念，请问唱的什么歌？那些年错过的大禹。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/12 08:00:10",
-    "updated_at": 1783814410255,
+    "updated": "2026/07/12 11:48:43",
+    "updated_at": 1783828123544,
     "trading_day": {
       "A": false,
       "HK": false,

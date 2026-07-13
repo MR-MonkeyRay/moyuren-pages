@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "updated": "2026/07/14 00:06:30",
-  "updated_at": 1783958790078,
+  "updated": "2026/07/14 02:18:14",
+  "updated_at": 1783966694122,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "活了这么多年发现，唯一坚持下去的，就是每天给手机充电。"
+    "text": "遇到困难的三个步骤，面对它 处理它，放弃它。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -210,16 +210,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52496.49,
-        "change": -140.52,
-        "change_pct": -0.27,
+        "price": 52472.77,
+        "change": -164.24,
+        "change_pct": -0.31,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/14 00:06:23",
-    "updated_at": 1783958783189,
+    "updated": "2026/07/14 02:18:03",
+    "updated_at": 1783966683837,
     "trading_day": {
       "A": true,
       "HK": true,

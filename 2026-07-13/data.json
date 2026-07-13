@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
-  "updated": "2026/07/13 06:56:17",
-  "updated_at": 1783896977813,
+  "updated": "2026/07/13 08:01:01",
+  "updated_at": 1783900861245,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "认真工作只会让你的老板买上更好的车，而摸鱼会让你的心情更加愉悦。"
+    "text": "打工人，打工魂，打工都是人上人。摸鱼人，摸鱼魂，摸鱼才是人上人！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/13 06:56:13",
-    "updated_at": 1783896973945,
+    "updated": "2026/07/13 08:00:54",
+    "updated_at": 1783900854808,
     "trading_day": {
       "A": true,
       "HK": true,

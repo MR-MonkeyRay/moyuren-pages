@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "updated": "2026/07/14 05:09:09",
-  "updated_at": 1783976949502,
+  "updated": "2026/07/14 06:29:26",
+  "updated_at": 1783981766674,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "发丝千万条 睡眠第一条，熬夜不休息 脱发两行泪。"
+    "text": "谁说你不爱运动？你不仅会踢皮球，而且踢的可好了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/14 05:09:03",
-    "updated_at": 1783976943897,
+    "updated": "2026/07/14 06:29:19",
+    "updated_at": 1783981759466,
     "trading_day": {
       "A": true,
       "HK": true,

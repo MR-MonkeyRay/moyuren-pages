@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "updated": "2026/07/14 19:08:33",
-  "updated_at": 1784027313038,
+  "updated": "2026/07/14 20:49:01",
+  "updated_at": 1784033341916,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "遇到你之前，我的世界是黑白的，遇见你之后 哇靠 全黑了。"
+    "text": "你最想从母校带走的是什么？最想从母校带走的，是我的学费。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/14 19:08:25",
-    "updated_at": 1784027305691,
+    "updated": "2026/07/14 20:48:54",
+    "updated_at": 1784033334925,
     "trading_day": {
       "A": true,
       "HK": true,

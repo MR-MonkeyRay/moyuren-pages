@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
-  "updated": "2026/07/15 04:39:00",
-  "updated_at": 1784061540871,
+  "updated": "2026/07/15 06:02:10",
+  "updated_at": 1784066530169,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "有着似曾相识后发际的他，却说着陌生人一般的话语。总觉得...有点想哭。"
+    "text": "人哪，为了消磨时间，硬是鼓唇摇舌，笑那些并不可笑、乐那些并不可乐的事，此外便一无所长。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/15 04:38:54",
-    "updated_at": 1784061534193,
+    "updated": "2026/07/15 06:02:04",
+    "updated_at": 1784066524182,
     "trading_day": {
       "A": true,
       "HK": true,

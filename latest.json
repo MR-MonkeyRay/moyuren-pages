@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "updated": "2026/07/14 07:29:48",
-  "updated_at": 1783985388785,
+  "updated": "2026/07/14 08:57:04",
+  "updated_at": 1783990624045,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "夜撩了酒，酒撩了你 你撩了我，穷困潦倒了我们。"
+    "text": "有些事，不说是个结，说了是个疤。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,9 +170,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3913.79,
-        "change": -82.37,
-        "change_pct": -2.06,
+        "price": 3913.42,
+        "change": -0.37,
+        "change_pct": -0.01,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -181,9 +181,9 @@
         "code": "399001",
         "name": "深证成指",
         "price": 14522.85,
-        "change": -523.82,
-        "change_pct": -3.48,
-        "trend": "down",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -191,9 +191,9 @@
         "code": "399006",
         "name": "创业板指",
         "price": 3723.52,
-        "change": -119.21,
-        "change_pct": -3.1,
-        "trend": "down",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/14 07:29:42",
-    "updated_at": 1783985382998,
+    "updated": "2026/07/14 08:57:00",
+    "updated_at": 1783990620231,
     "trading_day": {
       "A": true,
       "HK": true,

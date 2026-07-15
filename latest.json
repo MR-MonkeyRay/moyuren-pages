@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
-  "updated": "2026/07/15 20:53:09",
-  "updated_at": 1784119989095,
+  "updated": "2026/07/15 22:56:04",
+  "updated_at": 1784127364412,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "每当有什么东西出现的时候。就会有一些东西就此失去。这样一来。一来一去就等于抵消了。"
+    "text": "这个世上每个人的背上都黏了各种形状各种口味的梅干。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52508.27,
-        "change": 9.63,
-        "change_pct": 0.02,
+        "price": 52691.62,
+        "change": 183.35,
+        "change_pct": 0.35,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/15 20:53:01",
-    "updated_at": 1784119981474,
+    "updated": "2026/07/15 22:55:50",
+    "updated_at": 1784127350611,
     "trading_day": {
       "A": true,
       "HK": true,

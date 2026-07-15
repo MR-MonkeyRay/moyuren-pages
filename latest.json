@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
-  "updated": "2026/07/15 07:26:36",
-  "updated_at": 1784071596914,
+  "updated": "2026/07/15 08:53:07",
+  "updated_at": 1784076787481,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果朋友走上了错误的人生道路，就算破坏友情也要阻止他。"
+    "text": "人因为有难忘的记忆而变得坚强，这就是所谓的成长吧。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,10 +174,10 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3967.13,
-        "change": 53.34,
-        "change_pct": 1.36,
-        "trend": "up",
+        "price": 3966.86,
+        "change": -0.27,
+        "change_pct": -0.01,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
@@ -185,9 +185,9 @@
         "code": "399001",
         "name": "深证成指",
         "price": 14924.87,
-        "change": 402.02,
-        "change_pct": 2.77,
-        "trend": "up",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -195,9 +195,9 @@
         "code": "399006",
         "name": "创业板指",
         "price": 3851.14,
-        "change": 127.62,
-        "change_pct": 3.43,
-        "trend": "up",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/15 07:26:31",
-    "updated_at": 1784071591195,
+    "updated": "2026/07/15 08:53:01",
+    "updated_at": 1784076781788,
     "trading_day": {
       "A": true,
       "HK": true,

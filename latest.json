@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
-  "updated": "2026/07/17 00:19:58",
-  "updated_at": 1784218798389,
+  "updated": "2026/07/17 01:47:06",
+  "updated_at": 1784224026944,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52655.88,
-        "change": -2.76,
-        "change_pct": -0.01,
+        "price": 52578.86,
+        "change": -79.78,
+        "change_pct": -0.15,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/17 00:19:54",
-    "updated_at": 1784218794321,
+    "updated": "2026/07/17 01:47:02",
+    "updated_at": 1784224022520,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
-  "updated": "2026/07/16 20:04:35",
-  "updated_at": 1784203475511,
+  "updated": "2026/07/16 22:33:45",
+  "updated_at": 1784212425782,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "其实……根本就没有什么天堂和地狱吧……"
+    "text": "一举一动，都是承诺，会被另一个人看在眼里，记在心上的。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "你们都不出来聊天什么意思？有这么忙么？疯狂星期四的劲爆鸡米花难道是你们在炸？",
+  "kfc_content": "我被确诊为周期性蛋白脂肪缺失症，这是一种罕见的慢性病，目前没有有效的治疗手段，只能使用 KentuckyFriedChicken （简称 KFC ）公司开发的生物制剂 FriedAnimalProtein （油炸动物蛋白）进行治疗以缓解症状，今天是该公司降价卖药的日子，不知有没有好心人资助我 50 元，帮我治病",
   "date_info": {
     "year_month": "2026.07",
     "day": "16",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "你们都不出来聊天什么意思？有这么忙么？疯狂星期四的劲爆鸡米花难道是你们在炸？"
+    "content": "我被确诊为周期性蛋白脂肪缺失症，这是一种罕见的慢性病，目前没有有效的治疗手段，只能使用 KentuckyFriedChicken （简称 KFC ）公司开发的生物制剂 FriedAnimalProtein （油炸动物蛋白）进行治疗以缓解症状，今天是该公司降价卖药的日子，不知有没有好心人资助我 50 元，帮我治病"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52658.64,
-        "change": 150.37,
-        "change_pct": 0.29,
+        "price": 52746.66,
+        "change": 88.02,
+        "change_pct": 0.17,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/16 20:04:29",
-    "updated_at": 1784203469624,
+    "updated": "2026/07/16 22:33:32",
+    "updated_at": 1784212412647,
     "trading_day": {
       "A": true,
       "HK": true,

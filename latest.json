@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updated": "2026/07/19 05:25:31",
-  "updated_at": 1784409931051,
+  "updated": "2026/07/19 06:25:09",
+  "updated_at": 1784413509179,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "逛商场的时候看到真正的新华书店，我感慨: “真新华（真心话）”，朋友感慨：“这大碗宽面也很贵。”"
+    "text": "“煎蛋快点！”“别催！没听过吗？煎不可催。”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/19 05:25:24",
-    "updated_at": 1784409924885,
+    "updated": "2026/07/19 06:25:02",
+    "updated_at": 1784413502088,
     "trading_day": {
       "A": false,
       "HK": false,

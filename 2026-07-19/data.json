@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updated": "2026/07/19 12:50:44",
-  "updated_at": 1784436644127,
+  "updated": "2026/07/19 15:29:05",
+  "updated_at": 1784446145796,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一个胖子从十二楼摔了下来，结果就变成了死胖子。"
+    "text": "小白加小白等于什么？小白兔（TWO）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/19 12:50:39",
-    "updated_at": 1784436639206,
+    "updated": "2026/07/19 15:28:55",
+    "updated_at": 1784446135106,
     "trading_day": {
       "A": false,
       "HK": false,

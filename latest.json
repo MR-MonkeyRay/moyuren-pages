@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updated": "2026/07/19 18:56:48",
-  "updated_at": 1784458608780,
+  "updated": "2026/07/19 20:02:51",
+  "updated_at": 1784462571681,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "约e人出来玩为什么要给出场费？因为见e四千（见异思迁）。"
+    "text": "有天，一个鬼火少年不幸去世了，他的父亲会说什么？今天我要白发人送红橙黄绿青蓝紫发人了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/19 18:56:42",
-    "updated_at": 1784458602721,
+    "updated": "2026/07/19 20:02:47",
+    "updated_at": 1784462567935,
     "trading_day": {
       "A": false,
       "HK": false,

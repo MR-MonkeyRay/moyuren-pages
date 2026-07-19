@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updated": "2026/07/19 09:04:43",
-  "updated_at": 1784423083778,
+  "updated": "2026/07/19 12:50:44",
+  "updated_at": 1784436644127,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一天一个橙子路上碰见一个香菇，然后橙子就死了，为什么？因为菌要橙死，橙不得不死。"
+    "text": "一个胖子从十二楼摔了下来，结果就变成了死胖子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/19 09:04:35",
-    "updated_at": 1784423075934,
+    "updated": "2026/07/19 12:50:39",
+    "updated_at": 1784436639206,
     "trading_day": {
       "A": false,
       "HK": false,

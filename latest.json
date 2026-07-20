@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "updated": "2026/07/20 16:25:19",
-  "updated_at": 1784535919076,
+  "updated": "2026/07/20 19:23:17",
+  "updated_at": 1784546597599,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
+    "text": "这个世界上谁最懂猪？蜘蛛（知猪）人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/20 16:25:15",
-    "updated_at": 1784535915615,
+    "updated": "2026/07/20 19:23:11",
+    "updated_at": 1784546591754,
     "trading_day": {
       "A": true,
       "HK": true,

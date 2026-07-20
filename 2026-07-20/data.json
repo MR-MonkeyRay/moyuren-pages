@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "updated": "2026/07/20 13:07:38",
-  "updated_at": 1784524058744,
+  "updated": "2026/07/20 16:25:19",
+  "updated_at": 1784535919076,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "儿子：爸爸，我以后想娶越南人。爸爸：我把你养这么大，你竟然想取悦男人？"
+    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3799.63,
-        "change": 35.48,
-        "change_pct": 0.94,
+        "price": 3796.28,
+        "change": 32.13,
+        "change_pct": 0.85,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13693.98,
-        "change": -12.9,
-        "change_pct": -0.09,
+        "price": 13610.23,
+        "change": -96.65,
+        "change_pct": -0.71,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3452.29,
-        "change": 23.66,
-        "change_pct": 0.69,
+        "price": 3443.1,
+        "change": 14.47,
+        "change_pct": 0.42,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25095.04,
-        "change": 532.8,
-        "change_pct": 2.17,
+        "price": 25143.05,
+        "change": 580.81,
+        "change_pct": 2.36,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/20 13:07:31",
-    "updated_at": 1784524051239,
+    "updated": "2026/07/20 16:25:15",
+    "updated_at": 1784535915615,
     "trading_day": {
       "A": true,
       "HK": true,

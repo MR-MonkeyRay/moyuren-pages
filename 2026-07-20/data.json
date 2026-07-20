@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "updated": "2026/07/20 21:27:01",
-  "updated_at": 1784554021263,
+  "updated": "2026/07/20 23:30:45",
+  "updated_at": 1784561445103,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小鹅：为什么我要叫爸爸“阿玛”？鹅妈妈：因为我是你的鹅娘啊。"
+    "text": "有个不识字的盲人，为什么他走着走着就识字了？因为他走到了十字路口。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52146.42,
-        "change": -406.55,
-        "change_pct": -0.77,
+        "price": 52058.0,
+        "change": -88.42,
+        "change_pct": -0.17,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/20 21:26:54",
-    "updated_at": 1784554014959,
+    "updated": "2026/07/20 23:30:36",
+    "updated_at": 1784561436643,
     "trading_day": {
       "A": true,
       "HK": true,

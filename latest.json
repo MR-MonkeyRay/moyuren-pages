@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updated": "2026/07/21 06:03:50",
-  "updated_at": 1784585030894,
+  "updated": "2026/07/21 07:32:37",
+  "updated_at": 1784590357430,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "许仙给老婆买了一顶帽子，白娘子戴上后感觉头很重，因为那是顶鸭舌（压蛇）帽。"
+    "text": "小孩想弹贝斯，但是贝斯太重了，怎么办？过年的时候弹，因为每逢佳节倍思亲（贝斯轻）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/21 06:03:43",
-    "updated_at": 1784585023988,
+    "updated": "2026/07/21 07:32:32",
+    "updated_at": 1784590352265,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updated": "2026/07/21 01:04:39",
-  "updated_at": 1784567079583,
+  "updated": "2026/07/21 03:14:44",
+  "updated_at": 1784574884666,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "“煎蛋快点！”“别催！没听过吗？煎不可催。”"
+    "text": "约e人出来玩为什么要给出场费？因为见e四千（见异思迁）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51963.6,
-        "change": -182.82,
-        "change_pct": -0.35,
+        "price": 51818.72,
+        "change": -327.7,
+        "change_pct": -0.63,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/21 01:04:34",
-    "updated_at": 1784567074695,
+    "updated": "2026/07/21 03:14:37",
+    "updated_at": 1784574877110,
     "trading_day": {
       "A": true,
       "HK": true,

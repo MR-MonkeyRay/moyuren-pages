@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "updated": "2026/07/20 09:05:35",
-  "updated_at": 1784509535125,
+  "updated": "2026/07/20 13:07:38",
+  "updated_at": 1784524058744,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "布和纸怕什么？布怕一万，纸怕万一。"
+    "text": "儿子：爸爸，我以后想娶越南人。爸爸：我把你养这么大，你竟然想取悦男人？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,40 +174,40 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3763.8,
-        "change": -0.35,
-        "change_pct": -0.01,
-        "trend": "down",
+        "price": 3799.63,
+        "change": 35.48,
+        "change_pct": 0.94,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13706.88,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 13693.98,
+        "change": -12.9,
+        "change_pct": -0.09,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3428.63,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 3452.29,
+        "change": 23.66,
+        "change_pct": 0.69,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 0.0,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 25095.04,
+        "change": 532.8,
+        "change_pct": 2.17,
+        "trend": "up",
         "market": "HK",
         "is_trading_day": true
       },
@@ -219,15 +219,15 @@
         "change_pct": -0.77,
         "trend": "down",
         "market": "US",
-        "is_trading_day": false
+        "is_trading_day": true
       }
     ],
-    "updated": "2026/07/20 09:05:29",
-    "updated_at": 1784509529912,
+    "updated": "2026/07/20 13:07:31",
+    "updated_at": 1784524051239,
     "trading_day": {
       "A": true,
       "HK": true,
-      "US": false
+      "US": true
     },
     "is_stale": false
   }

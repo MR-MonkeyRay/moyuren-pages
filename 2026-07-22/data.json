@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
-  "updated": "2026/07/22 05:40:48",
-  "updated_at": 1784670048571,
+  "updated": "2026/07/22 07:01:21",
+  "updated_at": 1784674881537,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "有时你会觉得自己就是个SB，别灰心，至少感觉是对的。"
+    "text": "过马路不要带耳机，万一要是被车撞上，耳机不就坏了么？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/22 05:40:42",
-    "updated_at": 1784670042599,
+    "updated": "2026/07/22 07:01:16",
+    "updated_at": 1784674876060,
     "trading_day": {
       "A": true,
       "HK": true,

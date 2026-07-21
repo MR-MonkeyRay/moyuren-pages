@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updated": "2026/07/21 14:12:31",
-  "updated_at": 1784614351186,
+  "updated": "2026/07/21 17:10:58",
+  "updated_at": 1784625058935,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "许仙给老婆买了一顶帽子，白娘子戴上后感觉头很重，因为那是顶鸭舌（压蛇）帽。"
+    "text": "你知道海为什么是蓝色的吗？因为海里的鱼在吐泡泡“Blue blue blue”。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3845.38,
-        "change": 49.1,
-        "change_pct": 1.29,
+        "price": 3864.37,
+        "change": 68.09,
+        "change_pct": 1.79,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14186.47,
-        "change": 576.24,
-        "change_pct": 4.23,
+        "price": 14264.29,
+        "change": 654.06,
+        "change_pct": 4.81,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3656.1,
-        "change": 213.0,
-        "change_pct": 6.19,
+        "price": 3685.97,
+        "change": 242.87,
+        "change_pct": 7.05,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,10 +204,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25160.51,
-        "change": 17.46,
-        "change_pct": 0.07,
-        "trend": "up",
+        "price": 25132.29,
+        "change": -10.76,
+        "change_pct": -0.04,
+        "trend": "down",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/21 14:12:25",
-    "updated_at": 1784614345348,
+    "updated": "2026/07/21 17:10:52",
+    "updated_at": 1784625052775,
     "trading_day": {
       "A": true,
       "HK": true,

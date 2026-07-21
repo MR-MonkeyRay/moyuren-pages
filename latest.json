@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
-  "updated": "2026/07/22 00:56:48",
-  "updated_at": 1784653008476,
+  "updated": "2026/07/22 02:19:29",
+  "updated_at": 1784657969170,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "千万别把事情拖到明天，后天大后天都是好日子啊。"
+    "text": "装逼只是瞬间，不要脸那才是永恒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52365.35,
-        "change": 526.09,
-        "change_pct": 1.01,
+        "price": 52198.13,
+        "change": 358.87,
+        "change_pct": 0.69,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/22 00:56:41",
-    "updated_at": 1784653001702,
+    "updated": "2026/07/22 02:19:24",
+    "updated_at": 1784657964932,
     "trading_day": {
       "A": true,
       "HK": true,

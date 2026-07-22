@@ -1,19 +1,19 @@
 {
   "date": "2026-07-23",
-  "updated": "2026/07/23 03:27:05",
-  "updated_at": 1784748425869,
+  "updated": "2026/07/23 04:41:20",
+  "updated_at": 1784752880409,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期四",
   "lunar_date": "六月初十",
   "fun_content": {
-    "type": "dad_joke",
-    "title": "🤣 冷笑话",
-    "text": "君要臣死，臣facebook。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼语录",
+    "text": "工作做得再好，老板也只会说：这是你应该做的。但摸鱼带来的快乐，是实实在在的！"
   },
   "is_crazy_thursday": true,
-  "kfc_content": null,
+  "kfc_content": "内部渠道拿货 iPhone 20 Pro Max，需要的转我 50 元定金，不包有货，跟今天星期四没关系",
   "date_info": {
     "year_month": "2026.07",
     "day": "23",
@@ -168,7 +168,11 @@
       "is_off_day": true
     }
   ],
-  "kfc_content_full": null,
+  "kfc_content_full": {
+    "title": "CRAZY THURSDAY",
+    "sub_title": "V我50",
+    "content": "内部渠道拿货 iPhone 20 Pro Max，需要的转我 50 元定金，不包有货，跟今天星期四没关系"
+  },
   "stock_indices": {
     "items": [
       {
@@ -214,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52231.0,
-        "change": 6.36,
-        "change_pct": 0.01,
-        "trend": "up",
+        "price": 52218.58,
+        "change": -6.06,
+        "change_pct": -0.01,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/23 03:27:00",
-    "updated_at": 1784748420933,
+    "updated": "2026/07/23 04:41:15",
+    "updated_at": 1784752875496,
     "trading_day": {
       "A": true,
       "HK": true,

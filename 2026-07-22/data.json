@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
-  "updated": "2026/07/22 15:13:27",
-  "updated_at": 1784704407397,
+  "updated": "2026/07/22 18:01:48",
+  "updated_at": 1784714508184,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "2018年，88喽。"
+    "text": "好看的锁骨千篇一律，有趣的肚腩弹来弹去。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24864.44,
-        "change": -267.85,
-        "change_pct": -1.07,
+        "price": 24892.66,
+        "change": -239.63,
+        "change_pct": -0.95,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/22 15:13:20",
-    "updated_at": 1784704400257,
+    "updated": "2026/07/22 18:01:42",
+    "updated_at": 1784714502086,
     "trading_day": {
       "A": true,
       "HK": true,

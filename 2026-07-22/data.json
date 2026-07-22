@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
-  "updated": "2026/07/22 07:01:21",
-  "updated_at": 1784674881537,
+  "updated": "2026/07/22 08:56:40",
+  "updated_at": 1784681800346,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "过马路不要带耳机，万一要是被车撞上，耳机不就坏了么？"
+    "text": "乡愁是一张小小的车票，我在这头，黄牛在那头。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,10 +174,10 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3864.37,
-        "change": 68.09,
-        "change_pct": 1.79,
-        "trend": "up",
+        "price": 3863.9,
+        "change": -0.47,
+        "change_pct": -0.01,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
@@ -185,9 +185,9 @@
         "code": "399001",
         "name": "深证成指",
         "price": 14264.29,
-        "change": 654.06,
-        "change_pct": 4.81,
-        "trend": "up",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -195,9 +195,9 @@
         "code": "399006",
         "name": "创业板指",
         "price": 3685.97,
-        "change": 242.87,
-        "change_pct": 7.05,
-        "trend": "up",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/22 07:01:16",
-    "updated_at": 1784674876060,
+    "updated": "2026/07/22 08:56:33",
+    "updated_at": 1784681793275,
     "trading_day": {
       "A": true,
       "HK": true,

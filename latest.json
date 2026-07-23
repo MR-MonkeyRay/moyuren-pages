@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
-  "updated": "2026/07/23 21:05:03",
-  "updated_at": 1784811903741,
+  "updated": "2026/07/23 23:32:38",
+  "updated_at": 1784820758644,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "我的座右铭：能坐着绝不站着，能躺着绝不坐着，能摸鱼绝不工作。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "[微信红包] 宝贝，拿去买 KFC，我不像别的男的只会嘴上说说，我还会复制",
+  "kfc_content": "大家好，我是哥斯拉，你们应该知道我是吃辐射长大的，听说今天要排核污水了，今天指定喝个饱。但是光有喝的不够，今天星期四，V 我 50 吃顿肯德基，待我吃饱喝足，帮你们踩平日本",
   "date_info": {
     "year_month": "2026.07",
     "day": "23",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "[微信红包] 宝贝，拿去买 KFC，我不像别的男的只会嘴上说说，我还会复制"
+    "content": "大家好，我是哥斯拉，你们应该知道我是吃辐射长大的，听说今天要排核污水了，今天指定喝个饱。但是光有喝的不够，今天星期四，V 我 50 吃顿肯德基，待我吃饱喝足，帮你们踩平日本"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52218.58,
-        "change": -6.06,
-        "change_pct": -0.01,
+        "price": 51574.41,
+        "change": -644.17,
+        "change_pct": -1.23,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/23 21:04:56",
-    "updated_at": 1784811896180,
+    "updated": "2026/07/23 23:32:30",
+    "updated_at": 1784820750668,
     "trading_day": {
       "A": true,
       "HK": true,

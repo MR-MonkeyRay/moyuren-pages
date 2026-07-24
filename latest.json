@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "updated": "2026/07/24 19:48:35",
-  "updated_at": 1784893715495,
+  "updated": "2026/07/24 21:53:12",
+  "updated_at": 1784901192499,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "以星星和睿智之名，吾等只追求真实。"
+    "text": "一想到要和你分别，就算拨开人群，我也想去见你。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51711.65,
-        "change": -506.93,
-        "change_pct": -0.97,
-        "trend": "down",
+        "price": 51762.37,
+        "change": 50.72,
+        "change_pct": 0.1,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/24 19:48:30",
-    "updated_at": 1784893710617,
+    "updated": "2026/07/24 21:52:58",
+    "updated_at": 1784901178147,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "updated": "2026/07/24 07:00:37",
-  "updated_at": 1784847637261,
+  "updated": "2026/07/24 08:56:58",
+  "updated_at": 1784854618423,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "学到很多东西的诀窍，就是一下子不要学很多。"
+    "text": "正因为是好朋友，才要坦诚相待。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,10 +174,10 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3876.78,
-        "change": 9.75,
-        "change_pct": 0.25,
-        "trend": "up",
+        "price": 3876.21,
+        "change": -0.57,
+        "change_pct": -0.01,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
@@ -185,9 +185,9 @@
         "code": "399001",
         "name": "深证成指",
         "price": 14123.31,
-        "change": 61.87,
-        "change_pct": 0.44,
-        "trend": "up",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -195,9 +195,9 @@
         "code": "399006",
         "name": "创业板指",
         "price": 3575.52,
-        "change": 8.79,
-        "change_pct": 0.25,
-        "trend": "up",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/24 07:00:30",
-    "updated_at": 1784847630003,
+    "updated": "2026/07/24 08:56:54",
+    "updated_at": 1784854614398,
     "trading_day": {
       "A": true,
       "HK": true,

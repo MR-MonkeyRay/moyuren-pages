@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
-  "updated": "2026/07/25 02:59:54",
-  "updated_at": 1784919594735,
+  "updated": "2026/07/25 04:37:10",
+  "updated_at": 1784925430679,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我们也许再也不会见面了吧，因此我绝对不会忘了你的声音，你的眼眸，与你一起看到过的所有的景色，以及，与你一起度过的那个耀眼的夏天。"
+    "text": "走着走着，就散了，回忆都淡了；回头发现，你不见了，忽然我乱了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51895.75,
-        "change": 184.1,
-        "change_pct": 0.36,
+        "price": 51947.25,
+        "change": 235.6,
+        "change_pct": 0.46,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/25 02:59:48",
-    "updated_at": 1784919588200,
+    "updated": "2026/07/25 04:37:05",
+    "updated_at": 1784925425696,
     "trading_day": {
       "A": false,
       "HK": false,

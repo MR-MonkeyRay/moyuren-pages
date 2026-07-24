@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "updated": "2026/07/24 17:56:57",
-  "updated_at": 1784887017835,
+  "updated": "2026/07/24 19:48:35",
+  "updated_at": 1784893715495,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "行动被评价和人格被评价完全是两码事。"
+    "text": "以星星和睿智之名，吾等只追求真实。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/24 17:56:52",
-    "updated_at": 1784887012632,
+    "updated": "2026/07/24 19:48:30",
+    "updated_at": 1784893710617,
     "trading_day": {
       "A": true,
       "HK": true,

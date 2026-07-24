@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "updated": "2026/07/24 15:08:52",
-  "updated_at": 1784876932756,
+  "updated": "2026/07/24 17:56:57",
+  "updated_at": 1784887017835,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我允许你比眷属更长久的跟随侍奉我。"
+    "text": "行动被评价和人格被评价完全是两码事。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24864.99,
-        "change": -345.82,
-        "change_pct": -1.37,
+        "price": 24963.23,
+        "change": -247.58,
+        "change_pct": -0.98,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/24 15:08:45",
-    "updated_at": 1784876925546,
+    "updated": "2026/07/24 17:56:52",
+    "updated_at": 1784887012632,
     "trading_day": {
       "A": true,
       "HK": true,

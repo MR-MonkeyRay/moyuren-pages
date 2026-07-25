@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
-  "updated": "2026/07/25 10:57:50",
-  "updated_at": 1784948270988,
+  "updated": "2026/07/25 13:48:58",
+  "updated_at": 1784958538195,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "用玲生命为代价的东西根本就不存在。"
+    "text": "你，可以流血流汗，但是，你没有流泪的权利。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,14 +170,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/07/25 10:57:42",
-    "updated_at": 1784948262974,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3814.2,
+        "change": -62.58,
+        "change_pct": -1.61,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 13774.68,
+        "change": -348.63,
+        "change_pct": -2.47,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3480.87,
+        "change": -94.65,
+        "change_pct": -2.65,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24963.23,
+        "change": -247.58,
+        "change_pct": -0.98,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 51947.25,
+        "change": 235.6,
+        "change_pct": 0.46,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": false
+      }
+    ],
+    "updated": "2026/07/25 13:48:50",
+    "updated_at": 1784958530472,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

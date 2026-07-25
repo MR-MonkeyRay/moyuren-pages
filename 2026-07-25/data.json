@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
-  "updated": "2026/07/25 13:48:58",
-  "updated_at": 1784958538195,
+  "updated": "2026/07/25 16:12:05",
+  "updated_at": 1784967125270,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你，可以流血流汗，但是，你没有流泪的权利。"
+    "text": "做了美满好梦的人也许是我，虽然没有那种资格"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/25 13:48:50",
-    "updated_at": 1784958530472,
+    "updated": "2026/07/25 16:11:59",
+    "updated_at": 1784967119074,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
-  "updated": "2026/07/25 21:43:40",
-  "updated_at": 1784987020195,
+  "updated": "2026/07/25 23:07:16",
+  "updated_at": 1784992036551,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "每个人都有自己的个性，只要能把那部分发挥出来就好了"
+    "text": "虽然你那个世界我是不大了解，不过我能理解你所怀有的恐惧，毕竟你要走的是跟别人不一样的路啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/25 21:43:34",
-    "updated_at": 1784987014441,
+    "updated": "2026/07/25 23:07:11",
+    "updated_at": 1784992031523,
     "trading_day": {
       "A": false,
       "HK": false,

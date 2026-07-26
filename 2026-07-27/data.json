@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "updated": "2026/07/27 04:12:31",
-  "updated_at": 1785096751969,
+  "updated": "2026/07/27 05:28:05",
+  "updated_at": 1785101285370,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "世界上没有一种鸟能够一直飞翔，永远不需要落地。"
+    "text": "一个故事的阅读方法，绝对不只有一种。只要还有别的登场人物，就会有别的故事存在。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/07/27 04:12:26",
-    "updated_at": 1785096746122,
+    "updated": "2026/07/27 05:27:58",
+    "updated_at": 1785101278504,
     "trading_day": {
       "A": true,
       "HK": true,

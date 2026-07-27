@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "updated": "2026/07/27 19:52:48",
-  "updated_at": 1785153168544,
+  "updated": "2026/07/27 22:45:10",
+  "updated_at": 1785163510356,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "只要有想见面的人，自己就不再是孤单一人。"
+    "text": "人生就像一杯茶，不会苦一辈子，但总会苦一阵子。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,14 +170,65 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/07/27 19:52:39",
-    "updated_at": 1785153159400,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3858.25,
+        "change": 44.05,
+        "change_pct": 1.15,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 14148.73,
+        "change": 374.05,
+        "change_pct": 2.72,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3590.79,
+        "change": 109.92,
+        "change_pct": 3.16,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 25207.18,
+        "change": 243.95,
+        "change_pct": 0.98,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 52136.65,
+        "change": 189.4,
+        "change_pct": 0.36,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/07/27 22:45:02",
+    "updated_at": 1785163502646,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

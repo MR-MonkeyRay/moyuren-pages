@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
-  "updated": "2026/07/28 02:56:35",
-  "updated_at": 1785178595129,
+  "updated": "2026/07/28 04:26:27",
+  "updated_at": 1785183987629,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "你知道海底什么生物最搞笑吗？海鳗，因为海鳗（还蛮）搞笑的。"
+    "text": "君要臣死，臣facebook。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52166.13,
-        "change": 218.88,
-        "change_pct": 0.42,
+        "price": 52210.08,
+        "change": 262.83,
+        "change_pct": 0.51,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/28 02:56:26",
-    "updated_at": 1785178586178,
+    "updated": "2026/07/28 04:26:23",
+    "updated_at": 1785183983503,
     "trading_day": {
       "A": true,
       "HK": true,

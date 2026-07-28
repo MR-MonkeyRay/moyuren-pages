@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
-  "updated": "2026/07/28 15:16:33",
-  "updated_at": 1785222993252,
+  "updated": "2026/07/28 18:09:48",
+  "updated_at": 1785233388553,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
+    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25286.5,
-        "change": 79.32,
-        "change_pct": 0.31,
+        "price": 25310.85,
+        "change": 103.67,
+        "change_pct": 0.41,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/28 15:16:26",
-    "updated_at": 1785222986082,
+    "updated": "2026/07/28 18:09:43",
+    "updated_at": 1785233383546,
     "trading_day": {
       "A": true,
       "HK": true,

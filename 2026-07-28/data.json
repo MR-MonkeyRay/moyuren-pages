@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
-  "updated": "2026/07/28 12:16:53",
-  "updated_at": 1785212213866,
+  "updated": "2026/07/28 15:16:33",
+  "updated_at": 1785222993252,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "狗会汪汪汪，猫会喵喵喵，鸡会什么？机会是留给有准备的人。"
+    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3820.52,
-        "change": -37.73,
-        "change_pct": -0.98,
+        "price": 3813.31,
+        "change": -44.94,
+        "change_pct": -1.16,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13664.8,
-        "change": -483.93,
-        "change_pct": -3.42,
+        "price": 13509.68,
+        "change": -639.05,
+        "change_pct": -4.52,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3397.97,
-        "change": -192.82,
-        "change_pct": -5.37,
+        "price": 3327.03,
+        "change": -263.76,
+        "change_pct": -7.35,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,10 +204,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25178.21,
-        "change": -28.97,
-        "change_pct": -0.11,
-        "trend": "down",
+        "price": 25286.5,
+        "change": 79.32,
+        "change_pct": 0.31,
+        "trend": "up",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/28 12:16:46",
-    "updated_at": 1785212206596,
+    "updated": "2026/07/28 15:16:26",
+    "updated_at": 1785222986082,
     "trading_day": {
       "A": true,
       "HK": true,

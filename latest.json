@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
-  "updated": "2026/07/28 18:09:48",
-  "updated_at": 1785233388553,
+  "updated": "2026/07/28 20:22:30",
+  "updated_at": 1785241350026,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "老虎叫什么名字？眈眈，因为虎视（是）眈眈。"
+    "text": "我最近发现了一个岛，你猜是什么岛？为你神魂颠倒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/28 18:09:43",
-    "updated_at": 1785233383546,
+    "updated": "2026/07/28 20:22:17",
+    "updated_at": 1785241337717,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "updated": "2026/07/29 00:59:57",
-  "updated_at": 1785257997214,
+  "updated": "2026/07/29 02:23:16",
+  "updated_at": 1785262996685,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "太平洋的中间是什么？平。"
+    "text": "美女的房间一般都是乱的，毕竟是乱室佳人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52879.18,
-        "change": 669.1,
-        "change_pct": 1.28,
+        "price": 52766.83,
+        "change": 556.75,
+        "change_pct": 1.07,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/29 00:59:49",
-    "updated_at": 1785257989931,
+    "updated": "2026/07/29 02:23:09",
+    "updated_at": 1785262989520,
     "trading_day": {
       "A": true,
       "HK": true,

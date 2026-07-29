@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "updated": "2026/07/29 15:21:36",
-  "updated_at": 1785309696441,
+  "updated": "2026/07/29 18:10:07",
+  "updated_at": 1785319807849,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "老师：东汉末年分三国，哪三国？学生：烽火、连天和不休。"
+    "text": "如何打破内卷？读书，因为读书破万卷。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25745.08,
-        "change": 434.23,
-        "change_pct": 1.72,
+        "price": 25807.92,
+        "change": 497.07,
+        "change_pct": 1.96,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/29 15:21:30",
-    "updated_at": 1785309690118,
+    "updated": "2026/07/29 18:10:00",
+    "updated_at": 1785319800898,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "updated": "2026/07/29 20:30:33",
-  "updated_at": 1785328233557,
+  "updated": "2026/07/29 22:55:53",
+  "updated_at": 1785336953796,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "从前有个文盲在走路，他走着走着突然识字了，原来他走到了十字路口。"
+    "text": "小孩想弹贝斯，但是贝斯太重了，怎么办？过年的时候弹，因为每逢佳节倍思亲（贝斯轻）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52747.32,
-        "change": 537.24,
-        "change_pct": 1.03,
-        "trend": "up",
+        "price": 51951.98,
+        "change": -795.34,
+        "change_pct": -1.51,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/29 20:30:25",
-    "updated_at": 1785328225267,
+    "updated": "2026/07/29 22:55:46",
+    "updated_at": 1785336946309,
     "trading_day": {
       "A": true,
       "HK": true,

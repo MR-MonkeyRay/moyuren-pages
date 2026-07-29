@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "updated": "2026/07/29 07:03:51",
-  "updated_at": 1785279831112,
+  "updated": "2026/07/29 08:58:57",
+  "updated_at": 1785286737989,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只迷路的蚂蚁问另一只蚂蚁：“你都如何回蚁窝（回忆我）？”被问的蚂蚁：“带着笑或是很沉默？”"
+    "text": "有一个面包走在路上，走着走着突然扭伤了脚，原来它是牛角包。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,10 +174,10 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3813.31,
-        "change": -44.94,
-        "change_pct": -1.16,
-        "trend": "down",
+        "price": 3813.21,
+        "change": -0.1,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -185,9 +185,9 @@
         "code": "399001",
         "name": "深证成指",
         "price": 13509.68,
-        "change": -639.05,
-        "change_pct": -4.52,
-        "trend": "down",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -195,9 +195,9 @@
         "code": "399006",
         "name": "创业板指",
         "price": 3327.03,
-        "change": -263.76,
-        "change_pct": -7.35,
-        "trend": "down",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/29 07:03:45",
-    "updated_at": 1785279825344,
+    "updated": "2026/07/29 08:58:51",
+    "updated_at": 1785286731848,
     "trading_day": {
       "A": true,
       "HK": true,

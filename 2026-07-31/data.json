@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "updated": "2026/07/31 05:15:40",
-  "updated_at": 1785446140768,
+  "updated": "2026/07/31 06:37:31",
+  "updated_at": 1785451051338,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "遇到喜欢的人就勇敢追求，这样你才能知道，拒绝你的人远不止一个。"
+    "text": "发丝千万条 睡眠第一条，熬夜不休息 脱发两行泪。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/31 05:15:34",
-    "updated_at": 1785446134270,
+    "updated": "2026/07/31 06:37:24",
+    "updated_at": 1785451044245,
     "trading_day": {
       "A": true,
       "HK": true,

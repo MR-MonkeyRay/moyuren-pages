@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "updated": "2026/07/31 03:39:30",
-  "updated_at": 1785440370030,
+  "updated": "2026/07/31 05:15:40",
+  "updated_at": 1785446140768,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "大多数时候，消耗能量的都不是工作，而是工作中遇到的人。"
+    "text": "遇到喜欢的人就勇敢追求，这样你才能知道，拒绝你的人远不止一个。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52221.53,
-        "change": 627.39,
-        "change_pct": 1.22,
+        "price": 52208.06,
+        "change": 613.92,
+        "change_pct": 1.19,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/31 03:39:22",
-    "updated_at": 1785440362868,
+    "updated": "2026/07/31 05:15:34",
+    "updated_at": 1785446134270,
     "trading_day": {
       "A": true,
       "HK": true,

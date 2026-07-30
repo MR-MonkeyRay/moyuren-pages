@@ -1,7 +1,7 @@
 {
   "date": "2026-07-30",
-  "updated": "2026/07/30 10:42:33",
-  "updated_at": 1785379353901,
+  "updated": "2026/07/30 13:45:24",
+  "updated_at": 1785390324504,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "虽然我长得丑，但是买了漂亮衣服，我就可以丑的漂亮。"
+    "text": "如果不能美得惊人，那就丑得销魂吧！"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "[游戏科学] 恭喜你被选中参与黑神话：悟空线下试玩会活动，请于 8 月 15 日之前在 heishenhuavme50.com 网站中提交你的确认信息，并于 8 月 20 日上午五点前到达缅甸北部低族特区思瓦酒店一楼展厅，希望您能妥善安排好行程",
+  "kfc_content": "刚给对象洗完衣服，手搓的，平时洗之前手都要消 5 遍毒。今天因为漏了一遍被对象打了两巴掌，现在心里有点委屈。今天疯狂星期四，谁请我吃 KFC，我边吃边跟你说她平时都怎么骂我的。",
   "date_info": {
     "year_month": "2026.07",
     "day": "30",
@@ -170,16 +170,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "[游戏科学] 恭喜你被选中参与黑神话：悟空线下试玩会活动，请于 8 月 15 日之前在 heishenhuavme50.com 网站中提交你的确认信息，并于 8 月 20 日上午五点前到达缅甸北部低族特区思瓦酒店一楼展厅，希望您能妥善安排好行程"
+    "content": "刚给对象洗完衣服，手搓的，平时洗之前手都要消 5 遍毒。今天因为漏了一遍被对象打了两巴掌，现在心里有点委屈。今天疯狂星期四，谁请我吃 KFC，我边吃边跟你说她平时都怎么骂我的。"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3805.59,
-        "change": -22.88,
-        "change_pct": -0.6,
+        "price": 3803.65,
+        "change": -24.82,
+        "change_pct": -0.65,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -187,9 +187,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13281.0,
-        "change": -377.44,
-        "change_pct": -2.76,
+        "price": 13320.22,
+        "change": -338.22,
+        "change_pct": -2.48,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -197,9 +197,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3224.38,
-        "change": -154.32,
-        "change_pct": -4.57,
+        "price": 3255.33,
+        "change": -123.37,
+        "change_pct": -3.65,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -207,10 +207,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25812.42,
-        "change": 4.5,
-        "change_pct": 0.02,
-        "trend": "up",
+        "price": 25788.03,
+        "change": -19.89,
+        "change_pct": -0.08,
+        "trend": "down",
         "market": "HK",
         "is_trading_day": true
       },
@@ -225,8 +225,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/30 10:42:28",
-    "updated_at": 1785379348198,
+    "updated": "2026/07/30 13:45:16",
+    "updated_at": 1785390316335,
     "trading_day": {
       "A": true,
       "HK": true,

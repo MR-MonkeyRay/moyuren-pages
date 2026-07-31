@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "updated": "2026/07/31 18:06:53",
-  "updated_at": 1785492413764,
+  "updated": "2026/07/31 20:27:58",
+  "updated_at": 1785500878118,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "黑夜给你黑色的眼睛，你却用它来翻白眼。"
+    "text": "最近改掉了熬夜的壞習慣，改通宵了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/31 18:06:45",
-    "updated_at": 1785492405928,
+    "updated": "2026/07/31 20:27:53",
+    "updated_at": 1785500873951,
     "trading_day": {
       "A": true,
       "HK": true,

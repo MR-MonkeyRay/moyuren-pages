@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "updated": "2026/08/01 01:05:49",
-  "updated_at": 1785517549810,
+  "updated": "2026/08/01 02:54:22",
+  "updated_at": 1785524062609,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果不试着斩断过去，就无法迈向未来！"
+    "text": "一个不能为自己挺身而出的孩子，长大之后只能是个懦夫"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52459.25,
-        "change": 251.19,
-        "change_pct": 0.48,
+        "price": 52524.78,
+        "change": 316.72,
+        "change_pct": 0.61,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/01 01:05:45",
-    "updated_at": 1785517545818,
+    "updated": "2026/08/01 02:54:15",
+    "updated_at": 1785524055249,
     "trading_day": {
       "A": false,
       "HK": false,

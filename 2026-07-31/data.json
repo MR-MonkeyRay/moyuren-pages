@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "updated": "2026/07/31 20:27:58",
-  "updated_at": 1785500878118,
+  "updated": "2026/07/31 23:02:24",
+  "updated_at": 1785510144293,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "最近改掉了熬夜的壞習慣，改通宵了。"
+    "text": "成年人的世界，除了长胖，其他什么都不容易。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52208.06,
-        "change": 613.92,
-        "change_pct": 1.19,
+        "price": 52269.3,
+        "change": 61.24,
+        "change_pct": 0.12,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/31 20:27:53",
-    "updated_at": 1785500873951,
+    "updated": "2026/07/31 23:02:12",
+    "updated_at": 1785510132234,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "updated": "2026/08/01 05:40:07",
-  "updated_at": 1785534007062,
+  "updated": "2026/08/01 07:05:40",
+  "updated_at": 1785539140561,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "眼泪的蔚蓝中，小鸟在飞翔。"
+    "text": "年轻又怎么样 我们明天也许就会死……只是概率的问题吧"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/01 05:39:59",
-    "updated_at": 1785533999567,
+    "updated": "2026/08/01 07:05:33",
+    "updated_at": 1785539133034,
     "trading_day": {
       "A": false,
       "HK": false,

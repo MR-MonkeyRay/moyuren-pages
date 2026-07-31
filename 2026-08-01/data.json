@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "updated": "2026/08/01 04:22:21",
-  "updated_at": 1785529341965,
+  "updated": "2026/08/01 05:40:07",
+  "updated_at": 1785534007062,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你愿用一生，等待，然后呵护这短暂的光亮吗？即使，明知它会消失。"
+    "text": "眼泪的蔚蓝中，小鸟在飞翔。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/01 04:22:17",
-    "updated_at": 1785529337225,
+    "updated": "2026/08/01 05:39:59",
+    "updated_at": 1785533999567,
     "trading_day": {
       "A": false,
       "HK": false,

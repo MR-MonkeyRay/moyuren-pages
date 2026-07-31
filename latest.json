@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "updated": "2026/07/31 15:23:18",
-  "updated_at": 1785482598575,
+  "updated": "2026/07/31 18:06:53",
+  "updated_at": 1785492413764,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不就是钱嘛，说得谁不缺似的。"
+    "text": "黑夜给你黑色的眼睛，你却用它来翻白眼。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,10 +204,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25837.93,
-        "change": -20.95,
-        "change_pct": -0.08,
-        "trend": "down",
+        "price": 25884.43,
+        "change": 25.55,
+        "change_pct": 0.1,
+        "trend": "up",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/07/31 15:23:14",
-    "updated_at": 1785482594357,
+    "updated": "2026/07/31 18:06:45",
+    "updated_at": 1785492405928,
     "trading_day": {
       "A": true,
       "HK": true,

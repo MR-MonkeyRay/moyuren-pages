@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "updated": "2026/08/01 20:33:43",
-  "updated_at": 1785587623881,
+  "updated": "2026/08/01 22:36:27",
+  "updated_at": 1785594987764,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我们会跑，无论往哪里都靠自己的腿去跑！"
+    "text": "要好好收在心里，往前走下去。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/01 20:33:39",
-    "updated_at": 1785587619575,
+    "updated": "2026/08/01 22:36:22",
+    "updated_at": 1785594982909,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "updated": "2026/08/01 19:20:22",
-  "updated_at": 1785583222131,
+  "updated": "2026/08/01 20:33:43",
+  "updated_at": 1785587623881,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "王位的正统性并不在于血统，只能靠统治的正确来保证。"
+    "text": "我们会跑，无论往哪里都靠自己的腿去跑！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/01 19:20:18",
-    "updated_at": 1785583218044,
+    "updated": "2026/08/01 20:33:39",
+    "updated_at": 1785587619575,
     "trading_day": {
       "A": false,
       "HK": false,

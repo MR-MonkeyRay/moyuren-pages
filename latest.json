@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
-  "updated": "2026/08/03 11:24:15",
-  "updated_at": 1785727455730,
+  "updated": "2026/08/03 14:45:09",
+  "updated_at": 1785739509826,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "有缘千里来相会，无缘倒也省话费。"
+    "text": "恋爱时会觉得像吸毒一样，分手了又会像戒毒一样。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3810.15,
-        "change": -22.11,
-        "change_pct": -0.58,
+        "price": 3804.86,
+        "change": -27.4,
+        "change_pct": -0.71,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13505.92,
-        "change": -73.01,
-        "change_pct": -0.54,
+        "price": 13435.57,
+        "change": -143.36,
+        "change_pct": -1.06,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3327.17,
-        "change": -16.79,
-        "change_pct": -0.5,
+        "price": 3298.85,
+        "change": -45.11,
+        "change_pct": -1.35,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,8 +204,8 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25931.08,
-        "change": 46.65,
+        "price": 25931.38,
+        "change": 46.95,
         "change_pct": 0.18,
         "trend": "up",
         "market": "HK",
@@ -219,15 +219,15 @@
         "change_pct": 0.53,
         "trend": "up",
         "market": "US",
-        "is_trading_day": false
+        "is_trading_day": true
       }
     ],
-    "updated": "2026/08/03 11:24:11",
-    "updated_at": 1785727451372,
+    "updated": "2026/08/03 14:45:04",
+    "updated_at": 1785739504155,
     "trading_day": {
       "A": true,
       "HK": true,
-      "US": false
+      "US": true
     },
     "is_stale": false
   }

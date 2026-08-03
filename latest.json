@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
-  "updated": "2026/08/03 18:46:44",
-  "updated_at": 1785754004723,
+  "updated": "2026/08/03 21:43:42",
+  "updated_at": 1785764622144,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "大家喜欢和你一起，是为了，显示他们的好看。"
+    "text": "你还不算惨，惨的人，都没手机用。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52485.03,
-        "change": 276.97,
-        "change_pct": 0.53,
+        "price": 53074.3,
+        "change": 589.27,
+        "change_pct": 1.12,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/03 18:46:39",
-    "updated_at": 1785753999149,
+    "updated": "2026/08/03 21:43:37",
+    "updated_at": 1785764617817,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "updated": "2026/08/04 00:29:30",
-  "updated_at": 1785774570569,
+  "updated": "2026/08/04 02:20:53",
+  "updated_at": 1785781253124,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你还不算惨，惨的人，都没手机用。"
+    "text": "世界上最宽广的是海洋，比海洋更宽广的是天空，比天空更宽广的是考试范围。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53017.7,
-        "change": 532.67,
-        "change_pct": 1.01,
+        "price": 53107.55,
+        "change": 622.52,
+        "change_pct": 1.19,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/04 00:29:24",
-    "updated_at": 1785774564101,
+    "updated": "2026/08/04 02:20:48",
+    "updated_at": 1785781248442,
     "trading_day": {
       "A": true,
       "HK": true,

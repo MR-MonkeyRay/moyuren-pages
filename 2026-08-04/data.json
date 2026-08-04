@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "updated": "2026/08/04 21:05:08",
-  "updated_at": 1785848708960,
+  "updated": "2026/08/04 23:56:57",
+  "updated_at": 1785859017491,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "脱了衣服我是禽兽，穿上衣服，我是衣冠禽兽。"
+    "text": "有些事，不说是个结，说了是个疤。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -213,16 +213,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53178.41,
-        "change": 693.38,
-        "change_pct": 1.32,
+        "price": 54083.34,
+        "change": 904.93,
+        "change_pct": 1.7,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/04 21:05:02",
-    "updated_at": 1785848702674,
+    "updated": "2026/08/04 23:56:51",
+    "updated_at": 1785859011891,
     "trading_day": {
       "A": true,
       "HK": true,

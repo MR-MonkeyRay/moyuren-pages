@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
-  "updated": "2026/08/06 20:26:58",
-  "updated_at": 1786019218074,
+  "updated": "2026/08/06 22:56:07",
+  "updated_at": 1786028167258,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "下雨的时候，为什么鸭子不去避雨？因为duck不避（大可不必）。"
+    "text": "你知道什么油最能鼓励人吗？加油。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "填空题：\n梅雪争春未（ ）降\n将军角弓不（ ）控\n莫言一片危（ ）在\n世人笑我太（ ）癫\n一州笑我为（ ）客\n长河渐落晓（ ）沉\n知音还有子（ ）听\n一别姑苏已（ ）年\n春光懒困倚（ ）风\n明月何时照（ ）还\n添得黄鹂四（ ）声\n南朝四百八（ ）寺",
+  "kfc_content": "内部渠道拿货 iPhone 20 Pro Max，需要的转我 50 元定金，不包有货，跟今天星期四没关系",
   "date_info": {
     "year_month": "2026.08",
     "day": "6",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "填空题：\n梅雪争春未（ ）降\n将军角弓不（ ）控\n莫言一片危（ ）在\n世人笑我太（ ）癫\n一州笑我为（ ）客\n长河渐落晓（ ）沉\n知音还有子（ ）听\n一别姑苏已（ ）年\n春光懒困倚（ ）风\n明月何时照（ ）还\n添得黄鹂四（ ）声\n南朝四百八（ ）寺"
+    "content": "内部渠道拿货 iPhone 20 Pro Max，需要的转我 50 元定金，不包有货，跟今天星期四没关系"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 54349.12,
-        "change": 263.24,
-        "change_pct": 0.49,
-        "trend": "up",
+        "price": 54181.28,
+        "change": -167.84,
+        "change_pct": -0.31,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/06 20:26:50",
-    "updated_at": 1786019210566,
+    "updated": "2026/08/06 22:56:03",
+    "updated_at": 1786028163004,
     "trading_day": {
       "A": true,
       "HK": true,

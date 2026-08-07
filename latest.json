@@ -1,16 +1,16 @@
 {
   "date": "2026-08-07",
-  "updated": "2026/08/07 15:22:41",
-  "updated_at": 1786087361642,
+  "updated": "2026/08/07 16:34:36",
+  "updated_at": 1786091676420,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期五",
   "lunar_date": "六月廿五",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "就算记忆被消除了，还是请你和我做朋友吧。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼语录",
+    "text": "有的人为了工作而活着，有的人为了摸鱼而工作。我显然属于后者。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -201,9 +201,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25639.58,
-        "change": 109.3,
-        "change_pct": 0.43,
+        "price": 25668.03,
+        "change": 137.75,
+        "change_pct": 0.54,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -219,8 +219,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/07 15:22:35",
-    "updated_at": 1786087355878,
+    "updated": "2026/08/07 16:34:29",
+    "updated_at": 1786091669132,
     "trading_day": {
       "A": true,
       "HK": true,

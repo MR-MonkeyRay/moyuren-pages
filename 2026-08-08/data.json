@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "updated": "2026/08/08 03:31:23",
-  "updated_at": 1786131083483,
+  "updated": "2026/08/08 04:46:04",
+  "updated_at": 1786135564519,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "这次期末考，我会用实力告诉你，我们年级共有多少人。"
+    "text": "当幸福来敲门的时候，我怕我不在家，所以一直都很宅。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -210,16 +210,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 54058.88,
-        "change": 173.78,
-        "change_pct": 0.32,
+        "price": 54036.93,
+        "change": 151.83,
+        "change_pct": 0.28,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/08 03:31:17",
-    "updated_at": 1786131077278,
+    "updated": "2026/08/08 04:45:58",
+    "updated_at": 1786135558212,
     "trading_day": {
       "A": false,
       "HK": false,

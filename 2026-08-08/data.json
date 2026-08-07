@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "updated": "2026/08/08 01:24:22",
-  "updated_at": 1786123462591,
+  "updated": "2026/08/08 02:23:03",
+  "updated_at": 1786126983886,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "据说到2020年，要消灭贫困人口，我还不想死。"
+    "text": "钱对你真的就那么重要吗？讲了3个多小时了，一分钱都不降。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -210,16 +210,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53984.73,
-        "change": 99.63,
-        "change_pct": 0.18,
+        "price": 53932.67,
+        "change": 47.57,
+        "change_pct": 0.09,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/08 01:24:17",
-    "updated_at": 1786123457279,
+    "updated": "2026/08/08 02:22:58",
+    "updated_at": 1786126978050,
     "trading_day": {
       "A": false,
       "HK": false,

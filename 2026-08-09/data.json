@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
-  "updated": "2026/08/09 00:38:38",
-  "updated_at": 1786207118955,
+  "updated": "2026/08/09 01:34:58",
+  "updated_at": 1786210498271,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "能从上到下摸遍你全身的，也就只有，车站安检员了。"
+    "text": "一个成年人是不会挑食的，他们会说，我对这个过敏。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/09 00:38:31",
-    "updated_at": 1786207111225,
+    "updated": "2026/08/09 01:34:52",
+    "updated_at": 1786210492013,
     "trading_day": {
       "A": false,
       "HK": false,

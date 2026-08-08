@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "updated": "2026/08/08 13:01:30",
-  "updated_at": 1786165290438,
+  "updated": "2026/08/08 14:07:21",
+  "updated_at": 1786169241832,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "没有钱的时候，听到别人说恭祝长命百岁，都觉得是一种诅咒。"
+    "text": "没有看不到的消息，只有不想回的人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/08 13:01:23",
-    "updated_at": 1786165283963,
+    "updated": "2026/08/08 14:07:15",
+    "updated_at": 1786169235684,
     "trading_day": {
       "A": false,
       "HK": false,

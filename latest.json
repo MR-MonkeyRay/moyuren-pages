@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "updated": "2026/08/08 11:37:05",
-  "updated_at": 1786160225998,
+  "updated": "2026/08/08 13:01:30",
+  "updated_at": 1786165290438,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "等到历史考试的时候，历史将会被我改写！"
+    "text": "没有钱的时候，听到别人说恭祝长命百岁，都觉得是一种诅咒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -215,15 +215,15 @@
         "change_pct": 0.28,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/08/08 11:36:59",
-    "updated_at": 1786160219607,
+    "updated": "2026/08/08 13:01:23",
+    "updated_at": 1786165283963,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

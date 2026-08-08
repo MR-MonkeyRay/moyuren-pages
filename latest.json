@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
-  "updated": "2026/08/09 05:34:51",
-  "updated_at": 1786224891821,
+  "updated": "2026/08/09 06:33:44",
+  "updated_at": 1786228424762,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "比尔盖茨休学创业，成为世界首富，可是人家休得是哈佛大学。"
+    "text": "发丝千万条 睡眠第一条，熬夜不休息 脱发两行泪。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/09 05:34:47",
-    "updated_at": 1786224887130,
+    "updated": "2026/08/09 06:33:38",
+    "updated_at": 1786228418958,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
-  "updated": "2026/08/09 17:43:49",
-  "updated_at": 1786268629447,
+  "updated": "2026/08/09 18:38:56",
+  "updated_at": 1786271936818,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "又到了一切矛盾，都能用「大过年的」四个字，解决的时候了。"
+    "text": "你现在的生活，也许不是你想要的，但绝对是你自找的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,8 +219,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/09 17:43:45",
-    "updated_at": 1786268625519,
+    "updated": "2026/08/09 18:38:53",
+    "updated_at": 1786271933120,
     "trading_day": {
       "A": false,
       "HK": false,

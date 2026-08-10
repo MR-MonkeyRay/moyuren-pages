@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "updated": "2026/08/11 00:02:45",
-  "updated_at": 1786377765847,
+  "updated": "2026/08/11 01:26:44",
+  "updated_at": 1786382804422,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "春节假期要结束了，该收收心，准备过五一了。"
+    "text": "吃货一般都比较善良，因为每天都只想着吃，没有时间去算计别人。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53994.05,
-        "change": -42.88,
-        "change_pct": -0.08,
+        "price": 53906.55,
+        "change": -130.38,
+        "change_pct": -0.24,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/11 00:02:38",
-    "updated_at": 1786377758925,
+    "updated": "2026/08/11 01:26:37",
+    "updated_at": 1786382797176,
     "trading_day": {
       "A": true,
       "HK": true,

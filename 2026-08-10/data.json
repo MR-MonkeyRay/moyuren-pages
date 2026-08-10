@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "updated": "2026/08/10 18:44:57",
-  "updated_at": 1786358697462,
+  "updated": "2026/08/10 19:51:05",
+  "updated_at": 1786362665752,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/10 18:44:51",
-    "updated_at": 1786358691280,
+    "updated": "2026/08/10 19:50:58",
+    "updated_at": 1786362658979,
     "trading_day": {
       "A": true,
       "HK": true,

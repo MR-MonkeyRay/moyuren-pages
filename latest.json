@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "updated": "2026/08/12 05:52:56",
-  "updated_at": 1786485176132,
+  "updated": "2026/08/12 06:49:03",
+  "updated_at": 1786488543679,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "要笑着走下去吧，反正来到这个世界上，谁也没打算活着回去。"
+    "text": "如果你特别迷恋一个人，那么你一定配不上他！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/12 05:52:50",
-    "updated_at": 1786485170883,
+    "updated": "2026/08/12 06:48:56",
+    "updated_at": 1786488536966,
     "trading_day": {
       "A": true,
       "HK": true,

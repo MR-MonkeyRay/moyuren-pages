@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "updated": "2026/08/11 21:14:22",
-  "updated_at": 1786454062271,
+  "updated": "2026/08/11 22:37:12",
+  "updated_at": 1786459032659,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "有人考试靠实力，有人考试靠视力，尼玛我考试靠想象力！"
+    "text": "时间就像胸，挤挤就有了，躺下就没了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53975.98,
-        "change": -60.95,
-        "change_pct": -0.11,
-        "trend": "down",
+        "price": 54016.03,
+        "change": 40.05,
+        "change_pct": 0.07,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/11 21:14:17",
-    "updated_at": 1786454057900,
+    "updated": "2026/08/11 22:37:04",
+    "updated_at": 1786459024339,
     "trading_day": {
       "A": true,
       "HK": true,

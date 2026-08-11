@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "updated": "2026/08/12 02:28:46",
-  "updated_at": 1786472926198,
+  "updated": "2026/08/12 03:39:15",
+  "updated_at": 1786477155141,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "天生我才必有用，前提是，你得是“天”生的。"
+    "text": "如果过年你看到我脸色不好，别想太多，就是你忘给红包了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53850.0,
-        "change": -125.98,
-        "change_pct": -0.23,
+        "price": 53832.15,
+        "change": -143.83,
+        "change_pct": -0.27,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/12 02:28:39",
-    "updated_at": 1786472919332,
+    "updated": "2026/08/12 03:39:09",
+    "updated_at": 1786477149596,
     "trading_day": {
       "A": true,
       "HK": true,

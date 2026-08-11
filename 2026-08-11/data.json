@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "updated": "2026/08/11 12:02:03",
-  "updated_at": 1786420923563,
+  "updated": "2026/08/11 13:36:35",
+  "updated_at": 1786426595678,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "都说谈恋爱会影响学习，难道学习，就不影响谈恋爱吗？"
+    "text": "如果婚姻是爱情的坟墓，一年一次的结婚周年庆祝，便是在“扫墓” 了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3964.79,
-        "change": -1.8,
-        "change_pct": -0.05,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 14410.34,
-        "change": 93.38,
-        "change_pct": 0.65,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 3587.24,
-        "change": 50.03,
-        "change_pct": 1.41,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 25773.56,
-        "change": -163.93,
-        "change_pct": -0.63,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 53975.98,
-        "change": -60.95,
-        "change_pct": -0.11,
-        "trend": "down",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/08/11 12:01:56",
-    "updated_at": 1786420916786,
+    "items": [],
+    "updated": "2026/08/11 13:36:26",
+    "updated_at": 1786426586544,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

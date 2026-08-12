@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "updated": "2026/08/12 21:18:17",
-  "updated_at": 1786540697849,
+  "updated": "2026/08/12 22:36:54",
+  "updated_at": 1786545414197,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "暗恋就是你在心里，为他盖了一座城堡，他却连门都不想进。"
+    "text": "18岁什么化妆品都不用，28岁什么化妆品都没用。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53791.85,
-        "change": -184.13,
-        "change_pct": -0.34,
-        "trend": "down",
+        "price": 53792.26,
+        "change": 0.41,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/12 21:18:09",
-    "updated_at": 1786540689566,
+    "updated": "2026/08/12 22:36:47",
+    "updated_at": 1786545407015,
     "trading_day": {
       "A": true,
       "HK": true,

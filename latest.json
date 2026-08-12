@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "updated": "2026/08/12 19:50:40",
-  "updated_at": 1786535440437,
+  "updated": "2026/08/12 21:18:17",
+  "updated_at": 1786540697849,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "梦想还是要有的，不然哪天喝多了，你跟人聊啥？"
+    "text": "暗恋就是你在心里，为他盖了一座城堡，他却连门都不想进。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/12 19:50:35",
-    "updated_at": 1786535435358,
+    "updated": "2026/08/12 21:18:09",
+    "updated_at": 1786540689566,
     "trading_day": {
       "A": true,
       "HK": true,

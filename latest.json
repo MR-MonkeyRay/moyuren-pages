@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "updated": "2026/08/12 12:23:05",
-  "updated_at": 1786508585448,
+  "updated": "2026/08/12 13:57:16",
+  "updated_at": 1786514236480,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你以为男朋友是取款机，结果是十台机器，有九台半是存款机。"
+    "text": "我不怕变成自己厌恶的人，我怕过得还不如他们。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,8 +174,8 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3946.51,
-        "change": 12.42,
+        "price": 3946.84,
+        "change": 12.75,
         "change_pct": 0.32,
         "trend": "up",
         "market": "A",
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14438.07,
-        "change": 178.63,
-        "change_pct": 1.25,
+        "price": 14404.41,
+        "change": 144.97,
+        "change_pct": 1.02,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3610.65,
-        "change": 61.49,
-        "change_pct": 1.73,
+        "price": 3596.28,
+        "change": 47.12,
+        "change_pct": 1.33,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25352.13,
-        "change": -300.69,
-        "change_pct": -1.17,
+        "price": 25395.76,
+        "change": -257.06,
+        "change_pct": -1.0,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/12 12:22:58",
-    "updated_at": 1786508578195,
+    "updated": "2026/08/12 13:57:10",
+    "updated_at": 1786514230694,
     "trading_day": {
       "A": true,
       "HK": true,

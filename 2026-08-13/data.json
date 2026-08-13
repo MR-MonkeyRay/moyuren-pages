@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "updated": "2026/08/13 13:18:17",
-  "updated_at": 1786598297976,
+  "updated": "2026/08/13 14:57:22",
+  "updated_at": 1786604242523,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "17岁那年我揪住一只蝉，我以为我抓住了整个夏天，谁知道蝉说：“说不上爱别揪蝉（纠缠），就一点喜欢”。"
+    "text": "有一个躲猫猫社团，他们团长到现在还没找到。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "大家好，我的班里出现了鸡之恶魔，我们照顾了它 100 天后决定把它当做班里的一员，此时它被班里的一个女生意外压死了。我们很难过，决定把鸡之恶魔好生安葬\nv 我 50，明天让鸡之恶魔加入疯狂星期四",
+  "kfc_content": "今天复制的内容好少，大家都很忙吗？还是大家都太会装了，我分不清，这个社会就是这样，真真假假，假假真真，但不论如何今天是疯狂星期四，我吃肯德基你呢？",
   "date_info": {
     "year_month": "2026.08",
     "day": "13",
@@ -171,47 +171,47 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "大家好，我的班里出现了鸡之恶魔，我们照顾了它 100 天后决定把它当做班里的一员，此时它被班里的一个女生意外压死了。我们很难过，决定把鸡之恶魔好生安葬\nv 我 50，明天让鸡之恶魔加入疯狂星期四"
+    "content": "今天复制的内容好少，大家都很忙吗？还是大家都太会装了，我分不清，这个社会就是这样，真真假假，假假真真，但不论如何今天是疯狂星期四，我吃肯德基你呢？"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3963.7,
-        "change": 17.02,
-        "change_pct": 0.43,
-        "trend": "up",
+        "price": 3926.88,
+        "change": -19.8,
+        "change_pct": -0.5,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14524.04,
-        "change": 109.61,
-        "change_pct": 0.76,
-        "trend": "up",
+        "price": 14290.79,
+        "change": -123.64,
+        "change_pct": -0.86,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3661.32,
-        "change": 59.24,
-        "change_pct": 1.64,
-        "trend": "up",
+        "price": 3586.34,
+        "change": -15.74,
+        "change_pct": -0.44,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25514.71,
-        "change": 74.54,
-        "change_pct": 0.29,
-        "trend": "up",
+        "price": 25377.81,
+        "change": -62.36,
+        "change_pct": -0.25,
+        "trend": "down",
         "market": "HK",
         "is_trading_day": true
       },
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/13 13:18:11",
-    "updated_at": 1786598291608,
+    "updated": "2026/08/13 14:57:19",
+    "updated_at": 1786604239162,
     "trading_day": {
       "A": true,
       "HK": true,

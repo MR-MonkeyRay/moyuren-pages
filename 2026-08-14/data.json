@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 03:56:57",
-  "updated_at": 1786651017779,
+  "updated": "2026/08/14 04:53:47",
+  "updated_at": 1786654427579,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你安心地睡吧，就算你将遗忘一切，我也会永远记得。我将为你而生、为你而死。"
+    "text": "现在的你，就是那时的我。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53827.37,
-        "change": 57.1,
-        "change_pct": 0.11,
+        "price": 53839.99,
+        "change": 69.72,
+        "change_pct": 0.13,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 03:56:51",
-    "updated_at": 1786651011319,
+    "updated": "2026/08/14 04:53:40",
+    "updated_at": 1786654420363,
     "trading_day": {
       "A": true,
       "HK": true,

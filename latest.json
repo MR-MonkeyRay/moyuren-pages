@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 05:51:17",
-  "updated_at": 1786657877596,
+  "updated": "2026/08/14 06:47:59",
+  "updated_at": 1786661279586,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "不曾得到，谈何放下。既已得到，又如何放下。"
+    "text": "既然忘不掉，就把它留在心中，让时间去冲淡它。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 05:51:11",
-    "updated_at": 1786657871032,
+    "updated": "2026/08/14 06:47:52",
+    "updated_at": 1786661272208,
     "trading_day": {
       "A": true,
       "HK": true,

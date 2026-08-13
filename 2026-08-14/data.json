@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 06:47:59",
-  "updated_at": 1786661279586,
+  "updated": "2026/08/14 07:46:14",
+  "updated_at": 1786664774562,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "既然忘不掉，就把它留在心中，让时间去冲淡它。"
+    "text": "如果没有如果，时间是否会为我们停留？曾经看过的夕阳，听过的潮落，都被时间掩埋，幻成泡沫。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 06:47:52",
-    "updated_at": 1786661272208,
+    "updated": "2026/08/14 07:46:08",
+    "updated_at": 1786664768954,
     "trading_day": {
       "A": true,
       "HK": true,

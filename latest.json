@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "updated": "2026/08/13 07:11:51",
-  "updated_at": 1786576311537,
+  "updated": "2026/08/13 08:08:09",
+  "updated_at": 1786579689081,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "松下为什么没索尼强？因为panasonic（怕了索尼哥）。"
+    "text": "小明在自助餐厅倒果汁时遭人暗杀，只因他汁倒（自导）得太多了。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "穿过挪威的森林，让我走进你的梦里，夕阳落在我的铠甲，王子不一定骑白马，现在是下午三点四十六分，你不必故作冷淡，我也不想做最后的纠缠。最后问一句，疯狂星期四，请我吃个肯德基？",
+  "kfc_content": "内部渠道拿货 iPhone 20 Pro Max，需要的转我 50 元定金，不包有货，跟今天星期四没关系",
   "date_info": {
     "year_month": "2026.08",
     "day": "13",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "穿过挪威的森林，让我走进你的梦里，夕阳落在我的铠甲，王子不一定骑白马，现在是下午三点四十六分，你不必故作冷淡，我也不想做最后的纠缠。最后问一句，疯狂星期四，请我吃个肯德基？"
+    "content": "内部渠道拿货 iPhone 20 Pro Max，需要的转我 50 元定金，不包有货，跟今天星期四没关系"
   },
   "stock_indices": {
     "items": [
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/13 07:11:43",
-    "updated_at": 1786576303731,
+    "updated": "2026/08/13 08:08:05",
+    "updated_at": 1786579685450,
     "trading_day": {
       "A": true,
       "HK": true,

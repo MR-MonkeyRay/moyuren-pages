@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 01:30:26",
-  "updated_at": 1786642226256,
+  "updated": "2026/08/14 02:31:06",
+  "updated_at": 1786645866396,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "苹果是禁果。以前亚当和夏娃吃过后，就被逐出了伊甸园。所以它是“明辨是非的知识果实”。"
+    "text": "这个世界只有圆滑，没有圆满的"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53749.47,
-        "change": -20.8,
-        "change_pct": -0.04,
+        "price": 53763.57,
+        "change": -6.7,
+        "change_pct": -0.01,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 01:30:21",
-    "updated_at": 1786642221352,
+    "updated": "2026/08/14 02:31:01",
+    "updated_at": 1786645861456,
     "trading_day": {
       "A": true,
       "HK": true,

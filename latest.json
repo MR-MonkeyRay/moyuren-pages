@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "updated": "2026/08/13 21:58:41",
-  "updated_at": 1786629521745,
+  "updated": "2026/08/13 23:06:22",
+  "updated_at": 1786633582647,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "我在家闲得长出了蘑菇，煮了吃掉后中毒了，医生说我中的是好菇毒（好孤独）。"
+    "text": "麒麟飞到北极会变成什么？冰淇淋（冰麒麟）。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "叔叔阿姨们好，我今年想创业，现在向各位请求投资共 50 元，我今天会先与国际知名的品牌进行一次经济贸易",
+  "kfc_content": "也不知道大家是都过上好日子了还是江郎才尽了，这个点了还不开始发疯狂星期四段子",
   "date_info": {
     "year_month": "2026.08",
     "day": "13",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "叔叔阿姨们好，我今年想创业，现在向各位请求投资共 50 元，我今天会先与国际知名的品牌进行一次经济贸易"
+    "content": "也不知道大家是都过上好日子了还是江郎才尽了，这个点了还不开始发疯狂星期四段子"
   },
   "stock_indices": {
     "items": [
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53885.63,
-        "change": 115.36,
-        "change_pct": 0.21,
+        "price": 53816.8,
+        "change": 46.53,
+        "change_pct": 0.09,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/13 21:58:34",
-    "updated_at": 1786629514653,
+    "updated": "2026/08/13 23:06:19",
+    "updated_at": 1786633579273,
     "trading_day": {
       "A": true,
       "HK": true,

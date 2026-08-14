@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 21:14:57",
-  "updated_at": 1786713297963,
+  "updated": "2026/08/14 22:31:35",
+  "updated_at": 1786717895159,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "是怪物也无所谓。即使假的感情，我要保护集。因为我就是我。哪怕是假的，但是对我来说那就是唯一的真实！"
+    "text": "说起来,这世界就跟书一样,所有的书都是为了被阅读而存在.书如果没被阅读,故事就无法开始.而没被阅读的故事,就等于不存在."
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53839.99,
-        "change": 69.72,
-        "change_pct": 0.13,
-        "trend": "up",
+        "price": 53787.8,
+        "change": -52.19,
+        "change_pct": -0.1,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 21:14:54",
-    "updated_at": 1786713294078,
+    "updated": "2026/08/14 22:31:28",
+    "updated_at": 1786717888264,
     "trading_day": {
       "A": true,
       "HK": true,

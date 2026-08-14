@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 15:43:25",
-  "updated_at": 1786693405558,
+  "updated": "2026/08/14 17:11:33",
+  "updated_at": 1786698693342,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "无论何时总是相信着自己的孩子，这就是父母啊。"
+    "text": "我相信这世界上,有些人有些事有些爱,在见到的第一次,就注定要羁绊一生,就注定像一棵树一样,生长在心里,生生世世。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25112.6,
-        "change": -283.91,
-        "change_pct": -1.12,
+        "price": 25116.85,
+        "change": -279.66,
+        "change_pct": -1.1,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 15:43:20",
-    "updated_at": 1786693400968,
+    "updated": "2026/08/14 17:11:28",
+    "updated_at": 1786698688946,
     "trading_day": {
       "A": true,
       "HK": true,

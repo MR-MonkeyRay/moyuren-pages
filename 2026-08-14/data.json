@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 17:11:33",
-  "updated_at": 1786698693342,
+  "updated": "2026/08/14 18:34:13",
+  "updated_at": 1786703653976,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我相信这世界上,有些人有些事有些爱,在见到的第一次,就注定要羁绊一生,就注定像一棵树一样,生长在心里,生生世世。"
+    "text": "我年轻，我傲娇。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 17:11:28",
-    "updated_at": 1786698688946,
+    "updated": "2026/08/14 18:34:10",
+    "updated_at": 1786703650302,
     "trading_day": {
       "A": true,
       "HK": true,

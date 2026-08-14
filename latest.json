@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "updated": "2026/08/15 03:05:27",
-  "updated_at": 1786734327672,
+  "updated": "2026/08/15 04:04:10",
+  "updated_at": 1786737850925,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "将薪比薪的想了想，算了，不想活了。"
+    "text": "跟你谈钱的老板才是好人，跟你谈理想的，都TM不想给你钱！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53768.71,
-        "change": -71.28,
-        "change_pct": -0.13,
+        "price": 53732.53,
+        "change": -107.46,
+        "change_pct": -0.2,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/15 03:05:21",
-    "updated_at": 1786734321331,
+    "updated": "2026/08/15 04:04:05",
+    "updated_at": 1786737845563,
     "trading_day": {
       "A": false,
       "HK": false,

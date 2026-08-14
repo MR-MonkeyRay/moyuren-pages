@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 22:31:35",
-  "updated_at": 1786717895159,
+  "updated": "2026/08/14 23:55:40",
+  "updated_at": 1786722940955,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "说起来,这世界就跟书一样,所有的书都是为了被阅读而存在.书如果没被阅读,故事就无法开始.而没被阅读的故事,就等于不存在."
+    "text": "谎言就是真实，真实就是谎言。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53787.8,
-        "change": -52.19,
-        "change_pct": -0.1,
+        "price": 53697.04,
+        "change": -142.95,
+        "change_pct": -0.27,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 22:31:28",
-    "updated_at": 1786717888264,
+    "updated": "2026/08/14 23:55:36",
+    "updated_at": 1786722936698,
     "trading_day": {
       "A": true,
       "HK": true,

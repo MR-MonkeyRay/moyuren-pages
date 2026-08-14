@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updated": "2026/08/14 13:57:22",
-  "updated_at": 1786687042015,
+  "updated": "2026/08/14 15:43:25",
+  "updated_at": 1786693405558,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "如果你不和家人在一起，你就永远无法成为真正的男人"
+    "text": "无论何时总是相信着自己的孩子，这就是父母啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,19 +174,19 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3924.5,
-        "change": -2.46,
-        "change_pct": -0.06,
-        "trend": "down",
+        "price": 3927.18,
+        "change": 0.22,
+        "change_pct": 0.01,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14339.65,
-        "change": 50.21,
-        "change_pct": 0.35,
+        "price": 14354.31,
+        "change": 64.87,
+        "change_pct": 0.45,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3620.18,
-        "change": 34.14,
-        "change_pct": 0.95,
+        "price": 3626.3,
+        "change": 40.26,
+        "change_pct": 1.12,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25183.56,
-        "change": -212.95,
-        "change_pct": -0.84,
+        "price": 25112.6,
+        "change": -283.91,
+        "change_pct": -1.12,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/14 13:57:14",
-    "updated_at": 1786687034581,
+    "updated": "2026/08/14 15:43:20",
+    "updated_at": 1786693400968,
     "trading_day": {
       "A": true,
       "HK": true,

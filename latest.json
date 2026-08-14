@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "updated": "2026/08/15 00:58:09",
-  "updated_at": 1786726689606,
+  "updated": "2026/08/15 01:57:42",
+  "updated_at": 1786730262271,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "命只有一条，但要命的事，可不止一件。"
+    "text": "我擅长做空A股，只要我一买，立刻跌。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53700.93,
-        "change": -139.06,
-        "change_pct": -0.26,
+        "price": 53723.99,
+        "change": -116.0,
+        "change_pct": -0.22,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/15 00:58:03",
-    "updated_at": 1786726683103,
+    "updated": "2026/08/15 01:57:36",
+    "updated_at": 1786730256523,
     "trading_day": {
       "A": false,
       "HK": false,

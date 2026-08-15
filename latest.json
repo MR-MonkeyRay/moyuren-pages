@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updated": "2026/08/16 01:23:47",
-  "updated_at": 1786814627547,
+  "updated": "2026/08/16 01:47:54",
+  "updated_at": 1786816074507,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一只老虎感冒了，要吃掉熊猫，为什么？因为感冒要吃白加黑。"
+    "text": "那年夏天，我捉住了一只蝉，我以为我捉住了整个夏天，没想到，那蝉对我说：不爱，请别揪蝉（纠缠）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/16 01:23:40",
-    "updated_at": 1786814620240,
+    "updated": "2026/08/16 01:47:48",
+    "updated_at": 1786816068718,
     "trading_day": {
       "A": false,
       "HK": false,

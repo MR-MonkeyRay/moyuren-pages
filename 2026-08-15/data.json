@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "updated": "2026/08/15 11:42:42",
-  "updated_at": 1786765362294,
+  "updated": "2026/08/15 12:35:23",
+  "updated_at": 1786768523842,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "世界上最宽广的是海洋，比海洋更宽广的是天空，比天空更宽广的是考试范围。"
+    "text": "长的丑不是我的错，只是我在落地时太匆忙了，来不急打扮。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -0.2,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/08/15 11:42:36",
-    "updated_at": 1786765356019,
+    "updated": "2026/08/15 12:35:17",
+    "updated_at": 1786768517406,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

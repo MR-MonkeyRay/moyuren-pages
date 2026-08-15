@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updated": "2026/08/16 05:47:40",
-  "updated_at": 1786830460281,
+  "updated": "2026/08/16 06:26:25",
+  "updated_at": 1786832785371,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只迷路的蚂蚁问另一只蚂蚁：“你都如何回蚁窝（回忆我）？”被问的蚂蚁：“带着笑或是很沉默？”"
+    "text": "有天，一个鬼火少年不幸去世了，他的父亲会说什么？今天我要白发人送红橙黄绿青蓝紫发人了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/16 05:47:32",
-    "updated_at": 1786830452253,
+    "updated": "2026/08/16 06:26:18",
+    "updated_at": 1786832778990,
     "trading_day": {
       "A": false,
       "HK": false,

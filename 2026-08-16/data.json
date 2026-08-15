@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updated": "2026/08/16 05:25:13",
-  "updated_at": 1786829113549,
+  "updated": "2026/08/16 05:47:40",
+  "updated_at": 1786830460281,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "美女的房间一般都是乱的，毕竟是乱室佳人。"
+    "text": "一只迷路的蚂蚁问另一只蚂蚁：“你都如何回蚁窝（回忆我）？”被问的蚂蚁：“带着笑或是很沉默？”"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/16 05:25:06",
-    "updated_at": 1786829106528,
+    "updated": "2026/08/16 05:47:32",
+    "updated_at": 1786830452253,
     "trading_day": {
       "A": false,
       "HK": false,

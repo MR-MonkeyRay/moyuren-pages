@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updated": "2026/08/16 11:03:49",
-  "updated_at": 1786849429726,
+  "updated": "2026/08/16 12:08:43",
+  "updated_at": 1786853323777,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "知道狐狸为啥站不起来嘛？因为他狡猾（脚滑）。"
+    "text": "小鹅：为什么我要叫爸爸“阿玛”？鹅妈妈：因为我是你的鹅娘啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/16 11:03:45",
-    "updated_at": 1786849425656,
+    "updated": "2026/08/16 12:08:38",
+    "updated_at": 1786853318835,
     "trading_day": {
       "A": false,
       "HK": false,

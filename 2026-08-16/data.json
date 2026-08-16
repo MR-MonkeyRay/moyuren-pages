@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updated": "2026/08/16 12:08:43",
-  "updated_at": 1786853323777,
+  "updated": "2026/08/16 13:01:37",
+  "updated_at": 1786856497745,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "小鹅：为什么我要叫爸爸“阿玛”？鹅妈妈：因为我是你的鹅娘啊。"
+    "text": "老师：东汉末年分三国，哪三国？学生：烽火、连天和不休。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/16 12:08:38",
-    "updated_at": 1786853318835,
+    "updated": "2026/08/16 13:01:33",
+    "updated_at": 1786856493252,
     "trading_day": {
       "A": false,
       "HK": false,

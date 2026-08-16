@@ -1,16 +1,16 @@
 {
   "date": "2026-08-17",
-  "updated": "2026/08/17 03:23:46",
-  "updated_at": 1786908226287,
+  "updated": "2026/08/17 03:45:47",
+  "updated_at": 1786909547062,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期一",
   "lunar_date": "七月初五",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "不是吃燕窝的人皮肤好，是吃得起燕窝的人皮肤好。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/17 03:23:43",
-    "updated_at": 1786908223352,
+    "updated": "2026/08/17 03:45:43",
+    "updated_at": 1786909543380,
     "trading_day": {
       "A": true,
       "HK": true,

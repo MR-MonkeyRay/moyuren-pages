@@ -1,16 +1,16 @@
 {
   "date": "2026-08-17",
-  "updated": "2026/08/17 05:24:11",
-  "updated_at": 1786915451554,
+  "updated": "2026/08/17 05:46:47",
+  "updated_at": 1786916807127,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期一",
   "lunar_date": "七月初五",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "逃避是解决不了问题的，不逃你也解决不了啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/17 05:24:07",
-    "updated_at": 1786915447589,
+    "updated": "2026/08/17 05:46:43",
+    "updated_at": 1786916803642,
     "trading_day": {
       "A": true,
       "HK": true,

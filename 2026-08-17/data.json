@@ -1,16 +1,16 @@
 {
   "date": "2026-08-17",
-  "updated": "2026/08/17 06:48:55",
-  "updated_at": 1786920535051,
+  "updated": "2026/08/17 07:23:29",
+  "updated_at": 1786922609584,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期一",
   "lunar_date": "七月初五",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "失败乃成功之母，但往往失败都是，不孕不育。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/08/17 06:48:51",
-    "updated_at": 1786920531399,
+    "updated": "2026/08/17 07:23:26",
+    "updated_at": 1786922606218,
     "trading_day": {
       "A": true,
       "HK": true,

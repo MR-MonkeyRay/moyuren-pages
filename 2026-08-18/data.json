@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "updated": "2026/08/18 01:58:05",
-  "updated_at": 1786989485429,
+  "updated": "2026/08/18 02:51:30",
+  "updated_at": 1786992690312,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -9,8 +9,8 @@
   "lunar_date": "七月初六",
   "fun_content": {
     "type": "moyu_quote",
-    "title": "🐟 摸鱼语录",
-    "text": "认真工作只会让你的老板买上更好的车，而摸鱼会让你的心情更加愉悦。"
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53443.87,
-        "change": -288.54,
-        "change_pct": -0.54,
+        "price": 53498.71,
+        "change": -233.7,
+        "change_pct": -0.43,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/18 01:58:02",
-    "updated_at": 1786989482090,
+    "updated": "2026/08/18 02:51:26",
+    "updated_at": 1786992686576,
     "trading_day": {
       "A": true,
       "HK": true,

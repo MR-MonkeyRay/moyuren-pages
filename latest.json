@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "updated": "2026/08/18 07:26:31",
-  "updated_at": 1787009191849,
+  "updated": "2026/08/18 07:48:57",
+  "updated_at": 1787010537632,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -9,8 +9,8 @@
   "lunar_date": "七月初六",
   "fun_content": {
     "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "title": "🐟 摸鱼语录",
+    "text": "认真工作只会让你的老板买上更好的车，而摸鱼会让你的心情更加愉悦。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/18 07:26:28",
-    "updated_at": 1787009188152,
+    "updated": "2026/08/18 07:48:54",
+    "updated_at": 1787010534213,
     "trading_day": {
       "A": true,
       "HK": true,

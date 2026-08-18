@@ -1,16 +1,16 @@
 {
   "date": "2026-08-19",
-  "updated": "2026/08/19 04:28:33",
-  "updated_at": 1787084913415,
+  "updated": "2026/08/19 04:53:15",
+  "updated_at": 1787086395435,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期三",
   "lunar_date": "七月初七",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "身在福中不知福是什么？就是发福快发成猪了，还觉得自己身材蛮OK。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/19 04:28:29",
-    "updated_at": 1787084909845,
+    "updated": "2026/08/19 04:53:11",
+    "updated_at": 1787086391903,
     "trading_day": {
       "A": true,
       "HK": true,

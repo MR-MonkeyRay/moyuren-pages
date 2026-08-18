@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "updated": "2026/08/18 14:50:05",
-  "updated_at": 1787035805244,
+  "updated": "2026/08/18 15:41:10",
+  "updated_at": 1787038870882,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -9,8 +9,8 @@
   "lunar_date": "七月初六",
   "fun_content": {
     "type": "moyu_quote",
-    "title": "🐟 摸鱼语录",
-    "text": "打工人，打工魂，打工都是人上人。摸鱼人，摸鱼魂，摸鱼才是人上人！"
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3988.03,
-        "change": 5.38,
-        "change_pct": 0.14,
+        "price": 3990.3,
+        "change": 7.65,
+        "change_pct": 0.19,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14611.65,
-        "change": -92.62,
-        "change_pct": -0.63,
+        "price": 14622.5,
+        "change": -81.77,
+        "change_pct": -0.56,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3704.02,
-        "change": -36.14,
-        "change_pct": -0.97,
+        "price": 3705.56,
+        "change": -34.6,
+        "change_pct": -0.93,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25482.53,
-        "change": 29.3,
-        "change_pct": 0.12,
+        "price": 25496.82,
+        "change": 43.59,
+        "change_pct": 0.17,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/18 14:50:01",
-    "updated_at": 1787035801960,
+    "updated": "2026/08/18 15:41:07",
+    "updated_at": 1787038867613,
     "trading_day": {
       "A": true,
       "HK": true,

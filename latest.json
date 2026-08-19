@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "updated": "2026/08/19 12:40:56",
-  "updated_at": 1787114456267,
+  "updated": "2026/08/19 13:34:16",
+  "updated_at": 1787117656085,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果生活欺骗了你，不要着急 — 拿出美颜相机，去欺骗生活。"
+    "text": "成年人的世界，除了长胖，其他什么都不容易。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3912.17,
-        "change": -78.13,
-        "change_pct": -1.96,
+        "price": 3910.49,
+        "change": -79.81,
+        "change_pct": -2.0,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14041.76,
-        "change": -580.74,
-        "change_pct": -3.97,
+        "price": 14050.07,
+        "change": -572.43,
+        "change_pct": -3.91,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3520.97,
-        "change": -184.59,
-        "change_pct": -4.98,
+        "price": 3526.86,
+        "change": -178.7,
+        "change_pct": -4.82,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,10 +204,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25533.38,
-        "change": 62.23,
-        "change_pct": 0.24,
-        "trend": "up",
+        "price": 25468.56,
+        "change": -2.59,
+        "change_pct": -0.01,
+        "trend": "down",
         "market": "HK",
         "is_trading_day": true
       },
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/19 12:40:52",
-    "updated_at": 1787114452622,
+    "updated": "2026/08/19 13:34:12",
+    "updated_at": 1787117652913,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,16 +1,16 @@
 {
   "date": "2026-08-20",
-  "updated": "2026/08/20 00:35:35",
-  "updated_at": 1787157335916,
+  "updated": "2026/08/20 01:30:01",
+  "updated_at": 1787160601168,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期四",
   "lunar_date": "七月初八",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "A Secret Makes A Woman Woman."
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": true,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53476.24,
-        "change": 132.84,
-        "change_pct": 0.25,
+        "price": 53470.82,
+        "change": 127.42,
+        "change_pct": 0.24,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/20 00:35:32",
-    "updated_at": 1787157332398,
+    "updated": "2026/08/20 01:29:58",
+    "updated_at": 1787160598004,
     "trading_day": {
       "A": true,
       "HK": true,

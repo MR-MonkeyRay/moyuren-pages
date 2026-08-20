@@ -1,19 +1,19 @@
 {
   "date": "2026-08-20",
-  "updated": "2026/08/20 09:26:26",
-  "updated_at": 1787189186173,
+  "updated": "2026/08/20 10:40:40",
+  "updated_at": 1787193640495,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期四",
   "lunar_date": "七月初八",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "hitokoto",
+    "title": "💬 一言",
+    "text": "天下哪有真情在？只要够萌咱都爱！"
   },
   "is_crazy_thursday": true,
-  "kfc_content": null,
+  "kfc_content": "这朋友你到底打不打算处了？我说的是谁自己心里清楚 今天疯狂星期四 香辣翅尖 9.9 十五根＋鸡翅十块 39.9＋葡式蛋挞 29.9 八个 你还有机会挽救我们的友情",
   "date_info": {
     "year_month": "2026.08",
     "day": "20",
@@ -168,15 +168,19 @@
       "is_off_day": true
     }
   ],
-  "kfc_content_full": null,
+  "kfc_content_full": {
+    "title": "CRAZY THURSDAY",
+    "sub_title": "V我50",
+    "content": "这朋友你到底打不打算处了？我说的是谁自己心里清楚 今天疯狂星期四 香辣翅尖 9.9 十五根＋鸡翅十块 39.9＋葡式蛋挞 29.9 八个 你还有机会挽救我们的友情"
+  },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3907.21,
-        "change": 12.79,
-        "change_pct": 0.33,
+        "price": 3901.19,
+        "change": 6.77,
+        "change_pct": 0.17,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +188,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14032.97,
-        "change": 142.82,
-        "change_pct": 1.03,
+        "price": 13976.36,
+        "change": 86.21,
+        "change_pct": 0.62,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +198,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3517.65,
-        "change": 44.16,
-        "change_pct": 1.27,
+        "price": 3494.48,
+        "change": 20.99,
+        "change_pct": 0.6,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25779.08,
-        "change": 284.01,
-        "change_pct": 1.11,
+        "price": 25667.65,
+        "change": 172.58,
+        "change_pct": 0.68,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -222,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/20 09:26:23",
-    "updated_at": 1787189183079,
+    "updated": "2026/08/20 10:40:36",
+    "updated_at": 1787193636999,
     "trading_day": {
       "A": true,
       "HK": true,

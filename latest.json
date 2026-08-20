@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "updated": "2026/08/20 11:50:08",
-  "updated_at": 1787197808886,
+  "updated": "2026/08/20 12:41:00",
+  "updated_at": 1787200860427,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "扎古不论怎么化妆都不可能变成高达的。"
+    "text": "人必将诞生，终将死去。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "今天学了一个新成语叫做闻鸡起舞，意思是闻到肯德基的味道，起码找别人要五十",
+  "kfc_content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋",
   "date_info": {
     "year_month": "2026.08",
     "day": "20",
@@ -171,7 +171,7 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "今天学了一个新成语叫做闻鸡起舞，意思是闻到肯德基的味道，起码找别人要五十"
+    "content": "我是社会你虎哥，v 我 50，给我提供 19.9 的热辣香骨鸡作为军粮，让我打败杀马特团长。事成之后，我送你我的李宁鞋"
   },
   "stock_indices": {
     "items": [
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 25777.82,
-        "change": 282.75,
-        "change_pct": 1.11,
+        "price": 25786.32,
+        "change": 291.25,
+        "change_pct": 1.14,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/08/20 11:50:01",
-    "updated_at": 1787197801854,
+    "updated": "2026/08/20 12:40:56",
+    "updated_at": 1787200856357,
     "trading_day": {
       "A": true,
       "HK": true,

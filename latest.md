@@ -37,10 +37,10 @@
 
 > **💬 一言**
 >
-> 哭也不会改变什么，这个世界从来不会对任何人温柔。
+> 解开它,试试的话也许能行,但是,不尝试的话就绝对办不到。
 
 > **疯狂星期四**
 >
-> 时间让我长了年岁，却没有让我成为一个合格的大人。我以为我的十八岁，会工作稳定，收入可观，和喜欢的人去看山河大海，落日余晖。没想到，到了谈婚论嫁的年龄，我却仍在找自己的路上。今天肯德基疯狂星期四，谁请我吃？
+> Hello everyone! I am a refugee from TikTok, and this is my first time using WeChat. I hope to make friends with all of you. I come from Kentucky in the United States. I heard that today is KFC Crazy Thursday in China. KFC stands for "Kentucky Fried Chicken," which means "Kentucky fried chicken." If you want to eat authentic KFC, you can transfer 50 dollars to me, and when I come to China, I will bring it to you.
 
-*更新时间: 2026/08/20 19:57:07*
+*更新时间: 2026/08/20 21:03:48*

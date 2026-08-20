@@ -37,10 +37,17 @@
 
 > **💬 一言**
 >
-> 解开它,试试的话也许能行,但是,不尝试的话就绝对办不到。
+> 并不是只有你一个人，所以不要消失。
 
 > **疯狂星期四**
 >
-> Hello everyone! I am a refugee from TikTok, and this is my first time using WeChat. I hope to make friends with all of you. I come from Kentucky in the United States. I heard that today is KFC Crazy Thursday in China. KFC stands for "Kentucky Fried Chicken," which means "Kentucky fried chicken." If you want to eat authentic KFC, you can transfer 50 dollars to me, and when I come to China, I will bring it to you.
+> 个人的副﻿业，‌大佬们可﻿以支﻿持一﻿下
+𝟭.𝗣𝘆𝘁𝗵𝗼𝗻脚本﻿    𝟮𝟬元 /‌𝟭𝟬𝟬行
+𝟮.𝗝𝗮𝘃𝗮/𝗣𝗛𝗣程序   𝟱𝟬𝟬﻿元起﻿/ 个 ﻿复杂度面‌议
+‍𝟯.‍网站﻿及𝗔𝗣𝗣开发  𝟮𝟬𝟬𝟬﻿元起‌/ 个  复杂度面议
+𝟰. 商‌业短﻿片剪辑 ﻿    𝟭𝟬𝟬𝟬元起‌/ 支  ‍复杂‍度面议
+𝟱.𝗔𝗘/𝗖𝟰𝗗特制效作  𝟱𝟬𝟬元起 / 秒 复杂度面议
+𝟲.𝗞𝗙𝗖代吃    𝟱𝟬‍元起﻿/ 次  每天都可接
+目前只‌接𝟲‍，其他的还在学
 
-*更新时间: 2026/08/20 21:03:48*
+*更新时间: 2026/08/20 22:09:06*

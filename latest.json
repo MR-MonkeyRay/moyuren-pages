@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
-  "updated": "2026/08/29 09:51:07",
-  "updated_at": 1787968267995,
+  "updated": "2026/08/29 16:47:05",
+  "updated_at": 1787993225008,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -205,15 +205,15 @@
         "change_pct": -0.02,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/08/29 09:51:04",
-    "updated_at": 1787968264914,
+    "updated": "2026/08/29 16:47:01",
+    "updated_at": 1787993221888,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

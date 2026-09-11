@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "updated": "2026/09/11 16:46:53",
-  "updated_at": 1789116413443,
+  "updated": "2026/09/11 21:23:57",
+  "updated_at": 1789133037896,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "俗话说人无远虑，必定很有钱。"
+    "text": "双十一过后，我从一个光棍，变成了一个负债累累的光棍。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -205,8 +205,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/11 16:46:50",
-    "updated_at": 1789116410132,
+    "updated": "2026/09/11 21:23:53",
+    "updated_at": 1789133033413,
     "trading_day": {
       "A": true,
       "HK": true,

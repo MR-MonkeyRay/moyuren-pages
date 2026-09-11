@@ -1,16 +1,16 @@
 {
   "date": "2026-09-12",
-  "updated": "2026/09/12 03:57:54",
-  "updated_at": 1789156674065,
+  "updated": "2026/09/12 06:27:45",
+  "updated_at": 1789165665723,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期六",
   "lunar_date": "八月初二",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "放弃这个字，说起来简单，做起来就更简单了。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -198,16 +198,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52562.89,
-        "change": 498.79,
-        "change_pct": 0.96,
+        "price": 52573.29,
+        "change": 509.19,
+        "change_pct": 0.98,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/12 03:57:50",
-    "updated_at": 1789156670435,
+    "updated": "2026/09/12 06:27:42",
+    "updated_at": 1789165662549,
     "trading_day": {
       "A": false,
       "HK": false,

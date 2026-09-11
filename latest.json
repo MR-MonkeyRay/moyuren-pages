@@ -1,16 +1,16 @@
 {
   "date": "2026-09-11",
-  "updated": "2026/09/11 07:51:44",
-  "updated_at": 1789084304577,
+  "updated": "2026/09/11 11:52:34",
+  "updated_at": 1789098754611,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期五",
   "lunar_date": "八月初一",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "世上99%的事情，都能用钱解决，剩下的1%则需要更多的钱。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -157,9 +157,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3934.4,
-        "change": -17.11,
-        "change_pct": -0.43,
+        "price": 3862.73,
+        "change": -71.67,
+        "change_pct": -1.82,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -167,9 +167,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 13617.67,
-        "change": -105.65,
-        "change_pct": -0.77,
+        "price": 13298.77,
+        "change": -318.9,
+        "change_pct": -2.34,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -177,9 +177,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3338.42,
-        "change": -16.55,
-        "change_pct": -0.49,
+        "price": 3270.35,
+        "change": -68.07,
+        "change_pct": -2.04,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -187,9 +187,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24954.47,
-        "change": -320.49,
-        "change_pct": -1.27,
+        "price": 24733.9,
+        "change": -220.57,
+        "change_pct": -0.88,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -205,8 +205,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/11 07:51:40",
-    "updated_at": 1789084300502,
+    "updated": "2026/09/11 11:52:31",
+    "updated_at": 1789098751016,
     "trading_day": {
       "A": true,
       "HK": true,

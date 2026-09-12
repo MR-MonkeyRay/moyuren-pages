@@ -1,16 +1,16 @@
 {
   "date": "2026-09-12",
-  "updated": "2026/09/12 06:27:45",
-  "updated_at": 1789165665723,
+  "updated": "2026/09/12 08:33:03",
+  "updated_at": 1789173183005,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期六",
   "lunar_date": "八月初二",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "有股强烈的学习欲望，幸好我自制力强，压下去了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -206,8 +206,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/12 06:27:42",
-    "updated_at": 1789165662549,
+    "updated": "2026/09/12 08:32:59",
+    "updated_at": 1789173179718,
     "trading_day": {
       "A": false,
       "HK": false,

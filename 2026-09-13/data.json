@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
-  "updated": "2026/09/13 02:39:32",
-  "updated_at": 1789238372763,
+  "updated": "2026/09/13 05:19:13",
+  "updated_at": 1789247953598,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "只要有快递还在路上，就感觉这生活，还算有点希望。"
+    "text": "用扯淡的态度，面对操蛋的人生。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,8 +204,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/09/13 02:39:29",
-    "updated_at": 1789238369490,
+    "updated": "2026/09/13 05:19:09",
+    "updated_at": 1789247949998,
     "trading_day": {
       "A": false,
       "HK": false,

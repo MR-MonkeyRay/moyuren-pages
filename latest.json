@@ -1,16 +1,16 @@
 {
   "date": "2026-09-15",
-  "updated": "2026/09/15 00:29:04",
-  "updated_at": 1789403344452,
+  "updated": "2026/09/15 04:27:48",
+  "updated_at": 1789417668172,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期二",
   "lunar_date": "八月初五",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "如果婚姻是爱情的坟墓，一年一次的结婚周年庆祝，便是在“扫墓” 了。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -200,16 +200,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52511.99,
-        "change": -61.3,
-        "change_pct": -0.12,
+        "price": 52421.2,
+        "change": -152.09,
+        "change_pct": -0.29,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/15 00:29:01",
-    "updated_at": 1789403341524,
+    "updated": "2026/09/15 04:27:44",
+    "updated_at": 1789417664986,
     "trading_day": {
       "A": true,
       "HK": true,

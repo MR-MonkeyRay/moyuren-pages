@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "updated": "2026/09/15 15:28:07",
-  "updated_at": 1789457287944,
+  "updated": "2026/09/15 20:51:28",
+  "updated_at": 1789476688051,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你复杂的五官，掩饰不了，你朴素的智商。"
+    "text": "将薪比薪的想了想，算了，不想活了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -190,9 +190,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24684.64,
-        "change": -232.96,
-        "change_pct": -0.93,
+        "price": 24667.24,
+        "change": -250.36,
+        "change_pct": -1.0,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -208,8 +208,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/15 15:28:05",
-    "updated_at": 1789457285258,
+    "updated": "2026/09/15 20:51:24",
+    "updated_at": 1789476684624,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "updated": "2026/09/17 18:18:37",
-  "updated_at": 1789640317072,
+  "updated": "2026/09/17 23:12:51",
+  "updated_at": 1789657971419,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我能想到最浪漫的事，就是和你一起吃吃吃，然后你付钱。"
+    "text": "没人嘲笑你的梦想，他们只是，嘲笑你的实力。"
   },
   "is_crazy_thursday": true,
   "kfc_content": null,
@@ -200,16 +200,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51461.9,
-        "change": -631.21,
-        "change_pct": -1.21,
-        "trend": "down",
+        "price": 51709.76,
+        "change": 247.86,
+        "change_pct": 0.48,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/17 18:18:33",
-    "updated_at": 1789640313299,
+    "updated": "2026/09/17 23:12:48",
+    "updated_at": 1789657968158,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "updated": "2026/09/17 05:34:23",
-  "updated_at": 1789594463176,
+  "updated": "2026/09/17 08:13:28",
+  "updated_at": 1789604008546,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果你放弃了今天的自己，你就战胜了明天的你。"
+    "text": "都说谈恋爱会影响学习，难道学习，就不影响谈恋爱吗？"
   },
   "is_crazy_thursday": true,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/17 05:34:19",
-    "updated_at": 1789594459771,
+    "updated": "2026/09/17 08:13:25",
+    "updated_at": 1789604005005,
     "trading_day": {
       "A": true,
       "HK": true,

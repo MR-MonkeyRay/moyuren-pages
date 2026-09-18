@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "updated": "2026/09/18 06:22:40",
-  "updated_at": 1789683760311,
+  "updated": "2026/09/18 08:41:08",
+  "updated_at": 1789692068706,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "生平最讨厌溜须拍马的人，和他们在一起，显得老子很不会做人。"
+    "text": "喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/18 06:22:37",
-    "updated_at": 1789683757069,
+    "updated": "2026/09/18 08:41:04",
+    "updated_at": 1789692064885,
     "trading_day": {
       "A": true,
       "HK": true,

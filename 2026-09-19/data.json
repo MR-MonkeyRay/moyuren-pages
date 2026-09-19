@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
-  "updated": "2026/09/19 09:31:39",
-  "updated_at": 1789781499859,
+  "updated": "2026/09/19 15:11:10",
+  "updated_at": 1789801870167,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "56个民族，55个加分。"
+    "text": "别说自己是单身狗，狗还可以三妻四妾。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -205,15 +205,15 @@
         "change_pct": -0.18,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/09/19 09:31:36",
-    "updated_at": 1789781496538,
+    "updated": "2026/09/19 15:11:07",
+    "updated_at": 1789801867033,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

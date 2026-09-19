@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "updated": "2026/09/20 00:00:52",
-  "updated_at": 1789833652712,
+  "updated": "2026/09/20 02:45:14",
+  "updated_at": 1789843514781,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "这世上没谁离不开谁，就算是一条鱼离开水，也能烤着吃。"
+    "text": "考试最崩溃的是看到一道题，模糊的记得老师讲过，但清晰的记得我没听。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/09/20 00:00:49",
-    "updated_at": 1789833649620,
+    "updated": "2026/09/20 02:45:11",
+    "updated_at": 1789843511758,
     "trading_day": {
       "A": false,
       "HK": false,

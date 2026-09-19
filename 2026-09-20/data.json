@@ -1,57 +1,57 @@
 {
-  "date": "2026-08-21",
-  "updated": "2026/08/21 23:37:21",
-  "updated_at": 1787326641762,
+  "date": "2026-09-20",
+  "updated": "2026/09/20 00:00:52",
+  "updated_at": 1789833652712,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期五",
-  "lunar_date": "七月初九",
+  "weekday": "星期日",
+  "lunar_date": "八月初十",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "这世上没谁离不开谁，就算是一条鱼离开水，也能烤着吃。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
-    "year_month": "2026.08",
-    "day": "21",
-    "week_cn": "星期五",
-    "week_en": "Fri",
+    "year_month": "2026.09",
+    "day": "20",
+    "week_cn": "星期日",
+    "week_en": "Sun",
     "lunar_year": "丙午年",
-    "lunar_date": "七月初九",
+    "lunar_date": "八月初十",
     "zodiac": "马",
-    "constellation": "狮子座",
+    "constellation": "处女座",
     "moon_phase": "残月",
     "festival_solar": null,
     "festival_lunar": null,
-    "legal_holiday": null,
-    "is_holiday": false
+    "legal_holiday": "2026年9月20日 国庆节(班)",
+    "is_holiday": true
   },
   "weekend": {
-    "days_left": 1,
-    "is_weekend": false
+    "days_left": 0,
+    "is_weekend": true
   },
   "solar_term": {
-    "name": "处暑",
-    "name_en": "End of Heat",
-    "days_left": 2,
-    "date": "2026-08-23",
+    "name": "秋分",
+    "name_en": "Autumn Equinox",
+    "days_left": 3,
+    "date": "2026-09-23",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "嫁娶",
-      "开光",
       "祭祀",
-      "祈福"
+      "出行",
+      "沐浴",
+      "扫舍"
     ],
     "ji": [
-      "掘井",
-      "理发",
-      "作灶",
-      "动土"
+      "动土",
+      "破土",
+      "置产",
+      "掘井"
     ]
   },
   "news_list": [
@@ -64,29 +64,20 @@
   "news_meta": {},
   "holidays": [
     {
-      "name": "中元节",
-      "start_date": "2026-08-27",
-      "end_date": "2026-08-27",
+      "name": "国庆节（补班）",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
       "duration": 1,
-      "days_left": 6,
-      "is_legal_holiday": false,
-      "is_off_day": true
-    },
-    {
-      "name": "教师节",
-      "start_date": "2026-09-10",
-      "end_date": "2026-09-10",
-      "duration": 1,
-      "days_left": 20,
-      "is_legal_holiday": false,
-      "is_off_day": true
+      "days_left": 0,
+      "is_legal_holiday": true,
+      "is_off_day": false
     },
     {
       "name": "中秋节",
       "start_date": "2026-09-25",
       "end_date": "2026-09-27",
       "duration": 3,
-      "days_left": 35,
+      "days_left": 5,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -95,7 +86,7 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-07",
       "duration": 7,
-      "days_left": 41,
+      "days_left": 11,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -104,7 +95,7 @@
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "duration": 1,
-      "days_left": 58,
+      "days_left": 28,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -113,7 +104,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 123,
+      "days_left": 93,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -122,7 +113,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 133,
+      "days_left": 103,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -131,7 +122,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 147,
+      "days_left": 117,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -140,7 +131,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 168,
+      "days_left": 138,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -149,7 +140,16 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 169,
+      "days_left": 139,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元宵节",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "duration": 1,
+      "days_left": 153,
       "is_legal_holiday": false,
       "is_off_day": true
     }
@@ -160,60 +160,60 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3905.2,
-        "change": 1.48,
-        "change_pct": 0.04,
+        "price": 3911.87,
+        "change": 36.27,
+        "change_pct": 0.94,
         "trend": "up",
         "market": "A",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 14094.17,
-        "change": 121.39,
-        "change_pct": 0.87,
+        "price": 13640.87,
+        "change": 230.96,
+        "change_pct": 1.72,
         "trend": "up",
         "market": "A",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3545.58,
-        "change": 49.99,
-        "change_pct": 1.43,
+        "price": 3372.68,
+        "change": 74.37,
+        "change_pct": 2.25,
         "trend": "up",
         "market": "A",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 26009.46,
-        "change": 310.97,
-        "change_pct": 1.21,
+        "price": 24750.78,
+        "change": 146.49,
+        "change_pct": 0.6,
         "trend": "up",
         "market": "HK",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53205.68,
-        "change": 446.47,
-        "change_pct": 0.85,
-        "trend": "up",
+        "price": 51682.64,
+        "change": -95.4,
+        "change_pct": -0.18,
+        "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/08/21 23:37:18",
-    "updated_at": 1787326638652,
+    "updated": "2026/09/20 00:00:49",
+    "updated_at": 1789833649620,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
     "is_stale": false
   }

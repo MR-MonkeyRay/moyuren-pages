@@ -1,16 +1,16 @@
 {
   "date": "2026-09-19",
-  "updated": "2026/09/19 07:30:30",
-  "updated_at": 1789774230658,
+  "updated": "2026/09/19 09:31:39",
+  "updated_at": 1789781499859,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期六",
   "lunar_date": "八月初九",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼小贴士",
-    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "56个民族，55个加分。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/19 07:30:27",
-    "updated_at": 1789774227023,
+    "updated": "2026/09/19 09:31:36",
+    "updated_at": 1789781496538,
     "trading_day": {
       "A": false,
       "HK": false,

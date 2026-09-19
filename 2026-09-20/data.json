@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "updated": "2026/09/20 02:45:14",
-  "updated_at": 1789843514781,
+  "updated": "2026/09/20 05:22:00",
+  "updated_at": 1789852920654,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "考试最崩溃的是看到一道题，模糊的记得老师讲过，但清晰的记得我没听。"
+    "text": "不要轻易向命运低头，因为，一低头就会看到赘肉。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/09/20 02:45:11",
-    "updated_at": 1789843511758,
+    "updated": "2026/09/20 05:21:57",
+    "updated_at": 1789852917319,
     "trading_day": {
       "A": false,
       "HK": false,

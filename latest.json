@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
-  "updated": "2026/09/19 15:11:10",
-  "updated_at": 1789801870167,
+  "updated": "2026/09/19 20:00:58",
+  "updated_at": 1789819258237,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "别说自己是单身狗，狗还可以三妻四妾。"
+    "text": "身在福中不知福是什么？就是发福快发成猪了，还觉得自己身材蛮OK。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/09/19 15:11:07",
-    "updated_at": 1789801867033,
+    "updated": "2026/09/19 20:00:54",
+    "updated_at": 1789819254521,
     "trading_day": {
       "A": false,
       "HK": false,

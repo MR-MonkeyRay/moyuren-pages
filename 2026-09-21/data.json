@@ -1,16 +1,16 @@
 {
   "date": "2026-09-21",
-  "updated": "2026/09/21 05:27:25",
-  "updated_at": 1789939645795,
+  "updated": "2026/09/21 07:25:54",
+  "updated_at": 1789946754540,
   "images": {
     "moyuren": "moyuren.jpg"
   },
   "weekday": "星期一",
   "lunar_date": "八月十一",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "醒醒，你这不是丧而是，没有钱和性生活的正常表现。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/09/21 05:27:22",
-    "updated_at": 1789939642627,
+    "updated": "2026/09/21 07:25:51",
+    "updated_at": 1789946751440,
     "trading_day": {
       "A": true,
       "HK": true,

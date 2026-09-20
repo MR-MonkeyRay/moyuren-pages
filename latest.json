@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "updated": "2026/09/20 07:24:27",
-  "updated_at": 1789860267146,
+  "updated": "2026/09/20 09:28:22",
+  "updated_at": 1789867702349,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "只有在车站大排长龙时，才能真正意识到，自己是龙的传人。"
+    "text": "我知道虚度年华不对，但是这样，真的好过瘾啊。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/09/20 07:24:23",
-    "updated_at": 1789860263522,
+    "updated": "2026/09/20 09:28:18",
+    "updated_at": 1789867698843,
     "trading_day": {
       "A": false,
       "HK": false,

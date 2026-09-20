@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "updated": "2026/09/20 09:28:22",
-  "updated_at": 1789867702349,
+  "updated": "2026/09/20 14:52:45",
+  "updated_at": 1789887165426,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我知道虚度年华不对，但是这样，真的好过瘾啊。"
+    "text": "饱汉不知饿汉饥，饿汉不知饱汉虚。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -208,8 +208,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/09/20 09:28:18",
-    "updated_at": 1789867698843,
+    "updated": "2026/09/20 14:52:42",
+    "updated_at": 1789887162141,
     "trading_day": {
       "A": false,
       "HK": false,

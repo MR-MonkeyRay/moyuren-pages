@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-21",
-  "updated": "2026/09/21 21:56:14",
-  "updated_at": 1789998974562,
+  "date": "2026-09-22",
+  "updated": "2026/09/22 03:12:26",
+  "updated_at": 1790017946464,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期一",
-  "lunar_date": "八月十一",
+  "weekday": "星期二",
+  "lunar_date": "八月十二",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "到不了的都叫做远方，回不去的名字叫家乡。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼小贴士",
+    "text": "工作再忙，也要记得摸鱼。适当休息，效率更高！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.09",
-    "day": "21",
-    "week_cn": "星期一",
-    "week_en": "Mon",
+    "day": "22",
+    "week_cn": "星期二",
+    "week_en": "Tue",
     "lunar_year": "丙午年",
-    "lunar_date": "八月十一",
+    "lunar_date": "八月十二",
     "zodiac": "马",
     "constellation": "处女座",
     "moon_phase": "残月",
@@ -30,28 +30,28 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 5,
+    "days_left": 4,
     "is_weekend": false
   },
   "solar_term": {
     "name": "秋分",
     "name_en": "Autumn Equinox",
-    "days_left": 2,
+    "days_left": 1,
     "date": "2026-09-23",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "嫁娶",
       "纳采",
-      "祭祀",
-      "解除"
+      "订盟",
+      "开市",
+      "交易"
     ],
     "ji": [
-      "造庙",
+      "斋醮",
+      "嫁娶",
       "行丧",
-      "安葬",
-      "伐木"
+      "动土"
     ]
   },
   "news_list": [
@@ -68,7 +68,7 @@
       "start_date": "2026-09-25",
       "end_date": "2026-09-27",
       "duration": 3,
-      "days_left": 4,
+      "days_left": 3,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -77,7 +77,7 @@
       "start_date": "2026-10-01",
       "end_date": "2026-10-07",
       "duration": 7,
-      "days_left": 10,
+      "days_left": 9,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -86,7 +86,7 @@
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "duration": 1,
-      "days_left": 27,
+      "days_left": 26,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -95,7 +95,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 92,
+      "days_left": 91,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -104,7 +104,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 102,
+      "days_left": 101,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -113,7 +113,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 116,
+      "days_left": 115,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -122,7 +122,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 137,
+      "days_left": 136,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -131,7 +131,7 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 138,
+      "days_left": 137,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -140,7 +140,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 152,
+      "days_left": 151,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -149,7 +149,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 168,
+      "days_left": 167,
       "is_legal_holiday": false,
       "is_off_day": true
     }
@@ -200,16 +200,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51808.97,
-        "change": 126.33,
-        "change_pct": 0.24,
+        "price": 52098.04,
+        "change": 415.4,
+        "change_pct": 0.8,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/09/21 21:56:09",
-    "updated_at": 1789998969001,
+    "updated": "2026/09/22 03:12:23",
+    "updated_at": 1790017943064,
     "trading_day": {
       "A": true,
       "HK": true,

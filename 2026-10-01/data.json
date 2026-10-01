@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
-  "updated": "2026/10/01 08:47:34",
-  "updated_at": 1790815654130,
+  "updated": "2026/10/01 15:05:37",
+  "updated_at": 1790838337703,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "富士山在哪？在负12和负14之间。"
+    "text": "教练：要拐弯了，向左打死。学员：那郭碧婷怎么办？"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "家人们求助，求姻缘应该去哪个寺庙啊？\nA、灵隐寺\nB、弘法寺\nC、甘露寺\nD、肯德基疯狂星期寺",
+  "kfc_content": "招聘❗❗❗\n手里有资金的，💰50 就可以！执行能力强的，有责任心的，有能力的、✅接受 0 经验小白，一对一教学❗符合条件的私信我！给我买肯德基吃。",
   "date_info": {
     "year_month": "2026.10",
     "day": "1",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "家人们求助，求姻缘应该去哪个寺庙啊？\nA、灵隐寺\nB、弘法寺\nC、甘露寺\nD、肯德基疯狂星期寺"
+    "content": "招聘❗❗❗\n手里有资金的，💰50 就可以！执行能力强的，有责任心的，有能力的、✅接受 0 经验小白，一对一教学❗符合条件的私信我！给我买肯德基吃。"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/10/01 08:47:27",
-    "updated_at": 1790815647007,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3842.19,
+        "change": 11.74,
+        "change_pct": 0.31,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 12887.62,
+        "change": -14.33,
+        "change_pct": -0.11,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3135.28,
+        "change": -7.28,
+        "change_pct": -0.23,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24613.27,
+        "change": 89.7,
+        "change_pct": 0.37,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 50906.05,
+        "change": -443.87,
+        "change_pct": -0.86,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/10/01 15:05:31",
+    "updated_at": 1790838331873,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": false
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
-  "updated": "2026/10/03 09:51:10",
-  "updated_at": 1790992270401,
+  "updated": "2026/10/03 15:54:36",
+  "updated_at": 1791014076301,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "现实当中，累得精疲力尽的人们只是在这些建筑物的缝隙之间匍匐打转地苟且偷生而已。而我，也只是其中的一个。"
+    "text": "生命是买不到，给不了的。但是，却可以养育。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": 0.49,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/10/03 09:51:04",
-    "updated_at": 1790992264885,
+    "updated": "2026/10/03 15:54:31",
+    "updated_at": 1791014071351,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

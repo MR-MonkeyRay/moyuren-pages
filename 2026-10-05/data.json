@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
-  "updated": "2026/10/05 03:31:58",
-  "updated_at": 1791142318320,
+  "updated": "2026/10/05 06:57:09",
+  "updated_at": 1791154629959,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "妈妈问女儿今天学了什么英语，女儿说：“大雪碧。”妈妈不解，第二天问老师，老师说：“教的是大写‘B’。”"
+    "text": "小动物们聚餐，为什么大象生气了？因为他们聚餐的地方是气象局。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/10/05 03:31:52",
-    "updated_at": 1791142312000,
+    "updated": "2026/10/05 06:57:03",
+    "updated_at": 1791154623332,
     "trading_day": {
       "A": false,
       "HK": true,

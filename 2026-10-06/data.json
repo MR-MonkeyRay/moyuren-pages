@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "updated": "2026/10/06 02:14:25",
-  "updated_at": 1791224065518,
+  "updated": "2026/10/06 08:16:12",
+  "updated_at": 1791245772498,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "由于性格太内向，一直做不出，抢着结账这种事。"
+    "text": "欢迎来到2019，恭喜你进入了新的，扎心的一年。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51297.17,
-        "change": 120.21,
-        "change_pct": 0.23,
+        "price": 51267.9,
+        "change": 90.94,
+        "change_pct": 0.18,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/06 02:14:19",
-    "updated_at": 1791224059084,
+    "updated": "2026/10/06 08:16:05",
+    "updated_at": 1791245765561,
     "trading_day": {
       "A": false,
       "HK": true,

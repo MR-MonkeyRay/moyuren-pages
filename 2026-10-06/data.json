@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "updated": "2026/10/06 14:47:03",
-  "updated_at": 1791269223871,
+  "updated": "2026/10/06 22:05:36",
+  "updated_at": 1791295536453,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "你怎么长得跟个二维码似的，不扫一下，都不知道你是什么东西！"
+    "text": "我觉得失恋不可怕，眼瞎才可怕。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24223.47,
-        "change": 183.13,
-        "change_pct": 0.76,
+        "price": 24280.56,
+        "change": 240.22,
+        "change_pct": 1.0,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51267.9,
-        "change": 90.94,
-        "change_pct": 0.18,
+        "price": 51604.42,
+        "change": 336.52,
+        "change_pct": 0.66,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/06 14:46:58",
-    "updated_at": 1791269218742,
+    "updated": "2026/10/06 22:05:26",
+    "updated_at": 1791295526923,
     "trading_day": {
       "A": false,
       "HK": true,

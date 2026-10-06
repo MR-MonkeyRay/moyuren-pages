@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
-  "updated": "2026/10/07 03:46:19",
-  "updated_at": 1791315979874,
+  "updated": "2026/10/07 07:43:16",
+  "updated_at": 1791330196721,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果不能美得惊人，那就丑得销魂吧！"
+    "text": "今天是除夕夜，来来来，给你夹块你最爱吃的天鹅肉。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51530.8,
-        "change": 262.9,
-        "change_pct": 0.51,
+        "price": 51521.28,
+        "change": 253.38,
+        "change_pct": 0.49,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/07 03:46:13",
-    "updated_at": 1791315973780,
+    "updated": "2026/10/07 07:43:10",
+    "updated_at": 1791330190260,
     "trading_day": {
       "A": false,
       "HK": true,

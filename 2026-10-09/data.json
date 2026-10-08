@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
-  "updated": "2026/10/09 03:23:37",
-  "updated_at": 1791487417564,
+  "updated": "2026/10/09 07:53:03",
+  "updated_at": 1791503583382,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "一天不玩手机，人是不会死的，命还在但是魂丢啦！"
+    "text": "命只有一条，但要命的事，可不止一件。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -211,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51208.2,
-        "change": 28.33,
-        "change_pct": 0.06,
+        "price": 51231.64,
+        "change": 51.77,
+        "change_pct": 0.1,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/09 03:23:30",
-    "updated_at": 1791487410576,
+    "updated": "2026/10/09 07:52:57",
+    "updated_at": 1791503577650,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "updated": "2026/10/08 07:32:30",
-  "updated_at": 1791415950411,
+  "updated": "2026/10/08 13:38:23",
+  "updated_at": 1791437903340,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "我的座右铭：能坐着绝不站着，能躺着绝不坐着，能摸鱼绝不工作。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "这个群，现在由我管理。目的是把你们训练成一个个社会高薪人士，从本周起，已经开始执行军事化管理。现在我命令你们，现在立即给我 v50 以测试忠诚度，我升你为士兵长，不关今天是肯德基疯狂星期四的事",
+  "kfc_content": "-iPhone 14：5999 起\n-iPhone 14 Plus：6999 起\n-iPhone 14 Pro：7999 起\n-iPhone 14 Pro Max：8999 起\n-Apple Watch 8：2999 起\n-Apple Watch SE 2：1999 起\n-Apple Watch Ultra：6299\n-AirPods Pro 2：1899\n-V 我 ：50 起 ​​​",
   "date_info": {
     "year_month": "2026.10",
     "day": "8",
@@ -169,26 +169,26 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "这个群，现在由我管理。目的是把你们训练成一个个社会高薪人士，从本周起，已经开始执行军事化管理。现在我命令你们，现在立即给我 v50 以测试忠诚度，我升你为士兵长，不关今天是肯德基疯狂星期四的事"
+    "content": "-iPhone 14：5999 起\n-iPhone 14 Plus：6999 起\n-iPhone 14 Pro：7999 起\n-iPhone 14 Pro Max：8999 起\n-Apple Watch 8：2999 起\n-Apple Watch SE 2：1999 起\n-Apple Watch Ultra：6299\n-AirPods Pro 2：1899\n-V 我 ：50 起 ​​​"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3842.19,
-        "change": 11.74,
-        "change_pct": 0.31,
-        "trend": "up",
+        "price": 3814.1,
+        "change": -28.09,
+        "change_pct": -0.73,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 12887.62,
-        "change": -14.33,
-        "change_pct": -0.11,
+        "price": 12651.83,
+        "change": -235.79,
+        "change_pct": -1.83,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -196,9 +196,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 3135.28,
-        "change": -7.28,
-        "change_pct": -0.23,
+        "price": 3042.99,
+        "change": -92.29,
+        "change_pct": -2.94,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -206,9 +206,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24130.5,
-        "change": -150.06,
-        "change_pct": -0.62,
+        "price": 23977.64,
+        "change": -152.86,
+        "change_pct": -0.63,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -224,8 +224,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/08 07:32:24",
-    "updated_at": 1791415944994,
+    "updated": "2026/10/08 13:38:18",
+    "updated_at": 1791437898455,
     "trading_day": {
       "A": true,
       "HK": true,

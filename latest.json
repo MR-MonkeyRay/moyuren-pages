@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "updated": "2026/10/10 02:46:05",
-  "updated_at": 1791571565623,
+  "updated": "2026/10/10 07:08:29",
+  "updated_at": 1791587309868,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "以前高中时，羡慕大学考试只要及格就行；现在大学了，怀念高中考试及不及格都行??"
+    "text": "把逞强转换成认真，把无敌转换成美丽，把精神转换成勇气。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51691.57,
-        "change": 459.93,
-        "change_pct": 0.9,
+        "price": 51654.95,
+        "change": 423.31,
+        "change_pct": 0.83,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/10 02:45:59",
-    "updated_at": 1791571559088,
+    "updated": "2026/10/10 07:08:23",
+    "updated_at": 1791587303236,
     "trading_day": {
       "A": false,
       "HK": false,

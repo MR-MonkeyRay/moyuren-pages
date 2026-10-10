@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-10",
-  "updated": "2026/10/10 23:49:14",
-  "updated_at": 1791647354377,
+  "date": "2026-10-11",
+  "updated": "2026/10/11 03:57:13",
+  "updated_at": 1791662233861,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期六",
-  "lunar_date": "九月初一",
+  "weekday": "星期日",
+  "lunar_date": "九月初二",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "我一点也不好吃，瘦小又贫胸，而且也单薄，身体测评也是班级里最差的那个呢.所以，请留下我的清白之身，两年后.我会变得更好吃的。"
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "平行线最受不了什么水果？香蕉。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.10",
-    "day": "10",
-    "week_cn": "星期六",
-    "week_en": "Sat",
+    "day": "11",
+    "week_cn": "星期日",
+    "week_en": "Sun",
     "lunar_year": "丙午年",
-    "lunar_date": "九月初一",
+    "lunar_date": "九月初二",
     "zodiac": "马",
     "constellation": "天秤座",
     "moon_phase": "残月",
     "festival_solar": null,
     "festival_lunar": null,
-    "legal_holiday": "2026年10月10日 国庆节(班)",
-    "is_holiday": true
+    "legal_holiday": null,
+    "is_holiday": false
   },
   "weekend": {
     "days_left": 0,
@@ -36,22 +36,22 @@
   "solar_term": {
     "name": "霜降",
     "name_en": "Frost's Descent",
-    "days_left": 13,
+    "days_left": 12,
     "date": "2026-10-23",
     "is_today": false
   },
   "guide": {
     "yi": [
       "嫁娶",
-      "求嗣",
-      "纳采",
-      "进人口"
+      "祭祀",
+      "开市",
+      "开光"
     ],
     "ji": [
-      "上梁",
-      "作灶",
+      "纳畜",
       "伐木",
-      "出行"
+      "置产",
+      "作梁"
     ]
   },
   "news_list": [
@@ -78,20 +78,11 @@
   },
   "holidays": [
     {
-      "name": "国庆节（补班）",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "duration": 1,
-      "days_left": 0,
-      "is_legal_holiday": true,
-      "is_off_day": false
-    },
-    {
       "name": "重阳节",
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "duration": 1,
-      "days_left": 8,
+      "days_left": 7,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -100,7 +91,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 73,
+      "days_left": 72,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +100,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 83,
+      "days_left": 82,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -118,7 +109,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 97,
+      "days_left": 96,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +118,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 118,
+      "days_left": 117,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +127,7 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 119,
+      "days_left": 118,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +136,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 133,
+      "days_left": 132,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +145,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 149,
+      "days_left": 148,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,21 +154,81 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 150,
+      "days_left": 149,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "植树节",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "duration": 1,
+      "days_left": 152,
       "is_legal_holiday": false,
       "is_off_day": true
     }
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/10/10 23:49:08",
-    "updated_at": 1791647348036,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3813.79,
+        "change": 1.89,
+        "change_pct": 0.05,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 12641.86,
+        "change": 20.96,
+        "change_pct": 0.17,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 3043.33,
+        "change": 6.67,
+        "change_pct": 0.22,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24211.35,
+        "change": 425.56,
+        "change_pct": 1.79,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 51654.95,
+        "change": 423.31,
+        "change_pct": 0.83,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": false
+      }
+    ],
+    "updated": "2026/10/11 03:57:07",
+    "updated_at": 1791662227616,
     "trading_day": {
       "A": false,
       "HK": false,
       "US": false
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

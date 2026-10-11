@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
-  "updated": "2026/10/11 17:13:45",
-  "updated_at": 1791710025185,
+  "updated": "2026/10/11 23:55:12",
+  "updated_at": 1791734112830,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一山不容二虎，二山会怎样？二三得六。"
+    "text": "小孩想弹贝斯，但是贝斯太重了，怎么办？过年的时候弹，因为每逢佳节倍思亲（贝斯轻）。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/10/11 17:13:39",
-    "updated_at": 1791710019194,
+    "updated": "2026/10/11 23:55:06",
+    "updated_at": 1791734106751,
     "trading_day": {
       "A": false,
       "HK": false,

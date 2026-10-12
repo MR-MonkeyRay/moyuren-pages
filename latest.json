@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
-  "updated": "2026/10/12 13:31:42",
-  "updated_at": 1791783102390,
+  "updated": "2026/10/12 23:05:09",
+  "updated_at": 1791817509313,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我是想被包养，但不会接受施舍。"
+    "text": "讲白一点，你造成我们的困扰了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3806.07,
-        "change": -7.72,
-        "change_pct": -0.2,
+        "price": 3797.24,
+        "change": -16.55,
+        "change_pct": -0.43,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 12460.04,
-        "change": -181.82,
-        "change_pct": -1.44,
+        "price": 12384.87,
+        "change": -256.99,
+        "change_pct": -2.03,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2990.65,
-        "change": -52.68,
-        "change_pct": -1.73,
+        "price": 2963.82,
+        "change": -79.51,
+        "change_pct": -2.61,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24253.69,
-        "change": 42.34,
-        "change_pct": 0.17,
+        "price": 24271.2,
+        "change": 59.85,
+        "change_pct": 0.25,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51654.95,
-        "change": 423.31,
-        "change_pct": 0.83,
+        "price": 51900.27,
+        "change": 245.32,
+        "change_pct": 0.47,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/12 13:31:37",
-    "updated_at": 1791783097010,
+    "updated": "2026/10/12 23:05:02",
+    "updated_at": 1791817502438,
     "trading_day": {
       "A": true,
       "HK": true,

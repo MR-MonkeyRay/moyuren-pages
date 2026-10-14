@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "updated": "2026/10/14 15:57:28",
-  "updated_at": 1791964648245,
+  "updated": "2026/10/14 21:36:44",
+  "updated_at": 1791985004706,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -202,9 +202,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24303.44,
-        "change": -41.78,
-        "change_pct": -0.17,
+        "price": 24314.17,
+        "change": -31.05,
+        "change_pct": -0.13,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -212,16 +212,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51670.1,
-        "change": -180.45,
-        "change_pct": -0.35,
-        "trend": "down",
+        "price": 51768.61,
+        "change": 98.51,
+        "change_pct": 0.19,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/14 15:57:22",
-    "updated_at": 1791964642622,
+    "updated": "2026/10/14 21:36:38",
+    "updated_at": 1791984998439,
     "trading_day": {
       "A": true,
       "HK": true,

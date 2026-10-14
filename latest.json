@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-14",
-  "updated": "2026/10/14 21:36:44",
-  "updated_at": 1791985004706,
+  "date": "2026-10-15",
+  "updated": "2026/10/15 02:27:48",
+  "updated_at": 1792002468570,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期三",
-  "lunar_date": "九月初五",
+  "weekday": "星期四",
+  "lunar_date": "九月初六",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼语录",
-    "text": "你在认真工作的时候，有人在摸鱼。你在加班的时候，有人在钓鱼。人生苦短，及时摸鱼。"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "一个成年人是不会挑食的，他们会说，我对这个过敏。"
   },
-  "is_crazy_thursday": false,
-  "kfc_content": null,
+  "is_crazy_thursday": true,
+  "kfc_content": "招长期工\n要求：会使用微信或支付宝\n工作内容：每周四给我转账 300\n工作轻松 日薪 250 周四当天结\n点击我头像直接联系我即可开工。",
   "date_info": {
     "year_month": "2026.10",
-    "day": "14",
-    "week_cn": "星期三",
-    "week_en": "Wed",
+    "day": "15",
+    "week_cn": "星期四",
+    "week_en": "Thu",
     "lunar_year": "丙午年",
-    "lunar_date": "九月初五",
+    "lunar_date": "九月初六",
     "zodiac": "马",
     "constellation": "天秤座",
     "moon_phase": "残月",
@@ -30,26 +30,28 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 3,
+    "days_left": 2,
     "is_weekend": false
   },
   "solar_term": {
     "name": "霜降",
     "name_en": "Frost's Descent",
-    "days_left": 9,
+    "days_left": 8,
     "date": "2026-10-23",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "嫁娶",
       "祭祀",
       "祈福",
-      "求嗣"
+      "求嗣",
+      "开光"
     ],
     "ji": [
-      "开光",
-      "栽种"
+      "伐木",
+      "行丧",
+      "破土",
+      "嫁娶"
     ]
   },
   "news_list": [
@@ -80,7 +82,7 @@
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "duration": 1,
-      "days_left": 4,
+      "days_left": 3,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -89,7 +91,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 69,
+      "days_left": 68,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -98,7 +100,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 79,
+      "days_left": 78,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -107,7 +109,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 93,
+      "days_left": 92,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -116,7 +118,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 114,
+      "days_left": 113,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -125,7 +127,7 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 115,
+      "days_left": 114,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -134,7 +136,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 129,
+      "days_left": 128,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -143,7 +145,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 145,
+      "days_left": 144,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -152,7 +154,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 146,
+      "days_left": 145,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -161,12 +163,16 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 149,
+      "days_left": 148,
       "is_legal_holiday": false,
       "is_off_day": true
     }
   ],
-  "kfc_content_full": null,
+  "kfc_content_full": {
+    "title": "CRAZY THURSDAY",
+    "sub_title": "V我50",
+    "content": "招长期工\n要求：会使用微信或支付宝\n工作内容：每周四给我转账 300\n工作轻松 日薪 250 周四当天结\n点击我头像直接联系我即可开工。"
+  },
   "stock_indices": {
     "items": [
       {
@@ -212,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51768.61,
-        "change": 98.51,
-        "change_pct": 0.19,
-        "trend": "up",
+        "price": 51442.15,
+        "change": -227.95,
+        "change_pct": -0.44,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/14 21:36:38",
-    "updated_at": 1791984998439,
+    "updated": "2026/10/15 02:27:41",
+    "updated_at": 1792002461973,
     "trading_day": {
       "A": true,
       "HK": true,

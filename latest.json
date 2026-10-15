@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-15",
-  "updated": "2026/10/15 18:14:39",
-  "updated_at": 1792059279644,
+  "date": "2026-10-16",
+  "updated": "2026/10/16 03:21:11",
+  "updated_at": 1792092071160,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期四",
-  "lunar_date": "九月初六",
+  "weekday": "星期五",
+  "lunar_date": "九月初七",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "忍无可忍，就重新再忍。"
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "姓铁的为什么没有头发？因为老铁没毛病。"
   },
-  "is_crazy_thursday": true,
-  "kfc_content": "#蔡徐坤 C 女士打胎# 肯德基老爷爷👴当时看到这个热搜时就笑了，他在创业之初就设下的局，他的企业名称就是 KFC (Kun Fuck C 女士)，世人虽然看不穿，但是！今天疯狂星期四，9.9 黄金鸡块所有人都能吃！",
+  "is_crazy_thursday": false,
+  "kfc_content": null,
   "date_info": {
     "year_month": "2026.10",
-    "day": "15",
-    "week_cn": "星期四",
-    "week_en": "Thu",
+    "day": "16",
+    "week_cn": "星期五",
+    "week_en": "Fri",
     "lunar_year": "丙午年",
-    "lunar_date": "九月初六",
+    "lunar_date": "九月初七",
     "zodiac": "马",
     "constellation": "天秤座",
     "moon_phase": "残月",
@@ -30,28 +30,28 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 2,
+    "days_left": 1,
     "is_weekend": false
   },
   "solar_term": {
     "name": "霜降",
     "name_en": "Frost's Descent",
-    "days_left": 8,
+    "days_left": 7,
     "date": "2026-10-23",
     "is_today": false
   },
   "guide": {
     "yi": [
       "祭祀",
-      "祈福",
-      "求嗣",
-      "开光"
+      "开光",
+      "出行",
+      "解除"
     ],
     "ji": [
-      "伐木",
+      "嫁娶",
+      "安葬",
       "行丧",
-      "破土",
-      "嫁娶"
+      "词讼"
     ]
   },
   "news_list": [
@@ -82,7 +82,7 @@
       "start_date": "2026-10-18",
       "end_date": "2026-10-18",
       "duration": 1,
-      "days_left": 3,
+      "days_left": 2,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +91,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 68,
+      "days_left": 67,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -100,7 +100,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 78,
+      "days_left": 77,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +109,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 92,
+      "days_left": 91,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -118,7 +118,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 113,
+      "days_left": 112,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +127,7 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 114,
+      "days_left": 113,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +136,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 128,
+      "days_left": 127,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +145,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 144,
+      "days_left": 143,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +154,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 145,
+      "days_left": 144,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,16 +163,12 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 148,
+      "days_left": 147,
       "is_legal_holiday": false,
       "is_off_day": true
     }
   ],
-  "kfc_content_full": {
-    "title": "CRAZY THURSDAY",
-    "sub_title": "V我50",
-    "content": "#蔡徐坤 C 女士打胎# 肯德基老爷爷👴当时看到这个热搜时就笑了，他在创业之初就设下的局，他的企业名称就是 KFC (Kun Fuck C 女士)，世人虽然看不穿，但是！今天疯狂星期四，9.9 黄金鸡块所有人都能吃！"
-  },
+  "kfc_content_full": null,
   "stock_indices": {
     "items": [
       {
@@ -218,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51621.48,
-        "change": -48.62,
-        "change_pct": -0.09,
-        "trend": "down",
+        "price": 52229.78,
+        "change": 608.3,
+        "change_pct": 1.18,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/15 18:14:34",
-    "updated_at": 1792059274253,
+    "updated": "2026/10/16 03:21:05",
+    "updated_at": 1792092065219,
     "trading_day": {
       "A": true,
       "HK": true,

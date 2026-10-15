@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "updated": "2026/10/15 13:04:04",
-  "updated_at": 1792040644338,
+  "updated": "2026/10/15 18:14:39",
+  "updated_at": 1792059279644,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "还没来得及去沾花惹草，就被人拔光了。"
+    "text": "忍无可忍，就重新再忍。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的",
+  "kfc_content": "#蔡徐坤 C 女士打胎# 肯德基老爷爷👴当时看到这个热搜时就笑了，他在创业之初就设下的局，他的企业名称就是 KFC (Kun Fuck C 女士)，世人虽然看不穿，但是！今天疯狂星期四，9.9 黄金鸡块所有人都能吃！",
   "date_info": {
     "year_month": "2026.10",
     "day": "15",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的"
+    "content": "#蔡徐坤 C 女士打胎# 肯德基老爷爷👴当时看到这个热搜时就笑了，他在创业之初就设下的局，他的企业名称就是 KFC (Kun Fuck C 女士)，世人虽然看不穿，但是！今天疯狂星期四，9.9 黄金鸡块所有人都能吃！"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3698.28,
-        "change": -68.95,
-        "change_pct": -1.83,
+        "price": 3707.48,
+        "change": -59.75,
+        "change_pct": -1.59,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -188,9 +188,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 11841.22,
-        "change": -269.37,
-        "change_pct": -2.22,
+        "price": 11816.79,
+        "change": -293.8,
+        "change_pct": -2.43,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -198,9 +198,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2790.76,
-        "change": -76.0,
-        "change_pct": -2.65,
+        "price": 2783.17,
+        "change": -83.59,
+        "change_pct": -2.92,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23980.15,
-        "change": -334.02,
-        "change_pct": -1.37,
+        "price": 24062.72,
+        "change": -251.45,
+        "change_pct": -1.03,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/15 13:03:51",
-    "updated_at": 1792040631911,
+    "updated": "2026/10/15 18:14:34",
+    "updated_at": 1792059274253,
     "trading_day": {
       "A": true,
       "HK": true,

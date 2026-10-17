@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-18",
+  "updated": "2026/10/18 01:29:46",
+  "updated_at": 1792258186152,
+  "images": {
+    "moyuren": "moyuren.jpg"
+  },
+  "weekday": "星期日",
+  "lunar_date": "九月初九",
+  "fun_content": {
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "命只有一条，但要命的事，可不止一件。"
+  },
+  "is_crazy_thursday": false,
+  "kfc_content": null,
+  "date_info": {
+    "year_month": "2026.10",
+    "day": "18",
+    "week_cn": "星期日",
+    "week_en": "Sun",
+    "lunar_year": "丙午年",
+    "lunar_date": "九月初九",
+    "zodiac": "马",
+    "constellation": "天秤座",
+    "moon_phase": "残月",
+    "festival_solar": null,
+    "festival_lunar": "农历丙午年九月初九 重阳节",
+    "legal_holiday": null,
+    "is_holiday": false
+  },
+  "weekend": {
+    "days_left": 0,
+    "is_weekend": true
+  },
+  "solar_term": {
+    "name": "霜降",
+    "name_en": "Frost's Descent",
+    "days_left": 5,
+    "date": "2026-10-23",
+    "is_today": false
+  },
+  "guide": {
+    "yi": [
+      "解除",
+      "祭祀",
+      "修饰垣墙",
+      "平治道涂"
+    ],
+    "ji": [
+      "嫁娶",
+      "开市",
+      "交易",
+      "入宅"
+    ]
+  },
+  "news_list": [
+    "全国铁路新增 “X” 字头列车：将用于未来最高时速 350 公里以上的复兴号动车组列车，11 月起分批调整",
+    "苹果首款折叠屏手机 iPhone Duo 预售秒罄，发货已排到 2027 年，首批现货最高溢价超 7000 元",
+    "尾号 “8899999” 手机号拍卖以 28 万余元成交，运营商客服：过户需预存 4 万，月费最低 1000",
+    "女子花 1.2 万元买 “雅思神预测”，结果 0 题命中；法院：欺诈，三倍赔偿",
+    "甘肃天水幼儿园铅中毒案一审判：6 人获刑，实际负责人被判无期",
+    "全国科技经费投入统计公报发布：沪苏浙皖投入强度连续四年齐超全国平均水平",
+    "统计局：将统计严重失信企业信息公示期由 1 年调整为最短 1 年、最长 3 年",
+    "人民币对美元即期汇率升破 6.69，创 2022 年 7 月初以来新高",
+    "国内一半 AI 算力被指用于短剧和视频生成，真正投入研发环节的仅占 15%",
+    "四部门：组织 30 余家车企座谈，加强汽车产品研发测试验证管理",
+    "特斯拉发布第二代 Roadster 跑车：可垂直攀爬空中翻滚，能像火箭一样空中降落，马斯克称 2028 年量产",
+    "国际计量大会决定自 2027 年 5 月 20 日起取消闰秒，届时将启用连续协调世界时，“23:59:60” 将不再出现",
+    "日本数据显示在日外国人增至 428 万，创历史新高，中国、越南、韩国人数位列前三",
+    "日本气象厅错发 9.9 级强震预警，随后紧急取消，气象厅致歉：系误判，具体原因仍在调查中",
+    "美媒：认定选民名册上有超 2 万疑似非美国公民，美司法部起诉加州"
+  ],
+  "news_meta": {
+    "date": "2026-10-17",
+    "updated": "2026-10-17T05:32:00+08:00",
+    "updated_at": 1792186357694
+  },
+  "holidays": [
+    {
+      "name": "重阳节",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "duration": 1,
+      "days_left": 0,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "冬至节",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "duration": 1,
+      "days_left": 65,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元旦",
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-01",
+      "duration": 1,
+      "days_left": 75,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "腊八节",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "duration": 1,
+      "days_left": 89,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "除夕",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "duration": 1,
+      "days_left": 110,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "春节",
+      "start_date": "2027-02-06",
+      "end_date": "2027-02-06",
+      "duration": 1,
+      "days_left": 111,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元宵节",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "duration": 1,
+      "days_left": 125,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "妇女节",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-08",
+      "duration": 1,
+      "days_left": 141,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "龙头节",
+      "start_date": "2027-03-09",
+      "end_date": "2027-03-09",
+      "duration": 1,
+      "days_left": 142,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "植树节",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "duration": 1,
+      "days_left": 145,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    }
+  ],
+  "kfc_content_full": null,
+  "stock_indices": {
+    "items": [],
+    "updated": "2026/10/18 01:29:39",
+    "updated_at": 1792258179473,
+    "trading_day": {
+      "A": false,
+      "HK": false,
+      "US": false
+    },
+    "is_stale": true
+  }
+}

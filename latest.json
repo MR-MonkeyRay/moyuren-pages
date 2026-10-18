@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "updated": "2026/10/19 01:13:01",
-  "updated_at": 1792343581833,
+  "updated": "2026/10/19 03:34:52",
+  "updated_at": 1792352092528,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "被隐藏的所谓真实 不管在何种场合下 大多都是残酷的"
+    "text": "最暗的夜，才能看见最美的星光，人生也是如此。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/10/19 01:12:56",
-    "updated_at": 1792343576381,
+    "updated": "2026/10/19 03:34:47",
+    "updated_at": 1792352087239,
     "trading_day": {
       "A": true,
       "HK": false,

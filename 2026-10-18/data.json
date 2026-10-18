@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
-  "updated": "2026/10/18 08:12:46",
-  "updated_at": 1792282366447,
+  "updated": "2026/10/18 13:01:20",
+  "updated_at": 1792299680682,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "离远一看长发飘飘，走近一看虎背熊腰，转身一看卧槽黑山老妖。"
+    "text": "天没降什么大任于我，照样苦我心智，劳我筋骨。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/10/18 08:12:39",
-    "updated_at": 1792282359633,
+    "updated": "2026/10/18 13:01:14",
+    "updated_at": 1792299674979,
     "trading_day": {
       "A": false,
       "HK": false,

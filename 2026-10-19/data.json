@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "updated": "2026/10/19 13:09:45",
-  "updated_at": 1792386585400,
+  "updated": "2026/10/19 19:08:29",
+  "updated_at": 1792408109955,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我会回来，就算拼死也会回来！"
+    "text": "名为幸福的椅子，总是只准备了比全体的数量要少的把数。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3718.69,
-        "change": 2.41,
-        "change_pct": 0.06,
+        "price": 3730.92,
+        "change": 14.64,
+        "change_pct": 0.39,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,19 +184,19 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 11756.21,
-        "change": -46.25,
-        "change_pct": -0.39,
-        "trend": "down",
+        "price": 11817.42,
+        "change": 14.96,
+        "change_pct": 0.13,
+        "trend": "up",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2735.79,
-        "change": -36.59,
-        "change_pct": -1.32,
+        "price": 2746.29,
+        "change": -26.09,
+        "change_pct": -0.94,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/19 13:09:37",
-    "updated_at": 1792386577809,
+    "updated": "2026/10/19 19:08:23",
+    "updated_at": 1792408103348,
     "trading_day": {
       "A": true,
       "HK": false,

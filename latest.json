@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-19",
-  "updated": "2026/10/19 19:08:29",
-  "updated_at": 1792408109955,
+  "date": "2026-10-20",
+  "updated": "2026/10/20 01:42:04",
+  "updated_at": 1792431724703,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期一",
-  "lunar_date": "九月初十",
+  "weekday": "星期二",
+  "lunar_date": "九月十一",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "名为幸福的椅子，总是只准备了比全体的数量要少的把数。"
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "别人说我太温柔了，所以我要把裤子剪坏，从此做一个残裤（残酷）的人!"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.10",
-    "day": "19",
-    "week_cn": "星期一",
-    "week_en": "Mon",
+    "day": "20",
+    "week_cn": "星期二",
+    "week_en": "Tue",
     "lunar_year": "丙午年",
-    "lunar_date": "九月初十",
+    "lunar_date": "九月十一",
     "zodiac": "马",
     "constellation": "天秤座",
     "moon_phase": "残月",
@@ -30,28 +30,28 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 5,
+    "days_left": 4,
     "is_weekend": false
   },
   "solar_term": {
     "name": "霜降",
     "name_en": "Frost's Descent",
-    "days_left": 4,
+    "days_left": 3,
     "date": "2026-10-23",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "入殓",
-      "破土",
-      "启钻",
-      "安葬"
+      "嫁娶",
+      "祭祀",
+      "祈福",
+      "求嗣"
     ],
     "ji": [
-      "开市",
       "入宅",
-      "祭祀",
-      "置产"
+      "移徙",
+      "掘井",
+      "理发"
     ]
   },
   "news_list": [
@@ -82,7 +82,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 64,
+      "days_left": 63,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +91,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 74,
+      "days_left": 73,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -100,7 +100,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 88,
+      "days_left": 87,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +109,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 109,
+      "days_left": 108,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -118,7 +118,7 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 110,
+      "days_left": 109,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +127,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 124,
+      "days_left": 123,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +136,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 140,
+      "days_left": 139,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +145,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 141,
+      "days_left": 140,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +154,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 144,
+      "days_left": 143,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,7 +163,7 @@
       "start_date": "2027-04-05",
       "end_date": "2027-04-05",
       "duration": 1,
-      "days_left": 168,
+      "days_left": 167,
       "is_legal_holiday": false,
       "is_off_day": true
     }
@@ -209,24 +209,24 @@
         "change_pct": 0.52,
         "trend": "up",
         "market": "HK",
-        "is_trading_day": false
+        "is_trading_day": true
       },
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52002.41,
-        "change": -175.28,
-        "change_pct": -0.34,
+        "price": 51990.61,
+        "change": -11.8,
+        "change_pct": -0.02,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/19 19:08:23",
-    "updated_at": 1792408103348,
+    "updated": "2026/10/20 01:41:58",
+    "updated_at": 1792431718726,
     "trading_day": {
       "A": true,
-      "HK": false,
+      "HK": true,
       "US": true
     },
     "is_stale": false

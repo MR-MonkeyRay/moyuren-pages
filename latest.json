@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "updated": "2026/10/19 08:24:27",
-  "updated_at": 1792369467823,
+  "updated": "2026/10/19 13:09:45",
+  "updated_at": 1792386585400,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你什么时候放下，什么时候就没有烦恼"
+    "text": "我会回来，就算拼死也会回来！"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -174,9 +174,9 @@
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3716.28,
-        "change": 8.8,
-        "change_pct": 0.24,
+        "price": 3718.69,
+        "change": 2.41,
+        "change_pct": 0.06,
         "trend": "up",
         "market": "A",
         "is_trading_day": true
@@ -184,9 +184,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 11802.46,
-        "change": -14.33,
-        "change_pct": -0.12,
+        "price": 11756.21,
+        "change": -46.25,
+        "change_pct": -0.39,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -194,9 +194,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2772.38,
-        "change": -10.79,
-        "change_pct": -0.39,
+        "price": 2735.79,
+        "change": -36.59,
+        "change_pct": -1.32,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -219,15 +219,15 @@
         "change_pct": -0.34,
         "trend": "down",
         "market": "US",
-        "is_trading_day": false
+        "is_trading_day": true
       }
     ],
-    "updated": "2026/10/19 08:24:22",
-    "updated_at": 1792369462737,
+    "updated": "2026/10/19 13:09:37",
+    "updated_at": 1792386577809,
     "trading_day": {
       "A": true,
       "HK": false,
-      "US": false
+      "US": true
     },
     "is_stale": false
   }

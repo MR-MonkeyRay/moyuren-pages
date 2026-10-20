@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "updated": "2026/10/20 14:28:00",
-  "updated_at": 1792477680254,
+  "updated": "2026/10/20 20:01:44",
+  "updated_at": 1792497704121,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "水一百度会开，人一百度会怎样？会死，人一百度，起码癌症起步。"
+    "text": "我最近发现了一个岛，你猜是什么岛？为你神魂颠倒。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -170,65 +170,14 @@
   ],
   "kfc_content_full": null,
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3711.99,
-        "change": -18.93,
-        "change_pct": -0.51,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 11740.61,
-        "change": -76.81,
-        "change_pct": -0.65,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 2723.03,
-        "change": -23.26,
-        "change_pct": -0.85,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 23889.71,
-        "change": -297.12,
-        "change_pct": -1.23,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 51966.03,
-        "change": -36.38,
-        "change_pct": -0.07,
-        "trend": "down",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/10/20 14:27:51",
-    "updated_at": 1792477671624,
+    "items": [],
+    "updated": "2026/10/20 20:01:32",
+    "updated_at": 1792497692305,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
-  "updated": "2026/10/21 01:27:34",
-  "updated_at": 1792517254595,
+  "updated": "2026/10/21 04:49:13",
+  "updated_at": 1792529353311,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "你，可以流血流汗，但是，你没有流泪的权利。"
+    "text": "觉得只要认真努力就会胜利，这世上哪有这么天真的事。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52464.56,
-        "change": 498.53,
-        "change_pct": 0.96,
+        "price": 52495.88,
+        "change": 529.85,
+        "change_pct": 1.02,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/21 01:27:28",
-    "updated_at": 1792517248584,
+    "updated": "2026/10/21 04:49:07",
+    "updated_at": 1792529347741,
     "trading_day": {
       "A": true,
       "HK": true,

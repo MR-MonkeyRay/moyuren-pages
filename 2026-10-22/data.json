@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-22",
+  "updated": "2026/10/22 03:15:36",
+  "updated_at": 1792610136241,
+  "images": {
+    "moyuren": "moyuren.jpg"
+  },
+  "weekday": "星期四",
+  "lunar_date": "九月十三",
+  "fun_content": {
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "有一个白气球和一个黑气球，有天白气球把黑气球整爆了，问黑气球应该怎么办？告白气球。"
+  },
+  "is_crazy_thursday": true,
+  "kfc_content": "韩国知名女星的大瓜 长按翻译来看\n친구에게 반년 동안 pua를 당했는데 요즘 별로 울지 않아서 점점 좋아지고... 예전처럼 즐겁고 지금도 마찬가지로 슬퍼요.인간 세상의 불꽃 같은 일상에서 눈시울을 붉히며 작별을 고하고 서로의 세계로 사라지는 고통과 난.오늘 KFC가 열광하는 목요일, 누가 나에게 50위안을 주고 나의 마음을 위로해 줄 수 있겠는가.",
+  "date_info": {
+    "year_month": "2026.10",
+    "day": "22",
+    "week_cn": "星期四",
+    "week_en": "Thu",
+    "lunar_year": "丙午年",
+    "lunar_date": "九月十三",
+    "zodiac": "马",
+    "constellation": "天秤座",
+    "moon_phase": "残月",
+    "festival_solar": null,
+    "festival_lunar": null,
+    "legal_holiday": null,
+    "is_holiday": false
+  },
+  "weekend": {
+    "days_left": 2,
+    "is_weekend": false
+  },
+  "solar_term": {
+    "name": "霜降",
+    "name_en": "Frost's Descent",
+    "days_left": 1,
+    "date": "2026-10-23",
+    "is_today": false
+  },
+  "guide": {
+    "yi": [
+      "祭祀",
+      "求嗣",
+      "冠笄",
+      "进人口"
+    ],
+    "ji": [
+      "祈福",
+      "斋醮",
+      "纳采",
+      "订盟"
+    ]
+  },
+  "news_list": [
+    "前 8 月规上工业中小企业利润总额同比增长 13.8%，为 2022 年以来同期最高水平",
+    "智驾 “小蓝灯” 迎来国标：L3 级及以上自动驾驶拟启用蓝绿色标志灯",
+    "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
+    "截至 9 月底我国智能算力规模达 2592EFLOPS，同比增长 146%",
+    "数据显示：全国手机用户平均每天漏接陌生来电比例达 68%，25 至 40 岁职场人群更高达 76%",
+    "14 家民营银行叫停或限制个人异地存款，有银行明年 1 月全面落地",
+    "人民币对美元即期汇率升破 6.68，收盘创 2022 年 6 月 8 日以来新高",
+    "2027 年男排世界杯 32 强名单出炉：中国男排时隔 37 年无缘世界杯，上一次缺席还是 1990 年",
+    "国家移民管理局：第三季度 1.92 亿人次出入境同比上升 7.9%，免签入境外国人同比上升 24.1%",
+    "泰国旅游部长回应中使馆发旅游安全预警：正常赴泰旅游应是安全的",
+    "美国指示各机构停用 DeepSeek，中方：将坚决维护中企的合法权益",
+    "日本成功发射火星卫星探测器，将尝试在火星的卫星 “火卫一” 着陆，并采样返回地球",
+    "特斯拉：马斯克 2025 年股权薪酬最高可达 1584 亿美元，为公司普通员工年薪中位数的 250 万倍",
+    "美国最新民调显示：特朗普支持率仅 31%，创下其两届总统任期内历史新低",
+    "英国宣布将派遣皇家空军执行防御任务，保护沙特免受胡塞袭击"
+  ],
+  "news_meta": {
+    "date": "2026-10-21",
+    "updated": "2026-10-21T05:31:00+08:00",
+    "updated_at": 1792531887433
+  },
+  "holidays": [
+    {
+      "name": "冬至节",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "duration": 1,
+      "days_left": 61,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元旦",
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-01",
+      "duration": 1,
+      "days_left": 71,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "腊八节",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "duration": 1,
+      "days_left": 85,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "除夕",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "duration": 1,
+      "days_left": 106,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "春节",
+      "start_date": "2027-02-06",
+      "end_date": "2027-02-06",
+      "duration": 1,
+      "days_left": 107,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元宵节",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "duration": 1,
+      "days_left": 121,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "妇女节",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-08",
+      "duration": 1,
+      "days_left": 137,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "龙头节",
+      "start_date": "2027-03-09",
+      "end_date": "2027-03-09",
+      "duration": 1,
+      "days_left": 138,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "植树节",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "duration": 1,
+      "days_left": 141,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "清明节",
+      "start_date": "2027-04-05",
+      "end_date": "2027-04-05",
+      "duration": 1,
+      "days_left": 165,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    }
+  ],
+  "kfc_content_full": {
+    "title": "CRAZY THURSDAY",
+    "sub_title": "V我50",
+    "content": "韩国知名女星的大瓜 长按翻译来看\n친구에게 반년 동안 pua를 당했는데 요즘 별로 울지 않아서 점점 좋아지고... 예전처럼 즐겁고 지금도 마찬가지로 슬퍼요.인간 세상의 불꽃 같은 일상에서 눈시울을 붉히며 작별을 고하고 서로의 세계로 사라지는 고통과 난.오늘 KFC가 열광하는 목요일, 누가 나에게 50위안을 주고 나의 마음을 위로해 줄 수 있겠는가."
+  },
+  "stock_indices": {
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3713.03,
+        "change": -22.34,
+        "change_pct": -0.6,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 11704.35,
+        "change": -96.94,
+        "change_pct": -0.82,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 2694.71,
+        "change": -44.49,
+        "change_pct": -1.62,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 23651.87,
+        "change": -215.87,
+        "change_pct": -0.9,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 52652.52,
+        "change": 156.64,
+        "change_pct": 0.3,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/10/22 03:15:27",
+    "updated_at": 1792610127932,
+    "trading_day": {
+      "A": true,
+      "HK": true,
+      "US": true
+    },
+    "is_stale": false
+  }
+}

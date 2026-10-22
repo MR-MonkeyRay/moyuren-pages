@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "updated": "2026/10/22 06:38:13",
-  "updated_at": 1792622293110,
+  "updated": "2026/10/22 09:24:03",
+  "updated_at": 1792632243503,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "大禹治水三过家门而不入，他的妻子就在家唱歌以表思念，请问唱的什么歌？那些年错过的大禹。"
+    "text": "为什么e人只要内卷就会变矮？因为e人做事e人down。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "群里某位妹妹，从进群的那天起，我就关注你了，经常翻你资料卡，不善言辞的我，不敢和你聊天，怕打扰你，但是我很确信这是喜欢，我想和你一起过，你要同意你就偷偷在这一天晚上付我 1884 元，其中 1314 是我对你的心意，520 是我对你的感情。至于还有 50 我今天自有安排",
+  "kfc_content": "私は亚托克斯，世界の終焉者です。潘森に囚われた佐伊酱取り戻すために，10 万の大軍を準備した。だけど私は私の有能な部下闪电⚡の松鼠。に裏切られる。現在，私は反乱軍に追われているけど，復讐の大計を考えた。v アイ 50，ご馳走する KFC 狂乱木曜日，私の復讐の大計を詳しく聞いてください。",
   "date_info": {
     "year_month": "2026.10",
     "day": "22",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "群里某位妹妹，从进群的那天起，我就关注你了，经常翻你资料卡，不善言辞的我，不敢和你聊天，怕打扰你，但是我很确信这是喜欢，我想和你一起过，你要同意你就偷偷在这一天晚上付我 1884 元，其中 1314 是我对你的心意，520 是我对你的感情。至于还有 50 我今天自有安排"
+    "content": "私は亚托克斯，世界の終焉者です。潘森に囚われた佐伊酱取り戻すために，10 万の大軍を準備した。だけど私は私の有能な部下闪电⚡の松鼠。に裏切られる。現在，私は反乱軍に追われているけど，復讐の大計を考えた。v アイ 50，ご馳走する KFC 狂乱木曜日，私の復讐の大計を詳しく聞いてください。"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3713.03,
-        "change": -22.34,
-        "change_pct": -0.6,
+        "price": 3712.83,
+        "change": -0.2,
+        "change_pct": -0.01,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -189,9 +189,9 @@
         "code": "399001",
         "name": "深证成指",
         "price": 11704.35,
-        "change": -96.94,
-        "change_pct": -0.82,
-        "trend": "down",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
@@ -199,18 +199,18 @@
         "code": "399006",
         "name": "创业板指",
         "price": 2694.71,
-        "change": -44.49,
-        "change_pct": -1.62,
-        "trend": "down",
+        "change": 0.0,
+        "change_pct": 0.0,
+        "trend": "flat",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23651.87,
-        "change": -215.87,
-        "change_pct": -0.9,
+        "price": 23513.79,
+        "change": -138.08,
+        "change_pct": -0.58,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/22 06:38:06",
-    "updated_at": 1792622286249,
+    "updated": "2026/10/22 09:23:57",
+    "updated_at": 1792632237392,
     "trading_day": {
       "A": true,
       "HK": true,

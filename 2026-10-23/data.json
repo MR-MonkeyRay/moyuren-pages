@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
-  "updated": "2026/10/23 01:32:16",
-  "updated_at": 1792690336623,
+  "updated": "2026/10/23 05:25:01",
+  "updated_at": 1792704301345,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "工作做得再好，老板也只会说：这是你应该做的。但摸鱼带来的快乐，是实实在在的！"
+    "text": "我的座右铭：能坐着绝不站着，能躺着绝不坐着，能摸鱼绝不工作。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52780.5,
-        "change": -75.59,
-        "change_pct": -0.14,
-        "trend": "down",
+        "price": 52867.98,
+        "change": 11.89,
+        "change_pct": 0.02,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/23 01:32:10",
-    "updated_at": 1792690330545,
+    "updated": "2026/10/23 05:24:55",
+    "updated_at": 1792704295120,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "updated": "2026/10/22 09:24:03",
-  "updated_at": 1792632243503,
+  "updated": "2026/10/22 14:30:29",
+  "updated_at": 1792650629428,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为什么e人只要内卷就会变矮？因为e人做事e人down。"
+    "text": "假如生活欺骗了你，我建议你吃披萨。为什么？因为披萨有6片8片，没有欺骗。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "私は亚托克斯，世界の終焉者です。潘森に囚われた佐伊酱取り戻すために，10 万の大軍を準備した。だけど私は私の有能な部下闪电⚡の松鼠。に裏切られる。現在，私は反乱軍に追われているけど，復讐の大計を考えた。v アイ 50，ご馳走する KFC 狂乱木曜日，私の復讐の大計を詳しく聞いてください。",
+  "kfc_content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的",
   "date_info": {
     "year_month": "2026.10",
     "day": "22",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "私は亚托克斯，世界の終焉者です。潘森に囚われた佐伊酱取り戻すために，10 万の大軍を準備した。だけど私は私の有能な部下闪电⚡の松鼠。に裏切られる。現在，私は反乱軍に追われているけど，復讐の大計を考えた。v アイ 50，ご馳走する KFC 狂乱木曜日，私の復讐の大計を詳しく聞いてください。"
+    "content": "KFC 所用白羽鸡均为国产，不涉及关税，请大家擦亮眼睛，今天大家请继续 v 我 50，别 v 那些超过 50 的"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3712.83,
-        "change": -0.2,
-        "change_pct": -0.01,
+        "price": 3666.6,
+        "change": -46.43,
+        "change_pct": -1.25,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -188,29 +188,29 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 11704.35,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 11441.37,
+        "change": -262.98,
+        "change_pct": -2.25,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2694.71,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 2608.41,
+        "change": -86.3,
+        "change_pct": -3.2,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23513.79,
-        "change": -138.08,
-        "change_pct": -0.58,
+        "price": 22917.09,
+        "change": -734.78,
+        "change_pct": -3.11,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/22 09:23:57",
-    "updated_at": 1792632237392,
+    "updated": "2026/10/22 14:30:21",
+    "updated_at": 1792650621403,
     "trading_day": {
       "A": true,
       "HK": true,

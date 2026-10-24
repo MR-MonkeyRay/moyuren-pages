@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "updated": "2026/10/25 02:00:52",
-  "updated_at": 1792864852891,
+  "updated": "2026/10/25 05:06:47",
+  "updated_at": 1792876007930,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "遇到你之前，我的世界是黑白的，遇见你之后 哇靠 全黑了。"
+    "text": "身在福中不知福是什么？就是发福快发成猪了，还觉得自己身材蛮OK。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -171,8 +171,8 @@
   "kfc_content_full": null,
   "stock_indices": {
     "items": [],
-    "updated": "2026/10/25 02:00:45",
-    "updated_at": 1792864845613,
+    "updated": "2026/10/25 05:06:41",
+    "updated_at": 1792876001172,
     "trading_day": {
       "A": false,
       "HK": false,

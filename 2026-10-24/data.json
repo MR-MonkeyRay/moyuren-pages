@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "updated": "2026/10/24 06:35:54",
-  "updated_at": 1792794954655,
+  "updated": "2026/10/24 09:28:05",
+  "updated_at": 1792805285240,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -171,8 +171,8 @@
   "kfc_content_full": null,
   "stock_indices": {
     "items": [],
-    "updated": "2026/10/24 06:35:48",
-    "updated_at": 1792794948913,
+    "updated": "2026/10/24 09:27:58",
+    "updated_at": 1792805278074,
     "trading_day": {
       "A": false,
       "HK": false,

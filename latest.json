@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
-  "updated": "2026/10/26 01:32:48",
-  "updated_at": 1792949568708,
+  "updated": "2026/10/26 04:41:00",
+  "updated_at": 1792960860693,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "灵感，不过是顽强地劳动而获得的奖赏"
+    "text": "“大家”的意思，不是像团子一样的一团，而是像米饭那样，一粒一粒稀稀拉拉的，却总是凑在一起。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/10/26 01:32:43",
-    "updated_at": 1792949563322,
+    "updated": "2026/10/26 04:40:53",
+    "updated_at": 1792960853970,
     "trading_day": {
       "A": true,
       "HK": true,

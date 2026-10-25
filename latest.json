@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "updated": "2026/10/25 17:19:32",
-  "updated_at": 1792919972669,
+  "updated": "2026/10/25 21:52:09",
+  "updated_at": 1792936329383,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不要轻易看不起谁，就算是杀马特，发量都比你多。"
+    "text": "趁好看的时候多照照镜子，毕竟，这种错觉不是每天都有的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/10/25 17:19:22",
-    "updated_at": 1792919962122,
+    "updated": "2026/10/25 21:51:58",
+    "updated_at": 1792936318297,
     "trading_day": {
       "A": false,
       "HK": false,

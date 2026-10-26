@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
-  "updated": "2026/10/26 15:39:43",
-  "updated_at": 1793000383589,
+  "updated": "2026/10/26 23:04:06",
+  "updated_at": 1793027046048,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "愿望这东西实不实现都没关系。"
+    "text": "改变的东西，一定有其意义。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -204,9 +204,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23227.24,
-        "change": 133.87,
-        "change_pct": 0.58,
+        "price": 23211.81,
+        "change": 118.44,
+        "change_pct": 0.51,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52215.16,
-        "change": -652.82,
-        "change_pct": -1.23,
-        "trend": "down",
+        "price": 52491.0,
+        "change": 275.84,
+        "change_pct": 0.53,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/26 15:39:34",
-    "updated_at": 1793000374350,
+    "updated": "2026/10/26 23:03:59",
+    "updated_at": 1793027039902,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
-  "updated": "2026/10/28 00:21:39",
-  "updated_at": 1793118099715,
+  "updated": "2026/10/28 04:53:45",
+  "updated_at": 1793134425126,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "我愿意做你的最佳听众，看着你装逼从始至终。"
+    "text": "一个人的生活方式决定一切，甚至人的思维"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52400.39,
-        "change": 38.81,
-        "change_pct": 0.07,
+        "price": 52377.57,
+        "change": 15.99,
+        "change_pct": 0.03,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/28 00:21:34",
-    "updated_at": 1793118094021,
+    "updated": "2026/10/28 04:53:38",
+    "updated_at": 1793134418966,
     "trading_day": {
       "A": true,
       "HK": true,

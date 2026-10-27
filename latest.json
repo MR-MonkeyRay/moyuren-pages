@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-27",
-  "updated": "2026/10/27 18:52:48",
-  "updated_at": 1793098368301,
+  "date": "2026-10-28",
+  "updated": "2026/10/28 00:21:39",
+  "updated_at": 1793118099715,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期二",
-  "lunar_date": "九月十八",
+  "weekday": "星期三",
+  "lunar_date": "九月十九",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼语录",
-    "text": "认真工作只会让你的老板买上更好的车，而摸鱼会让你的心情更加愉悦。"
+    "type": "hitokoto",
+    "title": "💬 一言",
+    "text": "我愿意做你的最佳听众，看着你装逼从始至终。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.10",
-    "day": "27",
-    "week_cn": "星期二",
-    "week_en": "Tue",
+    "day": "28",
+    "week_cn": "星期三",
+    "week_en": "Wed",
     "lunar_year": "丙午年",
-    "lunar_date": "九月十八",
+    "lunar_date": "九月十九",
     "zodiac": "马",
     "constellation": "天蝎座",
     "moon_phase": "残月",
@@ -30,28 +30,28 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 4,
+    "days_left": 3,
     "is_weekend": false
   },
   "solar_term": {
     "name": "立冬",
     "name_en": "Start of Winter",
-    "days_left": 11,
+    "days_left": 10,
     "date": "2026-11-07",
     "is_today": false
   },
   "guide": {
     "yi": [
       "祭祀",
-      "造车器",
+      "开光",
       "出行",
-      "修造"
+      "解除"
     ],
     "ji": [
-      "出货财",
-      "开仓",
-      "动土",
-      "破土"
+      "造庙",
+      "嫁娶",
+      "掘井",
+      "栽种"
     ]
   },
   "news_list": [
@@ -82,7 +82,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 56,
+      "days_left": 55,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +91,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 66,
+      "days_left": 65,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -100,7 +100,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 80,
+      "days_left": 79,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +109,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 101,
+      "days_left": 100,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -118,7 +118,7 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 102,
+      "days_left": 101,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +127,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 116,
+      "days_left": 115,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +136,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 132,
+      "days_left": 131,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +145,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 133,
+      "days_left": 132,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +154,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 136,
+      "days_left": 135,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,7 +163,7 @@
       "start_date": "2027-04-05",
       "end_date": "2027-04-05",
       "duration": 1,
-      "days_left": 160,
+      "days_left": 159,
       "is_legal_holiday": false,
       "is_off_day": true
     }
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52361.58,
-        "change": 146.42,
-        "change_pct": 0.28,
+        "price": 52400.39,
+        "change": 38.81,
+        "change_pct": 0.07,
         "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/27 18:52:39",
-    "updated_at": 1793098359936,
+    "updated": "2026/10/28 00:21:34",
+    "updated_at": 1793118094021,
     "trading_day": {
       "A": true,
       "HK": true,

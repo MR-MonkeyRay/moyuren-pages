@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
-  "updated": "2026/10/29 10:45:15",
-  "updated_at": 1793241915479,
+  "updated": "2026/10/29 17:43:56",
+  "updated_at": 1793267036211,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？"
+    "text": "如果你特别迷恋一个人，那么你一定配不上他！"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "韩国知名女星的大瓜 长按翻译来看\n친구에게 반년 동안 pua를 당했는데 요즘 별로 울지 않아서 점점 좋아지고... 예전처럼 즐겁고 지금도 마찬가지로 슬퍼요.인간 세상의 불꽃 같은 일상에서 눈시울을 붉히며 작별을 고하고 서로의 세계로 사라지는 고통과 난.오늘 KFC가 열광하는 목요일, 누가 나에게 50위안을 주고 나의 마음을 위로해 줄 수 있겠는가.",
+  "kfc_content": "通知：今天群里禁止发送肯德基文案，有一个算一个，发一次罚 50，罚款交到我这里",
   "date_info": {
     "year_month": "2026.10",
     "day": "29",
@@ -171,16 +171,16 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "韩国知名女星的大瓜 长按翻译来看\n친구에게 반년 동안 pua를 당했는데 요즘 별로 울지 않아서 점점 좋아지고... 예전처럼 즐겁고 지금도 마찬가지로 슬퍼요.인간 세상의 불꽃 같은 일상에서 눈시울을 붉히며 작별을 고하고 서로의 세계로 사라지는 고통과 난.오늘 KFC가 열광하는 목요일, 누가 나에게 50위안을 주고 나의 마음을 위로해 줄 수 있겠는가."
+    "content": "通知：今天群里禁止发送肯德基文案，有一个算一个，发一次罚 50，罚款交到我这里"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3653.83,
-        "change": -27.64,
-        "change_pct": -0.75,
+        "price": 3651.43,
+        "change": -30.04,
+        "change_pct": -0.82,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -188,9 +188,9 @@
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 11200.58,
-        "change": -272.6,
-        "change_pct": -2.38,
+        "price": 11138.2,
+        "change": -334.98,
+        "change_pct": -2.92,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -198,9 +198,9 @@
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2540.63,
-        "change": -94.13,
-        "change_pct": -3.57,
+        "price": 2517.59,
+        "change": -117.17,
+        "change_pct": -4.45,
         "trend": "down",
         "market": "A",
         "is_trading_day": true
@@ -208,10 +208,10 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23111.3,
-        "change": 16.47,
-        "change_pct": 0.07,
-        "trend": "up",
+        "price": 22958.65,
+        "change": -136.18,
+        "change_pct": -0.59,
+        "trend": "down",
         "market": "HK",
         "is_trading_day": true
       },
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/29 10:45:09",
-    "updated_at": 1793241909524,
+    "updated": "2026/10/29 17:43:48",
+    "updated_at": 1793267028867,
     "trading_day": {
       "A": true,
       "HK": true,

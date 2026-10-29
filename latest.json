@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-29",
-  "updated": "2026/10/29 17:43:56",
-  "updated_at": 1793267036211,
+  "date": "2026-10-30",
+  "updated": "2026/10/30 00:49:32",
+  "updated_at": 1793292572074,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期四",
-  "lunar_date": "九月二十",
+  "weekday": "星期五",
+  "lunar_date": "九月廿一",
   "fun_content": {
-    "type": "duanzi",
-    "title": "😂 搞笑段子",
-    "text": "如果你特别迷恋一个人，那么你一定配不上他！"
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "下雨了，学校不能开运动会了，为什么？因为种子选手发芽了。"
   },
-  "is_crazy_thursday": true,
-  "kfc_content": "通知：今天群里禁止发送肯德基文案，有一个算一个，发一次罚 50，罚款交到我这里",
+  "is_crazy_thursday": false,
+  "kfc_content": null,
   "date_info": {
     "year_month": "2026.10",
-    "day": "29",
-    "week_cn": "星期四",
-    "week_en": "Thu",
+    "day": "30",
+    "week_cn": "星期五",
+    "week_en": "Fri",
     "lunar_year": "丙午年",
-    "lunar_date": "九月二十",
+    "lunar_date": "九月廿一",
     "zodiac": "马",
     "constellation": "天蝎座",
     "moon_phase": "残月",
@@ -30,28 +30,25 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 2,
+    "days_left": 1,
     "is_weekend": false
   },
   "solar_term": {
     "name": "立冬",
     "name_en": "Start of Winter",
-    "days_left": 9,
+    "days_left": 8,
     "date": "2026-11-07",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "纳采",
-      "订盟",
-      "开市",
-      "交易"
+      "祭祀",
+      "平治道涂",
+      "馀事勿取"
     ],
     "ji": [
-      "入宅",
-      "上梁",
-      "斋醮",
-      "出火"
+      "嫁娶",
+      "开市"
     ]
   },
   "news_list": [
@@ -82,7 +79,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 54,
+      "days_left": 53,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +88,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-01",
       "duration": 1,
-      "days_left": 64,
+      "days_left": 63,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -100,7 +97,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 78,
+      "days_left": 77,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +106,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 99,
+      "days_left": 98,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -118,7 +115,7 @@
       "start_date": "2027-02-06",
       "end_date": "2027-02-06",
       "duration": 1,
-      "days_left": 100,
+      "days_left": 99,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +124,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 114,
+      "days_left": 113,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +133,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 130,
+      "days_left": 129,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +142,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 131,
+      "days_left": 130,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +151,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 134,
+      "days_left": 133,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,16 +160,12 @@
       "start_date": "2027-04-05",
       "end_date": "2027-04-05",
       "duration": 1,
-      "days_left": 158,
+      "days_left": 157,
       "is_legal_holiday": false,
       "is_off_day": true
     }
   ],
-  "kfc_content_full": {
-    "title": "CRAZY THURSDAY",
-    "sub_title": "V我50",
-    "content": "通知：今天群里禁止发送肯德基文案，有一个算一个，发一次罚 50，罚款交到我这里"
-  },
+  "kfc_content_full": null,
   "stock_indices": {
     "items": [
       {
@@ -218,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52475.1,
-        "change": 97.53,
-        "change_pct": 0.19,
-        "trend": "up",
+        "price": 52265.79,
+        "change": -209.31,
+        "change_pct": -0.4,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/29 17:43:48",
-    "updated_at": 1793267028867,
+    "updated": "2026/10/30 00:49:24",
+    "updated_at": 1793292564944,
     "trading_day": {
       "A": true,
       "HK": true,

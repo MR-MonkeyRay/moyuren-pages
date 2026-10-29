@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
-  "updated": "2026/10/29 07:27:19",
-  "updated_at": 1793230039058,
+  "updated": "2026/10/29 10:45:15",
+  "updated_at": 1793241915479,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "路遥知马力不足，日久见人心叵测。"
+    "text": "我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "我都明白，我是选项 E，我是 Plan B，是分叉的头发，洗衣机流出的泡沫，超市里被捏碎的饼干，是吃腻的奶油，是落寞的城市，是地上的草。我是被踩踏的，是西装的备用扣，是被雨淋湿的小狗，是腐烂的橘子，是过期的牛奶，是断线的风筝，是被随意丢弃的向日葵，是沉默寡言的小朋友，所以能 v 我 50 吗，今天肯德基疯狂星期四",
+  "kfc_content": "韩国知名女星的大瓜 长按翻译来看\n친구에게 반년 동안 pua를 당했는데 요즘 별로 울지 않아서 점점 좋아지고... 예전처럼 즐겁고 지금도 마찬가지로 슬퍼요.인간 세상의 불꽃 같은 일상에서 눈시울을 붉히며 작별을 고하고 서로의 세계로 사라지는 고통과 난.오늘 KFC가 열광하는 목요일, 누가 나에게 50위안을 주고 나의 마음을 위로해 줄 수 있겠는가.",
   "date_info": {
     "year_month": "2026.10",
     "day": "29",
@@ -171,46 +171,46 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "我都明白，我是选项 E，我是 Plan B，是分叉的头发，洗衣机流出的泡沫，超市里被捏碎的饼干，是吃腻的奶油，是落寞的城市，是地上的草。我是被踩踏的，是西装的备用扣，是被雨淋湿的小狗，是腐烂的橘子，是过期的牛奶，是断线的风筝，是被随意丢弃的向日葵，是沉默寡言的小朋友，所以能 v 我 50 吗，今天肯德基疯狂星期四"
+    "content": "韩国知名女星的大瓜 长按翻译来看\n친구에게 반년 동안 pua를 당했는데 요즘 별로 울지 않아서 점점 좋아지고... 예전처럼 즐겁고 지금도 마찬가지로 슬퍼요.인간 세상의 불꽃 같은 일상에서 눈시울을 붉히며 작별을 고하고 서로의 세계로 사라지는 고통과 난.오늘 KFC가 열광하는 목요일, 누가 나에게 50위안을 주고 나의 마음을 위로해 줄 수 있겠는가."
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3681.47,
-        "change": 33.17,
-        "change_pct": 0.91,
-        "trend": "up",
+        "price": 3653.83,
+        "change": -27.64,
+        "change_pct": -0.75,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 11473.18,
-        "change": 227.45,
-        "change_pct": 2.02,
-        "trend": "up",
+        "price": 11200.58,
+        "change": -272.6,
+        "change_pct": -2.38,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2634.76,
-        "change": 86.61,
-        "change_pct": 3.4,
-        "trend": "up",
+        "price": 2540.63,
+        "change": -94.13,
+        "change_pct": -3.57,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23094.83,
-        "change": 53.51,
-        "change_pct": 0.23,
+        "price": 23111.3,
+        "change": 16.47,
+        "change_pct": 0.07,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/29 07:27:11",
-    "updated_at": 1793230031611,
+    "updated": "2026/10/29 10:45:09",
+    "updated_at": 1793241909524,
     "trading_day": {
       "A": true,
       "HK": true,

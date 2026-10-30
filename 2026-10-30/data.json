@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "updated": "2026/10/30 16:26:06",
-  "updated_at": 1793348766003,
+  "updated": "2026/10/30 23:15:28",
+  "updated_at": 1793373328402,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "一只北极熊闲着无聊拔自己的毛，拔光后，它说：“我好冷啊！”"
+    "text": "你听过第一个3D环绕音乐是什么？是丢手绢。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -211,16 +211,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 52342.56,
-        "change": -132.54,
-        "change_pct": -0.25,
+        "price": 52039.24,
+        "change": -303.32,
+        "change_pct": -0.58,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/10/30 16:25:58",
-    "updated_at": 1793348758728,
+    "updated": "2026/10/30 23:15:18",
+    "updated_at": 1793373318920,
     "trading_day": {
       "A": true,
       "HK": true,

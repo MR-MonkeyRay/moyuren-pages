@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
-  "updated": "2026/11/01 00:17:31",
-  "updated_at": 1793463451277,
+  "updated": "2026/11/01 04:14:06",
+  "updated_at": 1793477646607,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "这世上没谁离不开谁，就算是一条鱼离开水，也能烤着吃。"
+    "text": "再苦不能苦孩子，再穷也得穷得瑟。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/11/01 00:17:21",
-    "updated_at": 1793463441418,
+    "updated": "2026/11/01 04:14:00",
+    "updated_at": 1793477640410,
     "trading_day": {
       "A": false,
       "HK": false,

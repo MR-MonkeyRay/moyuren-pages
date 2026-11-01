@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-02",
+  "updated": "2026/11/02 02:30:16",
+  "updated_at": 1793557816978,
+  "images": {
+    "moyuren": "moyuren.jpg"
+  },
+  "weekday": "星期一",
+  "lunar_date": "九月廿四",
+  "fun_content": {
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "我擅长做空A股，只要我一买，立刻跌。"
+  },
+  "is_crazy_thursday": false,
+  "kfc_content": null,
+  "date_info": {
+    "year_month": "2026.11",
+    "day": "2",
+    "week_cn": "星期一",
+    "week_en": "Mon",
+    "lunar_year": "丙午年",
+    "lunar_date": "九月廿四",
+    "zodiac": "马",
+    "constellation": "天蝎座",
+    "moon_phase": "残月",
+    "festival_solar": null,
+    "festival_lunar": null,
+    "legal_holiday": null,
+    "is_holiday": false
+  },
+  "weekend": {
+    "days_left": 5,
+    "is_weekend": false
+  },
+  "solar_term": {
+    "name": "立冬",
+    "name_en": "Start of Winter",
+    "days_left": 5,
+    "date": "2026-11-07",
+    "is_today": false
+  },
+  "guide": {
+    "yi": [
+      "祭祀",
+      "沐浴",
+      "解除",
+      "破屋"
+    ],
+    "ji": [
+      "开市",
+      "嫁娶"
+    ]
+  },
+  "news_list": [
+    "生态环境部：11 月上半月局地可能出现轻度污染，京津冀中南部可能出现中度污染",
+    "10 月中国制造业 PMI 为 49.3%，比上月下降 0.8 个百分点，制造业景气水平有所回落",
+    "500 多项国家标准 11 月 1 日起正式实施，涉电动汽车、App 适老化等",
+    "湖南长沙一街道试点 “共享儿女” 服务：每月最低 199 元，提供做饭、保洁、陪诊等 30 多项上门服务",
+    "安徽一高校明确：将倒查 6 年学术论文，重点打击论文买卖等学术不端行为",
+    "我国首次载人登月任务乘组计划由三人组成，其中两人将着陆月球表面，计划在 2030 年前实现中国人登陆月球",
+    "苹果官宣：Apple 智能接入阿里千问，11 月 4 日开放测试，12 月正式推出",
+    "国际金价跌至一年来新低，国内金饰价格年内每克跌幅已近 550 元",
+    "江苏首富夫妇，身家一年暴涨 1120 亿元，胡润直呼最意外的超级富豪",
+    "张雪公布入职 “张雪机车” 条件，满足条件投简历 100% 入职，工资高出 30% 至 40%",
+    "最新民调显示：73.8% 韩国受访者支持中韩关系发展，80.8% 支持经贸合作",
+    "英首相称愿考虑就奴隶贸易正式道歉，但拒绝向奴隶贸易后裔支付经济赔偿",
+    "“史上最激烈” 美国中期选举倒计时：油价、数据中心等议题左右选情",
+    "美媒称美国已向海湾盟友通报，美最早 11 月 4 日再打伊朗；伊方称将立即采取有效应对措施",
+    "美伊冲突期间，美国石油行业获得超 1300 亿美元利润，几乎是 2025 年同期约 470 亿美元的三倍"
+  ],
+  "news_meta": {
+    "date": "2026-11-01",
+    "updated": "2026-11-01T05:33:00+08:00",
+    "updated_at": 1793482398993
+  },
+  "holidays": [
+    {
+      "name": "冬至节",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "duration": 1,
+      "days_left": 50,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元旦",
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-01",
+      "duration": 1,
+      "days_left": 60,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "腊八节",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "duration": 1,
+      "days_left": 74,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "除夕",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "duration": 1,
+      "days_left": 95,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "春节",
+      "start_date": "2027-02-06",
+      "end_date": "2027-02-06",
+      "duration": 1,
+      "days_left": 96,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元宵节",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "duration": 1,
+      "days_left": 110,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "妇女节",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-08",
+      "duration": 1,
+      "days_left": 126,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "龙头节",
+      "start_date": "2027-03-09",
+      "end_date": "2027-03-09",
+      "duration": 1,
+      "days_left": 127,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "植树节",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "duration": 1,
+      "days_left": 130,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "清明节",
+      "start_date": "2027-04-05",
+      "end_date": "2027-04-05",
+      "duration": 1,
+      "days_left": 154,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    }
+  ],
+  "kfc_content_full": null,
+  "stock_indices": {
+    "items": [],
+    "updated": "2026/11/02 02:30:09",
+    "updated_at": 1793557809070,
+    "trading_day": {
+      "A": false,
+      "HK": false,
+      "US": false
+    },
+    "is_stale": true
+  }
+}

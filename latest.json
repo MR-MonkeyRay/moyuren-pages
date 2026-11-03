@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "updated": "2026/11/04 01:41:31",
-  "updated_at": 1793727691769,
+  "updated": "2026/11/04 07:07:00",
+  "updated_at": 1793747220018,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "有一只绵羊，剪了毛之后就睡不着了，为什么？因为他失绵（眠）了。"
+    "text": "什么是规定？乌龟的屁股。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -214,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51715.85,
-        "change": -268.13,
-        "change_pct": -0.52,
+        "price": 51786.72,
+        "change": -197.26,
+        "change_pct": -0.38,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/11/04 01:41:24",
-    "updated_at": 1793727684068,
+    "updated": "2026/11/04 07:06:53",
+    "updated_at": 1793747213170,
     "trading_day": {
       "A": true,
       "HK": true,

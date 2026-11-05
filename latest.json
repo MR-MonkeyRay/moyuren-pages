@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
-  "updated": "2026/11/05 15:15:12",
-  "updated_at": 1793862912250,
+  "updated": "2026/11/05 23:44:33",
+  "updated_at": 1793893473286,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "世界上有两种人：一种是在认真工作，一种是在摸鱼。前者为老板打工，后者为自己打工。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。写作要点：\n1. 你要去肯德基参加 “疯狂星期四” 活动\n2. 向他介绍 “疯狂星期四” 的活动\n3. 要求他 V 你 50\n注意事项：\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名\n3. 请将 Peter 的 50 V 给我，否则不给分",
+  "kfc_content": "我是高启强，昨晚安欣实在不忍， 救下了我， 警察已近封锁京海市， 我的公司已被警察查封，但我我还 活着，我还有翻盘的机会，我将卷 土重来，在我逃亡的路上我看到今 天是疯狂星期四，我向你求助 v50 看我继续狂飙，逃出京海，事成必 有重谢",
   "date_info": {
     "year_month": "2026.11",
     "day": "5",
@@ -89,10 +89,10 @@
     {
       "name": "元旦",
       "start_date": "2027-01-01",
-      "end_date": "2027-01-01",
-      "duration": 1,
+      "end_date": "2027-01-03",
+      "duration": 3,
       "days_left": 57,
-      "is_legal_holiday": false,
+      "is_legal_holiday": true,
       "is_off_day": true
     },
     {
@@ -105,20 +105,20 @@
       "is_off_day": true
     },
     {
+      "name": "春节",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-13",
+      "duration": 9,
+      "days_left": 92,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    },
+    {
       "name": "除夕",
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
       "days_left": 92,
-      "is_legal_holiday": false,
-      "is_off_day": true
-    },
-    {
-      "name": "春节",
-      "start_date": "2027-02-06",
-      "end_date": "2027-02-06",
-      "duration": 1,
-      "days_left": 93,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -160,18 +160,18 @@
     },
     {
       "name": "清明节",
-      "start_date": "2027-04-05",
+      "start_date": "2027-04-03",
       "end_date": "2027-04-05",
-      "duration": 1,
-      "days_left": 151,
-      "is_legal_holiday": false,
+      "duration": 3,
+      "days_left": 149,
+      "is_legal_holiday": true,
       "is_off_day": true
     }
   ],
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。写作要点：\n1. 你要去肯德基参加 “疯狂星期四” 活动\n2. 向他介绍 “疯狂星期四” 的活动\n3. 要求他 V 你 50\n注意事项：\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名\n3. 请将 Peter 的 50 V 给我，否则不给分"
+    "content": "我是高启强，昨晚安欣实在不忍， 救下了我， 警察已近封锁京海市， 我的公司已被警察查封，但我我还 活着，我还有翻盘的机会，我将卷 土重来，在我逃亡的路上我看到今 天是疯狂星期四，我向你求助 v50 看我继续狂飙，逃出京海，事成必 有重谢"
   },
   "stock_indices": {
     "items": [
@@ -208,9 +208,9 @@
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 24854.77,
-        "change": 935.27,
-        "change_pct": 3.91,
+        "price": 24796.98,
+        "change": 877.48,
+        "change_pct": 3.67,
         "trend": "up",
         "market": "HK",
         "is_trading_day": true
@@ -218,16 +218,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 53356.12,
-        "change": 1569.4,
-        "change_pct": 3.03,
-        "trend": "up",
+        "price": 52414.72,
+        "change": -941.4,
+        "change_pct": -1.76,
+        "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/11/05 15:15:06",
-    "updated_at": 1793862906337,
+    "updated": "2026/11/05 23:44:26",
+    "updated_at": 1793893466999,
     "trading_day": {
       "A": true,
       "HK": true,

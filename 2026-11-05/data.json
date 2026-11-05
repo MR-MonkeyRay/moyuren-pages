@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
-  "updated": "2026/11/05 08:16:32",
-  "updated_at": 1793837792997,
+  "updated": "2026/11/05 15:15:12",
+  "updated_at": 1793862912250,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "世界上有两种人：一种是在认真工作，一种是在摸鱼。前者为老板打工，后者为自己打工。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "我想问一下，之前朋友找我借钱，前后加起来有大概七万（够立案）但是没有借条也没有字据，微信也早已互删没有任何关于借的字眼，只有支付宝上还有转账记录，派出所刚让我把转账记录发给他看一下的时候，我点支付宝点歪了，不小心点开了肯德基，发现今天是疯狂星期四，谁请我吃？",
+  "kfc_content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。写作要点：\n1. 你要去肯德基参加 “疯狂星期四” 活动\n2. 向他介绍 “疯狂星期四” 的活动\n3. 要求他 V 你 50\n注意事项：\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名\n3. 请将 Peter 的 50 V 给我，否则不给分",
   "date_info": {
     "year_month": "2026.11",
     "day": "5",
@@ -171,17 +171,68 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "我想问一下，之前朋友找我借钱，前后加起来有大概七万（够立案）但是没有借条也没有字据，微信也早已互删没有任何关于借的字眼，只有支付宝上还有转账记录，派出所刚让我把转账记录发给他看一下的时候，我点支付宝点歪了，不小心点开了肯德基，发现今天是疯狂星期四，谁请我吃？"
+    "content": "假如你是李华，你的英国笔友 Peter 给你写了一封信，向你询问你周四的安排，请你写一封回信。写作要点：\n1. 你要去肯德基参加 “疯狂星期四” 活动\n2. 向他介绍 “疯狂星期四” 的活动\n3. 要求他 V 你 50\n注意事项：\n1. 行文流畅，包含所有要点，无语法错误，可适当自由发挥，80 词左右\n2. 不出现真实的人名地名\n3. 请将 Peter 的 50 V 给我，否则不给分"
   },
   "stock_indices": {
-    "items": [],
-    "updated": "2026/11/05 08:16:27",
-    "updated_at": 1793837787415,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3689.91,
+        "change": 3.74,
+        "change_pct": 0.1,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 11471.09,
+        "change": 135.4,
+        "change_pct": 1.19,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 2566.8,
+        "change": 22.07,
+        "change_pct": 0.87,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24854.77,
+        "change": 935.27,
+        "change_pct": 3.91,
+        "trend": "up",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 53356.12,
+        "change": 1569.4,
+        "change_pct": 3.03,
+        "trend": "up",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/11/05 15:15:06",
+    "updated_at": 1793862906337,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

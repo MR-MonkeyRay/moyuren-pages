@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-06",
-  "updated": "2026/11/06 17:44:52",
-  "updated_at": 1793958292158,
+  "date": "2026-11-07",
+  "updated": "2026/11/07 01:19:08",
+  "updated_at": 1793985548368,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期五",
-  "lunar_date": "九月廿八",
+  "weekday": "星期六",
+  "lunar_date": "九月廿九",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "明明只是活着，哀伤却无处不在⋯⋯"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "我真的挺羡慕你的皮肤，你说你是怎么能，把它保养的那么厚呢？"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.11",
-    "day": "6",
-    "week_cn": "星期五",
-    "week_en": "Fri",
+    "day": "7",
+    "week_cn": "星期六",
+    "week_en": "Sat",
     "lunar_year": "丙午年",
-    "lunar_date": "九月廿八",
+    "lunar_date": "九月廿九",
     "zodiac": "马",
     "constellation": "天蝎座",
     "moon_phase": "残月",
@@ -30,28 +30,24 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 1,
-    "is_weekend": false
+    "days_left": 0,
+    "is_weekend": true
   },
   "solar_term": {
     "name": "立冬",
     "name_en": "Start of Winter",
-    "days_left": 1,
+    "days_left": 0,
     "date": "2026-11-07",
-    "is_today": false
+    "is_today": true
   },
   "guide": {
     "yi": [
-      "嫁娶",
-      "订盟",
-      "纳采",
-      "祭祀"
+      "解除",
+      "馀事勿取"
     ],
     "ji": [
-      "开市",
-      "开仓",
-      "出货财",
-      "安床"
+      "加班",
+      "开会"
     ]
   },
   "news_list": [
@@ -82,7 +78,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 46,
+      "days_left": 45,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +87,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-03",
       "duration": 3,
-      "days_left": 56,
+      "days_left": 55,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -100,7 +96,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 70,
+      "days_left": 69,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +105,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-13",
       "duration": 9,
-      "days_left": 91,
+      "days_left": 90,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -118,7 +114,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 91,
+      "days_left": 90,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +123,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 106,
+      "days_left": 105,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +132,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 122,
+      "days_left": 121,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +141,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 123,
+      "days_left": 122,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +150,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 126,
+      "days_left": 125,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,7 +159,7 @@
       "start_date": "2027-04-03",
       "end_date": "2027-04-05",
       "duration": 3,
-      "days_left": 148,
+      "days_left": 147,
       "is_legal_holiday": true,
       "is_off_day": true
     }
@@ -179,7 +175,7 @@
         "change_pct": -1.1,
         "trend": "down",
         "market": "A",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "399001",
@@ -189,7 +185,7 @@
         "change_pct": -2.57,
         "trend": "down",
         "market": "A",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "399006",
@@ -199,7 +195,7 @@
         "change_pct": -3.96,
         "trend": "down",
         "market": "A",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "HSI",
@@ -209,24 +205,24 @@
         "change_pct": -1.27,
         "trend": "down",
         "market": "HK",
-        "is_trading_day": true
+        "is_trading_day": false
       },
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 51523.06,
-        "change": -1833.06,
-        "change_pct": -3.44,
-        "trend": "down",
+        "price": 51573.07,
+        "change": 50.01,
+        "change_pct": 0.1,
+        "trend": "up",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/11/06 17:44:43",
-    "updated_at": 1793958283804,
+    "updated": "2026/11/07 01:19:02",
+    "updated_at": 1793985542730,
     "trading_day": {
-      "A": true,
-      "HK": true,
+      "A": false,
+      "HK": false,
       "US": true
     },
     "is_stale": false

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "updated": "2026/11/07 10:17:00",
-  "updated_at": 1794017820942,
+  "updated": "2026/11/07 17:08:20",
+  "updated_at": 1794042500025,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "不想养狗不想养猫，只想养你，毕竟养猪能致富。"
+    "text": "间歇性洗心革面，持续性混吃等死。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -215,15 +215,15 @@
         "change_pct": -0.46,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/11/07 10:16:55",
-    "updated_at": 1794017815198,
+    "updated": "2026/11/07 17:08:13",
+    "updated_at": 1794042493659,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

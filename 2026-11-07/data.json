@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "updated": "2026/11/07 17:08:20",
-  "updated_at": 1794042500025,
+  "updated": "2026/11/07 23:52:49",
+  "updated_at": 1794066769222,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "间歇性洗心革面，持续性混吃等死。"
+    "text": "这两天雨水多，下雨记得打伞，否则脑袋容易进水。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/11/07 17:08:13",
-    "updated_at": 1794042493659,
+    "updated": "2026/11/07 23:52:42",
+    "updated_at": 1794066762945,
     "trading_day": {
       "A": false,
       "HK": false,

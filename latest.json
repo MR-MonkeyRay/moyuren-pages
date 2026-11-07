@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "updated": "2026/11/07 06:17:56",
-  "updated_at": 1794003476196,
+  "updated": "2026/11/07 10:17:00",
+  "updated_at": 1794017820942,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "过年不吃胖，怎么对得起，死去的鸡鸭鱼猪？"
+    "text": "不想养狗不想养猫，只想养你，毕竟养猪能致富。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -218,8 +218,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/11/07 06:17:50",
-    "updated_at": 1794003470107,
+    "updated": "2026/11/07 10:16:55",
+    "updated_at": 1794017815198,
     "trading_day": {
       "A": false,
       "HK": false,

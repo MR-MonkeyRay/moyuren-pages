@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-12",
+  "updated": "2026/11/12 00:00:29",
+  "updated_at": 1794412829618,
+  "images": {
+    "moyuren": "moyuren.jpg"
+  },
+  "weekday": "星期四",
+  "lunar_date": "十月初四",
+  "fun_content": {
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼语录",
+    "text": "工作做得再好，老板也只会说：这是你应该做的。但摸鱼带来的快乐，是实实在在的！"
+  },
+  "is_crazy_thursday": true,
+  "kfc_content": "有没有要找工作的，北京这边招人，前六个月试用期 8000，转正 26000，一年后给你发一台车一套房，有意者私聊，先交 50 块押金，我吃完肯德基，给你办入职手续。",
+  "date_info": {
+    "year_month": "2026.11",
+    "day": "12",
+    "week_cn": "星期四",
+    "week_en": "Thu",
+    "lunar_year": "丙午年",
+    "lunar_date": "十月初四",
+    "zodiac": "马",
+    "constellation": "天蝎座",
+    "moon_phase": "残月",
+    "festival_solar": null,
+    "festival_lunar": null,
+    "legal_holiday": null,
+    "is_holiday": false
+  },
+  "weekend": {
+    "days_left": 2,
+    "is_weekend": false
+  },
+  "solar_term": {
+    "name": "小雪",
+    "name_en": "Minor Snow",
+    "days_left": 10,
+    "date": "2026-11-22",
+    "is_today": false
+  },
+  "guide": {
+    "yi": [
+      "嫁娶",
+      "开光",
+      "出行",
+      "出火"
+    ],
+    "ji": [
+      "祈福",
+      "祭祀",
+      "伐木",
+      "掘井"
+    ]
+  },
+  "news_list": [
+    "前 10 个月我国货物贸易进出口 44.81 万亿元，同比增长 20%，其中出口增长 17.6%，进口增长 23.6%",
+    "数据显示：我国算力总规模已达到 310 万 PFLOPS，位居世界第二",
+    "广州发布公积金新政：可用于全国购房，购、租房可每月提取一次，支持物业费、装修费提取",
+    "商业医疗险示范条款正式发布：首批 58 款药械纳入推荐清单，32 款为医保目录外自费药",
+    "发改委：幼儿园、小学、初中学龄人口已经达峰，将多渠道增加普通高中和高等教育学位供给",
+    "首批 700 专用码号服务业务试点获批：点外卖、网约车等将隐藏真实手机号，订单结束自动失效",
+    "铁路客运电子发票服务 12 月 1 日起再优化：新增购票人、代办人代旅客开票服务",
+    "河北火流星碎片初判为普通球粒陨石，每克 20 元至 100 元，专家称一般遵循 “谁发现谁拥有” 原则",
+    "阿里巴巴：拟分拆平头哥赴港独立上市，已于 9 月 11 日秘密递交上市申请",
+    "世界气象组织：超强厄尔尼诺预计将进一步加剧高温与极端天气，其影响将持续至 2027 年",
+    "司美格鲁肽、替尔泊肽等 “减肥神药” 或致永久性失明，美监管部门要求增加风险警示",
+    "2026 年布克奖揭晓：81 岁英国科幻作家成为史上最年长获奖者",
+    "美国 10 月 CPI 环比上涨 0.4% 超预期，市场开始定价 12 月加息 50 基点",
+    "法国约 700 家超市冷藏系统被黑，法国确认伊朗为远程操纵者，预估损失达数百万欧元",
+    "新一轮俄美乌三方首日会谈结束，持续近 4 小时，将于 11 日继续进行"
+  ],
+  "news_meta": {
+    "date": "2026-11-11",
+    "updated": "2026-11-11T05:30:00+08:00",
+    "updated_at": 1794346249033
+  },
+  "holidays": [
+    {
+      "name": "冬至节",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "duration": 1,
+      "days_left": 40,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元旦",
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-03",
+      "duration": 3,
+      "days_left": 50,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    },
+    {
+      "name": "腊八节",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "duration": 1,
+      "days_left": 64,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "春节",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-13",
+      "duration": 9,
+      "days_left": 85,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    },
+    {
+      "name": "除夕",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "duration": 1,
+      "days_left": 85,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元宵节",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "duration": 1,
+      "days_left": 100,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "妇女节",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-08",
+      "duration": 1,
+      "days_left": 116,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "龙头节",
+      "start_date": "2027-03-09",
+      "end_date": "2027-03-09",
+      "duration": 1,
+      "days_left": 117,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "植树节",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "duration": 1,
+      "days_left": 120,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "清明节",
+      "start_date": "2027-04-03",
+      "end_date": "2027-04-05",
+      "duration": 3,
+      "days_left": 142,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    }
+  ],
+  "kfc_content_full": {
+    "title": "CRAZY THURSDAY",
+    "sub_title": "V我50",
+    "content": "有没有要找工作的，北京这边招人，前六个月试用期 8000，转正 26000，一年后给你发一台车一套房，有意者私聊，先交 50 块押金，我吃完肯德基，给你办入职手续。"
+  },
+  "stock_indices": {
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3680.64,
+        "change": 16.92,
+        "change_pct": 0.46,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 11389.74,
+        "change": 148.2,
+        "change_pct": 1.32,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 2572.07,
+        "change": 77.67,
+        "change_pct": 3.11,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24315.92,
+        "change": -241.12,
+        "change_pct": -0.98,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 52171.41,
+        "change": -60.48,
+        "change_pct": -0.12,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/11/12 00:00:24",
+    "updated_at": 1794412824091,
+    "trading_day": {
+      "A": true,
+      "HK": true,
+      "US": true
+    },
+    "is_stale": false
+  }
+}

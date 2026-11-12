@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-12",
-  "updated": "2026/11/12 20:27:19",
-  "updated_at": 1794486439671,
+  "date": "2026-11-13",
+  "updated": "2026/11/13 04:21:10",
+  "updated_at": 1794514870699,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期四",
-  "lunar_date": "十月初四",
+  "weekday": "星期五",
+  "lunar_date": "十月初五",
   "fun_content": {
     "type": "moyu_quote",
     "title": "🐟 摸鱼语录",
-    "text": "工作做得再好，老板也只会说：这是你应该做的。但摸鱼带来的快乐，是实实在在的！"
+    "text": "我的座右铭：能坐着绝不站着，能躺着绝不坐着，能摸鱼绝不工作。"
   },
-  "is_crazy_thursday": true,
-  "kfc_content": "由于经济困难，承包以下业务：\n换情头：68 元\n换情名：98 元\n秀恩爱：144 元\n陪聊天：288 元\n请我吃 KFC：50 元\n让我滚： 5 元 (性价比之王)\n全包: 648 元",
+  "is_crazy_thursday": false,
+  "kfc_content": null,
   "date_info": {
     "year_month": "2026.11",
-    "day": "12",
-    "week_cn": "星期四",
-    "week_en": "Thu",
+    "day": "13",
+    "week_cn": "星期五",
+    "week_en": "Fri",
     "lunar_year": "丙午年",
-    "lunar_date": "十月初四",
+    "lunar_date": "十月初五",
     "zodiac": "马",
     "constellation": "天蝎座",
     "moon_phase": "残月",
@@ -30,28 +30,27 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 2,
+    "days_left": 1,
     "is_weekend": false
   },
   "solar_term": {
     "name": "小雪",
     "name_en": "Minor Snow",
-    "days_left": 10,
+    "days_left": 9,
     "date": "2026-11-22",
     "is_today": false
   },
   "guide": {
     "yi": [
       "嫁娶",
-      "开光",
-      "出行",
-      "出火"
+      "祭祀",
+      "祈福",
+      "求嗣"
     ],
     "ji": [
-      "祈福",
-      "祭祀",
-      "伐木",
-      "掘井"
+      "栽种",
+      "掘井",
+      "置产"
     ]
   },
   "news_list": [
@@ -82,7 +81,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 40,
+      "days_left": 39,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +90,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-03",
       "duration": 3,
-      "days_left": 50,
+      "days_left": 49,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -100,7 +99,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 64,
+      "days_left": 63,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +108,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-13",
       "duration": 9,
-      "days_left": 85,
+      "days_left": 84,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -118,7 +117,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 85,
+      "days_left": 84,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +126,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 100,
+      "days_left": 99,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +135,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 116,
+      "days_left": 115,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +144,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 117,
+      "days_left": 116,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +153,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 120,
+      "days_left": 119,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,25 +162,72 @@
       "start_date": "2027-04-03",
       "end_date": "2027-04-05",
       "duration": 3,
-      "days_left": 142,
+      "days_left": 141,
       "is_legal_holiday": true,
       "is_off_day": true
     }
   ],
-  "kfc_content_full": {
-    "title": "CRAZY THURSDAY",
-    "sub_title": "V我50",
-    "content": "由于经济困难，承包以下业务：\n换情头：68 元\n换情名：98 元\n秀恩爱：144 元\n陪聊天：288 元\n请我吃 KFC：50 元\n让我滚： 5 元 (性价比之王)\n全包: 648 元"
-  },
+  "kfc_content_full": null,
   "stock_indices": {
-    "items": [],
-    "updated": "2026/11/12 20:27:07",
-    "updated_at": 1794486427965,
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3655.83,
+        "change": -24.81,
+        "change_pct": -0.67,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 11197.98,
+        "change": -191.76,
+        "change_pct": -1.68,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 2509.43,
+        "change": -62.64,
+        "change_pct": -2.44,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 24008.55,
+        "change": -307.37,
+        "change_pct": -1.26,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 52399.95,
+        "change": -86.54,
+        "change_pct": -0.16,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/11/13 04:21:03",
+    "updated_at": 1794514863985,
     "trading_day": {
-      "A": false,
-      "HK": false,
-      "US": false
+      "A": true,
+      "HK": true,
+      "US": true
     },
-    "is_stale": true
+    "is_stale": false
   }
 }

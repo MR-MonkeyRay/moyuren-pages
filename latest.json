@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
-  "updated": "2026/11/12 11:42:41",
-  "updated_at": 1794454961629,
+  "updated": "2026/11/12 20:27:19",
+  "updated_at": 1794486439671,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -13,7 +13,7 @@
     "text": "工作做得再好，老板也只会说：这是你应该做的。但摸鱼带来的快乐，是实实在在的！"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "你想象一下，如果十年之后你结婚了，小孩很烦，你老公是你并不是很喜欢的人，天天下班对着这个无趣的男人，没有沟通的欲望，孩子衣食住行要你管，不听话要你教，那个时候你会不会后悔今天没有点开我的头像发一句：今天肯德基疯狂星期四，我请你吃",
+  "kfc_content": "由于经济困难，承包以下业务：\n换情头：68 元\n换情名：98 元\n秀恩爱：144 元\n陪聊天：288 元\n请我吃 KFC：50 元\n让我滚： 5 元 (性价比之王)\n全包: 648 元",
   "date_info": {
     "year_month": "2026.11",
     "day": "12",
@@ -171,68 +171,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "你想象一下，如果十年之后你结婚了，小孩很烦，你老公是你并不是很喜欢的人，天天下班对着这个无趣的男人，没有沟通的欲望，孩子衣食住行要你管，不听话要你教，那个时候你会不会后悔今天没有点开我的头像发一句：今天肯德基疯狂星期四，我请你吃"
+    "content": "由于经济困难，承包以下业务：\n换情头：68 元\n换情名：98 元\n秀恩爱：144 元\n陪聊天：288 元\n请我吃 KFC：50 元\n让我滚： 5 元 (性价比之王)\n全包: 648 元"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3688.05,
-        "change": 7.41,
-        "change_pct": 0.2,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 11396.86,
-        "change": 7.12,
-        "change_pct": 0.06,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 2573.52,
-        "change": 1.45,
-        "change_pct": 0.06,
-        "trend": "up",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 24111.37,
-        "change": -204.55,
-        "change_pct": -0.84,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 52486.49,
-        "change": 254.6,
-        "change_pct": 0.49,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/11/12 11:42:36",
-    "updated_at": 1794454956434,
+    "items": [],
+    "updated": "2026/11/12 20:27:07",
+    "updated_at": 1794486427965,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

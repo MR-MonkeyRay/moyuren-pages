@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-14",
+  "updated": "2026/11/14 01:04:43",
+  "updated_at": 1794589483445,
+  "images": {
+    "moyuren": "moyuren.jpg"
+  },
+  "weekday": "星期六",
+  "lunar_date": "十月初六",
+  "fun_content": {
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "人生就像一个茶几，上面摆满了杯具。"
+  },
+  "is_crazy_thursday": false,
+  "kfc_content": null,
+  "date_info": {
+    "year_month": "2026.11",
+    "day": "14",
+    "week_cn": "星期六",
+    "week_en": "Sat",
+    "lunar_year": "丙午年",
+    "lunar_date": "十月初六",
+    "zodiac": "马",
+    "constellation": "天蝎座",
+    "moon_phase": "残月",
+    "festival_solar": null,
+    "festival_lunar": null,
+    "legal_holiday": null,
+    "is_holiday": false
+  },
+  "weekend": {
+    "days_left": 0,
+    "is_weekend": true
+  },
+  "solar_term": {
+    "name": "小雪",
+    "name_en": "Minor Snow",
+    "days_left": 8,
+    "date": "2026-11-22",
+    "is_today": false
+  },
+  "guide": {
+    "yi": [
+      "祭祀",
+      "理发",
+      "针灸",
+      "解除"
+    ],
+    "ji": [
+      "嫁娶",
+      "动土",
+      "造船",
+      "开池"
+    ]
+  },
+  "news_list": [
+    "14 日至 18 日两股冷空气接连南下：我国大部地区降温 6~10℃，内蒙古、东北等局地降温超 12℃",
+    "秋假催热 11 月旅游淡季：主题乐园被 “挤爆”，研学团陆续出发",
+    "我国计划未来五年重拳整治财务造假，护航资本市场诚信生态",
+    "上海市监局：德芙旗舰店礼盒广告宣扬错误婚恋观，被罚 80 万元",
+    "同链接同价格，发到农村是 B 货，发到城区是 A 货？中消协表态：公平交易不容 “欺生凌弱”",
+    "国产大豆新品种 “东生 89” 实现高产，亩产达全国平均水平 2.7 倍",
+    "国内油价年内第六次下调：加满一箱 92 号汽油将省约 24.5 元，机构预计下一轮还会降",
+    "国内金饰克价跌破 1200 元关口，年内累计跌超 500 元，价格回落至一年前水平",
+    "第二艘国产大型邮轮爱达・花城号顺利抵穗，圆满完成首个试运营航次",
+    "商务部：中美正就降税、贸易、投资等问题保持密切沟通",
+    "英伟达宣布黄仁勋已辞去总裁、CEO 及董事会成员职务，即刻生效，英伟达首席财务官出任临时 CEO",
+    "印度批准建造 “全球最大规模博物馆”，造价估计为 3.45 亿美元，每年可接待 1000 万游客",
+    "英国和爱尔兰超千所学校收到威胁邮件，警方认定不可信，调查评估：系境外恶作剧",
+    "特朗普称美国不需要与伊朗达成协议，美国已掌握其数千亿美元资金以及关键航道",
+    "最新报告显示：海湾国家因美伊战事已损失超 2000 亿美元，未来损失或接近 8000 亿美元"
+  ],
+  "news_meta": {
+    "date": "2026-11-13",
+    "updated": "2026-11-13T05:36:00+08:00",
+    "updated_at": 1794519373383
+  },
+  "holidays": [
+    {
+      "name": "冬至节",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "duration": 1,
+      "days_left": 38,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元旦",
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-03",
+      "duration": 3,
+      "days_left": 48,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    },
+    {
+      "name": "腊八节",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "duration": 1,
+      "days_left": 62,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "春节",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-13",
+      "duration": 9,
+      "days_left": 83,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    },
+    {
+      "name": "除夕",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "duration": 1,
+      "days_left": 83,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元宵节",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "duration": 1,
+      "days_left": 98,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "妇女节",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-08",
+      "duration": 1,
+      "days_left": 114,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "龙头节",
+      "start_date": "2027-03-09",
+      "end_date": "2027-03-09",
+      "duration": 1,
+      "days_left": 115,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "植树节",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "duration": 1,
+      "days_left": 118,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "清明节",
+      "start_date": "2027-04-03",
+      "end_date": "2027-04-05",
+      "duration": 3,
+      "days_left": 140,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    }
+  ],
+  "kfc_content_full": null,
+  "stock_indices": {
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3634.35,
+        "change": -21.48,
+        "change_pct": -0.59,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 10968.79,
+        "change": -229.19,
+        "change_pct": -2.05,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 2426.08,
+        "change": -83.35,
+        "change_pct": -3.32,
+        "trend": "down",
+        "market": "A",
+        "is_trading_day": false
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 23637.6,
+        "change": -370.95,
+        "change_pct": -1.55,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": false
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 52130.55,
+        "change": -166.54,
+        "change_pct": -0.32,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/11/14 01:04:37",
+    "updated_at": 1794589477195,
+    "trading_day": {
+      "A": false,
+      "HK": false,
+      "US": true
+    },
+    "is_stale": false
+  }
+}

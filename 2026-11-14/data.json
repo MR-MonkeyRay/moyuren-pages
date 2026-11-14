@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "updated": "2026/11/14 10:59:16",
-  "updated_at": 1794625156208,
+  "updated": "2026/11/14 18:08:40",
+  "updated_at": 1794650920884,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我连名牌都不认识几个，有时候，别人在炫富我都不知道。"
+    "text": "我是一条酸菜鱼，又酸又菜，还多余。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": 0.1,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/11/14 10:59:10",
-    "updated_at": 1794625150423,
+    "updated": "2026/11/14 18:08:33",
+    "updated_at": 1794650913126,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

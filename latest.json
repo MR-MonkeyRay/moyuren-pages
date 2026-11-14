@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "updated": "2026/11/14 06:47:47",
-  "updated_at": 1794610067476,
+  "updated": "2026/11/14 10:59:16",
+  "updated_at": 1794625156208,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "如果你特别迷恋一个人，那么你一定配不上他！"
+    "text": "我连名牌都不认识几个，有时候，别人在炫富我都不知道。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/11/14 06:47:41",
-    "updated_at": 1794610061027,
+    "updated": "2026/11/14 10:59:10",
+    "updated_at": 1794625150423,
     "trading_day": {
       "A": false,
       "HK": false,

@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-15",
-  "updated": "2026/11/15 23:49:33",
-  "updated_at": 1794757773731,
+  "date": "2026-11-16",
+  "updated": "2026/11/16 04:57:06",
+  "updated_at": 1794776226968,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期日",
-  "lunar_date": "十月初七",
+  "weekday": "星期一",
+  "lunar_date": "十月初八",
   "fun_content": {
-    "type": "moyu_quote",
-    "title": "🐟 摸鱼语录",
-    "text": "工作再累，一天也是24小时；摸鱼再爽，一天也是24小时。既然都是24小时，为什么不选择爽呢？"
+    "type": "duanzi",
+    "title": "😂 搞笑段子",
+    "text": "别人的钱财，乃我的身外之物。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.11",
-    "day": "15",
-    "week_cn": "星期日",
-    "week_en": "Sun",
+    "day": "16",
+    "week_cn": "星期一",
+    "week_en": "Mon",
     "lunar_year": "丙午年",
-    "lunar_date": "十月初七",
+    "lunar_date": "十月初八",
     "zodiac": "马",
     "constellation": "天蝎座",
     "moon_phase": "残月",
@@ -30,26 +30,28 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 0,
-    "is_weekend": true
+    "days_left": 5,
+    "is_weekend": false
   },
   "solar_term": {
     "name": "小雪",
     "name_en": "Minor Snow",
-    "days_left": 7,
+    "days_left": 6,
     "date": "2026-11-22",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "破屋",
-      "坏垣",
-      "求医",
-      "治病"
+      "纳采",
+      "订盟",
+      "嫁娶",
+      "祭祀"
     ],
     "ji": [
-      "嫁娶",
-      "安葬"
+      "上梁",
+      "开仓",
+      "出货财",
+      "盖屋"
     ]
   },
   "news_list": [
@@ -80,7 +82,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 37,
+      "days_left": 36,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -89,7 +91,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-03",
       "duration": 3,
-      "days_left": 47,
+      "days_left": 46,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -98,7 +100,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 61,
+      "days_left": 60,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -107,7 +109,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-13",
       "duration": 9,
-      "days_left": 82,
+      "days_left": 81,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -116,7 +118,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 82,
+      "days_left": 81,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -125,7 +127,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 97,
+      "days_left": 96,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -134,7 +136,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 113,
+      "days_left": 112,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -143,7 +145,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 114,
+      "days_left": 113,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -152,7 +154,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 117,
+      "days_left": 116,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -161,7 +163,7 @@
       "start_date": "2027-04-03",
       "end_date": "2027-04-05",
       "duration": 3,
-      "days_left": 139,
+      "days_left": 138,
       "is_legal_holiday": true,
       "is_off_day": true
     }
@@ -177,7 +179,7 @@
         "change_pct": -0.59,
         "trend": "down",
         "market": "A",
-        "is_trading_day": false
+        "is_trading_day": true
       },
       {
         "code": "399001",
@@ -187,7 +189,7 @@
         "change_pct": -2.05,
         "trend": "down",
         "market": "A",
-        "is_trading_day": false
+        "is_trading_day": true
       },
       {
         "code": "399006",
@@ -197,7 +199,7 @@
         "change_pct": -3.32,
         "trend": "down",
         "market": "A",
-        "is_trading_day": false
+        "is_trading_day": true
       },
       {
         "code": "HSI",
@@ -207,7 +209,7 @@
         "change_pct": -1.55,
         "trend": "down",
         "market": "HK",
-        "is_trading_day": false
+        "is_trading_day": true
       },
       {
         "code": "DJIA",
@@ -220,11 +222,11 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/11/15 23:49:26",
-    "updated_at": 1794757766658,
+    "updated": "2026/11/16 04:57:00",
+    "updated_at": 1794776220615,
     "trading_day": {
-      "A": false,
-      "HK": false,
+      "A": true,
+      "HK": true,
       "US": false
     },
     "is_stale": false

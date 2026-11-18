@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-19",
+  "updated": "2026/11/19 03:20:03",
+  "updated_at": 1795029603977,
+  "images": {
+    "moyuren": "moyuren.jpg"
+  },
+  "weekday": "星期四",
+  "lunar_date": "十月十一",
+  "fun_content": {
+    "type": "hitokoto",
+    "title": "💬 一言",
+    "text": "边学边问，才有学问"
+  },
+  "is_crazy_thursday": true,
+  "kfc_content": "生了孩子以后一直瘦不下去 老公像变了一个人似的 对我又打又骂 我好恨他 正当我打开手机想报警的时候 不小心打开了肯德基 想起来今天原来是疯狂星期四 所以说谁请我肯德基？吃完我继续讲",
+  "date_info": {
+    "year_month": "2026.11",
+    "day": "19",
+    "week_cn": "星期四",
+    "week_en": "Thu",
+    "lunar_year": "丙午年",
+    "lunar_date": "十月十一",
+    "zodiac": "马",
+    "constellation": "天蝎座",
+    "moon_phase": "残月",
+    "festival_solar": null,
+    "festival_lunar": null,
+    "legal_holiday": null,
+    "is_holiday": false
+  },
+  "weekend": {
+    "days_left": 2,
+    "is_weekend": false
+  },
+  "solar_term": {
+    "name": "小雪",
+    "name_en": "Minor Snow",
+    "days_left": 3,
+    "date": "2026-11-22",
+    "is_today": false
+  },
+  "guide": {
+    "yi": [
+      "嫁娶",
+      "冠笄",
+      "祭祀",
+      "祈福"
+    ],
+    "ji": [
+      "伐木",
+      "上梁",
+      "修造",
+      "入殓"
+    ]
+  },
+  "news_list": [
+    "中国气象局确认：最强厄尔尼诺将明显影响我国，预计今冬全国气温总体偏高，呈前冬冷、后冬暖的特点",
+    "央行宣布 11 月 15 日起上调金融机构外汇存款准备金率，由现行的 4% 提高到 6%",
+    "A 股融资余额降至 2.30 万亿元，创出 2025 年 9 月以来逾一年新低",
+    "乘联分会：10 月全国新能源乘用车厂商批发销量预估达 180 万辆，同比增长 12%",
+    "全国放心消费平台正式上线：可扫码查看附近放心消费商家，美团外卖、淘宝闪购、京东外卖等已接入",
+    "江西赣州一低保家庭女孩赴香港观看演唱会，当地证实：已取消家庭低保资格",
+    "力箭二号遥二运载火箭发射成功，一次将 18 颗卫星送入预定轨道",
+    "机构：腾讯以 12.8 亿用户蝉联中国互联网第一，绿泡泡月活破 1.5 亿",
+    "国际电信联盟：2026 年全球网民估计约为 63 亿人，占世界人口的 76%",
+    "2036 年夏奥会举办权申办意向名单确定：德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国入围",
+    "亚足联宣布：鉴于安全形势，沙特男足亚洲杯推迟至 2027 年 12 月举行",
+    "《福布斯》实时亿万富豪榜：印度电信巨头安巴尼以 888 亿美元身家，超越字节跳动张一鸣重夺亚洲首富",
+    "英国冒险家历时 28 年完成徒步环球旅行重返故土，穿越 29 个国家，行程近 5 万公里",
+    "法国监狱爆满，在押人员创纪录，将近 9000 人只能睡在牢房地面的床垫上",
+    "美总统夫人梅拉尼娅邀俄乌代表 5 日在白宫会谈；俄确认俄美乌三方会谈 10 日至 11 日在阿布扎比举行"
+  ],
+  "news_meta": {
+    "date": "2026-11-18",
+    "updated": "2026-11-18T05:31:00+08:00",
+    "updated_at": 1794951060000
+  },
+  "holidays": [
+    {
+      "name": "冬至节",
+      "start_date": "2026-12-22",
+      "end_date": "2026-12-22",
+      "duration": 1,
+      "days_left": 33,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元旦",
+      "start_date": "2027-01-01",
+      "end_date": "2027-01-03",
+      "duration": 3,
+      "days_left": 43,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    },
+    {
+      "name": "腊八节",
+      "start_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "duration": 1,
+      "days_left": 57,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "春节",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-13",
+      "duration": 9,
+      "days_left": 78,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    },
+    {
+      "name": "除夕",
+      "start_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "duration": 1,
+      "days_left": 78,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "元宵节",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "duration": 1,
+      "days_left": 93,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "妇女节",
+      "start_date": "2027-03-08",
+      "end_date": "2027-03-08",
+      "duration": 1,
+      "days_left": 109,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "龙头节",
+      "start_date": "2027-03-09",
+      "end_date": "2027-03-09",
+      "duration": 1,
+      "days_left": 110,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "植树节",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-12",
+      "duration": 1,
+      "days_left": 113,
+      "is_legal_holiday": false,
+      "is_off_day": true
+    },
+    {
+      "name": "清明节",
+      "start_date": "2027-04-03",
+      "end_date": "2027-04-05",
+      "duration": 3,
+      "days_left": 135,
+      "is_legal_holiday": true,
+      "is_off_day": true
+    }
+  ],
+  "kfc_content_full": {
+    "title": "CRAZY THURSDAY",
+    "sub_title": "V我50",
+    "content": "生了孩子以后一直瘦不下去 老公像变了一个人似的 对我又打又骂 我好恨他 正当我打开手机想报警的时候 不小心打开了肯德基 想起来今天原来是疯狂星期四 所以说谁请我肯德基？吃完我继续讲"
+  },
+  "stock_indices": {
+    "items": [
+      {
+        "code": "000001",
+        "name": "上证指数",
+        "price": 3587.83,
+        "change": 3.25,
+        "change_pct": 0.09,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399001",
+        "name": "深证成指",
+        "price": 10659.41,
+        "change": 20.89,
+        "change_pct": 0.2,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "399006",
+        "name": "创业板指",
+        "price": 2311.62,
+        "change": 19.42,
+        "change_pct": 0.85,
+        "trend": "up",
+        "market": "A",
+        "is_trading_day": true
+      },
+      {
+        "code": "HSI",
+        "name": "恒生指数",
+        "price": 23294.75,
+        "change": -213.42,
+        "change_pct": -0.91,
+        "trend": "down",
+        "market": "HK",
+        "is_trading_day": true
+      },
+      {
+        "code": "DJIA",
+        "name": "道琼斯",
+        "price": 50196.59,
+        "change": -562.83,
+        "change_pct": -1.11,
+        "trend": "down",
+        "market": "US",
+        "is_trading_day": true
+      }
+    ],
+    "updated": "2026/11/19 03:19:57",
+    "updated_at": 1795029597408,
+    "trading_day": {
+      "A": true,
+      "HK": true,
+      "US": true
+    },
+    "is_stale": false
+  }
+}

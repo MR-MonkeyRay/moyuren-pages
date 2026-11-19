@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-19",
-  "updated": "2026/11/19 17:20:44",
-  "updated_at": 1795080044816,
+  "date": "2026-11-20",
+  "updated": "2026/11/20 02:33:49",
+  "updated_at": 1795113229378,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期四",
-  "lunar_date": "十月十一",
+  "weekday": "星期五",
+  "lunar_date": "十月十二",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "无知而又纯洁的岁月是任何人都曾拥有的，世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。"
+    "type": "dad_joke",
+    "title": "🤣 冷笑话",
+    "text": "你知道哆啦A梦为什么没有脖子吗？因为蓝脖积泥（兰博基尼）。"
   },
-  "is_crazy_thursday": true,
-  "kfc_content": "优秀是 “渐渐的事”，成长是 “天天的事”，学习是 “坚持的事”，别忘了今天是肯德基疯狂星期四",
+  "is_crazy_thursday": false,
+  "kfc_content": null,
   "date_info": {
     "year_month": "2026.11",
-    "day": "19",
-    "week_cn": "星期四",
-    "week_en": "Thu",
+    "day": "20",
+    "week_cn": "星期五",
+    "week_en": "Fri",
     "lunar_year": "丙午年",
-    "lunar_date": "十月十一",
+    "lunar_date": "十月十二",
     "zodiac": "马",
     "constellation": "天蝎座",
     "moon_phase": "残月",
@@ -30,28 +30,28 @@
     "is_holiday": false
   },
   "weekend": {
-    "days_left": 2,
+    "days_left": 1,
     "is_weekend": false
   },
   "solar_term": {
     "name": "小雪",
     "name_en": "Minor Snow",
-    "days_left": 3,
+    "days_left": 2,
     "date": "2026-11-22",
     "is_today": false
   },
   "guide": {
     "yi": [
+      "合帐",
+      "裁衣",
       "嫁娶",
-      "冠笄",
-      "祭祀",
-      "祈福"
+      "安床"
     ],
     "ji": [
-      "伐木",
-      "上梁",
-      "修造",
-      "入殓"
+      "置产",
+      "造船",
+      "开光",
+      "掘井"
     ]
   },
   "news_list": [
@@ -82,7 +82,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 33,
+      "days_left": 32,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +91,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-03",
       "duration": 3,
-      "days_left": 43,
+      "days_left": 42,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -100,7 +100,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 57,
+      "days_left": 56,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +109,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-13",
       "duration": 9,
-      "days_left": 78,
+      "days_left": 77,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -118,7 +118,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 78,
+      "days_left": 77,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +127,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 93,
+      "days_left": 92,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +136,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 109,
+      "days_left": 108,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +145,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 110,
+      "days_left": 109,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +154,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 113,
+      "days_left": 112,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,16 +163,12 @@
       "start_date": "2027-04-03",
       "end_date": "2027-04-05",
       "duration": 3,
-      "days_left": 135,
+      "days_left": 134,
       "is_legal_holiday": true,
       "is_off_day": true
     }
   ],
-  "kfc_content_full": {
-    "title": "CRAZY THURSDAY",
-    "sub_title": "V我50",
-    "content": "优秀是 “渐渐的事”，成长是 “天天的事”，学习是 “坚持的事”，别忘了今天是肯德基疯狂星期四"
-  },
+  "kfc_content_full": null,
   "stock_indices": {
     "items": [
       {
@@ -218,16 +214,16 @@
       {
         "code": "DJIA",
         "name": "道琼斯",
-        "price": 50198.17,
-        "change": -561.25,
-        "change_pct": -1.11,
+        "price": 49413.02,
+        "change": -785.15,
+        "change_pct": -1.56,
         "trend": "down",
         "market": "US",
         "is_trading_day": true
       }
     ],
-    "updated": "2026/11/19 17:20:39",
-    "updated_at": 1795080039402,
+    "updated": "2026/11/20 02:33:41",
+    "updated_at": 1795113221861,
     "trading_day": {
       "A": true,
       "HK": true,

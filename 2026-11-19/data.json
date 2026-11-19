@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
-  "updated": "2026/11/19 09:25:04",
-  "updated_at": 1795051504464,
+  "updated": "2026/11/19 17:20:44",
+  "updated_at": 1795080044816,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "时间过得越久，人心的距离就越远。"
+    "text": "无知而又纯洁的岁月是任何人都曾拥有的，世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "大家好，我是哥斯拉，你们应该知道我是吃辐射长大的，听说今天要排核污水了，今天指定喝个饱。但是光有喝的不够，今天星期四，V 我 50 吃顿肯德基，待我吃饱喝足，帮你们踩平日本",
+  "kfc_content": "优秀是 “渐渐的事”，成长是 “天天的事”，学习是 “坚持的事”，别忘了今天是肯德基疯狂星期四",
   "date_info": {
     "year_month": "2026.11",
     "day": "19",
@@ -171,46 +171,46 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "大家好，我是哥斯拉，你们应该知道我是吃辐射长大的，听说今天要排核污水了，今天指定喝个饱。但是光有喝的不够，今天星期四，V 我 50 吃顿肯德基，待我吃饱喝足，帮你们踩平日本"
+    "content": "优秀是 “渐渐的事”，成长是 “天天的事”，学习是 “坚持的事”，别忘了今天是肯德基疯狂星期四"
   },
   "stock_indices": {
     "items": [
       {
         "code": "000001",
         "name": "上证指数",
-        "price": 3587.8,
-        "change": -0.03,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 3577.62,
+        "change": -10.21,
+        "change_pct": -0.28,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399001",
         "name": "深证成指",
-        "price": 10659.41,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 10583.2,
+        "change": -76.21,
+        "change_pct": -0.71,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "399006",
         "name": "创业板指",
-        "price": 2311.62,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "trend": "flat",
+        "price": 2293.34,
+        "change": -18.28,
+        "change_pct": -0.79,
+        "trend": "down",
         "market": "A",
         "is_trading_day": true
       },
       {
         "code": "HSI",
         "name": "恒生指数",
-        "price": 23049.65,
-        "change": -245.1,
-        "change_pct": -1.05,
+        "price": 22841.62,
+        "change": -453.13,
+        "change_pct": -1.95,
         "trend": "down",
         "market": "HK",
         "is_trading_day": true
@@ -226,8 +226,8 @@
         "is_trading_day": true
       }
     ],
-    "updated": "2026/11/19 09:24:53",
-    "updated_at": 1795051493234,
+    "updated": "2026/11/19 17:20:39",
+    "updated_at": 1795080039402,
     "trading_day": {
       "A": true,
       "HK": true,

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "updated": "2026/11/21 07:56:17",
-  "updated_at": 1795218977953,
+  "updated": "2026/11/21 14:53:24",
+  "updated_at": 1795244004073,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "为啥说看武打片能减肥？因为里面经常说“你瘦死吧”。"
+    "text": "金木水火土，谁的腿最长？火，因为火腿肠。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": -1.93,
         "trend": "down",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/11/21 07:56:11",
-    "updated_at": 1795218971446,
+    "updated": "2026/11/21 14:53:18",
+    "updated_at": 1795243998239,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }

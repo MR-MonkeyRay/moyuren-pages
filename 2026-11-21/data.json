@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "updated": "2026/11/21 14:53:24",
-  "updated_at": 1795244004073,
+  "updated": "2026/11/21 23:14:00",
+  "updated_at": 1795274040300,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "dad_joke",
     "title": "🤣 冷笑话",
-    "text": "金木水火土，谁的腿最长？火，因为火腿肠。"
+    "text": "小明在自助餐厅倒果汁时遭人暗杀，只因他汁倒（自导）得太多了。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/11/21 14:53:18",
-    "updated_at": 1795243998239,
+    "updated": "2026/11/21 23:13:49",
+    "updated_at": 1795274029926,
     "trading_day": {
       "A": false,
       "HK": false,

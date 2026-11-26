@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
-  "updated": "2026/11/26 08:11:00",
-  "updated_at": 1795651860640,
+  "updated": "2026/11/26 16:48:35",
+  "updated_at": 1795682915829,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,10 +10,10 @@
   "fun_content": {
     "type": "duanzi",
     "title": "😂 搞笑段子",
-    "text": "我不是那种落井下石的人，我是直接把井封了。"
+    "text": "再努力一点，你就能走向，人生癫疯。"
   },
   "is_crazy_thursday": true,
-  "kfc_content": "✨ 疯狂星期四 ✨\n\n❤️ 活力周四 ✨ 激四情射 ❤️\n\n❤️ 想不想搞大我的肚子 ❤️\n\n❤️ 转我 100 ✨ 吃肯德基 ❤️",
+  "kfc_content": "狗的叫声是汪汪汪 猫的叫声是喵喵喵 牛的叫声是 all I want for Christmas is you  星期四的叫声是抽一位幸运儿请我肯德基疯狂星期四",
   "date_info": {
     "year_month": "2026.11",
     "day": "26",
@@ -171,68 +171,17 @@
   "kfc_content_full": {
     "title": "CRAZY THURSDAY",
     "sub_title": "V我50",
-    "content": "✨ 疯狂星期四 ✨\n\n❤️ 活力周四 ✨ 激四情射 ❤️\n\n❤️ 想不想搞大我的肚子 ❤️\n\n❤️ 转我 100 ✨ 吃肯德基 ❤️"
+    "content": "狗的叫声是汪汪汪 猫的叫声是喵喵喵 牛的叫声是 all I want for Christmas is you  星期四的叫声是抽一位幸运儿请我肯德基疯狂星期四"
   },
   "stock_indices": {
-    "items": [
-      {
-        "code": "000001",
-        "name": "上证指数",
-        "price": 3476.47,
-        "change": -71.9,
-        "change_pct": -2.03,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399001",
-        "name": "深证成指",
-        "price": 10086.36,
-        "change": -337.24,
-        "change_pct": -3.24,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "399006",
-        "name": "创业板指",
-        "price": 2183.58,
-        "change": -95.41,
-        "change_pct": -4.19,
-        "trend": "down",
-        "market": "A",
-        "is_trading_day": true
-      },
-      {
-        "code": "HSI",
-        "name": "恒生指数",
-        "price": 21966.01,
-        "change": -253.64,
-        "change_pct": -1.14,
-        "trend": "down",
-        "market": "HK",
-        "is_trading_day": true
-      },
-      {
-        "code": "DJIA",
-        "name": "道琼斯",
-        "price": 50182.95,
-        "change": 164.25,
-        "change_pct": 0.33,
-        "trend": "up",
-        "market": "US",
-        "is_trading_day": true
-      }
-    ],
-    "updated": "2026/11/26 08:10:53",
-    "updated_at": 1795651853512,
+    "items": [],
+    "updated": "2026/11/26 16:48:30",
+    "updated_at": 1795682910084,
     "trading_day": {
-      "A": true,
-      "HK": true,
-      "US": true
+      "A": false,
+      "HK": false,
+      "US": false
     },
-    "is_stale": false
+    "is_stale": true
   }
 }

@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-28",
-  "updated": "2026/11/28 19:33:45",
-  "updated_at": 1795865625378,
+  "date": "2026-11-29",
+  "updated": "2026/11/29 03:50:52",
+  "updated_at": 1795895452764,
   "images": {
     "moyuren": "moyuren.jpg"
   },
-  "weekday": "星期六",
-  "lunar_date": "十月二十",
+  "weekday": "星期日",
+  "lunar_date": "十月廿一",
   "fun_content": {
-    "type": "hitokoto",
-    "title": "💬 一言",
-    "text": "其实所有纠结做选择的人心里早就有了答案，咨询只是想得到心里内心所倾向的选择。最终的所谓命运 还是自己一步步走出来的。"
+    "type": "moyu_quote",
+    "title": "🐟 摸鱼语录",
+    "text": "老板喊你认真干活的时候，请记住：他是在为他自己的梦想买单，而不是你的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
   "date_info": {
     "year_month": "2026.11",
-    "day": "28",
-    "week_cn": "星期六",
-    "week_en": "Sat",
+    "day": "29",
+    "week_cn": "星期日",
+    "week_en": "Sun",
     "lunar_year": "丙午年",
-    "lunar_date": "十月二十",
+    "lunar_date": "十月廿一",
     "zodiac": "马",
     "constellation": "射手座",
     "moon_phase": "残月",
@@ -36,22 +36,22 @@
   "solar_term": {
     "name": "大雪",
     "name_en": "Major Snow",
-    "days_left": 9,
+    "days_left": 8,
     "date": "2026-12-07",
     "is_today": false
   },
   "guide": {
     "yi": [
-      "祭祀",
-      "扫舍",
-      "破土",
-      "安葬"
+      "订盟",
+      "纳采",
+      "会亲友",
+      "祭祀"
     ],
     "ji": [
       "嫁娶",
-      "入宅",
-      "修造",
-      "动土"
+      "移徙",
+      "出火",
+      "开市"
     ]
   },
   "news_list": [
@@ -82,7 +82,7 @@
       "start_date": "2026-12-22",
       "end_date": "2026-12-22",
       "duration": 1,
-      "days_left": 24,
+      "days_left": 23,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -91,7 +91,7 @@
       "start_date": "2027-01-01",
       "end_date": "2027-01-03",
       "duration": 3,
-      "days_left": 34,
+      "days_left": 33,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -100,7 +100,7 @@
       "start_date": "2027-01-15",
       "end_date": "2027-01-15",
       "duration": 1,
-      "days_left": 48,
+      "days_left": 47,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -109,7 +109,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-13",
       "duration": 9,
-      "days_left": 69,
+      "days_left": 68,
       "is_legal_holiday": true,
       "is_off_day": true
     },
@@ -118,7 +118,7 @@
       "start_date": "2027-02-05",
       "end_date": "2027-02-05",
       "duration": 1,
-      "days_left": 69,
+      "days_left": 68,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -127,7 +127,7 @@
       "start_date": "2027-02-20",
       "end_date": "2027-02-20",
       "duration": 1,
-      "days_left": 84,
+      "days_left": 83,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -136,7 +136,7 @@
       "start_date": "2027-03-08",
       "end_date": "2027-03-08",
       "duration": 1,
-      "days_left": 100,
+      "days_left": 99,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -145,7 +145,7 @@
       "start_date": "2027-03-09",
       "end_date": "2027-03-09",
       "duration": 1,
-      "days_left": 101,
+      "days_left": 100,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -154,7 +154,7 @@
       "start_date": "2027-03-12",
       "end_date": "2027-03-12",
       "duration": 1,
-      "days_left": 104,
+      "days_left": 103,
       "is_legal_holiday": false,
       "is_off_day": true
     },
@@ -163,7 +163,7 @@
       "start_date": "2027-04-03",
       "end_date": "2027-04-05",
       "duration": 3,
-      "days_left": 126,
+      "days_left": 125,
       "is_legal_holiday": true,
       "is_off_day": true
     }
@@ -222,8 +222,8 @@
         "is_trading_day": false
       }
     ],
-    "updated": "2026/11/28 19:33:41",
-    "updated_at": 1795865621098,
+    "updated": "2026/11/29 03:50:45",
+    "updated_at": 1795895445096,
     "trading_day": {
       "A": false,
       "HK": false,

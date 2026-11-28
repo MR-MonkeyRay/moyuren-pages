@@ -1,7 +1,7 @@
 {
   "date": "2026-11-28",
-  "updated": "2026/11/28 10:55:20",
-  "updated_at": 1795834520131,
+  "updated": "2026/11/28 19:33:45",
+  "updated_at": 1795865625378,
   "images": {
     "moyuren": "moyuren.jpg"
   },
@@ -10,7 +10,7 @@
   "fun_content": {
     "type": "hitokoto",
     "title": "💬 一言",
-    "text": "原来，天底下有这么多事，我都没办法做到，不是所有事情，尽全力去做就会好的…………"
+    "text": "其实所有纠结做选择的人心里早就有了答案，咨询只是想得到心里内心所倾向的选择。最终的所谓命运 还是自己一步步走出来的。"
   },
   "is_crazy_thursday": false,
   "kfc_content": null,
@@ -219,15 +219,15 @@
         "change_pct": 1.18,
         "trend": "up",
         "market": "US",
-        "is_trading_day": true
+        "is_trading_day": false
       }
     ],
-    "updated": "2026/11/28 10:55:14",
-    "updated_at": 1795834514466,
+    "updated": "2026/11/28 19:33:41",
+    "updated_at": 1795865621098,
     "trading_day": {
       "A": false,
       "HK": false,
-      "US": true
+      "US": false
     },
     "is_stale": false
   }
